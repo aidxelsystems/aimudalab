@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "storage": "google-drive",
-  "assetCount": 330,
-  "totalBytes": 277675272,
+  "assetCount": 339,
+  "totalBytes": 284823196,
   "assets": [
     {
       "path": "charactor/ai-no-mudazukai-youtube-banner-2560x1440.png",
@@ -193,6 +193,11 @@
       "path": "public/BGM/Freeze Frame Fizz.mp3",
       "bytes": 3318828,
       "sha256": "06cbd043a8a78daccbddb58597373fe6735af1fa99e463131d1475e185809185"
+    },
+    {
+      "path": "public/BGM/Gel Punch Test.mp3",
+      "bytes": 5728335,
+      "sha256": "67c56f19d459824ee2cce88e98f5cd50cf03c9dbf3100ba4150e000652e5bf7d"
     },
     {
       "path": "public/BGM/Glass Shatter Protocol.mp3",
@@ -490,6 +495,11 @@
       "sha256": "4501c686fa97ebe52e6e2b8596a5d1bd655fd900f45b21c798bf4ced290e6c0d"
     },
     {
+      "path": "public/image/ai-viral-oobleck-01/protective-vest-stf.png",
+      "bytes": 2491117,
+      "sha256": "aa9f482e8dfb30a534db605d887417e49a85e92fc124e5f879b8393499b51209"
+    },
+    {
       "path": "public/image/ferrofluid-stephen-papell-nasa-1963.jpg",
       "bytes": 388368,
       "sha256": "d67c7222ad8ebd18b2caccc6bee55e8048232b7c2212bbf3234388b8e055bf6b"
@@ -605,14 +615,14 @@
       "sha256": "09f0088118133ee9de28c376e22145015b2a2e4c428a51b1de60887e38265a76"
     },
     {
-      "path": "public/movie/Laser_cleaning_steel_plate_1080p_202608290045.mp4",
-      "bytes": 4906720,
-      "sha256": "50a3bc6f06f61628e482ef1dc5c9dccdfd460498e6d218800455ff7c88924d8c"
+      "path": "public/movie/Gloved_fist_striking_purple_oobleck_202608290804.mp4",
+      "bytes": 3293057,
+      "sha256": "c6946c84fa4f95fe6304fb5598a35d648b8d653e11bbd79d034eed649b30e9bc"
     },
     {
-      "path": "public/movie/Robot_cleaning_steel_pipe_1080p_202608290047.mp4",
-      "bytes": 4192429,
-      "sha256": "920f4f798945c01bc8b976469bdb16fe6cced42bd3afbb79420d7f28993275d2"
+      "path": "public/movie/Hand_pressing_into_purple_oobleck_202608290803.mp4",
+      "bytes": 3565872,
+      "sha256": "1e44323e2ce9f2e78eb051c10f8cb617ee2adb45d6002d08dc174964dfa6cbbb"
     },
     {
       "path": "public/quiz/ai-lie-animals-01/a.png",
@@ -1168,6 +1178,41 @@
       "path": "public/voice/ai-viral-magic-sand-01/outro.wav",
       "bytes": 220716,
       "sha256": "b3724e101ae3b50fb765706fe14b1417dc35decdaa14af329c5f90f29339a910"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/a1.wav",
+      "bytes": 147500,
+      "sha256": "2879275c1fbed7c4e3b6d6027a01cfb6b6f8d50bd6ec6eb5608925f3c572b137"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/a2.wav",
+      "bytes": 79916,
+      "sha256": "3bd84c7a80a16ffbed9d5260029f482c0f7dbbc8b014e773387a38eb08873ff6"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/a3.wav",
+      "bytes": 123436,
+      "sha256": "4e243eec8e4f3cd747628eea1adff635b96d7ecf958e786005cc72569e47076d"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/a4.wav",
+      "bytes": 224300,
+      "sha256": "9895acacbd6b17d16cf07a027ea6a70dac303108717cb39bbf906a7459c812a1"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/a5.wav",
+      "bytes": 318508,
+      "sha256": "84615737f0ffcad86f82b66a0007d11bec7450b6678116f79177504d2eba9eae"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/odai.wav",
+      "bytes": 66092,
+      "sha256": "007a8b23a3f43e50f5f284fe5e38cc93c5a8a7765c180e175d2e410a59d74a48"
+    },
+    {
+      "path": "public/voice/ai-viral-oobleck-01/outro.wav",
+      "bytes": 208940,
+      "sha256": "db2394fbc11eb3ba3315ab3bba238ca32b568d1fac04e7c5566f8f409db58ca2"
     },
     {
       "path": "public/voice/ai-viral-prince-rupert-01/a1.wav",

@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `ai-viral-oobleck-01` |
 | owner | `PC2 / Codex` |
-| production status | `qc-passed`（機械QC・代表フレーム目視合格、人による全編視聴待ち） |
+| production status | `qc-passed / upload-ready`（ユーザー全編確認済み、YouTube OAuth待ち） |
 | active render | なし |
 | uncommitted production work | なし（完成状態をGitHubへ同期） |
-| next production action | ユーザーが完成MP4を全編視聴し、修正または投稿準備を判断する |
+| next production action | `OperationTeam/.env`へYouTube OAuthを復元し、2026-09-03 19:00 JSTの予約投稿を実行する |
 
 ## 現在の制作環境（PC2）
 
@@ -41,7 +41,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | episode | 状態 | 公開日時 | 次の確認 |
 |---|---|---|---|
 | `ai-viral-laser-cleaning-01` | YouTube予約済み | 2026-09-02 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
-| `ai-viral-oobleck-01` | 完成・機械QC合格 | 未投稿 | ユーザーによる映像・音声の全編視聴 |
+| `ai-viral-oobleck-01` | 完成・ユーザー確認済み・投稿準備完了 | 2026-09-03 19:00 JST予定 | Linux PCへYouTube OAuthを復元して予約投稿 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`

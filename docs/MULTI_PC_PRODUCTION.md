@@ -47,6 +47,14 @@ npx tsc --noEmit
 6. 完成MP4はローカルの `out/` に残し、必要ならGoogle Driveへバックアップする。
 7. 完了状態を更新してpushし、`npm run sync:verify` を実行する。
 
+## Episode素材の再利用防止
+
+- Flow動画、生成画像、BGM、VOICEVOX音声は、必ずepisode ID専用のパスまたは固有ファイル名で保存する。
+- 新作で過去episodeの `public/movie/`、`public/image/`、`public/BGM/` を流用しない。共通利用を明示した効果音だけを例外とする。
+- 制作開始時に `npm run assets:manifest` を実行し、候補素材のSHA-256が既存作品の使用素材と一致しないことを確認する。
+- レンダー契約の `sources` へ、その作品で使用した動画・画像・BGMをすべて列挙する。
+- 完成・投稿後もepisode JSONとレンダー契約をGitへ残し、別PCはそこから使用済み素材を判定する。
+
 素材のフォルダ構成と確認方法は `docs/GOOGLE_DRIVE_ASSETS.md` を参照する。
 
 ## 最小確認
