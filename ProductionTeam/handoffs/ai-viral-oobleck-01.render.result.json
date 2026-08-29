@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-oobleck-01",
+  "compositionId": "OobleckShort",
+  "completedAt": "2026-08-29T08:13:21.514Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/ai-viral-oobleck-01-final.mp4",
+  "technical": {
+    "durationSeconds": 28.4,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.98",
+      "input_tp": "-1.39",
+      "input_lra": "4.00",
+      "input_thresh": "-26.54",
+      "output_i": "-15.98",
+      "output_tp": "-1.40",
+      "output_lra": "3.90",
+      "output_thresh": "-26.55",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.02"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.8,
+      "label": "冒頭フック_殴ると固まる",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/01_0s80_-_-.jpg"
+    },
+    {
+      "time": 3.5,
+      "label": "ゆっくり触ると沈む",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/02_3s50_-.jpg"
+    },
+    {
+      "time": 6,
+      "label": "ウーブレック名称",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/03_6s00_-.jpg"
+    },
+    {
+      "time": 9,
+      "label": "液体か固体か",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/04_9s00_-.jpg"
+    },
+    {
+      "time": 13.5,
+      "label": "粒子が詰まる図解",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/05_13s50_-.jpg"
+    },
+    {
+      "time": 20.5,
+      "label": "防護繊維の応用",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/06_20s50_-.jpg"
+    },
+    {
+      "time": 25.5,
+      "label": "オチとCTA",
+      "file": "out/qc/ai-viral-oobleck-01-handoff/07_25s50_-CTA.jpg"
+    }
+  ]
+}

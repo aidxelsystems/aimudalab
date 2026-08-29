@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-oobleck-01",
+  "status": "ready",
+  "preparedBy": "Codex-PC2",
+  "compositionId": "OobleckShort",
+  "props": "../../data/episodes/ai-viral-oobleck-01.resolved.json",
+  "output": {
+    "render": "../../out/ai-viral-oobleck-01-render.mp4",
+    "final": "../../out/ai-viral-oobleck-01-final.mp4",
+    "qcDir": "../../out/qc/ai-viral-oobleck-01-handoff",
+    "qcReport": "../output/2026-08-29-oobleck-handoff-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {
+      "min": 27,
+      "max": 33
+    }
+  },
+  "render": {
+    "crf": 16,
+    "concurrency": 4,
+    "audioBitrate": "192k"
+  },
+  "audio": {
+    "normalize": true,
+    "targetLufs": -16,
+    "truePeakDb": -1.4,
+    "lra": 7,
+    "sampleRate": 48000
+  },
+  "checkpoints": [
+    {"time": 0.8, "label": "冒頭フック_殴ると固まる"},
+    {"time": 3.5, "label": "ゆっくり触ると沈む"},
+    {"time": 6.0, "label": "ウーブレック名称"},
+    {"time": 9.0, "label": "液体か固体か"},
+    {"time": 13.5, "label": "粒子が詰まる図解"},
+    {"time": 20.5, "label": "防護繊維の応用"},
+    {"time": 25.5, "label": "オチとCTA"}
+  ],
+  "sources": [
+    "../../data/episodes/ai-viral-oobleck-01.resolved.json",
+    "../drafts/ai-viral-oobleck-01-production-brief.md",
+    "../drafts/ai-viral-oobleck-01-prompts.md",
+    "../../public/movie/Gloved_fist_striking_purple_oobleck_202608290804.mp4",
+    "../../public/movie/Hand_pressing_into_purple_oobleck_202608290803.mp4",
+    "../../public/BGM/Gel Punch Test.mp3",
+    "../../PlanningTeam/handoffs/2026-08-29-oobleck-shear-thickening.md"
+  ],
+  "notes": "Linux PC2第一作。ユーザー生成のFlow映像2カットとSuno BGMを使用し、粒子詰まり・防護繊維はRemotion図解で補完。主変数は冒頭0〜1秒の理解速度。オチはユーザー承認済みの『殴られた時だけ本気出すんかい！』。"
+}

@@ -96,7 +96,7 @@ const measureLoudness = async (filePath, audio) => {
   ].join(":");
   const {stderr} = await run(
     process.env.FFMPEG_PATH || "ffmpeg",
-    ["-hide_banner", "-i", filePath, "-af", `loudnorm=${filter}`, "-f", "null", nullTarget],
+    ["-hide_banner", "-i", filePath, "-vn", "-af", `loudnorm=${filter}`, "-f", "null", nullTarget],
     {quiet: true},
   );
   const blocks = stderr.match(/\{\s*"input_i"[\s\S]*?\}/g);
@@ -275,6 +275,14 @@ const main = async () => {
     "error",
     "-i",
     finalOutput,
+    "-map",
+    "0:v:0",
+    "-map",
+    "0:a:0",
+    "-c:v",
+    "rawvideo",
+    "-c:a",
+    "pcm_s16le",
     "-f",
     "null",
     nullTarget,

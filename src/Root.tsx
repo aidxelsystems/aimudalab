@@ -26,6 +26,7 @@ import galliumSpoonData from "../data/episodes/ai-viral-gallium-spoon-01.resolve
 import magicSandData from "../data/episodes/ai-viral-magic-sand-01.resolved.json";
 import aerogelData from "../data/episodes/ai-viral-aerogel-01.resolved.json";
 import laserCleaningData from "../data/episodes/ai-viral-laser-cleaning-01.resolved.json";
+import oobleckData from "../data/episodes/ai-viral-oobleck-01.resolved.json";
 import {
   AiLieQuizShort,
   getAiLieQuizTimeline,
@@ -174,6 +175,13 @@ import {
   LaserCleaningShort,
   getLaserCleaningTimeline,
 } from "./LaserCleaningShort";
+import {
+  OOBLECK_FPS,
+  OOBLECK_HEIGHT,
+  OOBLECK_WIDTH,
+  OobleckShort,
+  getOobleckTimeline,
+} from "./OobleckShort";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
@@ -239,6 +247,9 @@ const aerogelEpisode = (
 ).episode;
 const laserCleaningEpisode = (
   laserCleaningData as unknown as {episode: Episode}
+).episode;
+const oobleckEpisode = (
+  oobleckData as unknown as {episode: Episode}
 ).episode;
 
 const resolvedAnswers = new Map(
@@ -677,6 +688,24 @@ export const RemotionRoot: React.FC = () => {
             fps: LASER_CLEANING_FPS,
             width: LASER_CLEANING_WIDTH,
             height: LASER_CLEANING_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="OobleckShort"
+        component={OobleckShort}
+        width={OOBLECK_WIDTH}
+        height={OOBLECK_HEIGHT}
+        fps={OOBLECK_FPS}
+        durationInFrames={getOobleckTimeline(oobleckEpisode).totalFrames}
+        defaultProps={{episode: oobleckEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getOobleckTimeline(ep).totalFrames,
+            fps: OOBLECK_FPS,
+            width: OOBLECK_WIDTH,
+            height: OOBLECK_HEIGHT,
           };
         }}
       />

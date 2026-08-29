@@ -1,0 +1,74 @@
+{
+  "id": "ai-viral-oobleck-01",
+  "title": "殴ると固まる液体『ウーブレック』なぜ沈む？防護素材への応用 #Shorts",
+  "odai": "殴ると固まる\n液体です",
+  "odai_reading": "殴ると固まる液体です。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.2,
+  "odaiVoicePitch": -0.03,
+  "odaiVoiceIntonation": 1.08,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "ゆっくり触ると\n沈んでいく",
+      "reading": "なのに、ゆっくり触ると、沈んでいく。",
+      "tag": "peak",
+      "duration": 3.2,
+      "speakerId": 3,
+      "voiceSpeed": 1.17,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.18
+    },
+    {
+      "id": "a2",
+      "text": "ウーブレック",
+      "reading": "正体は、ウーブレック。",
+      "tag": "normal",
+      "duration": 2.8,
+      "speakerId": 13,
+      "voiceSpeed": 1.2,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.08
+    },
+    {
+      "id": "a3",
+      "text": "液体？\n固体？",
+      "reading": "これ、液体なの？ 固体なの？",
+      "tag": "normal",
+      "duration": 2.8,
+      "speakerId": 3,
+      "voiceSpeed": 1.17,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.2
+    },
+    {
+      "id": "a4",
+      "text": "急な力で\n粒子が詰まる",
+      "reading": "急な力が加わると、粒子が押し合い、摩擦で詰まって、強く抵抗します。",
+      "tag": "normal",
+      "duration": 5.6,
+      "speakerId": 13,
+      "voiceSpeed": 1.24,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.02
+    },
+    {
+      "id": "a5",
+      "text": "防護繊維を\n強くする研究にも",
+      "reading": "工業用のせん断増粘流体は、防護繊維へ加えて、刺す力や衝撃への抵抗を高める研究にも使われています。",
+      "tag": "peak",
+      "duration": 6.6,
+      "speakerId": 13,
+      "voiceSpeed": 1.26,
+      "voicePitch": -0.01,
+      "voiceIntonation": 1.06
+    }
+  ],
+  "outro": "殴られた時だけ\n本気出すんかい！\n\nチャンネル登録も\nよろしく",
+  "outro_reading": "殴られた時だけ、本気出すんかい！ チャンネル登録もよろしく。",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.2,
+  "outroVoicePitch": 0.04,
+  "outroVoiceIntonation": 1.22,
+  "bgm": "BGM/Gel Punch Test.mp3"
+}

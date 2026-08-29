@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `ai-viral-oobleck-01` |
 | owner | `PC2 / Codex` |
-| production status | `researched` |
+| production status | `qc-passed`（機械QC・代表フレーム目視合格、人による全編視聴待ち） |
 | active render | なし |
-| uncommitted production work | 企画handoffと作業claimを作成 |
-| next production action | 制作ブリーフ、台本、映像設計を作成し、VOICEVOX音声とRemotion実装へ進む |
+| uncommitted production work | なし（完成状態をGitHubへ同期） |
+| next production action | ユーザーが完成MP4を全編視聴し、修正または投稿準備を判断する |
 
 ## 現在の制作環境（PC2）
 
@@ -41,11 +41,16 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | episode | 状態 | 公開日時 | 次の確認 |
 |---|---|---|---|
 | `ai-viral-laser-cleaning-01` | YouTube予約済み | 2026-09-02 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `ai-viral-oobleck-01` | 完成・機械QC合格 | 未投稿 | ユーザーによる映像・音声の全編視聴 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
 - 投稿記録: `OperationTeam/uploads/2026-09-02-ai-viral-laser-cleaning-01.json`
 - 機械QC: 合格、人による完成確認済み
+
+- ウーブレック完成動画: `out/ai-viral-oobleck-01-final.mp4`（28.4秒、ローカル、Git対象外）
+- ウーブレック機械QC: 合格（1080×1920 / 30fps / -15.98 LUFS / True Peak -1.39 dBTP）
+- ウーブレック代表7フレーム: 目視合格。人による全編視聴は未実施。
 
 ## 共有ストレージ
 
