@@ -7,6 +7,20 @@ description: Build, revise, render, quality-check, and prepare publishing data f
 
 Create a 25–35 second Japanese Short that moves from an impossible-looking visual to a verified mechanism, a larger real-world application, and one concise joke. Preserve the established `AIのムダづかい` visual identity and never present generated footage as documentary proof.
 
+## Mandatory synchronization gate
+
+Before planning, editing, generating voices, rendering, publishing, or changing production files:
+
+1. Run `npm run sync:start`. This must fetch and fast-forward from the configured GitHub upstream with a clean worktree.
+2. Read `PROJECT_STATUS.md` and `ProductionTeam/PRODUCTION_BOARD.md` after the pull.
+3. Confirm that no other PC owns the episode and that no render is active.
+4. Update both progress files with the episode, owner, branch, exact status, and next action.
+5. Commit and push that claim before beginning production.
+
+If authentication, network access, a dirty worktree, missing upstream, merge conflict, or a progress ownership conflict prevents synchronization, stop before production and report the blocker. Never auto-stash, discard, overwrite, or silently commit another user's changes.
+
+At completion, update both progress files, commit and push the result, then run `npm run sync:verify`. Do not claim that GitHub or progress is synchronized unless local HEAD equals the remote branch HEAD.
+
 ## Start from project context
 
 1. Read `ProductionTeam/AGENTS.md` and the latest relevant production brief.
@@ -37,6 +51,13 @@ For GitHub sharing, a second workstation, binary asset synchronization, branch o
 9. Inspect full-resolution hook, explanation, application, and CTA frames after final normalization. A successful render alone is not approval.
 10. When authorized to publish, save metadata under `OperationTeam/uploads/`, set `containsSyntheticMedia: true`, upload, re-query YouTube, and record the video ID and URL.
 
+## No partial render handoff
+
+- Once a render, FFmpeg normalization, VOICEVOX generation, or finalization command starts, keep polling it until it exits.
+- Do not end the task while an execution session is still running.
+- A render is complete only after the final MP4, technical inspection, decode check, QC outputs, and progress update exist.
+- If the process fails, record the exact failure and restart point as `interrupted`; never mark it `rendered` or `qc-passed`.
+
 ## Visual invariants
 
 - Keep badges in the top UI band and begin the main headline around 170–190 px from the top.
@@ -48,4 +69,4 @@ For GitHub sharing, a second workstation, binary asset synchronization, branch o
 
 ## Completion report
 
-Report the final file, duration, codec, resolution, frame rate, loudness, source/disclosure status, QC result, and any remaining human review. If uploaded, also report the scheduled JST time, YouTube video ID, URL, title, and synthetic-media status.
+Report the final file, duration, codec, resolution, frame rate, loudness, source/disclosure status, QC result, GitHub synchronization result, progress-file state, and any remaining human review. If uploaded, also report the scheduled JST time, YouTube video ID, URL, title, and synthetic-media status.

@@ -2,6 +2,8 @@
 
 2台のPCで同じ作品を同時編集しないための小さな進行表。作業開始時に `owner` と `branch`、終了時に `status` と `next action` を更新する。
 
+全体の同期状態と現在作業は `../PROJECT_STATUS.md` を正とする。GitHub同期と作業クレームをpushする前に制作へ入らない。
+
 | episode | owner | branch | status | next action | assets | final | scheduled |
 |---|---|---|---|---|---|---|---|
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
@@ -18,3 +20,4 @@
 - 引き継ぎ時は、曖昧な「続き」ではなく具体的な次工程を書く。
 - 完成MP4は `out/` に置き、Gitへは投稿記録とQC結果を残す。
 - 投稿操作はユーザーから明示的な許可がある場合だけ行う。
+- レンダリング開始後は終了とQCまで監視し、途中状態を完了扱いしない。

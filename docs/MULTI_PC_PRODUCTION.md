@@ -31,11 +31,13 @@ npx tsc --noEmit
 
 ## 制作開始
 
-1. `ProductionTeam/PRODUCTION_BOARD.md` で担当を確保する。
-2. mainを更新し、PC名と作品名を含むブランチを作る。
-3. Codexには `$build-ai-viral-science-short` を指定する。
-4. 素材、実装、handoff、QC結果を同じepisode IDで管理する。
-5. 完成MP4はローカルの `out/` に残し、必要なら別途バックアップする。
+1. `npm run sync:start` でGitHubをfast-forward同期する。
+2. `PROJECT_STATUS.md` と `ProductionTeam/PRODUCTION_BOARD.md` を読む。
+3. 担当、branch、status、next actionを記入し、commit・pushして担当を確保する。
+4. Codexには `$build-ai-viral-science-short` を指定する。
+5. 素材、実装、handoff、QC結果を同じepisode IDで管理する。
+6. 完成MP4はローカルの `out/` に残し、必要ならGoogle Driveへバックアップする。
+7. 完了状態を更新してpushし、`npm run sync:verify` を実行する。
 
 素材のフォルダ構成と確認方法は `docs/GOOGLE_DRIVE_ASSETS.md` を参照する。
 
@@ -53,3 +55,5 @@ npm run finalize:handoff -- ProductionTeam/handoffs/<episode>.render.json
 ```
 
 GitHubへpushする前に `git status` を確認し、`.env`、トークン、`out/` が含まれていないことを必ず確認する。
+
+レンダリング開始後は、Remotion、FFmpeg、QCが終了するまで同じ担当が監視する。途中で別PCへ渡す場合は完了ではなく `interrupted` として再開点を記録する。

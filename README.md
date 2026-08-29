@@ -5,11 +5,14 @@ Remotion + VOICEVOXを中心に、AIエンタメShortsの企画、素材、編�
 ## 2台PCでの制作
 
 - 制作進行: `ProductionTeam/PRODUCTION_BOARD.md`
+- プロジェクト全体の現在地: `PROJECT_STATUS.md`
 - セットアップと同期: `docs/MULTI_PC_PRODUCTION.md`
 - AIバズ科学Shortsスキル: `.agents/skills/build-ai-viral-science-short/SKILL.md`
 - 秘密情報のひな形: `OperationTeam/.env.example`
 
 動画、画像、BGM、効果音、音声はGoogle Drive、コードと制作資料はGitで共有する。`.env` と作業中の完成レンダー `out/` は各PCだけに置く。
+
+すべての制作作業は `npm run sync:start` でGitHubと進捗を同期してから開始し、完了後は `npm run sync:verify` でremoteとの一致を確認する。
 
 ## 現在の制作基盤
 

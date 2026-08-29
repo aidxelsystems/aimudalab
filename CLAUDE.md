@@ -2,6 +2,12 @@
 
 このリポジトリは「AIのムダ遣い」YouTube ShortsのRemotion制作環境です。Claude Codeが最終レンダーを担当するときは、先に `ProductionTeam/AGENTS.md` と `ProductionTeam/handoffs/README.md` を読み、対象の `ProductionTeam/handoffs/*.render.json` を確認してください。
 
+## 必須のGitHub・進捗同期
+
+制作、編集、音声生成、レンダリングを始める前に `npm run sync:start` を実行し、成功後の `PROJECT_STATUS.md` と `ProductionTeam/PRODUCTION_BOARD.md` を読む。対象作品のownerと作業状態を更新し、その変更をcommit・pushしてから着手する。
+
+同期失敗、dirty worktree、upstream未設定、他PCがowner、進行中レンダーのいずれかがある場合は作業を開始しない。自動stash、強制pull、既存変更の破棄は禁止する。
+
 ## 最終レンダー依頼の扱い
 
 1. `status` が `ready` であることを確認する。
@@ -18,6 +24,8 @@ npm run finalize:handoff -- ProductionTeam/handoffs/<episode>.render.json
 ```
 
 4. 生成されたQCレポート、`*.result.json`、代表フレームを確認し、字幕切れ、主役との衝突、音声と効果音のズレ、終端切れがないか報告する。
+5. 開始したレンダーとFFmpeg処理が終了するまで監視し、実行中セッションを残して終了しない。
+6. 成否と再開点を進捗ファイルへ反映し、commit・push後に `npm run sync:verify` を実行する。
 
 契約が検証済みなら、ユーザーが同じコマンドをVS Codeのターミナルから直接実行しても同一工程になる。
 
@@ -27,3 +35,4 @@ npm run finalize:handoff -- ProductionTeam/handoffs/<episode>.render.json
 - 機械QCで失敗した場合は、原因と該当ファイルを報告して制作工程へ戻す。
 - 完成MP4の生成は許可されるが、YouTubeへのアップロード、予約公開、既存動画の削除は行わない。
 - ユーザーの既存変更を保持し、無関係なファイルを整形・変更しない。
+- レンダー途中、QC未完了、バックグラウンド処理中を完了扱いしない。

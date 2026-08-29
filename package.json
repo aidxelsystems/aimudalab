@@ -10,6 +10,8 @@
     "measure": "node scripts/measure-audio.mjs",
     "render": "remotion render OgiriShort",
     "assets:manifest": "node scripts/generate-asset-manifest.mjs",
+    "sync:start": "node scripts/git-progress-sync.mjs start",
+    "sync:verify": "node scripts/git-progress-sync.mjs verify",
     "validate:handoff": "node ProductionTeam/scripts/finalize-render.mjs validate",
     "finalize:handoff": "node ProductionTeam/scripts/finalize-render.mjs render",
     "build:ep001": "node scripts/voicevox-gen.mjs data/episodes/ep001.json && node scripts/measure-audio.mjs data/episodes/ep001.json && remotion render OgiriShort out/ep001.mp4 --props=data/episodes/ep001.resolved.json"

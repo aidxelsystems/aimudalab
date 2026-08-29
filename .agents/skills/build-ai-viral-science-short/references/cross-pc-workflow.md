@@ -67,10 +67,10 @@ Google Driveで共有する。Drive上のフォルダ構造はローカルの `p
 作業開始時:
 
 ```powershell
-git switch main
-git pull --ff-only
-git switch -c pc1/ai-viral-<topic>-production
+npm run sync:start
 ```
+
+同期後に `PROJECT_STATUS.md` と `ProductionTeam/PRODUCTION_BOARD.md` を読み、対象作品を自分のPCへ割り当てる。その割り当てをcommit・pushしてから制作へ入る。
 
 作業終了時:
 
@@ -79,9 +79,12 @@ git status
 git add <今回変更したファイル>
 git commit -m "feat: produce <episode-id>"
 git push -u origin <branch-name>
+npm run sync:verify
 ```
 
 別PCへ渡す前に必ずコミットとpushを終え、ボードの `next action` に次の一手を書く。
+
+`sync:start` が失敗した場合は制作を始めない。自動stash、強制pull、他PCの進捗上書きは禁止する。
 
 ## 制作引き継ぎ
 
@@ -95,6 +98,8 @@ git push -u origin <branch-name>
 - ボードに担当PCと次のアクションが記載済み
 
 レンダー担当は、物語、字幕文、タイミング、素材選定を独断で変えない。問題があればhandoffを `blocked` にせず、ボードへ具体的な修正要求を書いて制作担当へ返す。
+
+レンダー開始後はプロセスの終了まで監視し、途中で引き渡さない。成功時は完成MP4とQC、失敗時はエラーと再開点を `PROJECT_STATUS.md` へ残す。
 
 ## 競合を避ける箇所
 
