@@ -1,7 +1,7 @@
 # AIMudaLab Project Status
 
-最終更新: 2026-08-29 15:12 JST  
-更新担当: Codex / PC1  
+最終更新: 2026-08-29 JST
+更新担当: Codex / PC2
 
 ## 同期状態
 
@@ -20,12 +20,12 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 | 項目 | 内容 |
 |---|---|
-| active episode | なし |
-| owner | ユーザー |
-| production status | `idle` |
+| active episode | `ai-viral-oobleck-01` |
+| owner | `PC2 / Codex` |
+| production status | `researched` |
 | active render | なし |
-| uncommitted production work | なし |
-| next production action | Linux PCでclone後、Google Drive素材を復元し、素材台帳・型検査・VOICEVOX接続を確認 |
+| uncommitted production work | 企画handoffと作業claimを作成 |
+| next production action | 制作ブリーフ、台本、映像設計を作成し、VOICEVOX音声とRemotion実装へ進む |
 
 ## 現在の制作環境（PC2）
 

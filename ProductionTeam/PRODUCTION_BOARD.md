@@ -9,6 +9,7 @@
 | episode | owner | branch | status | next action | assets | final | scheduled |
 |---|---|---|---|---|---|---|---|
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
+| ai-viral-oobleck-01 | PC2 / Codex | main | researched | 制作ブリーフ、台本、映像設計を作成 | `public/voice/`, `public/BGM/`（予定） | `out/ai-viral-oobleck-01-final.mp4`（予定） | 未定 |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status
