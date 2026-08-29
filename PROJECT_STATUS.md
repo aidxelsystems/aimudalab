@@ -9,12 +9,12 @@
 |---|---|
 | ローカルブランチ | `main` |
 | GitHub remote | `https://github.com/aidxelsystems/aimudalab.git` |
-| GitHub同期 | `blocked` |
-| 理由 | 現在のGit認証ユーザー `digitarod` にpush権限がなく403 |
+| GitHub同期 | `synced` |
+| 理由 | `aidxelsystems` で認証済み。`main` は `origin/main` を追跡 |
 | Git追跡 | 資料・JSON・Remotionコード・設定のみ、391ファイル、約2.11MB |
 | Google Drive対象 | 動画・画像・BGM・効果音・音声、330素材、約264.81MB |
 
-GitHubの書き込み権限が直るまで、新しい制作作業を別PCへ引き継がない。権限修正後はこのファイルを最初にpushし、`sync_state` を `synced` 相当へ更新する。
+GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前に `npm run sync:start` を実行して最新進捗を取得する。
 
 ## 現在の作業
 
@@ -25,7 +25,7 @@ GitHubの書き込み権限が直るまで、新しい制作作業を別PCへ引
 | production status | `idle` |
 | active render | なし |
 | uncommitted production work | なし |
-| next production action | GitHub認証修正後、Google Drive素材共有を設定 |
+| next production action | Linux PCでclone後、Google Drive素材を復元し、素材台帳・型検査・VOICEVOX接続を確認 |
 
 ## 最新作品
 

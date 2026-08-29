@@ -4,6 +4,8 @@
 
 全体の同期状態と現在作業は `../PROJECT_STATUS.md` を正とする。GitHub同期と作業クレームをpushする前に制作へ入らない。
 
+最終同期確認: 2026-08-29 / PC1 / `main` → `origin/main` 初回push完了
+
 | episode | owner | branch | status | next action | assets | final | scheduled |
 |---|---|---|---|---|---|---|---|
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
