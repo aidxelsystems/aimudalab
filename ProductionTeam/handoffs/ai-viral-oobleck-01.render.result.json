@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "episodeId": "ai-viral-oobleck-01",
   "compositionId": "OobleckShort",
-  "completedAt": "2026-08-29T08:13:21.514Z",
+  "completedAt": "2026-08-29T11:00:54.964Z",
   "status": "machine_qc_passed_human_review_required",
   "finalOutput": "out/ai-viral-oobleck-01-final.mp4",
   "technical": {

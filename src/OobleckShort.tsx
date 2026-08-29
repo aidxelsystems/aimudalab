@@ -3,6 +3,7 @@ import {loadFont} from "@remotion/google-fonts/NotoSansJP";
 import {
   AbsoluteFill,
   Audio,
+  Img,
   OffthreadVideo,
   Sequence,
   interpolate,
@@ -187,16 +188,16 @@ const ParticleScene: React.FC = () => {
 
 const ArmorScene: React.FC = () => {
   const frame = useCurrentFrame();
-  const strike = interpolate(frame, [28, 42, 72], [0, 1, 0], {extrapolateLeft: "clamp", extrapolateRight: "clamp"});
+  const strike = interpolate(frame, [24, 40, 76], [0, 1, 0], {extrapolateLeft: "clamp", extrapolateRight: "clamp"});
   return (
     <AbsoluteFill>
       <Background dark /><SeriesBadge /><AiBadge application />
       <div style={{position: "absolute", top: 170, left: 30, right: 30, textAlign: "center", color: "#fff", fontSize: 56, fontWeight: 900}}>工業用のせん断増粘流体は</div>
       <div style={{position: "absolute", top: 255, left: 30, right: 30, textAlign: "center", color: palette.yellow, fontSize: 94, lineHeight: 1, fontWeight: 900, WebkitTextStroke: "7px #fff", paintOrder: "stroke fill", textShadow: "0 10px 0 #735e00,0 24px 45px #000"}}>防護繊維を<br/>強くする研究にも</div>
-      <div style={{position: "absolute", left: 110, right: 110, top: 650, height: 560, border: "9px solid #fff", borderRadius: 38, background: "#17243bd9", overflow: "hidden", boxShadow: "0 30px 70px #000b"}}>
-        {Array.from({length: 9}, (_, i) => <div key={i} style={{position: "absolute", left: 20, right: 20, top: 45 + i * 54, height: 28, borderRadius: 99, background: i % 2 ? "#6ddff5" : "#e9f9ff", transform: `skewX(${i % 2 ? -8 : 8}deg)`, boxShadow: strike > .5 ? "0 0 18px #fff" : "none"}} />)}
-        <div style={{position: "absolute", left: "50%", top: 55, width: 16 + strike * 280, height: 450, borderRadius: "50%", background: `rgba(255,241,90,${.08 + strike * .5})`, transform: "translateX(-50%)", filter: "blur(8px)"}} />
-        <div style={{position: "absolute", left: "50%", top: -180 + strike * 255, fontSize: 180, transform: "translateX(-50%)", filter: "drop-shadow(0 18px 15px #000a)"}}>🔨</div>
+      <div style={{position: "absolute", left: 105, right: 105, top: 610, height: 650, border: "9px solid #fff", borderRadius: 38, background: "#11172a", overflow: "hidden", boxShadow: `0 30px 70px #000b,0 0 ${24 + strike * 34}px #72e6ff66`}}>
+        <Img src={staticFile("image/ai-viral-oobleck-01/protective-vest-stf.png")} style={{width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 53%", transform: `scale(${1.03 + strike * .025})`}} />
+        <AbsoluteFill style={{background: "linear-gradient(180deg,rgba(0,0,0,.18),transparent 52%,rgba(0,0,0,.42))"}} />
+        <div style={{position: "absolute", left: 22, bottom: 20, padding: "9px 16px 12px", border: "2px solid #fff9", borderRadius: 9, background: "rgba(0,0,0,.72)", color: "#fff", fontSize: 26, fontWeight: 900}}>防護ベストの断面イメージ</div>
       </div>
       <div style={{position: "absolute", left: 48, bottom: 186, padding: "8px 12px 10px", borderRadius: 6, background: "rgba(0,0,0,.76)", color: "#fff", fontSize: 22, fontWeight: 700}}>出典: NIST Body Armor and Related Materials</div>
       <Caption accent={palette.cyan}>刺す力や衝撃への抵抗を<br/>高める研究にも使われます。</Caption>
