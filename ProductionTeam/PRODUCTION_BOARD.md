@@ -9,7 +9,7 @@
 | episode | owner | branch | status | next action | assets | final | scheduled |
 |---|---|---|---|---|---|---|---|
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
-| ai-viral-oobleck-01 | PC2 / Codex | main | qc-passed | YouTube OAuthを復元し予約投稿を実行 | episode専用 `public/movie/`, `public/image/`, `public/BGM/`, `public/voice/` | `out/ai-viral-oobleck-01-final.mp4`（ローカル） | 2026-09-03 19:00 JST予定 |
+| ai-viral-oobleck-01 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | episode専用 `public/movie/`, `public/image/`, `public/BGM/`, `public/voice/` | `out/ai-viral-oobleck-01-final.mp4`（ローカル） | 2026-09-03 19:00 JST |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status
