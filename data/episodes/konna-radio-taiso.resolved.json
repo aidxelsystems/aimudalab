@@ -1,0 +1,62 @@
+{
+  "episode": {
+    "id": "ep001",
+    "odai": "こんなラジオ体操は\n嫌だ",
+    "odai_reading": "こんなラジオ体操は嫌だ",
+    "theme": "school",
+    "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "hook_style": "overlay_first_image",
+    "hook_teaser": "待って！ それ、ラジオ体操じゃない！",
+    "voice_dir": "data/episodes/ep001/voice",
+    "title_after": [],
+    "answers": [
+      {
+        "id": "a1",
+        "text": "第一、\nほぼヨガ。",
+        "reading": "第一、ほぼヨガ。",
+        "tag": "peak",
+        "duration": 2,
+        "se": "don",
+        "audioFile": "voice/ep001/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "第二、\n急にブレイキン。",
+        "reading": "第二、急にブレイキン。",
+        "tag": "tendon",
+        "duration": 2.2,
+        "visual_pre_roll": 0.25,
+        "se": "tsukkomi",
+        "audioFile": "voice/ep001/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "終わった。\nみんな、ぐったり。",
+        "reading": "終わった。みんな、ぐったり。",
+        "tag": "normal",
+        "duration": 2.33,
+        "visual_pre_roll": 0.25,
+        "se": "weak",
+        "audioFile": "voice/ep001/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "体操は自由。\nスタンプは、皆勤。",
+        "reading": "体操は自由。スタンプは、皆勤。",
+        "tag": "peak",
+        "duration": 2.95,
+        "visual_pre_roll": 0.3,
+        "se": "drumroll_don",
+        "callback_ref": "a1",
+        "peak": true,
+        "audioFile": "voice/ep001/a4.wav"
+      }
+    ],
+    "outro": "あなたは皆勤だった？\nコメントで教えて",
+    "outro_reading": "あなたは皆勤だった？ コメントで教えて。",
+    "odaiAudioFile": "voice/ep001/odai.wav",
+    "odaiDuration": 2.01,
+    "outroAudioFile": "voice/ep001/outro.wav",
+    "outroDuration": 3.06
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-aerogel-01",
+  "status": "example",
+  "preparedBy": "ProductionTeam",
+  "compositionId": "AerogelShort",
+  "output": {
+    "render": "../../out/ai-viral-aerogel-01-render.mp4",
+    "final": "../../out/ai-viral-aerogel-01-final.mp4",
+    "qcDir": "../../out/qc/ai-viral-aerogel-01-handoff",
+    "qcReport": "../output/2026-08-27-aerogel-handoff-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {
+      "min": 32,
+      "max": 33
+    }
+  },
+  "render": {
+    "crf": 16,
+    "concurrency": 6,
+    "audioBitrate": "192k"
+  },
+  "audio": {
+    "normalize": true,
+    "targetLufs": -16,
+    "truePeakDb": -1.4,
+    "lra": 7,
+    "sampleRate": 48000
+  },
+  "checkpoints": [
+    {"time": 0.7, "label": "冒頭フック"},
+    {"time": 3.5, "label": "題材名"},
+    {"time": 6, "label": "95%の説明"},
+    {"time": 13.2, "label": "NASA公式資料"},
+    {"time": 21.5, "label": "応用"},
+    {"time": 31.2, "label": "オチとCTA"}
+  ],
+  "sources": [
+    "../../data/episodes/ai-viral-aerogel-01.resolved.json",
+    "../ai-viral-aerogel-01-production-spec.md"
+  ],
+  "notes": "実例テンプレート。次回は複製してstatusをreadyへ変更する。"
+}

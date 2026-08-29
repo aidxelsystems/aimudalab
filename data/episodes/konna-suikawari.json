@@ -1,0 +1,19 @@
+{
+  "id": "ep001",
+  "odai": "こんなスイカ割りは\n嫌だ",
+  "odai_reading": "こんなスイカ割りは嫌だ",
+  "theme": "school",
+  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+  "hook_style": "overlay_first_image",
+  "hook_teaser": "待って！ そのスイカ、叩かないで！",
+  "voice_dir": "data/episodes/ep001/voice",
+  "title_after": [],
+  "answers": [
+    {"id":"a1","text":"スイカが、\n逃げた！","reading":"スイカが、逃げた！","tag":"peak","duration":2.0,"se":"don"},
+    {"id":"a2","text":"兄、振りかぶる。\n弟、止める！","reading":"兄、振りかぶる。弟、止める！","tag":"tendon","duration":2.3,"visual_pre_roll":0.25,"se":"tsukkomi"},
+    {"id":"a3","text":"中から――\nうちの犬。","reading":"中から、うちの犬。","tag":"normal","duration":2.2,"visual_pre_roll":0.35,"se":"pop"},
+    {"id":"a4","text":"割らずに、みんなで――\n「はい、スイカ！」","reading":"割らずに、みんなで。はい、スイカ！","tag":"peak","duration":2.7,"visual_pre_roll":0.3,"se":"drumroll_don","callback_ref":"a1","peak":true}
+  ],
+  "outro": "あなたなら割る？\nコメントで教えて",
+  "outro_reading": "あなたなら割る？ コメントで教えて。"
+}

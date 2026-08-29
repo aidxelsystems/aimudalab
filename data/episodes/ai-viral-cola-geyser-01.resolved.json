@@ -1,0 +1,73 @@
+{
+  "episode": {
+    "id": "ai-viral-cola-geyser-01",
+    "title": "AIはコーラ噴水を再現できる？実は化学反応じゃない",
+    "odai": "この噴水\nAIです",
+    "odai_reading": "この噴水、AIです。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.2,
+    "odaiVoicePitch": -0.02,
+    "odaiVoiceIntonation": 1,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "数秒前――\n落とした瞬間…",
+        "reading": "数秒前。コーラに、ミント菓子を落とすと――",
+        "tag": "normal",
+        "duration": 4.1,
+        "speakerId": 13,
+        "voiceSpeed": 1.13,
+        "voicePitch": -0.03,
+        "voiceIntonation": 0.92,
+        "audioFile": "voice/ai-viral-cola-geyser-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "噴いた！\n見た目は再現成功？",
+        "reading": "噴いた！見た目は、それっぽい。",
+        "tag": "peak",
+        "duration": 3.4,
+        "speakerId": 3,
+        "voiceSpeed": 1.22,
+        "voicePitch": 0.03,
+        "voiceIntonation": 1.2,
+        "audioFile": "voice/ai-viral-cola-geyser-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "表面の細かな穴を足場に\nCO₂が一気に気泡へ",
+        "reading": "表面の細かな穴を足場に、二酸化炭素が一気に泡へ。",
+        "tag": "normal",
+        "duration": 5.5,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.02,
+        "voiceIntonation": 0.94,
+        "audioFile": "voice/ai-viral-cola-geyser-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "噴水の主役は\n化学反応ではない\n急なガス抜け",
+        "reading": "この噴水の主役は、化学反応ではなく、急なガス抜け。",
+        "tag": "recovery",
+        "duration": 5.2,
+        "speakerId": 13,
+        "voiceSpeed": 1.16,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1,
+        "audioFile": "voice/ai-viral-cola-geyser-01/a4.wav"
+      }
+    ],
+    "outro": "AIで大噴水\nそこ化学じゃ\nないんかい！\nチャンネル登録も\nよろしく",
+    "outro_reading": "そこ、化学じゃないんかい！チャンネル登録もよろしく。",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.2,
+    "outroVoicePitch": 0.04,
+    "outroVoiceIntonation": 1.2,
+    "bgm": "BGM/Lab Boop Reveal.mp3",
+    "odaiAudioFile": "voice/ai-viral-cola-geyser-01/odai.wav",
+    "odaiDuration": 2.15,
+    "outroAudioFile": "voice/ai-viral-cola-geyser-01/outro.wav",
+    "outroDuration": 3.9
+  }
+}

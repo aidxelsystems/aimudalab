@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI実験Shorts制作・SEO"
+  short_description: "AI実験映像を編集し検索SEOまで一貫して投稿準備"
+  default_prompt: "Use $build-mixed-media-history-short to create, edit, quality-check, SEO-optimize, and prepare a factual AI science Short for YouTube."

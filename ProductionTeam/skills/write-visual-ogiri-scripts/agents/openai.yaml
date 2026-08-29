@@ -1,0 +1,4 @@
+interface:
+  display_name: "画像先行大喜利台本"
+  short_description: "14枚の絵から逆算して大喜利動画の台本と構成を設計します"
+  default_prompt: "Use $write-visual-ogiri-scripts to propose a visual-first topic and draft a 14-answer oogiri script."

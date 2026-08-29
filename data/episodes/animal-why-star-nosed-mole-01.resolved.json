@@ -1,0 +1,83 @@
+{
+  "episode": {
+    "id": "animal-why-star-nosed-mole-01",
+    "odai": "この体、何のため？\nホシバナモグラ編\nまさか…顔に22本!?",
+    "odai_reading": "この体、何のため？ ホシバナモグラ編。まさか、顔に、二十二本。",
+    "theme": "gameshow",
+    "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "voice_dir": "voice/animal-why-star-nosed-mole-01",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "鼻毛でも\n触手でもない",
+        "reading": "鼻毛でも、触手でもありません。",
+        "tag": "normal",
+        "duration": 2.4,
+        "se": "pop",
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "暗闇で\nこの“星”を\n高速で動かす",
+        "reading": "暗闇で、この星を、ものすごい速さで動かします。",
+        "tag": "normal",
+        "duration": 3.74,
+        "se": "callback",
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "この星形、何のため？\nA においを集める\nB 触って探す\nC 土を掘る",
+        "reading": "ここで問題。この星形、何のため？ A、においを集める。B、触って探す。C、土を掘る。",
+        "tag": "normal",
+        "duration": 9.13,
+        "se": "pop",
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "正解は B！",
+        "reading": "正解は、B。",
+        "tag": "recovery",
+        "duration": 1.54,
+        "se": "don",
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "22本の突起で\n周囲に触れる",
+        "reading": "二十二本の突起で、周囲に触れます。",
+        "tag": "normal",
+        "duration": 3,
+        "se": "pop",
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a5.wav"
+      },
+      {
+        "id": "a6",
+        "text": "表面には\n約2万5千個の\n触覚器官",
+        "reading": "表面には、約二万五千個の、触覚器官があります。",
+        "tag": "peak",
+        "duration": 4.07,
+        "se": "callback",
+        "peak": true,
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a6.wav"
+      },
+      {
+        "id": "a7",
+        "text": "鼻というより\n超高性能な“指先”",
+        "reading": "鼻というより、超高性能な指先です。",
+        "tag": "peak",
+        "duration": 3.05,
+        "se": "callback",
+        "peak": true,
+        "audioFile": "voice/animal-why-star-nosed-mole-01/a7.wav"
+      }
+    ],
+    "outro": "見た目は触手、\n役割は指先\n\nチャンネル登録も\nよろしく！",
+    "outro_reading": "見た目は触手、役割は指先。チャンネル登録して、次も挑戦！",
+    "odaiAudioFile": "voice/animal-why-star-nosed-mole-01/odai.wav",
+    "odaiDuration": 6,
+    "outroAudioFile": "voice/animal-why-star-nosed-mole-01/outro.wav",
+    "outroDuration": 5.28
+  }
+}

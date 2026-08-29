@@ -1,0 +1,109 @@
+{
+  "episode": {
+    "id": "ai-viral-gallium-spoon-01",
+    "title": "金属のスプーンがお湯で消えた",
+    "odai": "金属のスプーンが\nお湯で消えた",
+    "odai_reading": "金属のスプーンが、お湯で消えました。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.2,
+    "odaiVoicePitch": -0.03,
+    "odaiVoiceIntonation": 1.08,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "数秒前\n見た目は普通の金属",
+        "reading": "数秒前。見た目は、普通の金属スプーン。",
+        "tag": "normal",
+        "duration": 3.21,
+        "speakerId": 13,
+        "voiceSpeed": 1.24,
+        "voicePitch": -0.03,
+        "voiceIntonation": 0.98,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "これは\nガリウムスプーン",
+        "reading": "これは、ガリウムスプーン。",
+        "tag": "normal",
+        "duration": 2.7,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.04,
+        "voiceIntonation": 0.9,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "温水へ入れると\n銀色の液体に",
+        "reading": "温水へ入れると、形が崩れて、銀色の液体に。",
+        "tag": "peak",
+        "duration": 3.5,
+        "speakerId": 13,
+        "voiceSpeed": 1.22,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.12,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "酸ではない\nガリウムが融けただけ",
+        "reading": "酸ではありません。ガリウムが、融けただけ。",
+        "tag": "recovery",
+        "duration": 3.5,
+        "speakerId": 13,
+        "voiceSpeed": 1.2,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.03,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "融点\n29.7646℃",
+        "reading": "融点は、わずか29.7646度。",
+        "tag": "normal",
+        "duration": 4.2,
+        "speakerId": 13,
+        "voiceSpeed": 1.15,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.02,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a5.wav"
+      },
+      {
+        "id": "a6",
+        "text": "精密温度計の\n校正基準にもなる",
+        "reading": "この正確な融点は、精密温度計の校正基準にも使われます。",
+        "tag": "normal",
+        "duration": 4.6,
+        "speakerId": 13,
+        "voiceSpeed": 1.3,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a6.wav"
+      },
+      {
+        "id": "a7",
+        "text": "ほんとに販売\nガリウム付き 279ドル",
+        "reading": "そしてこれ。本当に販売しています。ガリウム付きで、279ドル。",
+        "tag": "peak",
+        "duration": 5,
+        "speakerId": 13,
+        "voiceSpeed": 1.24,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1.12,
+        "audioFile": "voice/ai-viral-gallium-spoon-01/a7.wav"
+      }
+    ],
+    "outro": "スプーンより先に、\n財布が溶けるわ！\n\nチャンネル登録もよろしく",
+    "outro_reading": "スプーンより先に、財布が溶けるわ！ チャンネル登録もよろしく。",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.2,
+    "outroVoicePitch": 0.05,
+    "outroVoiceIntonation": 1.24,
+    "bgm": "BGM/Lab Melt Switch.mp3",
+    "odaiAudioFile": "voice/ai-viral-gallium-spoon-01/odai.wav",
+    "odaiDuration": 2.56,
+    "outroAudioFile": "voice/ai-viral-gallium-spoon-01/outro.wav",
+    "outroDuration": 4.51
+  }
+}

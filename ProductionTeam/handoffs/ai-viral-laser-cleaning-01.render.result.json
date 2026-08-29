@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-laser-cleaning-01",
+  "compositionId": "LaserCleaningShort",
+  "completedAt": "2026-08-29T01:17:10.102Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out\\ai-viral-laser-cleaning-01-final-v4.mp4",
+  "technical": {
+    "durationSeconds": 32.085,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.83",
+      "input_tp": "-1.01",
+      "input_lra": "4.70",
+      "input_thresh": "-26.05",
+      "output_i": "-15.62",
+      "output_tp": "-1.40",
+      "output_lra": "4.00",
+      "output_thresh": "-25.86",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.38"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.8,
+      "label": "冒頭フック_サビが光だけで消える",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\01_0s80_-_-.jpg"
+    },
+    {
+      "time": 4,
+      "label": "50-50清掃境界",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\02_4s00_50-50-.jpg"
+    },
+    {
+      "time": 6.3,
+      "label": "レーザー洗浄機名称",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\03_6s30_-.jpg"
+    },
+    {
+      "time": 9.5,
+      "label": "鉄まで削れないのか",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\04_9s50_-.jpg"
+    },
+    {
+      "time": 13,
+      "label": "サビと鉄の閾値図",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\05_13s00_-.jpg"
+    },
+    {
+      "time": 19.5,
+      "label": "出力調整の図",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\06_19s50_-.jpg"
+    },
+    {
+      "time": 23.5,
+      "label": "応用_AIによる応用イメージ",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\07_23s50_-_AI-.jpg"
+    },
+    {
+      "time": 28.5,
+      "label": "オチとCTA",
+      "file": "out\\qc\\ai-viral-laser-cleaning-01-handoff-v4\\08_28s50_-CTA.jpg"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ai-viral-ferrofluid-01",
+  "title": "磁石を近づけたら、液体にトゲが生えた",
+  "odai": "この液体\nトゲが生えた",
+  "odai_reading": "この黒い液体、磁石でトゲが生えます。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.2,
+  "odaiVoicePitch": -0.03,
+  "odaiVoiceIntonation": 1.08,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "数秒前――\nただの黒い液体",
+      "reading": "数秒前。見た目は、ただの黒い液体。",
+      "tag": "normal",
+      "duration": 2.9,
+      "speakerId": 13,
+      "voiceSpeed": 1.2,
+      "voicePitch": -0.03,
+      "voiceIntonation": 0.92
+    },
+    {
+      "id": "a2",
+      "text": "触れてないのに\n一斉にトゲトゲ",
+      "reading": "でも、磁石を近づけると。触れてないのに、一斉にトゲトゲ。",
+      "tag": "peak",
+      "duration": 3.8,
+      "speakerId": 3,
+      "voiceSpeed": 1.25,
+      "voicePitch": 0.01,
+      "voiceIntonation": 1.15
+    },
+    {
+      "id": "a3",
+      "text": "正体は 磁性流体\n微小な酸化鉄粒子入り",
+      "reading": "正体は、磁性流体。小さな酸化鉄の粒が、液体に分散しています。",
+      "tag": "normal",
+      "duration": 4.5,
+      "speakerId": 13,
+      "voiceSpeed": 1.23,
+      "voicePitch": -0.02,
+      "voiceIntonation": 0.98
+    },
+    {
+      "id": "a4",
+      "text": "磁力 VS\n表面張力・重力",
+      "reading": "磁力と表面張力、重力のバランスで、表面が規則的に尖ります。",
+      "tag": "normal",
+      "duration": 4.4,
+      "speakerId": 13,
+      "voiceSpeed": 1.22,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.0
+    },
+    {
+      "id": "a5",
+      "text": "NASAで誕生\n目的はロケット燃料",
+      "reading": "実はNASAで、無重力のロケット燃料を、磁力で動かすために生まれました。",
+      "tag": "recovery",
+      "duration": 5.0,
+      "speakerId": 13,
+      "voiceSpeed": 1.23,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.05
+    },
+    {
+      "id": "a6",
+      "text": "より簡単な方法が見つかる\n燃料には不採用\n現在 スピーカーなどで活躍",
+      "reading": "でも、より簡単な方法が見つかり、ロケット燃料には不採用。今はスピーカーなどで活躍。",
+      "tag": "recovery",
+      "duration": 5.5,
+      "speakerId": 13,
+      "voiceSpeed": 1.27,
+      "voicePitch": -0.01,
+      "voiceIntonation": 1.04
+    }
+  ],
+  "outro": "宇宙に行かず\nスピーカーかい！\nチャンネル登録も\nよろしく",
+  "outro_reading": "宇宙に行かず、スピーカーかい！チャンネル登録もよろしく。",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.22,
+  "outroVoicePitch": 0.04,
+  "outroVoiceIntonation": 1.2,
+  "bgm": "BGM/Lab Rocket Switch.mp3"
+}

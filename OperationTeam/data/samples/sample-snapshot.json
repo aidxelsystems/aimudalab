@@ -1,0 +1,49 @@
+{
+  "source": "sample",
+  "collectedAt": "2026-07-26T00:00:00+09:00",
+  "channel": {
+    "id": "SAMPLE_CHANNEL",
+    "title": "AIのムダ遣いちゃんねる",
+    "subscriberCount": 12,
+    "viewCount": 1820,
+    "videoCount": 4
+  },
+  "videos": [
+    {
+      "id": "sample01",
+      "title": "こんなコンビニは嫌だ",
+      "publishedAt": "2026-07-18T10:00:00Z",
+      "durationSeconds": 54,
+      "viewCount": 920,
+      "likeCount": 31,
+      "commentCount": 4
+    },
+    {
+      "id": "sample02",
+      "title": "こんな美容室は嫌だ",
+      "publishedAt": "2026-07-21T10:00:00Z",
+      "durationSeconds": 52,
+      "viewCount": 610,
+      "likeCount": 24,
+      "commentCount": 6
+    },
+    {
+      "id": "sample03",
+      "title": "こんな勇者は嫌だ",
+      "publishedAt": "2026-07-24T10:00:00Z",
+      "durationSeconds": 58,
+      "viewCount": 240,
+      "likeCount": 6,
+      "commentCount": 1
+    },
+    {
+      "id": "sample04",
+      "title": "こんなAIは嫌だ",
+      "publishedAt": "2026-07-25T10:00:00Z",
+      "durationSeconds": 55,
+      "viewCount": 50,
+      "likeCount": 4,
+      "commentCount": 1
+    }
+  ]
+}

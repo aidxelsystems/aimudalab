@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "id": "ai-bgrade-salad-bread-01",
+    "title": "まさか。サラダパンの中身はたくあん",
+    "odai": "まさか…\nサラダパンの中身、\nたくあんです。",
+    "odai_reading": "まさか。サラダパンの中身、たくあんです。",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "滋賀・長浜の名物\nサラダパン",
+        "reading": "滋賀県長浜市の名物、サラダパン。",
+        "duration": 3.2,
+        "audioFile": "voice/ai-bgrade-salad-bread-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "刻みたくあん×マヨ\nコッペパンへ",
+        "reading": "刻みたくあんをマヨであえて、コッペパンへ。",
+        "duration": 3.8,
+        "audioFile": "voice/ai-bgrade-salad-bread-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "最初はキャベツ\n水分問題で販売停止\nたくあんへ",
+        "reading": "最初はキャベツ。でも水分でパンがふやけて販売停止。五年後、たくあんで復活。",
+        "duration": 6.1,
+        "audioFile": "voice/ai-bgrade-salad-bread-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "ふわふわのパン\nたくあんがポリポリ\n意外と合う",
+        "reading": "ふわふわのパンに、たくあんがポリポリ。意外と合う。",
+        "duration": 4,
+        "audioFile": "voice/ai-bgrade-salad-bread-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "名前はそのまま\n60年以上\n愛される名物",
+        "reading": "名前はそのまま。六十年以上愛される、滋賀の名物です。",
+        "duration": 4.35,
+        "audioFile": "voice/ai-bgrade-salad-bread-01/a5.wav"
+      }
+    ],
+    "outro": "サラダ、\nどこ行ったんかい！\nチャンネル登録も\nよろしく",
+    "outro_reading": "サラダ、どこ行ったんかい！チャンネル登録も、よろしく！",
+    "bgm": "BGM/Spring In My Step - Silent Partner.mp3",
+    "odaiAudioFile": "voice/ai-bgrade-salad-bread-01/odai.wav",
+    "odaiDuration": 3.24,
+    "outroAudioFile": "voice/ai-bgrade-salad-bread-01/outro.wav",
+    "outroDuration": 3.97
+  }
+}

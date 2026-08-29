@@ -1,0 +1,57 @@
+{
+  "episode": {
+    "id": "ai-bgrade-uzumemeshi-01",
+    "title": "日本五大名飯なのに具がない？島根のうずめ飯",
+    "odai": "日本五大名飯\nなのに具がない？",
+    "odai_reading": "日本五大名飯。なのに、具が見えません。",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "島根・津和野\nうずめ飯",
+        "reading": "正体は、島根県津和野町の、うずめ飯。",
+        "tag": "normal",
+        "duration": 3.46,
+        "audioFile": "voice/ai-bgrade-uzumemeshi-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "具は\nご飯の下",
+        "reading": "ご飯をめくると、タイや野菜が、ごっそり。",
+        "tag": "normal",
+        "duration": 3.7,
+        "audioFile": "voice/ai-bgrade-uzumemeshi-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "熱いだし\n＋\nわさび",
+        "reading": "熱いだしをかけ、わさびを添えて、さらっと食べます。",
+        "tag": "normal",
+        "duration": 4.1,
+        "audioFile": "voice/ai-bgrade-uzumemeshi-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "贅沢を隠した説",
+        "reading": "江戸時代、贅沢を悟られないため、具を隠した、という説もあります。",
+        "tag": "normal",
+        "duration": 5.2,
+        "audioFile": "voice/ai-bgrade-uzumemeshi-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "1939年\n日本五大名飯",
+        "reading": "千九百三十九年、日本五大名飯の一つに、選ばれました。",
+        "tag": "normal",
+        "duration": 5.22,
+        "audioFile": "voice/ai-bgrade-uzumemeshi-01/a5.wav"
+      }
+    ],
+    "outro": "日本五大名飯、\nうまい具を隠すな！\nチャンネル登録も\nよろしく",
+    "outro_reading": "うまい具、隠すな！登録よろしく！",
+    "bgm": "BGM/Spring In My Step - Silent Partner.mp3",
+    "odaiAudioFile": "voice/ai-bgrade-uzumemeshi-01/odai.wav",
+    "odaiDuration": 3.66,
+    "outroAudioFile": "voice/ai-bgrade-uzumemeshi-01/outro.wav",
+    "outroDuration": 2.68
+  }
+}

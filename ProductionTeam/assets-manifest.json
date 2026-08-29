@@ -1,0 +1,1658 @@
+{
+  "schemaVersion": 1,
+  "storage": "google-drive",
+  "assetCount": 330,
+  "totalBytes": 277675272,
+  "assets": [
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-2560x1440.png",
+      "bytes": 3918504,
+      "sha256": "fabe47fb7b2af4cb272d4a0e18b28714eda15a11449622917af9d4607ef75dfe"
+    },
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-natural-v2-source.png",
+      "bytes": 2487834,
+      "sha256": "a37f191858b1a7a12c4d3642c365daff9d47590a7b6d5843e6054a8fce77439b"
+    },
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-natural-v2.png",
+      "bytes": 4802730,
+      "sha256": "5059c251c762ba3f108d604b2f57eb5bcc94c8bb9e5d8e5e71a7f8f4db73ebc3"
+    },
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-natural-v3-source.png",
+      "bytes": 2633825,
+      "sha256": "fc3468eca961bef2c0aef9e635390899378dc60ec59008706473c26455af2be6"
+    },
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-natural-v3.png",
+      "bytes": 5104428,
+      "sha256": "2cb5eed442965944f94ea228bfd9ce46708bc390399dc66264693b24174ba0b0"
+    },
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-natural-v4-source.png",
+      "bytes": 2557514,
+      "sha256": "65f85d49e18422c68c7d42c897595ba7a9514e4be9f0b525743ccaeb8ee58e82"
+    },
+    {
+      "path": "charactor/ai-no-mudazukai-youtube-banner-natural-v4.png",
+      "bytes": 4938928,
+      "sha256": "7af000c0ec5d079bee67fb78e7369ec04a90a8447b2ab97e2e221fa0b073e817"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月24日 13_03_08.png",
+      "bytes": 2113591,
+      "sha256": "d26c91444ccb32902b9936b8678c941ba59e96c79b4f5e738a404e475ee7a391"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月24日 13_03_21.png",
+      "bytes": 1107852,
+      "sha256": "6249ec6df492a516d248c3aacaf64b898d934993f5891070509ad6390d413a37"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月24日 13_08_50.png",
+      "bytes": 2096392,
+      "sha256": "c17873cc78ea4a45eea417e503a095a88cd52c35b06f7a504fb73a676bc08c56"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月24日 13_11_49.png",
+      "bytes": 1895388,
+      "sha256": "18c26f991dbb4d9bc58bab028c7b7174d2b5fed23d5e1a0fd926bd89fe462941"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月24日 13_16_06.png",
+      "bytes": 2169205,
+      "sha256": "b41b859c675972cddbb418972fb4164ecfbdecbc718740b5853daf40854fed89"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月24日 19_51_30.png",
+      "bytes": 1981983,
+      "sha256": "5c32c8145be204f726d42b3d003b154ed90161800cda8b2757a080906285e27b"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月25日 00_27_41.png",
+      "bytes": 1837277,
+      "sha256": "6045a224d92b5d5aa5e6687c991385269addb613ac41d6bae8575d22e51b8b3f"
+    },
+    {
+      "path": "charactor/ChatGPT Image 2026年7月25日 00_28_06.png",
+      "bytes": 1963793,
+      "sha256": "abeea952c0ebc38ec5fffd64b9cc865ef2dd7b65b58efb63f00f10dc6308e989"
+    },
+    {
+      "path": "charactor/Generated image 1.png",
+      "bytes": 2557514,
+      "sha256": "65f85d49e18422c68c7d42c897595ba7a9514e4be9f0b525743ccaeb8ee58e82"
+    },
+    {
+      "path": "charactor/Generated image 3.png",
+      "bytes": 2416050,
+      "sha256": "b917abe36259604fe26b2d0d26b19828c87a5c3bcdadceb154200af127e0bd38"
+    },
+    {
+      "path": "data/episodes/konna-dog-short/images/a01.png",
+      "bytes": 1874153,
+      "sha256": "03a6e044c06cbc5ff92446f7d03bb21c607046222a8ab56b05d5110b8ac19733"
+    },
+    {
+      "path": "data/episodes/konna-dog-short/images/a02.png",
+      "bytes": 1791806,
+      "sha256": "73b6fb20071617f6f5acc41cc4fa8d2251de6e5c5321aad66d2da46605c38ff6"
+    },
+    {
+      "path": "data/episodes/konna-dog-short/images/a03.png",
+      "bytes": 1817714,
+      "sha256": "da0068fdadff3f79b9e984e62898d4c1dd09d1489127b5ea96d48b3c0b61a195"
+    },
+    {
+      "path": "data/episodes/konna-dog-short/images/a04.png",
+      "bytes": 1942232,
+      "sha256": "ae8f8f1227cea59d895f5bc7546d98136f3a8703a4931001e7e7e2d46c44deb6"
+    },
+    {
+      "path": "data/episodes/konna-dog-short/images/a05.png",
+      "bytes": 1818427,
+      "sha256": "6d4dccfc13fa2701ce1217a52ab60a066d3b4393977d7aac53ed5a9aa1ff9b68"
+    },
+    {
+      "path": "data/episodes/konna-kisei-short/images/a01-final.png",
+      "bytes": 1988043,
+      "sha256": "cb416b8f7c7ca595a7519d419f53b37f0b468bf8920730703aca6776bee890a7"
+    },
+    {
+      "path": "data/episodes/konna-kisei-short/images/a01-hook-v1.png",
+      "bytes": 2075604,
+      "sha256": "a47a70e03a0a039de3a823674667a46b048da537f0e2d56d73b7170d24ae878b"
+    },
+    {
+      "path": "data/episodes/konna-kisei-short/images/a01-hook-v2.png",
+      "bytes": 1988043,
+      "sha256": "cb416b8f7c7ca595a7519d419f53b37f0b468bf8920730703aca6776bee890a7"
+    },
+    {
+      "path": "data/episodes/konna-kisei-short/images/a02-final.png",
+      "bytes": 1933355,
+      "sha256": "0f8f0c3a060debc715f163733ae7f262f2e7a89d43d5aaaf65000d95004adfa0"
+    },
+    {
+      "path": "data/episodes/konna-kisei-short/images/a03-final.png",
+      "bytes": 2197862,
+      "sha256": "7aeb5f81fc1cd68a1c2f7df0d513884e04b64c564af90fd52fcb8b993e49df91"
+    },
+    {
+      "path": "data/episodes/konna-kisei-short/images/a04-final.png",
+      "bytes": 1891020,
+      "sha256": "d98733c7f8e88b7c67ad2690b030193fe1bef900a4280c16e59c17df82962a4a"
+    },
+    {
+      "path": "data/episodes/konna-onsen-ryokan-short/images/a01.png",
+      "bytes": 2014068,
+      "sha256": "4f207d4e21782b12d7fdd411b581e507031ba89add677ef65b5d74bc049ebbdb"
+    },
+    {
+      "path": "data/episodes/konna-onsen-ryokan-short/images/a02.png",
+      "bytes": 1900294,
+      "sha256": "f6145322488e8ff797cf721075353512fb8570d9144aa452ffde91ac5d246f3e"
+    },
+    {
+      "path": "data/episodes/konna-onsen-ryokan-short/images/a03.png",
+      "bytes": 1758567,
+      "sha256": "e838dd198a8038536bbf5e00f385b84e3867f31d7a63f4c6ca58be4ae8e50ac6"
+    },
+    {
+      "path": "data/episodes/konna-onsen-ryokan-short/images/a04.png",
+      "bytes": 1995396,
+      "sha256": "72e4dd6a1cbf13a248f63e8aa0c95566098dab4798631b05ad6462165225dc3d"
+    },
+    {
+      "path": "data/episodes/konna-radio-taiso/images/a01.png",
+      "bytes": 2285039,
+      "sha256": "bd320830b471039c6fd89d93b6343593ee418806de4abd61d490551b36ccc333"
+    },
+    {
+      "path": "data/episodes/konna-radio-taiso/images/a02.png",
+      "bytes": 2288016,
+      "sha256": "f69de133925ea12c7c790548ec645e4f0153edef27793c29799329a5b45a3298"
+    },
+    {
+      "path": "data/episodes/konna-radio-taiso/images/a03.png",
+      "bytes": 2403395,
+      "sha256": "7e898f699776f9132dd058b8ae9cc4b0bcc661ea705bc80135da8015f88808fe"
+    },
+    {
+      "path": "data/episodes/konna-radio-taiso/images/a04.png",
+      "bytes": 2206375,
+      "sha256": "be0a048d5d1b297e889ff590c1ff5200f7d879f70e3efed30690ee5321326b23"
+    },
+    {
+      "path": "public/BGM/Cleanline Scan.mp3",
+      "bytes": 6708722,
+      "sha256": "6e73b67cc027fe95005fc890f51ec5c81efe3dcc268819288be27ed539c27a17"
+    },
+    {
+      "path": "public/BGM/Freeze Frame Fizz.mp3",
+      "bytes": 3318828,
+      "sha256": "06cbd043a8a78daccbddb58597373fe6735af1fa99e463131d1475e185809185"
+    },
+    {
+      "path": "public/BGM/Glass Shatter Protocol.mp3",
+      "bytes": 2731989,
+      "sha256": "1262345a17593b9d8409fbf22c05183f0a4a1b8077548a361000974b06340c0f"
+    },
+    {
+      "path": "public/BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+      "bytes": 6013424,
+      "sha256": "4407e8bc70f5c791154ad88fbb04f9e840c1f9ac1dc6b87b2e473982b678eeba"
+    },
+    {
+      "path": "public/BGM/Lab Boop Reveal.mp3",
+      "bytes": 2389491,
+      "sha256": "e64486e1b30e978f7f24feecdd88e183bc645d513376cb262cbec9bc48feab06"
+    },
+    {
+      "path": "public/BGM/Lab Melt Switch.mp3",
+      "bytes": 4434800,
+      "sha256": "42f52d6a373a50d3b55e87b1318c93bc93855e6a75db3cbe6b9083ee9237fcc1"
+    },
+    {
+      "path": "public/BGM/Lab Rocket Switch.mp3",
+      "bytes": 4480085,
+      "sha256": "4bcc19c5efcd0da336788cfb6053f648a2b8cf7c3393f5fd3baecd67d18ff0e2"
+    },
+    {
+      "path": "public/BGM/Oogiri Parade.mp3",
+      "bytes": 6896139,
+      "sha256": "3154b638bb0c2ff56991bfbe7034bef81c20fce7ef605821b007094176dc4bd3"
+    },
+    {
+      "path": "public/BGM/Oogiri Parade2.mp3",
+      "bytes": 6414682,
+      "sha256": "35c746e39ba693be4e7e41839c1c5fb68db228f2dbdc5cae2b790c12b565241e"
+    },
+    {
+      "path": "public/BGM/Seafood Punchline.mp3",
+      "bytes": 5497600,
+      "sha256": "226ef3e6cafd8021af767794af4c521a8e3f452a56c6982fa09f6b3b86d3daeb"
+    },
+    {
+      "path": "public/BGM/Solid Smoke Launch.mp3",
+      "bytes": 5236729,
+      "sha256": "f6b16ec2cd7688ce444a68202fcd6dccaa71943bcabd331c93175f4efbece624"
+    },
+    {
+      "path": "public/BGM/Space Eyeglasses.mp3",
+      "bytes": 3211569,
+      "sha256": "7966db245836045def294620d2d612df896aae990f0b0dd50f07b405312f3dd2"
+    },
+    {
+      "path": "public/BGM/Spring In My Step - Silent Partner.mp3",
+      "bytes": 4751188,
+      "sha256": "1f4aefd3df4afecec76a493bf7918b9b14c1c52445b4fea5fa65be110ce55bc1"
+    },
+    {
+      "path": "public/BGM/The Dry-Sand Reveal.mp3",
+      "bytes": 3123536,
+      "sha256": "45cbefa5a3247ff928dd8ebc23ed9c1195dfd39807176927c5968dacefcbc6d6"
+    },
+    {
+      "path": "public/BGM/Udonswitch.mp3",
+      "bytes": 3614085,
+      "sha256": "3061aabd4293bc54f00875d6be49b6c302dd22070964bcc1d5010358e55aa047"
+    },
+    {
+      "path": "public/BGM/半割れスイーツ.mp3",
+      "bytes": 4507980,
+      "sha256": "d6b5d78a691c31cd7172b04f0c7cddbdb8567769b1f58a5c8c74ded75393bdca"
+    },
+    {
+      "path": "public/Effect/ガラスが割れる1.mp3",
+      "bytes": 59328,
+      "sha256": "ac815884abb569c45d194e5417e581cc7a1df7d4413112daff117525e4dfa638"
+    },
+    {
+      "path": "public/Effect/ガラスが割れる2.mp3",
+      "bytes": 31680,
+      "sha256": "7ce204109c42283e2adcc9d48e8d1a9aafa73eb9ff48826f22efe7286367f606"
+    },
+    {
+      "path": "public/Effect/ガラスが割れる3.mp3",
+      "bytes": 15552,
+      "sha256": "e8e79d563bd765865a8563b43d515cfc2a528b7832dda22b1eb866ce24524cb4"
+    },
+    {
+      "path": "public/Effect/クイズ正解2.mp3",
+      "bytes": 68335,
+      "sha256": "4188eb4cd6dbdad59b70bd68feb2242202301a24c943308af16824584db88cb3"
+    },
+    {
+      "path": "public/Effect/クイズ不正解1.mp3",
+      "bytes": 13791,
+      "sha256": "b3a349f3714434f6d51a0b07c43f2273a28f2d7a59df686aa24f35bacc8f41a4"
+    },
+    {
+      "path": "public/Effect/シャキーン1.mp3",
+      "bytes": 43257,
+      "sha256": "b55b05535796658ca1221a94dfed5509ce7303f860bc59e69db60d01ba757f0a"
+    },
+    {
+      "path": "public/Effect/シャキーン2.mp3",
+      "bytes": 31346,
+      "sha256": "38c5fc1f919ae5e54447e3b610967c5fab72adea49856e508a1c1ba933249c11"
+    },
+    {
+      "path": "public/Effect/ショック2 (2).mp3",
+      "bytes": 102817,
+      "sha256": "8e66779dd810aa05c02c74063d94da8fe777587d82fe42f79456900724e67882"
+    },
+    {
+      "path": "public/Effect/ショック2.mp3",
+      "bytes": 102817,
+      "sha256": "8e66779dd810aa05c02c74063d94da8fe777587d82fe42f79456900724e67882"
+    },
+    {
+      "path": "public/Effect/チーン1.mp3",
+      "bytes": 86516,
+      "sha256": "0896e131e29b06e577905c7794d4f9d2d5cff0c735f024fb7cb9a767fd055872"
+    },
+    {
+      "path": "public/Effect/ドーン.mp3",
+      "bytes": 60480,
+      "sha256": "095d02b7d19b73240de1ef2c34d4aa7592d058c19a993caee9cac64cbb517527"
+    },
+    {
+      "path": "public/Effect/ビシッとツッコミ1.mp3",
+      "bytes": 12537,
+      "sha256": "ab7385551a4460fec74be822c86a7e66abf34fd3b25615af373bad88aa06cc9c"
+    },
+    {
+      "path": "public/Effect/ビシッとツッコミ2.mp3",
+      "bytes": 11284,
+      "sha256": "4e68118d80c6a5077b5d672ee4cfa5d0b0179f3a0acd28c9cf44859abd37bef1"
+    },
+    {
+      "path": "public/Effect/レーザー走査音.mp3",
+      "bytes": 1689,
+      "sha256": "6a57414a3e1bbbd8d9a3153c3bea719ed55c3ae3a8f37390cb04c0c04d70e9bd"
+    },
+    {
+      "path": "public/Effect/歓声と拍手.mp3",
+      "bytes": 100224,
+      "sha256": "6f086c4f6812ac855bf2d96c84d22867f817b7f906b00dc5e8e5f7ec34df33b5"
+    },
+    {
+      "path": "public/Effect/間抜け1.mp3",
+      "bytes": 28838,
+      "sha256": "bbc0262700915476f78dbec9be3b09feb5e167c3ead0049b2c2c72ef104afa30"
+    },
+    {
+      "path": "public/Effect/机をドンと叩く.mp3",
+      "bytes": 7919,
+      "sha256": "f3c18390a9eeffbfc3751435ce62092913adcc605c57c68bf3bc4e70f8ee34b6"
+    },
+    {
+      "path": "public/Effect/吸引音.mp3",
+      "bytes": 4845,
+      "sha256": "cc6e678205c631a2a7bc358b7a29213bc0395f1f39bc3f5c5e7903610ca525d8"
+    },
+    {
+      "path": "public/Effect/金属タイトル表示2.mp3",
+      "bytes": 40320,
+      "sha256": "564141e20618a2c7887fb14a1df11d221f947d4a12b0769f6ed86c88ce27a0cb"
+    },
+    {
+      "path": "public/Effect/決定ボタンを押す3.mp3",
+      "bytes": 36988,
+      "sha256": "9f01ead7fddc02c7fbe70024260f07a1718157f70385d3162b9e662ba89db8f8"
+    },
+    {
+      "path": "public/Effect/心臓の鼓動1.mp3",
+      "bytes": 94666,
+      "sha256": "1a14457ff9c50271badbbb9f58b84e1d688c82aaa184ce5fba944b72a00a3e8d"
+    },
+    {
+      "path": "public/Effect/足首がグキッ.mp3",
+      "bytes": 25076,
+      "sha256": "107f99e37a1ed32e732622e1b140e9367be7ad2d90934657453afda677f215bd"
+    },
+    {
+      "path": "public/Effect/打撃2.mp3",
+      "bytes": 25344,
+      "sha256": "08346d543d05489dd7cd1eee974c8761cfbfd2d8451f6961e3ed317fc0be288e"
+    },
+    {
+      "path": "public/Effect/大勢で拍手.mp3",
+      "bytes": 70848,
+      "sha256": "489a254aad81ed716bdea61f5eaacaf24c6da55a2fd3201453ed9f42eff3e68a"
+    },
+    {
+      "path": "public/Effect/氷魔法で凍結.mp3",
+      "bytes": 98176,
+      "sha256": "bcccabb0a3bca2beda217100129ae87ea1ef0dd44fb97be8ae8ee4fb82ee6c87"
+    },
+    {
+      "path": "public/Effect/文字表示の衝撃音3.mp3",
+      "bytes": 81216,
+      "sha256": "bc7e61c13431a66731d501af410fa428611e1000910a38f33407738495d0b131"
+    },
+    {
+      "path": "public/Effect/和太鼓でドドン (1).mp3",
+      "bytes": 38592,
+      "sha256": "2a7215ff0ce59d2a36e7c6b2980b42dc184b915950ddfbfc5bce5e947487fb73"
+    },
+    {
+      "path": "public/Effect/和太鼓でドン.mp3",
+      "bytes": 82128,
+      "sha256": "6601cdb0ba3c933ae0fa359d4a8884f86c3a2652a3d1d037651cb15336dfd9a9"
+    },
+    {
+      "path": "public/image/a01.png",
+      "bytes": 1874153,
+      "sha256": "03a6e044c06cbc5ff92446f7d03bb21c607046222a8ab56b05d5110b8ac19733"
+    },
+    {
+      "path": "public/image/a02.png",
+      "bytes": 1791806,
+      "sha256": "73b6fb20071617f6f5acc41cc4fa8d2251de6e5c5321aad66d2da46605c38ff6"
+    },
+    {
+      "path": "public/image/a03.png",
+      "bytes": 1817714,
+      "sha256": "da0068fdadff3f79b9e984e62898d4c1dd09d1489127b5ea96d48b3c0b61a195"
+    },
+    {
+      "path": "public/image/a04.png",
+      "bytes": 1942232,
+      "sha256": "ae8f8f1227cea59d895f5bc7546d98136f3a8703a4931001e7e7e2d46c44deb6"
+    },
+    {
+      "path": "public/image/a05.png",
+      "bytes": 1818427,
+      "sha256": "6d4dccfc13fa2701ce1217a52ab60a066d3b4393977d7aac53ed5a9aa1ff9b68"
+    },
+    {
+      "path": "public/image/a06.png",
+      "bytes": 1893937,
+      "sha256": "85f9c80b4acd0bbd729d7a7e2e56d670e19972b97df456b95dcb7f87a2ca592f"
+    },
+    {
+      "path": "public/image/a07.png",
+      "bytes": 2088580,
+      "sha256": "a4e698d6e9208c47d6f16e3a40c122a7546ae6ad8b17a6ee8e4049ae744c8366"
+    },
+    {
+      "path": "public/image/a08.png",
+      "bytes": 1700433,
+      "sha256": "3a8c562b7895a40c4fd0846f06cb0cc45d15db7f407c14afd86bf1333117f871"
+    },
+    {
+      "path": "public/image/a09.png",
+      "bytes": 1997812,
+      "sha256": "5b7eed6f079f5f31c0ad3f4e466c56821c0b42803e0da1aab61547bca902c463"
+    },
+    {
+      "path": "public/image/a10.png",
+      "bytes": 2576689,
+      "sha256": "02dd45a3937a975295ed5bfc07de273163acc2e1515ac85a92faed1c98c499a8"
+    },
+    {
+      "path": "public/image/a11.png",
+      "bytes": 2121615,
+      "sha256": "d9298160917497c583f2c1ebd5c3a45f31ef6212211abc209bcda0db3c901669"
+    },
+    {
+      "path": "public/image/a12.png",
+      "bytes": 1879674,
+      "sha256": "1e62ede707d1ca96337cded7351f6fb7cdbc051897d7ae24beb1ae0c8ca601c5"
+    },
+    {
+      "path": "public/image/a13.png",
+      "bytes": 1781112,
+      "sha256": "4e52b3e245b60bdab74cc10f8adb2e620ed899354cb9484a39342dfe0bc72ba7"
+    },
+    {
+      "path": "public/image/a14.png",
+      "bytes": 1877469,
+      "sha256": "e5a509e16b9d4cef03617f4e4e17d11de5f7de4dc5a0ff00009f93f38711fad1"
+    },
+    {
+      "path": "public/image/aerogel/aerogel-flower-nasa.jpg",
+      "bytes": 471630,
+      "sha256": "184571c521405b92fdfed6156972e1c26ca9f63114796149f4ec94c3586f3f88"
+    },
+    {
+      "path": "public/image/aerogel/aerogel-particle-tracks-pia03186-nasa-jpl.jpg",
+      "bytes": 73262,
+      "sha256": "3c1eb682c7b59843752500805aaaf7829aaba3ab3d7556c488293a2edaac31cb"
+    },
+    {
+      "path": "public/image/aerogel/sojourner-pia00611-nasa-jpl.jpg",
+      "bytes": 123136,
+      "sha256": "4501c686fa97ebe52e6e2b8596a5d1bd655fd900f45b21c798bf4ced290e6c0d"
+    },
+    {
+      "path": "public/image/ferrofluid-stephen-papell-nasa-1963.jpg",
+      "bytes": 388368,
+      "sha256": "d67c7222ad8ebd18b2caccc6bee55e8048232b7c2212bbf3234388b8e055bf6b"
+    },
+    {
+      "path": "public/image/gallium-spoon-kit-rotometals.png",
+      "bytes": 264082,
+      "sha256": "08362e2599645388b93e254bf7c9a69279011de9cb9356439ee5f510e256b1d7"
+    },
+    {
+      "path": "public/image/hubble-m100-before-after-nasa.png",
+      "bytes": 4194881,
+      "sha256": "fb690acd639f83da23ee7c9408584efd972a7171ebb7cdde2217d934733575a2"
+    },
+    {
+      "path": "public/image/prince-rupert-micrographia-1665.png",
+      "bytes": 137698,
+      "sha256": "b61eeb10e22f1509aa751149c2fc3cd03f0d07dccc70c18e0e6040f6a8c41354"
+    },
+    {
+      "path": "public/knowledge/ai-xray-penguin-01/anatomy-cutaway.png",
+      "bytes": 1855392,
+      "sha256": "70da408640827e5ad0516a1d28bd2a27b7b57145349072c1740c793cc14c38f3"
+    },
+    {
+      "path": "public/knowledge/ai-xray-penguin-01/commuters.png",
+      "bytes": 1785742,
+      "sha256": "bf27c99d144c3ee11273792f8de7eda549e05b0790ffdbf3852df23e8605b10e"
+    },
+    {
+      "path": "public/knowledge/ai-xray-penguin-01/hook-face.png",
+      "bytes": 1717065,
+      "sha256": "b343f06015e7bd2ad60ca12ba03d54b7a32f2f31e9a1912f2a70752a20f8e583"
+    },
+    {
+      "path": "public/knowledge/ai-xray-penguin-01/swimming.png",
+      "bytes": 1749598,
+      "sha256": "bf0f08fe15ccb551cb6f9fc42d47ef94e33257fbeda6655e931c2d475c3bc598"
+    },
+    {
+      "path": "public/knowledge/ai-xray-penguin-01/visible-feet.png",
+      "bytes": 1584349,
+      "sha256": "f5fad209d87cad46fa1804439ff5a4bd8e8f29153c5bda26c273e339f4ea09b6"
+    },
+    {
+      "path": "public/knowledge/animal-why-platypus-01/bill-and-prey.png",
+      "bytes": 1817584,
+      "sha256": "020c600d35ec96f948ea166eb3c0f8569f452e7e1615bf23b6a317bce0209f1c"
+    },
+    {
+      "path": "public/knowledge/animal-why-platypus-01/closed-senses.png",
+      "bytes": 2168276,
+      "sha256": "d7d3bb2ba47fa7fda406b06f267e471545a1da231ff40871a973c9e6da7feea5"
+    },
+    {
+      "path": "public/knowledge/animal-why-platypus-01/electric-footprints.png",
+      "bytes": 1999453,
+      "sha256": "a75b2b6ee88da3bded178f13508469d4ca4c8c6e476d5063843215e91342b0c1"
+    },
+    {
+      "path": "public/knowledge/animal-why-platypus-01/hook-face.png",
+      "bytes": 1974329,
+      "sha256": "fff0fe681c558e50a6ded237f7b10f967cb16af3aeec0f7444829fa354be03fb"
+    },
+    {
+      "path": "public/knowledge/animal-why-sea-otter-01/hook-face.png",
+      "bytes": 1983915,
+      "sha256": "870de44185ff61c1444f878574d15a04f611675d30e97b411f0e1ec5a4513495"
+    },
+    {
+      "path": "public/knowledge/animal-why-sea-otter-01/payoff.png",
+      "bytes": 1996058,
+      "sha256": "7ba01c1c07463b570764c19f890f8f318ffcce28379ca0f81c4713a75e5ee14d"
+    },
+    {
+      "path": "public/knowledge/animal-why-sea-otter-01/skin-fold.png",
+      "bytes": 1878635,
+      "sha256": "ddb37d2ce9bc806015781aa80aa70538ec510a02998ee25d0c718a3b21e4e741"
+    },
+    {
+      "path": "public/knowledge/animal-why-sea-otter-01/stone-and-clam.png",
+      "bytes": 2035748,
+      "sha256": "edc62646ef7aa9cb7c5bec53ea965a98ac044dab48b414c88b89fd765753c73e"
+    },
+    {
+      "path": "public/knowledge/animal-why-sea-otter-01/underarm-stone.png",
+      "bytes": 2099964,
+      "sha256": "9715b6d2395b588f84fb7e793d81f533b8e43c1c4bae39ff2c5d1c704b09015d"
+    },
+    {
+      "path": "public/knowledge/animal-why-star-nosed-mole-01/dark-tunnel.png",
+      "bytes": 1852752,
+      "sha256": "a99120dcba0a4cb6fdf3ef247a264073161474912a24945c779810413df01e9f"
+    },
+    {
+      "path": "public/knowledge/animal-why-star-nosed-mole-01/hook-face.png",
+      "bytes": 1868319,
+      "sha256": "46cb9c550aeb7345bf99b403ec51a2d26d517d4231bb311ad2c0bb7db22f315d"
+    },
+    {
+      "path": "public/knowledge/animal-why-star-nosed-mole-01/sensory-world.png",
+      "bytes": 2056722,
+      "sha256": "f8f3bd7e0abb75d7869896ca61e549bdf65f69e9cf7e9fe2607d83b526ecd1fe"
+    },
+    {
+      "path": "public/knowledge/animal-why-star-nosed-mole-01/star-closeup.png",
+      "bytes": 1919225,
+      "sha256": "97892cd7dae2b4d9d901bce24a1815355c0e6be6ca0297eadc94709cb947f49e"
+    },
+    {
+      "path": "public/knowledge/animal-why-star-nosed-mole-01/touch-prey.png",
+      "bytes": 1975134,
+      "sha256": "09f0088118133ee9de28c376e22145015b2a2e4c428a51b1de60887e38265a76"
+    },
+    {
+      "path": "public/movie/Laser_cleaning_steel_plate_1080p_202608290045.mp4",
+      "bytes": 4906720,
+      "sha256": "50a3bc6f06f61628e482ef1dc5c9dccdfd460498e6d218800455ff7c88924d8c"
+    },
+    {
+      "path": "public/movie/Robot_cleaning_steel_pipe_1080p_202608290047.mp4",
+      "bytes": 4192429,
+      "sha256": "920f4f798945c01bc8b976469bdb16fe6cced42bd3afbb79420d7f28993275d2"
+    },
+    {
+      "path": "public/quiz/ai-lie-animals-01/a.png",
+      "bytes": 1849584,
+      "sha256": "914ed14a3b9115ae801bb3bd89bdb568b459f4e22e0b3c7c9ea07616d1413cb4"
+    },
+    {
+      "path": "public/quiz/ai-lie-animals-01/b.png",
+      "bytes": 1799349,
+      "sha256": "6e4efb7b871d38116d00b32c064e4ca109a751820a8d17d9f0f1238125709144"
+    },
+    {
+      "path": "public/quiz/ai-lie-animals-01/c.png",
+      "bytes": 1779863,
+      "sha256": "9f36dcac410dfd547d3fb50f6175e4dc4b4816cffb40e851cd15720e2245e8c4"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/a1.wav",
+      "bytes": 174636,
+      "sha256": "d8121a2d80e13f777887a0fa85524ee986020a2dd76dfcc1f812b3bb9c8defb0"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/a2.wav",
+      "bytes": 186412,
+      "sha256": "ecd95be30a4e5fb703ba71bfc5a8a77f61783d285dd153be4610f1d9cc3ce189"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/a3.wav",
+      "bytes": 204844,
+      "sha256": "a5dd2095036515e0f456a475141271d1a7df3f46b4c672239c7a05f78f2f3e00"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/a4.wav",
+      "bytes": 182828,
+      "sha256": "4b31e84a6afa3b6543135a9ab766aab658da19ac838628fcfeb308358511a43e"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/a5.wav",
+      "bytes": 177708,
+      "sha256": "29d55d3c62b0f4d8f30c32b6c1dd195b0321db32ed63a58ae3144c56679fd8fb"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/odai.wav",
+      "bytes": 120364,
+      "sha256": "6c5e6e4ca35cae3fe745afb7ee0a2e31f5168a0203cd54fca7fc4fc78e6cd0d4"
+    },
+    {
+      "path": "public/voice/ai-bgrade-hangoroshi-01/outro.wav",
+      "bytes": 157740,
+      "sha256": "0ac0d58753ebeed42e5229ec08b1a56706be0729a28310f14b19aa88343929ac"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/a1.wav",
+      "bytes": 208428,
+      "sha256": "d582c5afd8227e11355efad77f403e6a52c5b801e568630319781975eda886fe"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/a2.wav",
+      "bytes": 177708,
+      "sha256": "16ca5615154eb1d7f590cd74f45074a3b1a4e8c242af6a56f06133807621ac32"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/a3.wav",
+      "bytes": 248364,
+      "sha256": "d1336bab6068930d4be6aab2a508554f4a916af3cdb7ed11cf7372a0877f979e"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/a4.wav",
+      "bytes": 250924,
+      "sha256": "6d093f296ce7186f561ef456f3706c75f39c3350f85a86e9058e8360a4a4253f"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/a5.wav",
+      "bytes": 112172,
+      "sha256": "c241047028da731e3b8a564832347674dfa7cc7806c90d9b76cfc6a6dbfae5c3"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/odai.wav",
+      "bytes": 275500,
+      "sha256": "4423275ac524616200580e67f16006a3c5abb49b20ca87db0f8c1aebf6031fa5"
+    },
+    {
+      "path": "public/voice/ai-bgrade-jigokudaki-01/outro.wav",
+      "bytes": 176684,
+      "sha256": "4c88c19a3e8c52feb92dc6c18716411028b4102af5afd740422728e740b0e280"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/a1.wav",
+      "bytes": 131116,
+      "sha256": "715c15ce3866b2589e1dff17377ceabc99418fbc3091c1d58a825fa16b985371"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/a2.wav",
+      "bytes": 133164,
+      "sha256": "b225ebe58c2c512272c4ed08c5e37caa619e9d72df547867e34cae5efd4facdc"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/a3.wav",
+      "bytes": 287276,
+      "sha256": "62b07ecd0a0774b15058c1cb01052f1ec76a323f75d5c06731f23c69470b1fa4"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/a4.wav",
+      "bytes": 173612,
+      "sha256": "6fa05ecc8a0b7b9141ebcdd9cb4fedd3066d0c370bcdae4a73c1104645b3a7d7"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/a5.wav",
+      "bytes": 203308,
+      "sha256": "28dd5cbe0f16dee32f3a5a9ea2aa4a235a2ef586910ea3512b10273603d4469e"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/odai.wav",
+      "bytes": 141356,
+      "sha256": "9af30b2c183cdd94735421c30e55591b9d398976d190322cbd4ceaa2dbbc9e94"
+    },
+    {
+      "path": "public/voice/ai-bgrade-salad-bread-01/outro.wav",
+      "bytes": 184876,
+      "sha256": "5f5bd137ee5d292a787c56e6b1c231ecbf6c81aa4f5b2823cb829086f209bd97"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/a1.wav",
+      "bytes": 153644,
+      "sha256": "2265f050b0f53183b480ebba47f0c551e12118fd23ac392293a77278a961937b"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/a2.wav",
+      "bytes": 155180,
+      "sha256": "643d374451857a2e1fd1987edc36849be74ea9f91ede9394e2a9ff666262a1a1"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/a3.wav",
+      "bytes": 245292,
+      "sha256": "d41e686aa508c0a6a36a8746def596fea083242e1b74ba575173afbc8dd088fa"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/a4.wav",
+      "bytes": 215596,
+      "sha256": "a16cad3064c167352ab71a73567594536b7b5e2654e50e1d579203c45777caed"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/a5.wav",
+      "bytes": 161324,
+      "sha256": "3b87e843247df79adfd3bd6da6e4f4b18a0aa0c3e429e087afa2725d741b9775"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/odai.wav",
+      "bytes": 192044,
+      "sha256": "690188774a82bf4f0bdaf545f8571de7943b365b8da793b77a18b8a213491155"
+    },
+    {
+      "path": "public/voice/ai-bgrade-tamago-fuwafuwa-01/outro.wav",
+      "bytes": 201772,
+      "sha256": "1acac7976107c42be605ad69eba0b1ff79af9f4603b615ac78fe936743cbce12"
+    },
+    {
+      "path": "public/voice/ai-bgrade-teppou-jiru-01/a1.wav",
+      "bytes": 248876,
+      "sha256": "bbf30f0addf1bb5fd82384c5450084efc68891aedec981c5177bd2d4d016ad9c"
+    },
+    {
+      "path": "public/voice/ai-bgrade-teppou-jiru-01/a2.wav",
+      "bytes": 253484,
+      "sha256": "265a0771aa46f63a9f606689d5c2506ff57311a60153cadb773fb07711b03128"
+    },
+    {
+      "path": "public/voice/ai-bgrade-teppou-jiru-01/a3.wav",
+      "bytes": 236076,
+      "sha256": "f3919cca77f314e9ec4408ff64b41e4c5df7997340a2f29c47bc0b623ad6cf64"
+    },
+    {
+      "path": "public/voice/ai-bgrade-teppou-jiru-01/a4.wav",
+      "bytes": 182316,
+      "sha256": "a09396c5b83246d5e80e895f8a0c9889e1b6258ad01f4264c80e9d56f3ccd3f1"
+    },
+    {
+      "path": "public/voice/ai-bgrade-teppou-jiru-01/odai.wav",
+      "bytes": 114220,
+      "sha256": "0e73c679bc65603ebb6a5c2fd5d690370dfdfa0ee7c53805e559adc17c924137"
+    },
+    {
+      "path": "public/voice/ai-bgrade-teppou-jiru-01/outro.wav",
+      "bytes": 217132,
+      "sha256": "fedc3480e7d2438dc332009b418a29d5f05326c893c1d431baffda68110db060"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/a1.wav",
+      "bytes": 160300,
+      "sha256": "a7a45cee0541de8d655a629d8290d4414a0ef4ca2a83f21fbf493b4185b3654b"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/a2.wav",
+      "bytes": 145452,
+      "sha256": "50d93e079d6fe7b77ddb854eca64892d92823be1270ab3eed9999a51901ffdda"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/a3.wav",
+      "bytes": 167468,
+      "sha256": "c2a24a78ae3aeb27c07bdeff5c75a623ee62820cf6c8e852cfd0c6c329ef66ac"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/a4.wav",
+      "bytes": 242220,
+      "sha256": "f7ca70e571982ce250244512e3392e45138d65a9a1675cc2530b091b0ad322de"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/a5.wav",
+      "bytes": 244780,
+      "sha256": "e4b7fbf24a86407b8941b1f8e53797ee4dcc424a5a8b0e08a3225f3dcf571e98"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/odai.wav",
+      "bytes": 161324,
+      "sha256": "ffb49840f4b7f77ce32195300d9defc04590879adee8531273a10e37565317b1"
+    },
+    {
+      "path": "public/voice/ai-bgrade-uzumemeshi-01/outro.wav",
+      "bytes": 122924,
+      "sha256": "8d6e1cfc33f03101dfc7b30085b483fad54e1ef6a7d9b0578c32e5808858b194"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/a1.wav",
+      "bytes": 200236,
+      "sha256": "7866c201b080d44b829b0f4a03fc3ed95e97b7142e4b40954a36fb6b4e6ab7da"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/a2.wav",
+      "bytes": 265772,
+      "sha256": "a4a9c5000eb738bc0cf58d2e33531b4d6772ef63d19608edaa1a5225b3e583c7"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/a3.wav",
+      "bytes": 198188,
+      "sha256": "cc3907623370e52400caef1dd230e745e7c23f060739ffe16a7044402fa3ab8f"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/a4.wav",
+      "bytes": 239148,
+      "sha256": "48f56b23b521820dc71c8c0304bb36dcf988f27105c35a4b3798cdbf081644d2"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/a5.wav",
+      "bytes": 240684,
+      "sha256": "bc20ad909575857e6d9018358b9f7e7fb5905c65ef8520b3f099efee0c55f5b3"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/odai.wav",
+      "bytes": 173612,
+      "sha256": "a74985445289c955dcd126a697000abdd91f018dd3861c2bdb0c0534f15951cf"
+    },
+    {
+      "path": "public/voice/ai-bgrade-zeri-fry-01/outro.wav",
+      "bytes": 197164,
+      "sha256": "83536d877baeb27fea80d0d7c8cfe8b770f024355732df03d217d7dc701fd584"
+    },
+    {
+      "path": "public/voice/ai-history-hubble-01/a1.wav",
+      "bytes": 238636,
+      "sha256": "a59ae5a80ad3ba6e8a222a7d4be7cfd74c15800fa882749a13fff3eaa6f5a455"
+    },
+    {
+      "path": "public/voice/ai-history-hubble-01/a2.wav",
+      "bytes": 137260,
+      "sha256": "509ed7ad572e7b974ad3995cbac0797516266a00fea3c459c1d39eb4a19e5ef2"
+    },
+    {
+      "path": "public/voice/ai-history-hubble-01/a3.wav",
+      "bytes": 258604,
+      "sha256": "9ecfdb61cc5115f32e107326dbcdf6b95170534c7046abee064f8958660969f6"
+    },
+    {
+      "path": "public/voice/ai-history-hubble-01/a4.wav",
+      "bytes": 355884,
+      "sha256": "5b8c32fda3d7bfc6c4aeb6332c91236a6d59fbae3441fcc90f9adf60b236a2aa"
+    },
+    {
+      "path": "public/voice/ai-history-hubble-01/odai.wav",
+      "bytes": 170028,
+      "sha256": "565571afc8480acd531417c2d283555004c4f7e74e3cfef630d10f0e93cc3370"
+    },
+    {
+      "path": "public/voice/ai-history-hubble-01/outro.wav",
+      "bytes": 285228,
+      "sha256": "9dfc315f63f58a0cf3e1a1d3c2a12348ad07030f3460c058705a69d3099cf10a"
+    },
+    {
+      "path": "public/voice/ai-lie-animals-01/a1.wav",
+      "bytes": 197676,
+      "sha256": "5a1925db7f04f7281847bb91dbcece669d4d22aa95c38cbcfbd0eebceaf99821"
+    },
+    {
+      "path": "public/voice/ai-lie-animals-01/a2.wav",
+      "bytes": 205868,
+      "sha256": "393aa8c25c29c0b6a2670f3e881652eced2911279a27e9be135a9b2bd0f2573a"
+    },
+    {
+      "path": "public/voice/ai-lie-animals-01/a3.wav",
+      "bytes": 200236,
+      "sha256": "da41a586b1ac6b9bd6b6afc70d2c1a87bfde0c8beea7367c141f10fc61f93ab6"
+    },
+    {
+      "path": "public/voice/ai-lie-animals-01/a4.wav",
+      "bytes": 196652,
+      "sha256": "06a0c74a33977f9c3ec7254a2e4d8d1c3a8ce0333aba2314b00a218a71ec165c"
+    },
+    {
+      "path": "public/voice/ai-lie-animals-01/odai.wav",
+      "bytes": 144428,
+      "sha256": "48a07ac54b497e35b1641ffd82a9e2253f280a34977d9f1941d0c808c4f45e5a"
+    },
+    {
+      "path": "public/voice/ai-lie-animals-01/outro.wav",
+      "bytes": 134700,
+      "sha256": "02ad476f4a509081309ab1846cc362ca09ed7b9ca3bf53d280d5c0a076a1a445"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a1.wav",
+      "bytes": 81964,
+      "sha256": "05501d9434c0a6eae117564413b0283722c241840fde592a62568edbbb993b5f"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a2.wav",
+      "bytes": 148524,
+      "sha256": "ea37103dd73b4cc2085808a77b2b50dc76a9a80d72a62c3a519b1ba612fd856a"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a3.wav",
+      "bytes": 137772,
+      "sha256": "ce425b03244e806d6528c4cd2fb418c562d6bdf8911ddbb942505c5ee0605965"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a4.wav",
+      "bytes": 146476,
+      "sha256": "9690a5f5890660dfc54ed9ba2488cb75444bbe661b688d954425c691da08fb30"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a5.wav",
+      "bytes": 130092,
+      "sha256": "9bb6d9bf18a1ce1f4ccef69af49aaab128c46e7f25ca1bf99df5429b4ed035d1"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a6.wav",
+      "bytes": 171052,
+      "sha256": "512a64adc215ebbe449923c791fa159d82fc4c194f4deaf6e0cae52a062c933d"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/a7.wav",
+      "bytes": 105516,
+      "sha256": "2923ae5703b153e7828a1ea36771624b01d7313e27b46ff0875dceef0c284288"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/odai.wav",
+      "bytes": 96300,
+      "sha256": "6558e0456055890aaa2b22606cfa6abe8be68fb1f47c9f42dd5297dda20d40c1"
+    },
+    {
+      "path": "public/voice/ai-viral-aerogel-01/outro.wav",
+      "bytes": 198188,
+      "sha256": "65451dd4b004a4c1ea25756c879fa94976d63d2a20a6f8ef1fd9ef4e8c72bf4f"
+    },
+    {
+      "path": "public/voice/ai-viral-cola-geyser-01/a1.wav",
+      "bytes": 151084,
+      "sha256": "e41b2fd452f7494bf8f0b27ae6ef269ee7f4d80864fe8be4dbc48d16454c4f8a"
+    },
+    {
+      "path": "public/voice/ai-viral-cola-geyser-01/a2.wav",
+      "bytes": 109100,
+      "sha256": "a5fc4c2b109afdd817b38a5a477e8971048dde019956c00c3cd07230fd196ac9"
+    },
+    {
+      "path": "public/voice/ai-viral-cola-geyser-01/a3.wav",
+      "bytes": 174124,
+      "sha256": "22961135910742674859bb0b18d91a662c5623d59943509e4ff5a38809e04cb0"
+    },
+    {
+      "path": "public/voice/ai-viral-cola-geyser-01/a4.wav",
+      "bytes": 184876,
+      "sha256": "e93559819a2403f47ba750c02395ba5bffdd7bf9bf9b6c1a61d6a859b17c3acb"
+    },
+    {
+      "path": "public/voice/ai-viral-cola-geyser-01/odai.wav",
+      "bytes": 88620,
+      "sha256": "bb27de3ca58a5a026fcf3e6e41bc995b03b6b953fcebd0e2850bb19e1f3d2532"
+    },
+    {
+      "path": "public/voice/ai-viral-cola-geyser-01/outro.wav",
+      "bytes": 181292,
+      "sha256": "54eeef05077f10c38f52d5f7847d7b47355c409b7d138c59180a6266e0a3d965"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/a1.wav",
+      "bytes": 136748,
+      "sha256": "28d3a2e746c93ab170e55c10f8b0aca8085b07bfc11ab0d097a2ff400a30e0ee"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/a2.wav",
+      "bytes": 220716,
+      "sha256": "065312a5cb2e04413079f2b6b701a58735347306ec653d90b82c8c70f2a8a6b0"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/a3.wav",
+      "bytes": 242732,
+      "sha256": "8451ecb69649c6989d2d80183ba86be5ff683fe04e07fd6965afa9ad3b705556"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/a4.wav",
+      "bytes": 215084,
+      "sha256": "4b208fb02c936e115fefeb1f5b9eb4893f6347391d39acac6a199d82549a7008"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/a5.wav",
+      "bytes": 213548,
+      "sha256": "5f3d6b10c3e8b9915311889cd49ef09ea94039baf5bb1db9633143e5f96588e6"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/a6.wav",
+      "bytes": 267820,
+      "sha256": "e718bb81a88e93785b00be4c09cedda1f9a053d7538e46e2b2b81d5557ef83f5"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/odai.wav",
+      "bytes": 116780,
+      "sha256": "b83712248d3f8b0e8bdfc5fdf5216965f4c69378e7bab84d2a93519842f68b3c"
+    },
+    {
+      "path": "public/voice/ai-viral-ferrofluid-01/outro.wav",
+      "bytes": 191020,
+      "sha256": "c49292c54ebfb6cbaa4cb2f149d12c27905449da46f5e550b95da59f491aefab"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a1.wav",
+      "bytes": 148524,
+      "sha256": "07cc060a561e5efe4b077874f669a0335ed5d7b4e957613a5df8f8a3864eeda4"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a2.wav",
+      "bytes": 83500,
+      "sha256": "934708215c108ffbab5f028ea2c39117bbffe75cee34776ea7b8d0ed199eefb2"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a3.wav",
+      "bytes": 162348,
+      "sha256": "ffc9f818e159038b7795500b5e0ff107a9a91811238e2c4caa6f9dc0ed2501a3"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a4.wav",
+      "bytes": 137772,
+      "sha256": "6d5a9aa4ccc36166e5803a45dba7eba3242e2771d74832bd5e04f49cac7411ea"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a5.wav",
+      "bytes": 143404,
+      "sha256": "b05a6c482539b96ca8d2bc5520afc298fdd184c50fcc6918e8e608edbfd91db5"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a6.wav",
+      "bytes": 187948,
+      "sha256": "15d5c8db0608693c19a7e9543b147f5bd0894655357c3828df034c16a6b99f09"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/a7.wav",
+      "bytes": 232492,
+      "sha256": "c9a90527a1267ac53a90367d616c7c1c0504a77fd97f96ce6a6c61f756b0bd95"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/odai.wav",
+      "bytes": 108588,
+      "sha256": "d8bfb86f9ec9c001f9b612cee875a4c4ef3391fd90455a48cdaf110ba195b0f3"
+    },
+    {
+      "path": "public/voice/ai-viral-gallium-spoon-01/outro.wav",
+      "bytes": 210988,
+      "sha256": "68b7fce3a628c301023ca1716b3bf5c9643535e08a7affd209f292105257d6ab"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/a1.wav",
+      "bytes": 85036,
+      "sha256": "5fe1d998ba3e57c404ab0c7d7af8ce4847aaf53e1571d72158686f8b58e7bf20"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/a2.wav",
+      "bytes": 81964,
+      "sha256": "dcc187b9e0f7fa9c411922804258b7d3d64fe82c456e75e439b423989bb75fe8"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/a3.wav",
+      "bytes": 102956,
+      "sha256": "9e57c79b2f0c140fdea6ec9a1a4681574328f4abe1e93f45606d8288c2267eae"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/a4.wav",
+      "bytes": 206892,
+      "sha256": "c74c7e1b55da186563dec2f6ca69893767d2c18cde1009b5bde5b56ecab98c6d"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/a5.wav",
+      "bytes": 201772,
+      "sha256": "4487b2d5294669b6299c19980d9aae4965c0c784a96a363178077e4f8a1f8b8d"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/a6.wav",
+      "bytes": 169004,
+      "sha256": "7dd44ec6f93782d55afc5f767189161d7ac9365ee8f1e39fe0012762bde1254a"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/odai.wav",
+      "bytes": 94252,
+      "sha256": "c4c68787fe84970675885f848bd99ff78db64235e4e5396fe6e5926c91696d3a"
+    },
+    {
+      "path": "public/voice/ai-viral-laser-cleaning-01/outro.wav",
+      "bytes": 202284,
+      "sha256": "a7ef2ff50e5f2c2909cb00b37b9be219e5ffa79f8dde87eb75e330bf5c3c1fad"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/a1.wav",
+      "bytes": 87084,
+      "sha256": "6cc27cc1e50ba9c6610d1b9cab0d5726af3680044b06c3cfd399f0e4023f3c6a"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/a2.wav",
+      "bytes": 94252,
+      "sha256": "80f38138ea1d1d8185df326b96a7dd5878caf13a7ff587ea725ddac241fd2b85"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/a3.wav",
+      "bytes": 148012,
+      "sha256": "53e2175b71b1f64c8a29a577d076e88986aded1cffbab8df3cbdb95bf0008049"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/a4.wav",
+      "bytes": 179756,
+      "sha256": "7e0f5dfc7c5e181252735e4c1d00231ced450f78893683c65646dfc0c43e59b1"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/a5.wav",
+      "bytes": 188460,
+      "sha256": "f0f0f8f12e1b45c37f0bae8e3915ffd1cea2504fdf683d4747222f1ed0f9ba89"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/a6.wav",
+      "bytes": 188972,
+      "sha256": "993f13beca78c3a037cf32de05ca1eb2903b957bc7f6732130650d393ce5aca4"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/odai.wav",
+      "bytes": 134188,
+      "sha256": "4b81011cd8c2a1ccb4b585774b502e7ac4e55d8480bb1ef2d1b4f62ce80e3dab"
+    },
+    {
+      "path": "public/voice/ai-viral-magic-sand-01/outro.wav",
+      "bytes": 220716,
+      "sha256": "b3724e101ae3b50fb765706fe14b1417dc35decdaa14af329c5f90f29339a910"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a1.wav",
+      "bytes": 90668,
+      "sha256": "53897aea73352594b01c10ded0d7088e6f78601d661b47b9b3e99fc27da0115f"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a2.wav",
+      "bytes": 102956,
+      "sha256": "7eb81619eaf3032abca0fcaa4800cd2bdb4c46a9806121922627b9e0f0511c21"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a3.wav",
+      "bytes": 111660,
+      "sha256": "8939f5d6ae7e8d73ebf3f3af6df15edc77231dad9639cb0b904c3f39f4ea09bd"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a4.wav",
+      "bytes": 127532,
+      "sha256": "db8ba90b7b777a306cca4a4d152b18ae29a20cd6dafb574cc8597e105c8bc4cd"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a5.wav",
+      "bytes": 241196,
+      "sha256": "a7bac1a9f0a35658c37d044935f165f3de11b7f071ea4387f53719c9a91d2ad9"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a6.wav",
+      "bytes": 225324,
+      "sha256": "0e01cef0c754e568d76845644cd91c3a2745205420a9f24835f34ac878649aef"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/a7.wav",
+      "bytes": 225836,
+      "sha256": "00ced731bb883d0f2b9515123001991c5e46e56eef2672b0c04c7876edec971d"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/odai.wav",
+      "bytes": 96300,
+      "sha256": "a6fbff2ae9ac972cf0a2eb4f951f7f849cfd612e25ba5115e844a5380be716d8"
+    },
+    {
+      "path": "public/voice/ai-viral-prince-rupert-01/outro.wav",
+      "bytes": 235052,
+      "sha256": "e583e20fe8446611f75271f746f53f3a0e6486abfa36234bba65a61ab305b06d"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/a1.wav",
+      "bytes": 123436,
+      "sha256": "7d2cee2dddfde3ce491aa6830822f8e5b2b39b4c1af6dff529f6613a1507bba9"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/a2.wav",
+      "bytes": 142892,
+      "sha256": "27e2fe5a67fb29cedd2119566fb9ef351daf3454352bf86be2c25cf3ed36606e"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/a3.wav",
+      "bytes": 250924,
+      "sha256": "8e2c20678745c2f03594fabf06dbf8ad1f148e5eb7ec6faeb5f4a3e99e8d146c"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/a4.wav",
+      "bytes": 208428,
+      "sha256": "acc594ea9e0c50a13781bb9c9b93a6da4faf02ceda78e8d3f478f629bdd97cd5"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/a5.wav",
+      "bytes": 264748,
+      "sha256": "34eca83bb5407689a57a8991a49fda2b8661921779ca5d24c5595ade4c5358c5"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/odai.wav",
+      "bytes": 113196,
+      "sha256": "f0336ba09d1f41cadd4512659a1ec9cb5d86acf16dab471fa93c51d5601e0534"
+    },
+    {
+      "path": "public/voice/ai-viral-supercooled-water-01/outro.wav",
+      "bytes": 180780,
+      "sha256": "27b338f72428b8a3cc974cfd9aeabe4167893f54b3844aaacda3d418c68880d9"
+    },
+    {
+      "path": "public/voice/ai-xray-penguin-01/a1.wav",
+      "bytes": 114220,
+      "sha256": "bc7eb083e6183774635c2d1d95b5cadc385b1d6395538c6e8418a0338367a478"
+    },
+    {
+      "path": "public/voice/ai-xray-penguin-01/a2.wav",
+      "bytes": 242732,
+      "sha256": "334c0a856b159447dc0258d8d218657b9e9180c3e7ce279af47bdb541109140b"
+    },
+    {
+      "path": "public/voice/ai-xray-penguin-01/a3.wav",
+      "bytes": 236076,
+      "sha256": "a2ee4541d10087823ae18553672f5fc4b4034424f92b668f4d11564986e614d8"
+    },
+    {
+      "path": "public/voice/ai-xray-penguin-01/a4.wav",
+      "bytes": 138284,
+      "sha256": "b17255040061876f362ba7a4707323e65c3cd984463bd71804fa607ee2e93cd7"
+    },
+    {
+      "path": "public/voice/ai-xray-penguin-01/odai.wav",
+      "bytes": 195628,
+      "sha256": "bf9c3b5b2e44a49d882247323766d64fcbc33339dc9e7c57400e5a403156fbec"
+    },
+    {
+      "path": "public/voice/ai-xray-penguin-01/outro.wav",
+      "bytes": 250412,
+      "sha256": "631768c1323ce38e3704c079efd6173c14b7dab1fc420b4936d588eb99e7f44f"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/a1.wav",
+      "bytes": 263724,
+      "sha256": "82129dfded7e8fcbc97576c6d24a38101660d13a3e4853ffc79d914fe4aa1eff"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/a2.wav",
+      "bytes": 68140,
+      "sha256": "3df4ad38a52f679de38ee2b5c68708df0290b92bb9e04abb95df913373e03ddd"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/a3.wav",
+      "bytes": 163372,
+      "sha256": "116f0459777b25ea07a79fed9f7e0a524c376c75c77baadf0bb455d45e5d1864"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/a4.wav",
+      "bytes": 206892,
+      "sha256": "474036ca63836be32ec3d9136a6922c3608c26fe16093ff83e4bf4914177a14a"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/a5.wav",
+      "bytes": 118316,
+      "sha256": "0bfc41ccb1fd53a7cb2da8b9e3436e6b311161f2d3d1c000c51b3ac1098174bf"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/odai.wav",
+      "bytes": 162860,
+      "sha256": "f589bca68ccbbcfde1d99eb3930305865c95f51a289cfebbb05500576567997f"
+    },
+    {
+      "path": "public/voice/animal-why-platypus-01/outro.wav",
+      "bytes": 241708,
+      "sha256": "e99e2037800a3eb3da228dcf34ebdee83057e7f58d0748b34023556427a76bbb"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/a1.wav",
+      "bytes": 93740,
+      "sha256": "915eb858c39b00145d0c402bcc98d889fab0b9ed6726a1dc459ae9939580d899"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/a2.wav",
+      "bytes": 414252,
+      "sha256": "6bf0c5be3f78d44f32be904d24751a73e8c4ad270e14bf3ca27a15b88c82289d"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/a3.wav",
+      "bytes": 135724,
+      "sha256": "55e444357d3e1f7fc1ec663ddcf37f61f705d9ec48f21acd38097ce3bb628949"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/a4.wav",
+      "bytes": 139308,
+      "sha256": "48ed7ef3e9a1e3d4428025de634a7955dba783eacd60b2fc9640a70a66e854ca"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/a5.wav",
+      "bytes": 136748,
+      "sha256": "617b3584315bb410e6cb210730cb8df51f8b4834b374d75a6bf54f88ba367e5e"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/a6.wav",
+      "bytes": 125484,
+      "sha256": "2ecf1596fb122c674b5c722f328062f9b80cbc35c866cc0a2760cd5f1edfd74f"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/odai.wav",
+      "bytes": 231980,
+      "sha256": "c1f567fd7991dabc6c868a51e41d29bb9f8be991190adca06e0e3f10b4723e71"
+    },
+    {
+      "path": "public/voice/animal-why-sea-otter-01/outro.wav",
+      "bytes": 233004,
+      "sha256": "e593a29f291dee2b14632ff97cddcde7707bc34d533f48813a34ebb521987be4"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a1.wav",
+      "bytes": 103468,
+      "sha256": "a298c32151306824c8ee0d18300f1a680387fde2fe5a13c2963620641e819109"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a2.wav",
+      "bytes": 173612,
+      "sha256": "90fc11565df5f333492aba537c710c07e7b4e3944d37a3629feaa621c89f1972"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a3.wav",
+      "bytes": 432684,
+      "sha256": "949e2ce588239af20bba6b0da9f454d28711a37b61d03b76ed26613e0516dac8"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a4.wav",
+      "bytes": 68140,
+      "sha256": "3df4ad38a52f679de38ee2b5c68708df0290b92bb9e04abb95df913373e03ddd"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a5.wav",
+      "bytes": 124972,
+      "sha256": "07b8820174f0ccfa35bb2592e004605afffcb561c657ee265f0d5002caf05b1a"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a6.wav",
+      "bytes": 189484,
+      "sha256": "833edccff56f2a85df7440658ed156f98d4c29aec4be65ff9b8f50596c0e8ead"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/a7.wav",
+      "bytes": 140844,
+      "sha256": "d6cf93d4e9f4594c92b93a0b07095638a3a37e6d6252636005fb585f5ecc4443"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/odai.wav",
+      "bytes": 273452,
+      "sha256": "3fbe58e27d3b7cb5278647bde409ad518a0885168f2e600648a57f673a13c48e"
+    },
+    {
+      "path": "public/voice/animal-why-star-nosed-mole-01/outro.wav",
+      "bytes": 247852,
+      "sha256": "280a285859c600197a3409880ef9ef88b9b96fa0fe2bc645ab0e78a58c6fb235"
+    },
+    {
+      "path": "public/voice/ep001/a1.wav",
+      "bytes": 73260,
+      "sha256": "fb57c26e07b8c41c27e3feb4ff7e6819dceeff164603d2f1e3f08e0971e86000"
+    },
+    {
+      "path": "public/voice/ep001/a10.wav",
+      "bytes": 137772,
+      "sha256": "2ae7043ca01304cc0b398c400671ea315bd0a1d0bd22eccc9607baef0f04d269"
+    },
+    {
+      "path": "public/voice/ep001/a11.wav",
+      "bytes": 95788,
+      "sha256": "2ab98ebbfd87c98390932cd03fb3976529b4c04705a8897e8186bffdc900e935"
+    },
+    {
+      "path": "public/voice/ep001/a12.wav",
+      "bytes": 155180,
+      "sha256": "1fc303b21f667945c345829d9b7bb4683ecbeedf04367662d0a7d0f74494cf6a"
+    },
+    {
+      "path": "public/voice/ep001/a13.wav",
+      "bytes": 107564,
+      "sha256": "77abc51d5d48c4875c71d527278a462b963f4a17f85cf07e7e10667f10ffb7f1"
+    },
+    {
+      "path": "public/voice/ep001/a14.wav",
+      "bytes": 157740,
+      "sha256": "f8e0649e2d79cd68edd772e872b5a72c10a6f91a04497126bd1b92e1e4f624c2"
+    },
+    {
+      "path": "public/voice/ep001/a2.wav",
+      "bytes": 87084,
+      "sha256": "741987d6651129b5d9e505f18c4048f588eeff943e829beb84178ee643285c6b"
+    },
+    {
+      "path": "public/voice/ep001/a3.wav",
+      "bytes": 106028,
+      "sha256": "8b2addec911da676e01a0e1b17479f24082f5dc64eed05dc9ab52d5d650d6da4"
+    },
+    {
+      "path": "public/voice/ep001/a4.wav",
+      "bytes": 135724,
+      "sha256": "8e522c0b49b783819afd8412575c9b5b7e97eb57440cb8533c468b435e682bbc"
+    },
+    {
+      "path": "public/voice/ep001/a5.wav",
+      "bytes": 108076,
+      "sha256": "31dc010dc87dec049f82c25f2446071697ca7a0f01a6db72b50574cc09bd0c62"
+    },
+    {
+      "path": "public/voice/ep001/a6.wav",
+      "bytes": 105004,
+      "sha256": "41ce71bbb37d8cc4321773b30e638d670eb08a93220791d1ef67c9e516b10c4b"
+    },
+    {
+      "path": "public/voice/ep001/a7.wav",
+      "bytes": 150060,
+      "sha256": "8d141d251a36f1e044f2b9461bfed9fa500c1f2d79420419f53152be21023ea1"
+    },
+    {
+      "path": "public/voice/ep001/a8.wav",
+      "bytes": 117804,
+      "sha256": "6fc5f2c2a6a48de2c6f8d9838e718a4fc4e67d08de8e0d8470a0c2fa188b1fd8"
+    },
+    {
+      "path": "public/voice/ep001/a9.wav",
+      "bytes": 146476,
+      "sha256": "d360856f6a1d8402c9b23fbe5746236c788ccd6253aad03ea741eee035ce3296"
+    },
+    {
+      "path": "public/voice/ep001/odai.wav",
+      "bytes": 81964,
+      "sha256": "6e30ff1d9af91e0ffc093ab3f3a83034b6a52f1742bb45440f67ed0d977a90d3"
+    },
+    {
+      "path": "public/voice/ep001/outro.wav",
+      "bytes": 141356,
+      "sha256": "6b4c075aa48053f534347260f2c173bf4a0a03333d3e1943631535a53dabe6d2"
+    },
+    {
+      "path": "public/voice/ep002/a1.wav",
+      "bytes": 121388,
+      "sha256": "b0ca95054ba6ee7176982d037528b08291c5acd40dfe7242675ff0e69d7cddc8"
+    },
+    {
+      "path": "public/voice/ep002/a10.wav",
+      "bytes": 145452,
+      "sha256": "08e75b1cc6eb0406d5c12a960f65d6e60e3927bd586b26848c0a8183e883a4c3"
+    },
+    {
+      "path": "public/voice/ep002/a11.wav",
+      "bytes": 146476,
+      "sha256": "7f171ec72d55945d2ccc38c05871c7a688e0ea9dfcc5710811321c5a2cac5cb3"
+    },
+    {
+      "path": "public/voice/ep002/a12.wav",
+      "bytes": 175148,
+      "sha256": "10d2410865e163066946b64d2e27df00bf41fee2dd200714fddaef4c5df3a91b"
+    },
+    {
+      "path": "public/voice/ep002/a13.wav",
+      "bytes": 160300,
+      "sha256": "f56ed0fe90343c924dc895bbca1cb9be53a38e5b2c988eec66cf58f52ff5e9a9"
+    },
+    {
+      "path": "public/voice/ep002/a14.wav",
+      "bytes": 199724,
+      "sha256": "b3d8691cada64e93695b6cabba3297013e5e8ab7de0ddf4ebff808a3fb2ed3e1"
+    },
+    {
+      "path": "public/voice/ep002/a2.wav",
+      "bytes": 144428,
+      "sha256": "c15b3519d1489379d3666353036d5c97539c29b17ea0bff6acb4aa57edef2538"
+    },
+    {
+      "path": "public/voice/ep002/a3.wav",
+      "bytes": 151596,
+      "sha256": "fedb9b4225ca396569264868d86c3e1f438aecaff2e6a394c912163e59677e0e"
+    },
+    {
+      "path": "public/voice/ep002/a4.wav",
+      "bytes": 110124,
+      "sha256": "d6f959c0ec6311383854154616e73d205264f71c25327cfaf7cef356ffd2d929"
+    },
+    {
+      "path": "public/voice/ep002/a5.wav",
+      "bytes": 153132,
+      "sha256": "67634d5f39bf4b25ea55ec4c86ccf877fe86b87a0f03058af3bb3101bc6e2949"
+    },
+    {
+      "path": "public/voice/ep002/a6.wav",
+      "bytes": 145452,
+      "sha256": "5a64bbac72e9573fe47782d46b5be323d2b5b5487b98c4f8bacd7a9c4df8dd6d"
+    },
+    {
+      "path": "public/voice/ep002/a7.wav",
+      "bytes": 155180,
+      "sha256": "b3b131d486630a136fdee5ec9ed84ab5de4d456e890b33d61bb26d2ef05cb3ba"
+    },
+    {
+      "path": "public/voice/ep002/a8.wav",
+      "bytes": 130092,
+      "sha256": "9aafa0a91a4dca9cc9d7654f0d88999235c390afe805f82b41ab0d3d8ecb3c29"
+    },
+    {
+      "path": "public/voice/ep002/a9.wav",
+      "bytes": 158252,
+      "sha256": "73c9d9c35c64ef800ed39fc9da060016d4cef5060552d91628aeb822e1fbc732"
+    },
+    {
+      "path": "public/voice/ep002/odai.wav",
+      "bytes": 80940,
+      "sha256": "2ecea38281c341b1c2740fd2ee9126addb2947a06bcc381d91c5a8e38f69286c"
+    },
+    {
+      "path": "public/voice/ep002/outro.wav",
+      "bytes": 237100,
+      "sha256": "930b1996c5d343006e72b76e68a58dff96fc985b85c7308bf4647ebbf4993793"
+    },
+    {
+      "path": "public/voice/konna-dog-short/a1.wav",
+      "bytes": 116780,
+      "sha256": "723deab8ebf75435a322e2fcf79a9a04eb3eead54ce360403087877aa1ba279b"
+    },
+    {
+      "path": "public/voice/konna-dog-short/a2.wav",
+      "bytes": 98860,
+      "sha256": "1c8972e439955e188fc988dfead6672dbba96c036eed93ac0e0ce69cc0495556"
+    },
+    {
+      "path": "public/voice/konna-dog-short/a3.wav",
+      "bytes": 142892,
+      "sha256": "65a1f70efd4b0b86573294d07f7d4eaf1c02961a45f2c8a83422d23a3b31a41c"
+    },
+    {
+      "path": "public/voice/konna-dog-short/a4.wav",
+      "bytes": 172076,
+      "sha256": "8ca1507fcea42a6ca922ed48735525a42a5b9213d7a2702ad7a30679ff9303b6"
+    },
+    {
+      "path": "public/voice/konna-dog-short/a5.wav",
+      "bytes": 126508,
+      "sha256": "07ff484ddf23131b4ace667bec06ef5134731cd3d8c3918c7d2540b92e358b8d"
+    },
+    {
+      "path": "public/voice/konna-dog-short/odai.wav",
+      "bytes": 160812,
+      "sha256": "ff0c1706e4ad0a8de14b54b8179d25330fea66880b900ee6b1f8bbb58c5877f4"
+    },
+    {
+      "path": "public/voice/konna-dog-short/outro.wav",
+      "bytes": 156204,
+      "sha256": "cb8a0576d37e882442a396a1c38e48a39efbf7445e92005bc1bc8c90b6c3fd6c"
+    },
+    {
+      "path": "public/voice/konna-kisei-short/a1.wav",
+      "bytes": 105516,
+      "sha256": "0d479aef34f57c72ad91ce1a495bc549f4b5a3fc3690103dbc9cec57c086125e"
+    },
+    {
+      "path": "public/voice/konna-kisei-short/a2.wav",
+      "bytes": 163884,
+      "sha256": "479105bdc44e9ac7a5fed9c7d4b28701c08643f178d709b119174fa3063e238b"
+    },
+    {
+      "path": "public/voice/konna-kisei-short/a3.wav",
+      "bytes": 119852,
+      "sha256": "740d9c23b854a0125079b517b864cee1077ee65e547d91cd2f52979adae8eb83"
+    },
+    {
+      "path": "public/voice/konna-kisei-short/a4.wav",
+      "bytes": 157228,
+      "sha256": "aefed4ac12ee017616544e1faddb91705a40581fea8f75cb0d7b48f681b855eb"
+    },
+    {
+      "path": "public/voice/konna-kisei-short/odai.wav",
+      "bytes": 62508,
+      "sha256": "fc615b2fd4632b7d01cb14ea5c5890e0e408b46e6cc6d4a466bdbf92f2543001"
+    },
+    {
+      "path": "public/voice/konna-kisei-short/outro.wav",
+      "bytes": 218668,
+      "sha256": "4db11556ad68fe935efe72d78dc9acb28a983d8fe4a95a815442b497812a6d8d"
+    },
+    {
+      "path": "public/voice/konna-onsen-ryokan-short/a1.wav",
+      "bytes": 109100,
+      "sha256": "5bad8580588c5dc3205c9fdfde5216f6818be7607ff7b90711cc5642b58720e8"
+    },
+    {
+      "path": "public/voice/konna-onsen-ryokan-short/a2.wav",
+      "bytes": 96300,
+      "sha256": "e2e6473e1ca52938ca7f43a9597a088072dcfdaa3b4867a1fa61670609db7b52"
+    },
+    {
+      "path": "public/voice/konna-onsen-ryokan-short/a3.wav",
+      "bytes": 123436,
+      "sha256": "e6e752e8392494b5d1057a1d61a57aab51c04c39ed8a0d4d704157688b97f46e"
+    },
+    {
+      "path": "public/voice/konna-onsen-ryokan-short/a4.wav",
+      "bytes": 173100,
+      "sha256": "220c56833dffc712dc5372e5c8efeac64e0343d4134e849020cef0f527b233c1"
+    },
+    {
+      "path": "public/voice/konna-onsen-ryokan-short/odai.wav",
+      "bytes": 80940,
+      "sha256": "2ecea38281c341b1c2740fd2ee9126addb2947a06bcc381d91c5a8e38f69286c"
+    },
+    {
+      "path": "public/voice/konna-onsen-ryokan-short/outro.wav",
+      "bytes": 159276,
+      "sha256": "91139842bbfba50b464aaa4e502d3cb6fe047738a3ee0e136c843d220a6dd7fc"
+    }
+  ]
+}

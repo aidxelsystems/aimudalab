@@ -1,0 +1,73 @@
+{
+  "episode": {
+    "id": "ai-history-hubble-01",
+    "title": "人類最高の目が宇宙でピンボケ。ハッブル宇宙望遠鏡",
+    "odai": "人類最高の目が\n宇宙でピンボケ",
+    "odai_reading": "人類最高の目が、宇宙でピンボケしました。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 0.96,
+    "odaiVoicePitch": -0.05,
+    "odaiVoiceIntonation": 0.82,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "1990年\nハッブル宇宙望遠鏡",
+        "reading": "1990年。世界の頭脳の結晶、ハッブル宇宙望遠鏡。",
+        "tag": "grandeur",
+        "duration": 5.09,
+        "speakerId": 13,
+        "voiceSpeed": 1.12,
+        "voicePitch": -0.03,
+        "voiceIntonation": 0.9,
+        "audioFile": "voice/ai-history-hubble-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "ところが\n届いた画像はぼんやり",
+        "reading": "ところが、届いた画像は、ぼんやり。",
+        "tag": "failure",
+        "duration": 3.4,
+        "speakerId": 13,
+        "voiceSpeed": 1,
+        "voicePitch": -0.04,
+        "voiceIntonation": 0.76,
+        "audioFile": "voice/ai-history-hubble-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "原因\n検査装置のレンズ間隔\nわずか1.3ミリ",
+        "reading": "原因は、鏡の検査装置。レンズ間隔が、わずか1.3ミリずれていました。",
+        "tag": "fact",
+        "duration": 5.51,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.03,
+        "voiceIntonation": 0.88,
+        "audioFile": "voice/ai-history-hubble-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "1993年\n補正光学装置を設置\nいわば宇宙のメガネ",
+        "reading": "1993年、宇宙で補正光学装置を装着。視力は回復。いわば、宇宙のメガネです。",
+        "tag": "recovery",
+        "duration": 7.53,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1,
+        "audioFile": "voice/ai-history-hubble-01/a4.wav"
+      }
+    ],
+    "outro": "宇宙でメガネ\nかけるんかい！\nでも直すのも\n天才\nチャンネル登録も\nよろしく",
+    "outro_reading": "宇宙でメガネ、かけるんかい！でも、直すのも天才。チャンネル登録もよろしく！",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.2,
+    "outroVoicePitch": 0.03,
+    "outroVoiceIntonation": 1.2,
+    "bgm": "BGM/Space Eyeglasses.mp3",
+    "odaiAudioFile": "voice/ai-history-hubble-01/odai.wav",
+    "odaiDuration": 3.84,
+    "outroAudioFile": "voice/ai-history-hubble-01/outro.wav",
+    "outroDuration": 6.06
+  }
+}

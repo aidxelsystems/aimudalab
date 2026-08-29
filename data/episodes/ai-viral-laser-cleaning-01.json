@@ -1,0 +1,85 @@
+{
+  "id": "ai-viral-laser-cleaning-01",
+  "title": "サビが一瞬で消える「レーザー洗浄機」なぜ金属は無事？",
+  "odai": "サビが\n光だけで消える",
+  "odai_reading": "サビが、光だけで消えていく。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.2,
+  "odaiVoicePitch": -0.03,
+  "odaiVoiceIntonation": 1.05,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "気持ちよすぎる…",
+      "reading": "うわ、気持ちよすぎる！",
+      "tag": "peak",
+      "duration": 3.9,
+      "speakerId": 3,
+      "voiceSpeed": 1.16,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.18
+    },
+    {
+      "id": "a2",
+      "text": "レーザー洗浄機",
+      "reading": "これが、レーザー洗浄機。",
+      "tag": "normal",
+      "duration": 2.9,
+      "speakerId": 13,
+      "voiceSpeed": 1.2,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.08
+    },
+    {
+      "id": "a3",
+      "text": "鉄まで\n削れないのか？",
+      "reading": "でも、鉄まで削れないの？",
+      "tag": "normal",
+      "duration": 2.8,
+      "speakerId": 3,
+      "voiceSpeed": 1.16,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.18
+    },
+    {
+      "id": "a4",
+      "text": "除去が始まる\n強さが違う",
+      "reading": "そこがすごい。サビと鉄では、除去が始まるレーザーの強さが違います。",
+      "tag": "normal",
+      "duration": 6.4,
+      "speakerId": 13,
+      "voiceSpeed": 1.22,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.0
+    },
+    {
+      "id": "a5",
+      "text": "出力を調整して\nサビを狙う",
+      "reading": "じゃあ、出力を調整して、表面のサビだけを狙うんだ。",
+      "tag": "normal",
+      "duration": 4.0,
+      "speakerId": 3,
+      "voiceSpeed": 1.18,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.14
+    },
+    {
+      "id": "a6",
+      "text": "航空機部品から\n放射性物質の除染まで",
+      "reading": "航空機の部品から、放射性物質の除染にも使われます。",
+      "tag": "peak",
+      "duration": 5.1,
+      "speakerId": 13,
+      "voiceSpeed": 1.22,
+      "voicePitch": -0.01,
+      "voiceIntonation": 1.08
+    }
+  ],
+  "outro": "サビ取りから、\n除染まで行くんかい！\n\nチャンネル登録も\nよろしく",
+  "outro_reading": "サビ取りから、除染まで行くんかい！チャンネル登録もよろしく。",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.2,
+  "outroVoicePitch": 0.04,
+  "outroVoiceIntonation": 1.2,
+  "bgm": "BGM/Cleanline Scan.mp3"
+}

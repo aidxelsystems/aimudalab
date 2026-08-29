@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIバズ科学Shorts制作"
+  short_description: "AI映像とRemotionで科学エンタメShortsを制作"
+  default_prompt: "AIバズ科学Shortsを企画・制作・検証してください"

@@ -1,0 +1,74 @@
+{
+  "episode": {
+    "id": "animal-why-sea-otter-01",
+    "odai": "この体、何のため？\nラッコ編\nまさか…脇にポケット!?",
+    "odai_reading": "この体、何のため？ ラッコ編。まさか、脇にポケット？",
+    "theme": "gameshow",
+    "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "voice_dir": "voice/animal-why-sea-otter-01",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "脇から\n石が出てきた!",
+        "reading": "脇から、石が出てきました。",
+        "tag": "normal",
+        "duration": 2.5,
+        "se": "pop",
+        "audioFile": "voice/animal-why-sea-otter-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "ここで問題\nこの“ポケット”に\n何を入れる？\nA 空気\nB 石や餌\nC 赤ちゃん",
+        "reading": "ここで問題。このポケットに、何を入れる？ A、空気。B、石や餌。C、赤ちゃん。",
+        "tag": "normal",
+        "duration": 8.75,
+        "se": "pop",
+        "audioFile": "voice/animal-why-sea-otter-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "正解は B！",
+        "reading": "正解は、B。石や餌です。",
+        "tag": "recovery",
+        "duration": 2.95,
+        "se": "don",
+        "audioFile": "voice/animal-why-sea-otter-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "本物の袋が\nあるわけではない",
+        "reading": "でも、本物の袋があるわけではありません。",
+        "tag": "normal",
+        "duration": 3.02,
+        "se": "pop",
+        "audioFile": "voice/animal-why-sea-otter-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "よく伸びる\n脇の皮膚に\n挟んで運ぶ",
+        "reading": "よく伸びる脇の皮膚に、挟んで運びます。",
+        "tag": "peak",
+        "duration": 3.5,
+        "se": "callback",
+        "peak": true,
+        "audioFile": "voice/animal-why-sea-otter-01/a5.wav"
+      },
+      {
+        "id": "a6",
+        "text": "石を持ち歩く\n海の道具箱",
+        "reading": "石を持ち歩く、海の道具箱です。",
+        "tag": "peak",
+        "duration": 2.8,
+        "se": "callback",
+        "peak": true,
+        "audioFile": "voice/animal-why-sea-otter-01/a6.wav"
+      }
+    ],
+    "outro": "ラッコの脇は\n海の道具箱\n\nチャンネル登録も\nよろしく！",
+    "outro_reading": "ラッコの脇は、海の道具箱。チャンネル登録して、次も挑戦！",
+    "odaiAudioFile": "voice/animal-why-sea-otter-01/odai.wav",
+    "odaiDuration": 5.13,
+    "outroAudioFile": "voice/animal-why-sea-otter-01/outro.wav",
+    "outroDuration": 4.97
+  }
+}

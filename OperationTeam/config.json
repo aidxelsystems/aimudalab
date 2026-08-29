@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "name": "AIのムダ遣いちゃんねる",
+    "handle": "@AIMudaLab",
+    "url": "https://www.youtube.com/@AIMudaLab",
+    "timezone": "Asia/Tokyo"
+  },
+  "reporting": {
+    "recentDays": 7,
+    "comparisonDays": 7,
+    "minimumViewsForRateComparison": 20,
+    "topVideoCount": 5
+  },
+  "goals": {
+    "primary": "AI×エンタメで人を楽しませながら、オリジナルな作品として持続的な収益化を目指す",
+    "guardrails": [
+      "短期再生数のためにチャンネルのテーマを崩さない",
+      "一度の実験で変更する主要変数は1つにする",
+      "投稿・削除・コメント返信は人間が承認する",
+      "テンプレートの大量反復ではなく、各動画に固有の企画・構成・視覚的価値を持たせる",
+      "AI生成であることを隠して視聴者を誤認させない"
+    ]
+  }
+}

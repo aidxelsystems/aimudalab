@@ -1,0 +1,66 @@
+{
+  "id": "ai-bgrade-jigokudaki-01",
+  "title": "この麺を地獄へ落とす。長崎・五島列島の地獄炊き",
+  "odai": "この麺を\n地獄へ落とす",
+  "odai_reading": "この麺を、地獄に落とします。もう、後戻りはできません。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 0.86,
+  "odaiVoicePitch": -0.06,
+  "odaiVoiceIntonation": 0.78,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "長崎・五島列島\n地獄炊き",
+      "reading": "でも、正体は、長崎県、五島列島の地獄炊き。",
+      "tag": "relief",
+      "duration": 3.8,
+      "speakerId": 3,
+      "voiceSpeed": 1.16,
+      "voicePitch": 0.02,
+      "voiceIntonation": 1.1
+    },
+    {
+      "id": "a2",
+      "text": "地獄の釜\nみたいだから",
+      "reading": "煮えたぎる鍋が、地獄の釜みたいだから、この名前。",
+      "tag": "fact",
+      "duration": 4.2,
+      "speakerId": 3,
+      "voiceSpeed": 1.18
+    },
+    {
+      "id": "a3",
+      "text": "椿油を使った\nつるんと細い丸麺",
+      "reading": "五島うどんは、椿油を使った、こしのある、つるんと細い丸麺。",
+      "tag": "fact",
+      "duration": 4.2,
+      "speakerId": 3,
+      "voiceSpeed": 1.18
+    },
+    {
+      "id": "a4",
+      "text": "鍋から直接\nあごだし・卵へ",
+      "reading": "鍋から直接すくい、あごだしか、卵につけて、熱々をいただきます。",
+      "tag": "appetite",
+      "duration": 4.3,
+      "speakerId": 3,
+      "voiceSpeed": 1.18
+    },
+    {
+      "id": "a5",
+      "text": "地獄なのに\nつるつる天国！",
+      "reading": "地獄なのに、つるつる天国！",
+      "tag": "peak",
+      "duration": 3.8,
+      "speakerId": 3,
+      "voiceSpeed": 1.14,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.18
+    }
+  ],
+  "outro": "地獄感\n台無しだな\nチャンネル登録も\nよろしく",
+  "outro_reading": "地獄感、台無しだな。チャンネル登録もよろしく！",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.18,
+  "bgm": "BGM/Udonswitch.mp3"
+}

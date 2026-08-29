@@ -1,0 +1,81 @@
+{
+  "episode": {
+    "id": "konna-dog-short",
+    "odai": "こんな犬は\n嫌だ",
+    "odai_reading": "まさか、犬が会社に勝つ。その理由は最後。",
+    "theme": "default",
+    "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "hook_style": "overlay_first_image",
+    "hook_headline": "まさか…\n犬が会社に勝った!?",
+    "hook_teaser": "理由は最後",
+    "outro_style": "image_loop",
+    "voice_dir": "data/episodes/ep001/voice",
+    "title_after": [],
+    "answers": [
+      {
+        "id": "a1",
+        "text": "散歩に誘ったら\n犬が会議中",
+        "reading": "散歩に誘ったら、犬が会議中。",
+        "tag": "peak",
+        "duration": 2.55,
+        "se": "don",
+        "audioFile": "voice/konna-dog-short/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "「お手」で\n見積書を出してきた",
+        "reading": "お手で、見積書を出してきた。",
+        "tag": "tendon",
+        "duration": 2.5,
+        "visual_pre_roll": 0.2,
+        "se": "pop",
+        "audioFile": "voice/konna-dog-short/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "飼い主の上司と\n定時退社を交渉中",
+        "reading": "飼い主の上司と、定時退社を交渉中。",
+        "tag": "tendon",
+        "duration": 3.1,
+        "visual_pre_roll": 0.25,
+        "se": "tsukkomi",
+        "audioFile": "voice/konna-dog-short/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "定時に帰ったら、\n犬がひと言\n「今日もお疲れさま」",
+        "reading": "定時に帰ったら、犬がひと言。今日もお疲れさま。",
+        "tag": "callback",
+        "duration": 3.7,
+        "visual_pre_roll": 0.25,
+        "se": "callback",
+        "audioFile": "voice/konna-dog-short/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "全部、飼い主と\n散歩するためだった",
+        "reading": "全部、飼い主と散歩するためだった。",
+        "tag": "peak",
+        "duration": 2.8,
+        "visual_pre_roll": 0.3,
+        "se": "drumroll_don",
+        "callback_ref": "a1",
+        "peak": true,
+        "audioFile": "voice/konna-dog-short/a5.wav"
+      }
+    ],
+    "outro": "この犬、欲しい？\nチャンネル登録も\nよろしく",
+    "outro_reading": "この犬、欲しい？ チャンネル登録もよろしく。",
+    "_notes": {
+      "structure": "5枚の短尺一事件型。仕事をする犬のギャップを重ね、飼い主を早く帰して散歩するためだったと評価反転する。",
+      "title_call_placement": "全面タイトルなし。0秒から大きな驚き顔と仕事中の犬を見せ、予告語を上部に重ねる。",
+      "viewer_emotion": "衝撃→犬が仕事している笑い→上司と交渉する意外性→労い→優しい理由の回収。",
+      "image_direction": "同じ柴犬と飼い主を5枚で継続。a01は飼い主の顔を最大化。全画像の上部35%をフリップ安全域、下部20%をShorts UI安全域にする。",
+      "effect_direction": "a01はドン、a02は軽いポップ、a03は読後ツッコミ、a04はシャキーン、a05は重い決め音。CTA後にa01へ戻してループする。"
+    },
+    "odaiAudioFile": "voice/konna-dog-short/odai.wav",
+    "odaiDuration": 3.65,
+    "outroAudioFile": "voice/konna-dog-short/outro.wav",
+    "outroDuration": 3.37
+  }
+}

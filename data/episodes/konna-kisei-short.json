@@ -1,0 +1,20 @@
+{
+  "id": "konna-kisei-short",
+  "odai": "こんな帰省は\n嫌だ",
+  "odai_reading": "こんな帰省は嫌だ",
+  "theme": "school",
+  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+  "hook_style": "overlay_first_image",
+  "hook_teaser": "待って！ 迎え、そこまで来る!?",
+  "outro_style": "image_loop",
+  "voice_dir": "data/episodes/ep001/voice",
+  "title_after": [],
+  "answers": [
+    {"id":"a1","text":"迎えの軽トラ、\nホームまで来てる","reading":"迎えの軽トラ、ホームまで来てる。","tag":"peak","duration":2.4,"se":"don"},
+    {"id":"a2","text":"祖母、顔を見るなり\n炊飯器3台を起動","reading":"祖母、顔を見るなり、炊飯器三台を起動。","tag":"normal","duration":2.6,"visual_pre_roll":0.25,"se":"pop"},
+    {"id":"a3","text":"帰りの野菜だけ、\n貨車で運ばれる","reading":"帰りの野菜だけ、貨車で運ばれる。","tag":"tendon","duration":2.5,"visual_pre_roll":0.25,"se":"tsukkomi"},
+    {"id":"a4","text":"祖母のおにぎり、\n全部、昔好きだった具","reading":"祖母のおにぎり、全部、昔好きだった具。","tag":"peak","duration":2.8,"visual_pre_roll":0.3,"se":"drumroll_don","callback_ref":"a2","peak":true}
+  ],
+  "outro": "あなたの帰省あるある\nコメントで教えて\nチャンネル登録も\nよろしく",
+  "outro_reading": "あなたの帰省あるある、コメントで教えて。チャンネル登録もよろしく。"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ai-bgrade-hangoroshi-01",
+  "title": "この米、半ごろしにします。徳島の郷土菓子",
+  "odai": "この米、\n半ごろしにします",
+  "odai_reading": "この米、半ごろしにします。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 0.88,
+  "odaiVoicePitch": -0.05,
+  "odaiVoiceIntonation": 0.82,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "でも、全部は\nつぶしません",
+      "reading": "でも、全部はつぶしません。半分で止めます。",
+      "tag": "normal",
+      "duration": 5,
+      "speakerId": 13,
+      "voiceSpeed": 1.0,
+      "voicePitch": -0.04,
+      "voiceIntonation": 0.9
+    },
+    {
+      "id": "a2",
+      "text": "徳島・那賀町\n半ごろし",
+      "reading": "正体は、徳島県那賀町の郷土料理、半ごろし。",
+      "tag": "normal",
+      "duration": 4,
+      "speakerId": 3,
+      "voiceSpeed": 1.22
+    },
+    {
+      "id": "a3",
+      "text": "米粒を\n半分残す",
+      "reading": "もち米とうるち米を、粒が残る程度につぶすから、この名前。",
+      "tag": "normal",
+      "duration": 4.5,
+      "speakerId": 3,
+      "voiceSpeed": 1.22
+    },
+    {
+      "id": "a4",
+      "text": "あんこ＋きな粉\n甘いおはぎ",
+      "reading": "あんこを包み、きな粉をまぶせば、甘いおはぎの完成。",
+      "tag": "normal",
+      "duration": 4.5,
+      "speakerId": 3,
+      "voiceSpeed": 1.22
+    },
+    {
+      "id": "a5",
+      "text": "全部つぶすと？\nみなごろし",
+      "reading": "ちなみに、全部つぶすと、みなごろしと呼ぶそうです。",
+      "tag": "peak",
+      "duration": 4.2,
+      "speakerId": 3,
+      "voiceSpeed": 1.17
+    }
+  ],
+  "outro": "名前が\n物騒すぎる！\nチャンネル登録も\nよろしく",
+  "outro_reading": "名前が物騒すぎる！チャンネル登録もよろしく！",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.2,
+  "bgm": "BGM/半割れスイーツ.mp3"
+}

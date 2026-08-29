@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIグルメShorts制作"
+  short_description: "強いフックと豆知識でAIグルメShortsを制作・検査"
+  default_prompt: "Use $build-ai-gourmet-short to create a tension-and-relief AI gourmet Short with a strong visual hook, verified facts, a second twist, and final quality checks."

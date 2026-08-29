@@ -1,0 +1,60 @@
+{
+  "id": "konna-onsen-ryokan-short",
+  "odai": "こんな温泉旅館は\n嫌だ",
+  "odai_reading": "こんな温泉旅館は嫌だ",
+  "theme": "default",
+  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+  "hook_style": "overlay_first_image",
+  "hook_teaser": "全員、まんじゅう供えてる!?",
+  "outro_style": "image_loop",
+  "voice_dir": "data/episodes/ep001/voice",
+  "title_after": [],
+  "answers": [
+    {
+      "id": "a1",
+      "text": "この旅館、\nまんじゅうが\n部屋の鍵",
+      "reading": "この旅館、まんじゅうが部屋の鍵。",
+      "tag": "peak",
+      "duration": 2.5,
+      "se": "don"
+    },
+    {
+      "id": "a2",
+      "text": "お供えしたら、\nほんとに開いた",
+      "reading": "お供えしたら、ほんとに開いた。",
+      "tag": "normal",
+      "duration": 2.5,
+      "visual_pre_roll": 0.2,
+      "se": "pop"
+    },
+    {
+      "id": "a3",
+      "text": "食べたら閉まった！\n荷物だけ\nチェックイン",
+      "reading": "食べたら閉まった。荷物だけチェックイン。",
+      "tag": "tendon",
+      "duration": 2.7,
+      "visual_pre_roll": 0.2,
+      "se": "tsukkomi"
+    },
+    {
+      "id": "a4",
+      "text": "名物・\n合鍵まんじゅう\n名物を鍵にするな！",
+      "reading": "名物、合鍵まんじゅう。名物を鍵にするな。",
+      "tag": "peak",
+      "duration": 2.8,
+      "visual_pre_roll": 0.25,
+      "se": "drumroll_don",
+      "callback_ref": "a1",
+      "peak": true
+    }
+  ],
+  "outro": "この鍵、欲しい？\nチャンネル登録も\nよろしく",
+  "outro_reading": "この鍵、欲しい？ チャンネル登録もよろしく。",
+  "_notes": {
+    "structure": "4枚の短尺一事件型。不条理ルールを冒頭で見せ、お供えで成立、食べて自滅、名物商品として価値反転する。",
+    "title_call_placement": "全面タイトルなし。0秒から主人公の大きな驚き顔、仲居のまんじゅう、廊下で全員がお供えする異常を見せる。",
+    "viewer_emotion": "何この顔と集団行動→本当に鍵なのか→食べるからだ→嫌だけど少し欲しい。",
+    "image_direction": "同じ主人公、仲居、まんじゅうを4枚で継続。a01は顔のインパクト最優先。全画像の上部35%をフリップ安全域、主役は中央35～75%、下部20%には重要物を置かない。",
+    "effect_direction": "a01はドンで即時フック、a02は軽い成立音、a03は読み後のツッコミ、a04は重い決め音。CTA後にa01へ戻してループする。"
+  }
+}

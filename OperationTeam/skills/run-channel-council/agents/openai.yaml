@@ -1,0 +1,4 @@
+interface:
+  display_name: "全Team定例会"
+  short_description: "運用・企画・制作・事業を統合して週次の会議議事録を作成"
+  default_prompt: "Use $run-channel-council to run the weekly AIのムダ遣いちゃんねる team review and save the minutes."

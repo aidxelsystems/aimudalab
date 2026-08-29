@@ -1,0 +1,316 @@
+{
+  "meetingDate": "2026-08-23",
+  "preparedAt": "2026-08-23T10:49:35.724Z",
+  "timezone": "Asia/Tokyo",
+  "mode": "refresh-then-saved-data-fallback",
+  "refresh": [
+    {
+      "script": "collect-public.mjs",
+      "ok": true,
+      "status": 0,
+      "stdout": "公開データを保存しました: C:\\Users\\ksmt3\\Documents\\codex\\FlipCodex\\OperationTeam\\data\\snapshots\\2026-08-23-public.json",
+      "stderr": ""
+    },
+    {
+      "script": "collect-analytics.mjs",
+      "ok": true,
+      "status": 0,
+      "stdout": "Analyticsデータを保存しました: C:\\Users\\ksmt3\\Documents\\codex\\FlipCodex\\OperationTeam\\data\\snapshots\\2026-08-23-analytics.json",
+      "stderr": "警告: subscribed レポートは取得できませんでした。"
+    },
+    {
+      "script": "generate-weekly-report.mjs",
+      "ok": true,
+      "status": 0,
+      "stdout": "週次レポートを作成しました: C:\\Users\\ksmt3\\Documents\\codex\\FlipCodex\\OperationTeam\\reports\\2026-08-23-weekly.md",
+      "stderr": ""
+    }
+  ],
+  "sources": {
+    "channelVision": "CHANNEL_VISION.md",
+    "operationContract": "OperationTeam/AGENTS.md",
+    "planningContract": "PlanningTeam/AGENTS.md",
+    "productionContract": "ProductionTeam/AGENTS.md",
+    "businessContract": "BusinessTeam/AGENTS.md",
+    "latestPublicSnapshot": {
+      "path": "OperationTeam/data/snapshots/2026-08-23-public.json",
+      "modifiedAt": "2026-08-23T10:49:33.855Z"
+    },
+    "latestAnalyticsSnapshot": {
+      "path": "OperationTeam/data/snapshots/2026-08-23-analytics.json",
+      "modifiedAt": "2026-08-23T10:49:35.587Z"
+    },
+    "latestWeeklyReport": {
+      "path": "OperationTeam/reports/2026-08-23-weekly.md",
+      "modifiedAt": "2026-08-23T10:49:35.695Z"
+    },
+    "recentOperationReports": [
+      {
+        "path": "OperationTeam/reports/2026-08-23-weekly.md",
+        "modifiedAt": "2026-08-23T10:49:35.695Z"
+      },
+      {
+        "path": "OperationTeam/reports/2026-08-22-weekly.md",
+        "modifiedAt": "2026-08-22T06:54:05.592Z"
+      },
+      {
+        "path": "OperationTeam/reports/2026-08-22-hubble-scheduled.md",
+        "modifiedAt": "2026-08-22T06:42:48.911Z"
+      },
+      {
+        "path": "OperationTeam/reports/2026-08-19-zeri-fry-hook-reanalysis.md",
+        "modifiedAt": "2026-08-19T03:36:08.791Z"
+      },
+      {
+        "path": "OperationTeam/reports/2026-08-19-zeri-fry-initial-analysis.md",
+        "modifiedAt": "2026-08-18T15:19:39.024Z"
+      }
+    ],
+    "recentPlanningOutputs": [
+      {
+        "path": "PlanningTeam/output/2026-08-21-series-direction-decision.md",
+        "modifiedAt": "2026-08-20T15:41:56.016Z"
+      },
+      {
+        "path": "PlanningTeam/output/2026-08-19-tension-release-gourmet-candidates.md",
+        "modifiedAt": "2026-08-19T14:04:15.701Z"
+      },
+      {
+        "path": "PlanningTeam/output/2026-08-19-next-gourmet-hook-proposal.md",
+        "modifiedAt": "2026-08-19T03:52:20.979Z"
+      },
+      {
+        "path": "PlanningTeam/output/2026-08-15-genius-unexpected-history-format.md",
+        "modifiedAt": "2026-08-15T10:58:18.477Z"
+      },
+      {
+        "path": "PlanningTeam/output/2026-08-15-ai-animal-reconstruction-roadmap.md",
+        "modifiedAt": "2026-08-15T10:53:45.477Z"
+      }
+    ],
+    "recentPlanningHandoffs": [
+      {
+        "path": "PlanningTeam/handoffs/2026-08-22-teppou-jiru.md",
+        "modifiedAt": "2026-08-22T01:39:57.360Z"
+      },
+      {
+        "path": "PlanningTeam/handoffs/2026-08-21-hangoroshi-flow-prompts.md",
+        "modifiedAt": "2026-08-21T12:12:10.135Z"
+      },
+      {
+        "path": "PlanningTeam/handoffs/2026-08-12-animal-why-sea-otter.md",
+        "modifiedAt": "2026-08-12T01:25:37.471Z"
+      },
+      {
+        "path": "PlanningTeam/handoffs/2026-08-11-animal-why-star-nosed-mole.md",
+        "modifiedAt": "2026-08-11T09:27:27.451Z"
+      },
+      {
+        "path": "PlanningTeam/handoffs/2026-08-10-animal-why-platypus.md",
+        "modifiedAt": "2026-08-10T13:34:02.681Z"
+      }
+    ],
+    "recentProductionOutputs": [
+      {
+        "path": "ProductionTeam/output/2026-08-23-viral-cola-geyser-qc.md",
+        "modifiedAt": "2026-08-23T10:42:50.446Z"
+      },
+      {
+        "path": "ProductionTeam/output/2026-08-22-hubble-qc.md",
+        "modifiedAt": "2026-08-22T05:51:49.179Z"
+      },
+      {
+        "path": "ProductionTeam/output/nazokake-short-sample-script-ai.md",
+        "modifiedAt": "2026-07-25T03:55:00.377Z"
+      },
+      {
+        "path": "ProductionTeam/output/nazokake-short-spec.md",
+        "modifiedAt": "2026-07-25T03:54:57.882Z"
+      }
+    ],
+    "recentBusinessReports": [
+      {
+        "path": "BusinessTeam/reports/2026-08-16-multiplatform-pre-ypp-monetization.md",
+        "modifiedAt": "2026-08-16T12:41:55.421Z"
+      },
+      {
+        "path": "BusinessTeam/reports/2026-08-16-editing-service-validation.md",
+        "modifiedAt": "2026-08-16T10:58:13.397Z"
+      },
+      {
+        "path": "BusinessTeam/reports/README.md",
+        "modifiedAt": "2026-08-15T00:51:13.074Z"
+      }
+    ],
+    "scheduledUploads": [
+      {
+        "path": "OperationTeam/uploads/2026-07-31-konna-natsuyasumi-shukudai.json",
+        "title": "こんな夏休みの宿題は嫌だ｜宿題が背より高い。8月31日は3倍速【AI大喜利】",
+        "publishAt": "2026-07-31T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-01-konna-pool.json",
+        "title": "こんなプールは嫌だ｜この監視員、最後に流されます【AI大喜利】",
+        "publishAt": "2026-08-01T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-02-konna-kimodameshi.json",
+        "title": "こんな肝試しは嫌だ｜逃げて！後ろのやつ、本物です【AI大喜利】",
+        "publishAt": "2026-08-02T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-03-konna-suikawari.json",
+        "title": "こんなスイカ割りは嫌だ｜逃げるスイカを割ろうとしたら…【AI大喜利】",
+        "publishAt": "2026-08-03T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-04-konna-radio-taiso.json",
+        "title": "こんなラジオ体操は嫌だ｜第一はヨガ、第二はブレイキン【AI大喜利】",
+        "publishAt": "2026-08-04T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-05-konna-kisei-feed.json",
+        "title": "こんな帰省は嫌だ｜迎えの軽トラが駅のホームまで来た【AI大喜利】",
+        "publishAt": "2026-08-05T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-06-konna-onsen-ryokan-short.json",
+        "title": "こんな温泉旅館は嫌だ｜部屋の鍵がまんじゅうだった【AI大喜利】",
+        "publishAt": "2026-08-06T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-07-konna-dog-short.json",
+        "title": "こんな犬は嫌だ｜柴犬が会社に勝った理由、最後に判明【AI大喜利】",
+        "publishAt": "2026-08-07T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-09-konna-natsumatsuri.json",
+        "title": "こんな夏祭りは嫌だ｜暴走する盆踊りと屋台の正体【AI大喜利】",
+        "publishAt": "2026-08-09T09:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-10-ai-lie-animals-01.json",
+        "title": "変な動物クイズ｜1匹だけAIのウソ…見抜ける？ #Shorts",
+        "publishAt": "2026-08-10T10:30:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-11-animal-why-platypus-01.json",
+        "title": "衝撃！カモノハシは目・耳・鼻を閉じて狩る｜どうやって？ #Shorts",
+        "publishAt": "2026-08-11T10:30:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-11-konna-kisei.json",
+        "title": "こんな帰省は嫌だ｜手作り味噌の正体と祖母のおにぎり【AI大喜利】",
+        "publishAt": "2026-08-11T10:30:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-12-animal-why-star-nosed-mole-01.json",
+        "title": "衝撃！顔に22本…ホシバナモグラの星形の鼻は何のため？ #Shorts",
+        "publishAt": "2026-08-12T10:30:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-13-animal-why-sea-otter-01.json",
+        "title": "ラッコの脇にポケット!? 石や餌をしまう仕組みとは？ #Shorts",
+        "publishAt": "2026-08-13T10:30:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-16-ai-xray-penguin-01.json",
+        "title": "ペンギンの足は実は長い？骨格をAIで透視 #Shorts",
+        "publishAt": "2026-08-16T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-17-ai-bgrade-zeri-fry-01.json",
+        "title": "ゼリー0％！？埼玉・行田の謎グルメ「ゼリーフライ」 #Shorts",
+        "publishAt": "2026-08-17T10:00:00.000Z",
+        "uploadStatus": null,
+        "youtubeVideoId": null
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-18-ai-bgrade-salad-bread-01.json",
+        "title": "サラダパンの中身はたくあん！？滋賀・長浜の謎パン #Shorts",
+        "publishAt": "2026-08-18T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "LwwSIUxJ-ys"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-19-ai-bgrade-tamago-fuwafuwa-01.json",
+        "title": "江戸時代のスフレ！？静岡・袋井の『たまごふわふわ』 #Shorts",
+        "publishAt": "2026-08-19T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "7DND4bTPDD0"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-20-ai-bgrade-uzumemeshi-01.json",
+        "title": "日本五大名飯なのに具がない？島根・津和野「うずめ飯」 #Shorts",
+        "publishAt": "2026-08-20T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "ug56RpQ9ig0"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-22-ai-bgrade-hangoroshi-01.json",
+        "title": "この米、半ごろしにします…徳島の郷土菓子が物騒すぎる #Shorts",
+        "publishAt": "2026-08-22T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "XbGTk_AdmGY"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-23-ai-bgrade-jigokudaki-01.json",
+        "title": "この麺、地獄へ落とします…長崎・五島列島「地獄炊き」 #Shorts",
+        "publishAt": "2026-08-23T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "dT8bRaWJCm8"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-24-ai-bgrade-teppou-jiru-01.json",
+        "title": "このカニ、鉄砲にします…北海道・根室「てっぽう汁」 #Shorts",
+        "publishAt": "2026-08-24T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "Rb4PePjY5R4"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-25-ai-history-hubble-01.json",
+        "title": "人類最高の目が宇宙でピンボケ…ハッブルを救った「宇宙のメガネ」 #Shorts",
+        "publishAt": "2026-08-25T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "uGDfXopsMKo"
+      },
+      {
+        "path": "OperationTeam/uploads/2026-08-26-ai-viral-cola-geyser-01.json",
+        "title": "AIはコーラ噴水を再現できる？実は化学反応じゃない #Shorts",
+        "publishAt": "2026-08-26T10:00:00.000Z",
+        "uploadStatus": "scheduled",
+        "youtubeVideoId": "DEvNrthujRk"
+      }
+    ]
+  }
+}

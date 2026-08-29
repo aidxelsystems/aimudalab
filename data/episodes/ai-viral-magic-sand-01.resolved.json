@@ -1,0 +1,97 @@
+{
+  "episode": {
+    "id": "ai-viral-magic-sand-01",
+    "title": "水に沈めても濡れない砂、まさかの砂漠農業へ",
+    "odai": "水の中なのに\n濡れない砂",
+    "odai_reading": "水に沈めた砂。なのに、濡れていません。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.2,
+    "odaiVoicePitch": -0.02,
+    "odaiVoiceIntonation": 1.1,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "正体は\nマジックサンド",
+        "reading": "正体は、マジックサンド。",
+        "tag": "normal",
+        "duration": 2.7,
+        "speakerId": 13,
+        "voiceSpeed": 1.17,
+        "voicePitch": -0.03,
+        "voiceIntonation": 0.98,
+        "audioFile": "voice/ai-viral-magic-sand-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "で、これ\n何に使うの？",
+        "reading": "でもこれ、何に使うの？",
+        "tag": "question",
+        "duration": 2.6,
+        "speakerId": 3,
+        "voiceSpeed": 1.18,
+        "voicePitch": 0.04,
+        "voiceIntonation": 1.18,
+        "audioFile": "voice/ai-viral-magic-sand-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "砂粒ひとつずつを\n撥水加工",
+        "reading": "砂粒の表面が、みずをはじくように加工されています。",
+        "tag": "normal",
+        "duration": 4.5,
+        "speakerId": 13,
+        "voiceSpeed": 1.24,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.02,
+        "audioFile": "voice/ai-viral-magic-sand-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "水が入り込みにくい\n取り出すと乾いてる",
+        "reading": "水が砂粒の間へ入り込みにくい。だから、取り出すと乾いている。",
+        "tag": "recovery",
+        "duration": 4.3,
+        "speakerId": 13,
+        "voiceSpeed": 1.3,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1,
+        "audioFile": "voice/ai-viral-magic-sand-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "同じ撥水の発想を\n砂漠の畑へ",
+        "reading": "そして同じ撥水の発想が、乾燥地の農業で研究されています。",
+        "tag": "peak",
+        "duration": 4.8,
+        "speakerId": 13,
+        "voiceSpeed": 1.28,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1.1,
+        "audioFile": "voice/ai-viral-magic-sand-01/a5.wav"
+      },
+      {
+        "id": "a6",
+        "text": "研究では\n水分蒸発 最大78%減",
+        "reading": "研究では、土からの蒸発を最大78パーセント抑えました。",
+        "tag": "peak",
+        "duration": 4.2,
+        "speakerId": 13,
+        "voiceSpeed": 1.25,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1.12,
+        "audioFile": "voice/ai-viral-magic-sand-01/a6.wav"
+      }
+    ],
+    "outro": "まさかの――\n砂漠農業の\n救世主かい！\n\nチャンネル登録もよろしく",
+    "outro_reading": "まさかの、砂漠農業の救世主かい！ チャンネル登録もよろしく。",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.19,
+    "outroVoicePitch": 0.05,
+    "outroVoiceIntonation": 1.24,
+    "bgm": "BGM/The Dry-Sand Reveal.mp3",
+    "odaiAudioFile": "voice/ai-viral-magic-sand-01/odai.wav",
+    "odaiDuration": 3.09,
+    "outroAudioFile": "voice/ai-viral-magic-sand-01/outro.wav",
+    "outroDuration": 4.72
+  }
+}

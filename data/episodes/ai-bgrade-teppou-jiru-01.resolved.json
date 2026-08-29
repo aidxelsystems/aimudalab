@@ -1,0 +1,67 @@
+{
+  "episode": {
+    "id": "ai-bgrade-teppou-jiru-01",
+    "title": "このカニ、鉄砲にします。北海道・根室のてっぽう汁",
+    "odai": "このカニ、\n鉄砲にします",
+    "odai_reading": "このカニ、鉄砲にします。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 0.88,
+    "odaiVoicePitch": -0.05,
+    "odaiVoiceIntonation": 0.8,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "北海道・根室\nてっぽう汁",
+        "reading": "……汁です。正体は、北海道、根室の郷土料理、てっぽう汁。",
+        "tag": "relief",
+        "duration": 5.3,
+        "speakerId": 3,
+        "voiceSpeed": 1.18,
+        "voicePitch": 0.02,
+        "voiceIntonation": 1.12,
+        "audioFile": "voice/ai-bgrade-teppou-jiru-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "カニ脚をつつく姿が\n鉄砲の弾込めみたい",
+        "reading": "カニの脚を箸でつつく姿が、鉄砲の弾込めに似ていることが、名前の由来。",
+        "tag": "fact",
+        "duration": 5.4,
+        "speakerId": 3,
+        "voiceSpeed": 1.2,
+        "audioFile": "voice/ai-bgrade-teppou-jiru-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "カニだし＋味噌\n長ねぎ・豆腐",
+        "reading": "カニのだしへ、味噌、長ねぎ、豆腐。熱々の漁師料理です。",
+        "tag": "appetite",
+        "duration": 5.04,
+        "speakerId": 3,
+        "voiceSpeed": 1.2,
+        "audioFile": "voice/ai-bgrade-teppou-jiru-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "ところで花咲ガニ\n実はヤドカリの仲間",
+        "reading": "ところで花咲ガニは、実は、ヤドカリの仲間です。",
+        "tag": "peak",
+        "duration": 4,
+        "speakerId": 3,
+        "voiceSpeed": 1.16,
+        "voicePitch": 0.03,
+        "voiceIntonation": 1.18,
+        "audioFile": "voice/ai-bgrade-teppou-jiru-01/a4.wav"
+      }
+    ],
+    "outro": "鉄砲じゃないうえ\nヤドカリ寄りかい！\nチャンネル登録も\nよろしく",
+    "outro_reading": "鉄砲じゃないうえ、ヤドカリ寄りかい！チャンネル登録もよろしく！",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.18,
+    "bgm": "BGM/Seafood Punchline.mp3",
+    "odaiAudioFile": "voice/ai-bgrade-teppou-jiru-01/odai.wav",
+    "odaiDuration": 2.68,
+    "outroAudioFile": "voice/ai-bgrade-teppou-jiru-01/outro.wav",
+    "outroDuration": 4.64
+  }
+}

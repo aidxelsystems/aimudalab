@@ -1,0 +1,46 @@
+{
+  "id": "ai-xray-penguin-01",
+  "odai": "AI透視図鑑\nペンギンの足\n実は長い!?",
+  "odai_reading": "ペンギンの足。実は長い。体の中に隠れています。",
+  "theme": "xray",
+  "bgm": "BGM/Oogiri Parade2.mp3",
+  "voice_dir": "voice/ai-xray-penguin-01",
+  "answers": [
+    {
+      "id": "a1",
+      "text": "見えているのは\n足の一部だけ",
+      "reading": "見えているのは、足の一部だけです。",
+      "tag": "normal",
+      "duration": 2.8,
+      "se": "pop"
+    },
+    {
+      "id": "a2",
+      "text": "長い脚の骨と膝が\n胴体の中に隠れている",
+      "reading": "エーアイで透視すると、長い脚の骨と膝が、胴体の中に隠れています。",
+      "tag": "recovery",
+      "duration": 4.8,
+      "se": "don"
+    },
+    {
+      "id": "a3",
+      "text": "出っ張りを減らして\n水の抵抗を小さく",
+      "reading": "体の出っ張りを減らし、水の抵抗を小さくする形と考えられています。",
+      "tag": "peak",
+      "duration": 4.7,
+      "se": "callback",
+      "peak": true
+    },
+    {
+      "id": "a4",
+      "text": "人間がマネすると…\n駅がペンギン行列",
+      "reading": "人間がまねすると、駅がペンギン行列。",
+      "tag": "peak",
+      "duration": 3.2,
+      "se": "tsukkomi",
+      "peak": true
+    }
+  ],
+  "outro": "短足じゃない\n隠し足だった\n\n面白かったら\nチャンネル登録もよろしく!",
+  "outro_reading": "短足じゃない。隠し足だった。面白かったら、チャンネル登録もよろしく。"
+}

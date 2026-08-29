@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "id": "animal-why-platypus-01",
+    "odai": "まさか…\n目・耳・鼻を閉じて\n狩る!?",
+    "odai_reading": "まさか。目も耳も鼻も閉じて狩る。どうやって？",
+    "theme": "gameshow",
+    "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "voice_dir": "voice/animal-why-platypus-01",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "A 超音波\nB くちばしで電気\nC 水の味",
+        "reading": "A、超音波。B、くちばしで電気。C、水の味。",
+        "tag": "normal",
+        "duration": 5.61,
+        "se": "pop",
+        "audioFile": "voice/animal-why-platypus-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "正解は B！",
+        "reading": "正解は、B。",
+        "tag": "recovery",
+        "duration": 1.54,
+        "se": "don",
+        "audioFile": "voice/animal-why-platypus-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "水中では\n目・耳・鼻を\n閉じる",
+        "reading": "水中では、目、耳、鼻を閉じます。",
+        "tag": "normal",
+        "duration": 3.52,
+        "se": "pop",
+        "audioFile": "voice/animal-why-platypus-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "くちばしで\n圧力と微弱な電気を\n感じ取る",
+        "reading": "くちばしで、圧力と微弱な電気を感じ、獲物を探します。",
+        "tag": "peak",
+        "duration": 4.43,
+        "se": "callback",
+        "peak": true,
+        "audioFile": "voice/animal-why-platypus-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "AIイメージ\n電気の足あとを\n読む世界",
+        "reading": "まるで、電気の足あとを読む世界。",
+        "tag": "peak",
+        "duration": 3,
+        "se": "callback",
+        "peak": true,
+        "audioFile": "voice/animal-why-platypus-01/a5.wav"
+      }
+    ],
+    "outro": "このくちばし、\n電気を読む“手”だった\n\nチャンネル登録も\nよろしく！",
+    "outro_reading": "このくちばし、電気を読む手だった。チャンネル登録して、次も挑戦！",
+    "odaiAudioFile": "voice/animal-why-platypus-01/odai.wav",
+    "odaiDuration": 3.69,
+    "outroAudioFile": "voice/animal-why-platypus-01/outro.wav",
+    "outroDuration": 5.15
+  }
+}

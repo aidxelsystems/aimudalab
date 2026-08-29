@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "storage": "google-drive",
+  "driveRootName": "AIMudaLabAssets",
+  "localPublicRoot": "public",
+  "folders": {
+    "movie": "public/movie",
+    "image": "public/image",
+    "knowledge": "public/knowledge",
+    "quiz": "public/quiz",
+    "bgm": "public/BGM",
+    "effects": "public/Effect",
+    "voice": "public/voice",
+    "characters": "charactor"
+  },
+  "manifest": "ProductionTeam/assets-manifest.json",
+  "finalArchive": "final-archive"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-laser-cleaning-01",
+  "status": "ready",
+  "preparedBy": "ClaudeCode",
+  "compositionId": "LaserCleaningShort",
+  "props": "../../data/episodes/ai-viral-laser-cleaning-01.resolved.json",
+  "output": {
+    "render": "../../out/ai-viral-laser-cleaning-01-render-v4.mp4",
+    "final": "../../out/ai-viral-laser-cleaning-01-final-v4.mp4",
+    "qcDir": "../../out/qc/ai-viral-laser-cleaning-01-handoff-v4",
+    "qcReport": "../output/2026-08-29-laser-cleaning-handoff-v4-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {
+      "min": 30,
+      "max": 35
+    }
+  },
+  "render": {
+    "crf": 16,
+    "concurrency": 4,
+    "audioBitrate": "192k"
+  },
+  "audio": {
+    "normalize": true,
+    "targetLufs": -16,
+    "truePeakDb": -1.4,
+    "lra": 7,
+    "sampleRate": 48000
+  },
+  "checkpoints": [
+    {"time": 0.8, "label": "冒頭フック_サビが光だけで消える"},
+    {"time": 4.0, "label": "50-50清掃境界"},
+    {"time": 6.3, "label": "レーザー洗浄機名称"},
+    {"time": 9.5, "label": "鉄まで削れないのか"},
+    {"time": 13.0, "label": "サビと鉄の閾値図"},
+    {"time": 19.5, "label": "出力調整の図"},
+    {"time": 23.5, "label": "応用_AIによる応用イメージ"},
+    {"time": 28.5, "label": "オチとCTA"}
+  ],
+  "sources": [
+    "../../data/episodes/ai-viral-laser-cleaning-01.resolved.json",
+    "../drafts/ai-viral-laser-cleaning-01-production-brief.md"
+  ],
+  "notes": "Codex V4。ai-viral-ferrofluid-01-final.mp4を字幕安全域の基準に再調整。上見出しはカメラ/UI帯を避けて170pxから始まる大型の白縁袋文字、下の掛け合い字幕は説明欄を避けてbottom 245px、最終オチとCTAは全画面中央配置。男女の掛け合い・音声・尺はV3から維持。Cut1(鉄板)を主役、Cut2(円筒)は応用映像として使用する。"
+}

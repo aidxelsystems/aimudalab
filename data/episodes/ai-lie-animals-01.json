@@ -1,0 +1,45 @@
+{
+  "id": "ai-lie-animals-01",
+  "odai": "衝撃！\nこの3匹、1匹だけ\nAIのウソです",
+  "odai_reading": "衝撃。1匹だけ、AIのウソ。",
+  "theme": "gameshow",
+  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+  "voice_dir": "voice/ai-lie-animals-01",
+  "answers": [
+    {
+      "id": "a1",
+      "text": "この鼻は\n夏は砂を防ぎ\n冬は空気を温める",
+      "reading": "A、サイガ。鼻で砂を防ぎ、冷気を温める。",
+      "tag": "normal",
+      "duration": 3.4,
+      "se": "pop"
+    },
+    {
+      "id": "a2",
+      "text": "食べた藻の\n葉緑体を取り込む\n海のウミウシ",
+      "reading": "B、リーフシープ。藻の葉緑体を、体に取り込む。",
+      "tag": "normal",
+      "duration": 3.4,
+      "se": "pop"
+    },
+    {
+      "id": "a3",
+      "text": "花びら鼻で\n朝露を集めて\n飲む",
+      "reading": "C、ハナビロリス。花びら鼻で、朝露を集める。",
+      "tag": "normal",
+      "duration": 3.4,
+      "se": "pop"
+    },
+    {
+      "id": "a4",
+      "text": "正解は C！\nハナビロリスは\nAI創作",
+      "reading": "正解は、C。AIが作った架空の動物でした。",
+      "tag": "peak",
+      "duration": 3.5,
+      "se": "don",
+      "peak": true
+    }
+  ],
+  "outro": "見抜けた？\n次のウソにも挑戦！\nチャンネル登録\nよろしく！",
+  "outro_reading": "見抜けた？登録して、次も挑戦！"
+}

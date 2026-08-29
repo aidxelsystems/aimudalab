@@ -1,0 +1,109 @@
+{
+  "episode": {
+    "id": "ai-viral-aerogel-01",
+    "title": "炎の上なのに花が無事!? ほぼ空気の固体エアロゲル",
+    "odai": "炎の上なのに\n花が無事!?",
+    "odai_reading": "炎の上なのに。花が無事！",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.18,
+    "odaiVoicePitch": -0.03,
+    "odaiVoiceIntonation": 1.16,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "正体は\nエアロゲル",
+        "reading": "正体は、エアロゲル。",
+        "tag": "normal",
+        "duration": 2.5,
+        "speakerId": 13,
+        "voiceSpeed": 1.16,
+        "voicePitch": -0.03,
+        "voiceIntonation": 1.02,
+        "audioFile": "voice/ai-viral-aerogel-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "固体なのに\n95%が空気",
+        "reading": "固体なのに、体積の95パーセントは空気です。",
+        "tag": "normal",
+        "duration": 3.21,
+        "speakerId": 13,
+        "voiceSpeed": 1.24,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.04,
+        "audioFile": "voice/ai-viral-aerogel-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "細かな穴が\n熱を伝えにくくする",
+        "reading": "細かな穴に空気を閉じ込め、熱を伝えにくくします。",
+        "tag": "normal",
+        "duration": 4,
+        "speakerId": 13,
+        "voiceSpeed": 1.28,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.02,
+        "audioFile": "voice/ai-viral-aerogel-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "実物も\n花を熱から守る",
+        "reading": "実際の実演でも、青い炎から花を守ります。",
+        "tag": "recovery",
+        "duration": 3.6,
+        "speakerId": 13,
+        "voiceSpeed": 1.26,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.07,
+        "audioFile": "voice/ai-viral-aerogel-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "NASAは\n火星探査車の断熱へ",
+        "reading": "ナサは、火星探査車の断熱にも使いました。",
+        "tag": "peak",
+        "duration": 3.8,
+        "speakerId": 13,
+        "voiceSpeed": 1.25,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1.1,
+        "audioFile": "voice/ai-viral-aerogel-01/a5.wav"
+      },
+      {
+        "id": "a6",
+        "text": "さらに\n彗星のチリを捕獲",
+        "reading": "さらに、すいせいのチリを捕まえて、地球へ持ち帰りました。",
+        "tag": "peak",
+        "duration": 4.6,
+        "speakerId": 13,
+        "voiceSpeed": 1.28,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1.13,
+        "audioFile": "voice/ai-viral-aerogel-01/a6.wav"
+      },
+      {
+        "id": "a7",
+        "text": "速さは\n弾丸の最大6倍",
+        "reading": "速さは、弾丸の最大6倍。",
+        "tag": "peak",
+        "duration": 3,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.22,
+        "audioFile": "voice/ai-viral-aerogel-01/a7.wav"
+      }
+    ],
+    "outro": "軽すぎるのに\n仕事が重いわ！\n\nチャンネル登録もよろしく",
+    "outro_reading": "軽すぎるのに、仕事が重いわ！ チャンネル登録もよろしく。",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.18,
+    "outroVoicePitch": 0.05,
+    "outroVoiceIntonation": 1.25,
+    "bgm": "BGM/Solid Smoke Launch.mp3",
+    "odaiAudioFile": "voice/ai-viral-aerogel-01/odai.wav",
+    "odaiDuration": 2.31,
+    "outroAudioFile": "voice/ai-viral-aerogel-01/outro.wav",
+    "outroDuration": 4.25
+  }
+}

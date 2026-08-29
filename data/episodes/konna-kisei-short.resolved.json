@@ -1,0 +1,70 @@
+{
+  "episode": {
+    "id": "konna-kisei-short",
+    "odai": "こんな帰省は\n嫌だ",
+    "odai_reading": "こんな帰省は嫌だ",
+    "theme": "school",
+    "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "hook_style": "overlay_first_image",
+    "hook_teaser": "待って！ 迎え、そこまで来る!?",
+    "outro_style": "image_loop",
+    "voice_dir": "data/episodes/ep001/voice",
+    "title_after": [],
+    "answers": [
+      {
+        "id": "a1",
+        "text": "迎えの軽トラ、\nホームまで来てる",
+        "reading": "迎えの軽トラ、ホームまで来てる。",
+        "tag": "peak",
+        "duration": 2.4,
+        "se": "don",
+        "audioFile": "voice/konna-kisei-short/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "祖母、顔を見るなり\n炊飯器3台を起動",
+        "reading": "祖母、顔を見るなり、炊飯器三台を起動。",
+        "tag": "normal",
+        "duration": 3.53,
+        "visual_pre_roll": 0.25,
+        "se": "pop",
+        "audioFile": "voice/konna-kisei-short/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "帰りの野菜だけ、\n貨車で運ばれる",
+        "reading": "帰りの野菜だけ、貨車で運ばれる。",
+        "tag": "tendon",
+        "duration": 2.62,
+        "visual_pre_roll": 0.25,
+        "se": "tsukkomi",
+        "audioFile": "voice/konna-kisei-short/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "祖母のおにぎり、\n全部、昔好きだった具",
+        "reading": "祖母のおにぎり、全部、昔好きだった具。",
+        "tag": "peak",
+        "duration": 3.39,
+        "visual_pre_roll": 0.3,
+        "se": "drumroll_don",
+        "callback_ref": "a2",
+        "peak": true,
+        "audioFile": "voice/konna-kisei-short/a4.wav"
+      }
+    ],
+    "outro": "あなたの帰省あるある\nコメントで教えて\nチャンネル登録も\nよろしく",
+    "outro_reading": "あなたの帰省あるある、コメントで教えて。チャンネル登録もよろしく。",
+    "_notes": {
+      "structure": "17秒前後の短尺型。駅ホームの異常で即時フックし、祖母の過剰な歓迎、野菜の規模で畳みかけ、祖母のおにぎりを温かく回収する。",
+      "title_call_placement": "全面タイトルなし。0秒から軽トラック、家族、帰省客の大きな驚き顔を見せる。",
+      "viewer_emotion": "何それ→歓迎が重い→規模がおかしい→嫌だけど祖母は好き。",
+      "image_direction": "明るい日本の帰省風景。a01は帰省客の驚き顔を大きく前景化し、軽トラと家族を背景に残す。上部35%は字幕安全域、主役と異常点は中央35-75%、下部20%には重要物を置かない。",
+      "effect_direction": "軽トラを強く開始、炊飯器は軽いポップ、貨車でツッコミ、祖母のおにぎりは明るい決め音で締める。"
+    },
+    "odaiAudioFile": "voice/konna-kisei-short/odai.wav",
+    "odaiDuration": 1.6,
+    "outroAudioFile": "voice/konna-kisei-short/outro.wav",
+    "outroDuration": 4.67
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "source": "youtube-analytics-api",
+  "collectedAt": "2026-08-09T12:34:26.618Z",
+  "period": {
+    "startDate": "2026-07-12",
+    "endDate": "2026-08-09"
+  },
+  "warnings": [
+    {
+      "report": "subscribed",
+      "error": "500 Internal Server Error: {\n  \"error\": {\n    \"code\": 500,\n    \"message\": \"An internal error has occurred.\",\n    \"errors\": [\n      {\n        \"message\": \"An internal error has occurred.\",\n        \"domain\": \"global\",\n        \"reason\": \"internalError\"\n      }\n    ]\n  }\n}\n"
+    }
+  ],
+  "reports": {
+    "daily": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "day",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewDuration",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewPercentage",
+          "columnType": "METRIC",
+          "dataType": "FLOAT"
+        },
+        {
+          "name": "likes",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "comments",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "shares",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersGained",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersLost",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "2026-07-12",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-13",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-14",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-15",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-16",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-17",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-18",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-19",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-20",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-21",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-22",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-23",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-24",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-25",
+          6,
+          2,
+          40,
+          65.51,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-26",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          "2026-07-27",
+          4,
+          3,
+          69,
+          102.49,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-28",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-29",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-30",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-07-31",
+          2,
+          0,
+          11,
+          19.37,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-01",
+          11,
+          3,
+          23,
+          52.629999999999995,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-02",
+          8,
+          2,
+          33,
+          75.85,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-03",
+          7,
+          1,
+          19,
+          71.52,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-04",
+          10,
+          1,
+          19,
+          98.96,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          "2026-08-05",
+          5,
+          1,
+          31,
+          108.11999999999999,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-06",
+          9,
+          1,
+          12,
+          63.95000000000001,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "byVideo": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "video",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewDuration",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewPercentage",
+          "columnType": "METRIC",
+          "dataType": "FLOAT"
+        },
+        {
+          "name": "likes",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "comments",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "shares",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersGained",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersLost",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "maLQFo9bxS0",
+          16,
+          4,
+          24,
+          64.11,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "Ps8cLd2bHC0",
+          10,
+          1,
+          14,
+          82.56,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "63H76Dt2BaU",
+          9,
+          4,
+          48,
+          77.62,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "M7DUNdhLToc",
+          8,
+          1,
+          15,
+          91.91,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "jnpV4Ofl9HE",
+          6,
+          0,
+          15,
+          71.83,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "ET9dqC7R1TA",
+          5,
+          1,
+          37,
+          75.01,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "AOphiBWWaQM",
+          4,
+          1,
+          22,
+          35.22,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "xUQ_-E1OjJE",
+          2,
+          0,
+          27,
+          88.21,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          "YS0KjBv7sX0",
+          1,
+          0,
+          16,
+          86.84,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "wxOkP7WgjH4",
+          1,
+          1,
+          80,
+          103.49999999999999,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "LBUaVfGC_DU",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "traffic": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "insightTrafficSourceType",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "YT_SEARCH",
+          39,
+          9
+        ],
+        [
+          "EXT_URL",
+          13,
+          4
+        ],
+        [
+          "SHORTS",
+          6,
+          1
+        ],
+        [
+          "YT_CHANNEL",
+          3,
+          2
+        ],
+        [
+          "NO_LINK_OTHER",
+          1,
+          1
+        ]
+      ]
+    },
+    "device": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "deviceType",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "MOBILE",
+          40,
+          10
+        ],
+        [
+          "DESKTOP",
+          12,
+          6
+        ],
+        [
+          "TABLET",
+          7,
+          1
+        ],
+        [
+          "TV",
+          3,
+          1
+        ]
+      ]
+    }
+  }
+}

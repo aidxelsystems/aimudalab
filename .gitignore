@@ -1,0 +1,51 @@
+# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+client_secret*.json
+token*.json
+*.pem
+*.key
+
+# Dependencies and generated output
+node_modules/
+.npm/
+out/
+tmp/
+**/.cache/
+.remotion/
+
+# Binary production assets are shared through Google Drive
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.psd
+*.aep
+
+# Local Claude/Codex runtime state
+.claude/scheduled_tasks.lock
+.claude/scheduled_tasks.json
+.claude/routines/.state/
+.claude/worktrees/
+.claude/checkpoints/
+.claude/mailbox/
+.claude/agent-registry.json
+.claude/agent-memory-local
+.claude/first-run
+.claude/assistant-daemon-state.json
+.codex-log/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

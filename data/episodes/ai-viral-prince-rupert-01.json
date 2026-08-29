@@ -1,0 +1,96 @@
+{
+  "id": "ai-viral-prince-rupert-01",
+  "title": "ハンマーでも割れないガラス、しっぽを折ると粉々",
+  "odai": "ハンマーでも\n割れないガラス",
+  "odai_reading": "このガラス、ハンマーでも割れません。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.23,
+  "odaiVoicePitch": -0.03,
+  "odaiVoiceIntonation": 1.05,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "2回叩いても\n傷ひとつなし",
+      "reading": "二回叩いても、傷ひとつなし。",
+      "tag": "normal",
+      "duration": 2.6,
+      "speakerId": 13,
+      "voiceSpeed": 1.24,
+      "voicePitch": -0.03,
+      "voiceIntonation": 0.98
+    },
+    {
+      "id": "a2",
+      "text": "なのに――\nしっぽを折ると",
+      "reading": "なのに。細いしっぽの先を折ると。",
+      "tag": "warning",
+      "duration": 2.8,
+      "speakerId": 13,
+      "voiceSpeed": 1.2,
+      "voicePitch": -0.04,
+      "voiceIntonation": 0.9
+    },
+    {
+      "id": "a3",
+      "text": "一瞬で\n全体が粉々",
+      "reading": "その瞬間、全体が粉々。",
+      "tag": "peak",
+      "duration": 3.4,
+      "speakerId": 3,
+      "voiceSpeed": 1.2,
+      "voicePitch": 0.02,
+      "voiceIntonation": 1.18
+    },
+    {
+      "id": "a4",
+      "text": "正体は\nプリンス・ルパートの滴",
+      "reading": "正体は、プリンス・ルパートの滴。",
+      "tag": "identity",
+      "duration": 3.5,
+      "speakerId": 13,
+      "voiceSpeed": 1.2,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.03
+    },
+    {
+      "id": "a5",
+      "text": "急冷で生まれる\n外側 圧縮\n内側 引張",
+      "reading": "溶けたガラスを冷水で急冷。外側は圧縮、内部には引っ張る力が残ります。",
+      "tag": "science",
+      "duration": 4.8,
+      "speakerId": 13,
+      "voiceSpeed": 1.27,
+      "voicePitch": -0.02,
+      "voiceIntonation": 0.98
+    },
+    {
+      "id": "a6",
+      "text": "尾の亀裂が内部へ\n実験では2万個以上",
+      "reading": "尾の亀裂が内部まで届くと崩壊開始。実験では、二万個以上の破片になりました。",
+      "tag": "science",
+      "duration": 4.4,
+      "speakerId": 13,
+      "voiceSpeed": 1.29,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.02
+    },
+    {
+      "id": "a7",
+      "text": "1661年\n王立協会も調査",
+      "reading": "1661年、国王が王立協会へ送り、科学者も調査しました。",
+      "tag": "history",
+      "duration": 4.4,
+      "speakerId": 13,
+      "voiceSpeed": 1.32,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.02
+    }
+  ],
+  "outro": "頭は無敵\nしっぽは\n自爆ボタンかい！\nチャンネル登録も\nよろしく",
+  "outro_reading": "頭は無敵。しっぽ、自爆ボタンかい！チャンネル登録もよろしく。",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.25,
+  "outroVoicePitch": 0.04,
+  "outroVoiceIntonation": 1.2,
+  "bgm": "BGM/Glass Shatter Protocol.mp3"
+}

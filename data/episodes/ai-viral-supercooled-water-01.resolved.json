@@ -1,0 +1,85 @@
+{
+  "episode": {
+    "id": "ai-viral-supercooled-water-01",
+    "title": "叩いた瞬間、水が凍った。AIで再現したら美しすぎた",
+    "odai": "叩いた瞬間\n凍った",
+    "odai_reading": "この水、叩いた瞬間に凍ります。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.2,
+    "odaiVoicePitch": -0.02,
+    "odaiVoiceIntonation": 1.02,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "数秒前――\n見た目はただの水",
+        "reading": "数秒前。見た目は、ただの水。",
+        "tag": "normal",
+        "duration": 3.2,
+        "speakerId": 13,
+        "voiceSpeed": 1.17,
+        "voicePitch": -0.03,
+        "voiceIntonation": 0.92,
+        "audioFile": "voice/ai-viral-supercooled-water-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "軽く叩くと――\n一気に結晶化",
+        "reading": "でも、軽く叩くと。一気に結晶化。",
+        "tag": "peak",
+        "duration": 3.8,
+        "speakerId": 3,
+        "voiceSpeed": 1.2,
+        "voicePitch": 0.02,
+        "voiceIntonation": 1.16,
+        "audioFile": "voice/ai-viral-supercooled-water-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "0℃以下でも液体\nその名は 過冷却",
+        "reading": "0度を下回っても、液体のままになることがあります。その名は、過冷却。",
+        "tag": "normal",
+        "duration": 5.35,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.02,
+        "voiceIntonation": 0.96,
+        "audioFile": "voice/ai-viral-supercooled-water-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "凍るには\n最初の結晶＝核が必要",
+        "reading": "水が凍るには、最初の小さな氷の結晶、核が必要です。",
+        "tag": "normal",
+        "duration": 4.6,
+        "speakerId": 13,
+        "voiceSpeed": 1.18,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1,
+        "audioFile": "voice/ai-viral-supercooled-water-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "核が少ないと液体のまま\n衝撃で結晶化が連鎖",
+        "reading": "不純物や傷が少ないと、核ができにくい。衝撃をきっかけに、結晶化が連鎖します。",
+        "tag": "recovery",
+        "duration": 5.63,
+        "speakerId": 13,
+        "voiceSpeed": 1.23,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.02,
+        "audioFile": "voice/ai-viral-supercooled-water-01/a5.wav"
+      }
+    ],
+    "outro": "水なのに\n合図待ちかい！\nチャンネル登録も\nよろしく",
+    "outro_reading": "水なのに、合図待ちかい！チャンネル登録もよろしく。",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.2,
+    "outroVoicePitch": 0.04,
+    "outroVoiceIntonation": 1.2,
+    "bgm": "BGM/Freeze Frame Fizz.mp3",
+    "odaiAudioFile": "voice/ai-viral-supercooled-water-01/odai.wav",
+    "odaiDuration": 2.66,
+    "outroAudioFile": "voice/ai-viral-supercooled-water-01/outro.wav",
+    "outroDuration": 3.89
+  }
+}

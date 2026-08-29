@@ -1,0 +1,57 @@
+{
+  "episode": {
+    "id": "ai-bgrade-tamago-fuwafuwa-01",
+    "title": "まさか。江戸時代にスフレみたいな朝ごはん",
+    "odai": "まさか…\n江戸時代に\nスフレ！？",
+    "odai_reading": "まさか。江戸時代に、スフレみたいな朝ごはんがありました。",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "静岡・袋井宿\nたまごふわふわ",
+        "reading": "静岡県袋井市の名物、たまごふわふわ。",
+        "tag": "normal",
+        "duration": 3.5,
+        "audioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "材料は2つ\n卵×だし汁",
+        "reading": "材料は、卵とだし汁。たったこれだけ。",
+        "tag": "normal",
+        "duration": 3.8,
+        "audioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "4〜5分泡立てる\n熱いだしへ\n2〜3分蒸らす",
+        "reading": "四、五分泡立て、熱いだしに流して、二、三分蒸らします。",
+        "tag": "normal",
+        "duration": 5.23,
+        "audioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "江戸時代\n袋井宿の朝ごはん",
+        "reading": "江戸時代、袋井宿で、宿泊客の朝食に出されたといいます。",
+        "tag": "normal",
+        "duration": 4.8,
+        "audioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "ふわっとほどける卵\n温かいだしがじゅわっ",
+        "reading": "ふわっとほどける卵に、温かいだしが、じゅわっ。",
+        "tag": "normal",
+        "duration": 4,
+        "audioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/a5.wav"
+      }
+    ],
+    "outro": "江戸の朝食\n映えすぎだろ！\nチャンネル登録も\nよろしく",
+    "outro_reading": "江戸の朝食、映えすぎだろ！チャンネル登録も、よろしく！",
+    "bgm": "BGM/Spring In My Step - Silent Partner.mp3",
+    "odaiAudioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/odai.wav",
+    "odaiDuration": 4.3,
+    "outroAudioFile": "voice/ai-bgrade-tamago-fuwafuwa-01/outro.wav",
+    "outroDuration": 4.32
+  }
+}
