@@ -26,7 +26,19 @@ Remotion + VOICEVOXを中心に、AIエンタメShortsの企画、素材、編�
 ## 必要環境
 
 - Node.js 18+
-- VOICEVOX エンジン(`http://127.0.0.1:50021` で起動しておく)
+- Linux
+- Docker版VOICEVOX エンジン（ホストの `http://127.0.0.1:50021` で起動しておく）
+
+このプロジェクトのLinux制作環境では、VOICEVOXをDockerコンテナで運用する。音声生成前に
+`curl http://127.0.0.1:50021/version` で疎通を確認する。コンテナ名や起動コマンドはPCごとに
+異なる場合があるため、固定せず、VOICEVOX APIの公開先を上記URLに統一する。
+
+管理者権限なしで用意したPC2では、公式Node.js LTSを `.tools/node-v24.19.0-linux-x64/` に置く。
+シェルを開いた後、次を実行してからnpmコマンドを使用する（`.tools/` はGit対象外）。
+
+```bash
+export PATH="$PWD/.tools/node-v24.19.0-linux-x64/bin:$PATH"
+```
 
 ## 使い方
 

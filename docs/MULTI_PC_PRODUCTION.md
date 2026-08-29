@@ -27,7 +27,15 @@ npm run assets:manifest
 npx tsc --noEmit
 ```
 
-先にGoogle Driveの素材を同じ相対パスへ同期する。次に `OperationTeam/.env.example` を `OperationTeam/.env` へコピーし、そのPC専用の認証情報を設定する。VOICEVOXはローカルで起動する。
+先にGoogle Driveの素材を同じ相対パスへ同期する。次に `OperationTeam/.env.example` を `OperationTeam/.env` へコピーし、そのPC専用の認証情報を設定する。
+
+## Linux / VOICEVOX環境
+
+- 制作PCのOSはLinux。
+- VOICEVOX EngineはDockerコンテナで稼働させる。
+- コンテナのAPIをホストの `127.0.0.1:50021` へ公開する。
+- 音声生成前に `curl http://127.0.0.1:50021/version` が成功することを確認する。
+- コンテナ名・イメージ・CPU/GPU別の起動オプションはPC固有情報として扱い、プロジェクト共通の契約はAPI URLに統一する。
 
 ## 制作開始
 

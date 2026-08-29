@@ -12,6 +12,8 @@ token*.json
 
 # Dependencies and generated output
 node_modules/
+.tools/
+.gitdata/
 .npm/
 out/
 tmp/
@@ -30,6 +32,9 @@ tmp/
 *.gif
 *.psd
 *.aep
+*.zip
+/README.txt
+/assets-manifest.json
 
 # Local Claude/Codex runtime state
 .claude/scheduled_tasks.lock

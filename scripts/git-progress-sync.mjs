@@ -1,10 +1,16 @@
 import {spawnSync} from "node:child_process";
 import fs from "node:fs";
+import path from "node:path";
 
 const mode = process.argv[2];
+const fallbackGitDir = path.resolve(".gitdata");
+const useFallbackGitDir = !fs.existsSync(path.resolve(".git", "HEAD")) && fs.existsSync(path.join(fallbackGitDir, "HEAD"));
+const gitEnv = useFallbackGitDir
+  ? {...process.env, GIT_DIR: fallbackGitDir, GIT_WORK_TREE: process.cwd()}
+  : process.env;
 
 function git(args, {allowFailure = false} = {}) {
-  const result = spawnSync("git", args, {encoding: "utf8"});
+  const result = spawnSync("git", args, {encoding: "utf8", env: gitEnv});
   if (result.error) throw result.error;
   if (result.status !== 0 && !allowFailure) {
     const detail = `${result.stderr || result.stdout}`.trim();

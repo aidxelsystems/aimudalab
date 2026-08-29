@@ -27,6 +27,15 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | uncommitted production work | なし |
 | next production action | Linux PCでclone後、Google Drive素材を復元し、素材台帳・型検査・VOICEVOX接続を確認 |
 
+## 現在の制作環境（PC2）
+
+- OS: Linux
+- VOICEVOX: Docker運用、ホストAPI `http://127.0.0.1:50021`
+- 2026-08-29確認: Docker導入済み。VOICEVOX API v0.25.2の疎通確認済み。
+- 2026-08-29確認: 公式Node.js LTS v24.19.0 / npm 11.17.0を `.tools/` に導入済み。`npm ci`、型検査、素材台帳生成に成功。
+- 2026-08-29確認: Remotion一式を脆弱性修正版4.0.518へ更新し、npm監査は脆弱性0件。
+- 現在のワークスペースは素材とGitHub制作ファイルを統合済み。環境管理下の空の `.git` を避け、GitメタデータをGit対象外の `.gitdata/` に保持する。同期スクリプトはこれを自動認識する。
+
 ## 最新作品
 
 | episode | 状態 | 公開日時 | 次の確認 |
