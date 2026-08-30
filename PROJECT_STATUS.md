@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `ai-viral-nitinol-01` |
 | owner | `PC2 / Codex` |
-| production status | `researched` |
+| production status | `prompt-ready` |
 | active render | なし |
-| uncommitted production work | ニチノール制作仕様を作成中 |
-| next production action | 一次資料を確認し、台本・Flow・BGM・Remotion仕様を確定する |
+| uncommitted production work | ニチノール制作ブリーフ・プロンプト作成完了（未同期） |
+| next production action | Flow 2カットとBGMを生成し、VOICEVOX実測尺を取得する |
 
 ## 現在の制作環境（PC2）
 
