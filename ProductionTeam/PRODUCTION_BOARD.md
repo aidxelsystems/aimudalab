@@ -4,12 +4,13 @@
 
 全体の同期状態と現在作業は `../PROJECT_STATUS.md` を正とする。GitHub同期と作業クレームをpushする前に制作へ入らない。
 
-最終同期確認: 2026-08-29 / PC1 / `main` → `origin/main` 初回push完了
+最終同期確認: 2026-08-30 / PC2 / `main` → `origin/main` 同期完了
 
 | episode | owner | branch | status | next action | assets | final | scheduled |
 |---|---|---|---|---|---|---|---|
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
 | ai-viral-oobleck-01 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | episode専用 `public/movie/`, `public/image/`, `public/BGM/`, `public/voice/` | `out/ai-viral-oobleck-01-final.mp4`（ローカル） | 2026-09-03 19:00 JST |
+| ai-viral-nitinol-01 | PC2 / Codex | main | researched | 一次資料を確認し、台本・Flow・BGM・Remotion仕様を確定 | 未生成 | 未レンダー | 未定 |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status

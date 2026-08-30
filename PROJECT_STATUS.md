@@ -1,6 +1,6 @@
 # AIMudaLab Project Status
 
-最終更新: 2026-08-29 JST
+最終更新: 2026-08-30 JST
 更新担当: Codex / PC2
 
 ## 同期状態
@@ -20,12 +20,12 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 | 項目 | 内容 |
 |---|---|
-| active episode | `ai-viral-oobleck-01` |
+| active episode | `ai-viral-nitinol-01` |
 | owner | `PC2 / Codex` |
-| production status | `scheduled` |
+| production status | `researched` |
 | active render | なし |
-| uncommitted production work | なし（完成状態をGitHubへ同期） |
-| next production action | 公開24時間後・72時間後にOperationTeam分析を行う |
+| uncommitted production work | ニチノール制作仕様を作成中 |
+| next production action | 一次資料を確認し、台本・Flow・BGM・Remotion仕様を確定する |
 
 ## 現在の制作環境（PC2）
 
