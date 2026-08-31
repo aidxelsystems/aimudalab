@@ -42,4 +42,8 @@
 
 ## 投稿状態
 
-未投稿。このレンダー契約はYouTube投稿を実行しない。
+- YouTube予約済み
+- 公開日時: 2026-09-04 19:00 JST
+- 動画ID: `kfpdexDp9Sk`
+- URL: https://youtu.be/kfpdexDp9Sk
+- 合成コンテンツ表示: 有効

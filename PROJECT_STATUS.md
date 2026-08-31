@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `ai-viral-nitinol-01` |
 | owner | `PC2 / Codex` |
-| production status | `qc-passed` |
+| production status | `scheduled` |
 | active render | なし（最終レンダー完了） |
 | uncommitted production work | ニチノール完成QC・制作台帳の更新 |
-| next production action | ユーザー完成確認後、公開日時を決定して投稿準備 |
+| next production action | 2026-09-04 19:00 JST公開後、24時間・72時間でOperationTeam分析 |
 
 ## 現在の制作環境（PC2）
 
@@ -42,7 +42,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|---|---|
 | `ai-viral-laser-cleaning-01` | YouTube予約済み | 2026-09-02 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `ai-viral-oobleck-01` | YouTube予約済み | 2026-09-03 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
-| `ai-viral-nitinol-01` | QC合格・未投稿 | 未定 | 完成版の聴感確認後に公開日時を決定 |
+| `ai-viral-nitinol-01` | YouTube予約済み | 2026-09-04 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -57,6 +57,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - ニチノール完成動画: `out/ai-viral-nitinol-01-final.mp4`（31.8秒、ローカル、Git対象外）
 - ニチノール機械QC: 合格（1080×1920 / 30fps / -15.85 LUFS / True Peak -1.26 dBTP）
 - ニチノール代表9フレーム: 目視合格。血管を広げる用途説明と登録CTAを反映済み。
+- ニチノールYouTube: `https://youtu.be/kfpdexDp9Sk`（2026-09-04 19:00 JST予約）
 
 ## 共有ストレージ
 
