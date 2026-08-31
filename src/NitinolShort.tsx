@@ -174,19 +174,21 @@ const StentScene: React.FC = () => {
   const width = interpolate(release, [0, 1], [130, 410]);
   return <AbsoluteFill>
     <Background /><SeriesBadge /><AiBadge diagram />
-    <div style={{position: "absolute", top: 165, left: 28, right: 28, textAlign: "center", color: "#fff", fontSize: 57, lineHeight: 1.05, fontWeight: 900}}>細く運んで<br/><span style={{color: colors.yellow, fontSize: 86}}>血管内で広がる</span></div>
+    <div style={{position: "absolute", top: 165, left: 28, right: 28, textAlign: "center", color: "#fff", fontSize: 57, lineHeight: 1.05, fontWeight: 900}}>細くなった血管を<br/><span style={{color: colors.yellow, fontSize: 81}}>内側から広げる</span></div>
     <div style={{position: "absolute", left: 80, right: 80, top: 550, height: 720, border: "7px solid #fff", borderRadius: 42, background: "#140b15", overflow: "hidden", boxShadow: "inset 0 0 80px #000,0 30px 70px #000a"}}>
       <div style={{position: "absolute", left: 40, right: 40, top: 190, height: 300, borderRadius: "50% / 35%", border: "34px solid #b94359", background: "linear-gradient(180deg,#5e1725,#260711)", boxShadow: "inset 0 0 38px #000,0 0 30px #e1516766"}} />
+      <div style={{position: "absolute", left: 56, top: 235, width: interpolate(release, [0, 1], [255, 92]), height: 210, borderRadius: "45%", background: "linear-gradient(90deg,#e6b760,#9e642f)", boxShadow: "inset -15px 0 25px #6b351f,0 0 10px #ffd98a"}} />
+      <div style={{position: "absolute", right: 56, top: 235, width: interpolate(release, [0, 1], [255, 92]), height: 210, borderRadius: "45%", background: "linear-gradient(270deg,#e6b760,#9e642f)", boxShadow: "inset 15px 0 25px #6b351f,0 0 10px #ffd98a"}} />
       <div style={{position: "absolute", left: interpolate(release, [0, 1], [230, 65]), top: 285, width: interpolate(release, [0, 1], [500, 180]), height: 90, borderRadius: 50, background: "linear-gradient(180deg,#9cc4db,#27485e)", border: "5px solid #d8f2ff", boxShadow: "0 10px 30px #000"}} />
       <div style={{position: "absolute", left: "50%", top: 238, width, height: 190, transform: "translateX(-50%)", overflow: "hidden"}}>
         {Array.from({length: 9}, (_, index) => <div key={index} style={{position: "absolute", left: `${index * 12}%`, top: 15, width: 8, height: 160, background: colors.silver, transform: `rotate(${index % 2 ? -28 : 28}deg)`, transformOrigin: "center", boxShadow: "0 0 8px #fff"}} />)}
         {Array.from({length: 7}, (_, index) => <div key={`h${index}`} style={{position: "absolute", left: 10, right: 10, top: 18 + index * 24, height: 5, background: "#a9c9d9", transform: `skewX(${index % 2 ? 24 : -24}deg)`}} />)}
       </div>
-      <div style={{position: "absolute", left: 60, bottom: 36, color: "#cfe9f6", fontSize: 29, fontWeight: 900}}>カテーテルの拘束が外れる</div>
+      <div style={{position: "absolute", left: 0, right: 0, bottom: 36, textAlign: "center", color: "#cfe9f6", fontSize: 29, fontWeight: 900}}>血液の通り道を保つ</div>
       <div style={{position: "absolute", right: 25, top: 20, padding: "8px 13px 10px", borderRadius: 7, background: "#000d", color: "#fff", fontSize: 21, fontWeight: 700}}>概念図</div>
     </div>
     <div style={{position: "absolute", left: 38, bottom: 188, color: "#d8e5ed", fontSize: 21, fontWeight: 700}}>出典: FDA / Stoeckel et al.</div>
-    <Caption accent={colors.yellow}>細くたたんだステントを、<br/>血管内で広げる仕組みにも。</Caption>
+    <Caption accent={colors.yellow}>血管を内側から広げる<br/>「ステント」という器具にも。</Caption>
   </AbsoluteFill>;
 };
 
@@ -200,7 +202,7 @@ const OutroScene: React.FC = () => {
       <div style={{padding: "10px 28px 14px", borderRadius: 999, background: "#fff", color: "#104057", fontSize: 42, lineHeight: 1, fontWeight: 900}}>ニチノール</div>
       <div style={{marginTop: 52, color: "#fff", fontSize: 73, lineHeight: 1, fontWeight: 900}}>金属のほうが</div>
       <div style={{marginTop: 28, color: colors.yellow, fontSize: 119, lineHeight: .92, fontWeight: 900, letterSpacing: -6, WebkitTextStroke: "8px #fff", paintOrder: "stroke fill", textShadow: "0 11px 0 #716300,0 28px 52px #000"}}>よく<br/>覚えとる！</div>
-      <div style={{marginTop: 58, color: "#e7f5fb", fontSize: 34, fontWeight: 900}}>AIのムダづかい</div>
+      <div style={{marginTop: 45, padding: "18px 30px 22px", borderRadius: 18, background: colors.cyan, color: "#062333", fontSize: 38, lineHeight: 1, fontWeight: 900, opacity: interpolate(frame, [70, 82], [0, 1], {extrapolateLeft: "clamp", extrapolateRight: "clamp"}), transform: `scale(${interpolate(frame, [70, 82], [.85, 1], {extrapolateLeft: "clamp", extrapolateRight: "clamp"})})`}}>チャンネル登録もよろしく！</div>
     </div>
   </AbsoluteFill>;
 };

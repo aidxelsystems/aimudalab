@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "episodeId": "ai-viral-nitinol-01",
   "compositionId": "NitinolShort",
-  "completedAt": "2026-08-31T08:36:36.058Z",
+  "completedAt": "2026-08-31T10:01:26.227Z",
   "status": "machine_qc_passed_human_review_required",
   "finalOutput": "out/ai-viral-nitinol-01-final.mp4",
   "technical": {
-    "durationSeconds": 31,
+    "durationSeconds": 31.8,
     "width": 1080,
     "height": 1920,
     "fps": 30,
@@ -14,16 +14,16 @@
     "audioCodec": "aac",
     "audioSampleRate": 48000,
     "loudness": {
-      "input_i": "-16.04",
-      "input_tp": "-1.27",
-      "input_lra": "4.00",
-      "input_thresh": "-26.34",
-      "output_i": "-16.39",
-      "output_tp": "-1.41",
-      "output_lra": "4.00",
-      "output_thresh": "-26.63",
+      "input_i": "-15.85",
+      "input_tp": "-1.26",
+      "input_lra": "4.70",
+      "input_thresh": "-25.97",
+      "output_i": "-16.15",
+      "output_tp": "-1.40",
+      "output_lra": "4.10",
+      "output_thresh": "-26.29",
       "normalization_type": "dynamic",
-      "target_offset": "0.39"
+      "target_offset": "0.15"
     }
   },
   "checkpoints": [
@@ -59,13 +59,18 @@
     },
     {
       "time": 23.8,
-      "label": "ステント応用",
+      "label": "血管を広げる用途",
       "file": "out/qc/ai-viral-nitinol-01-handoff/07_23s80_-.jpg"
     },
     {
       "time": 28.6,
       "label": "オチ",
       "file": "out/qc/ai-viral-nitinol-01-handoff/08_28s60_-.jpg"
+    },
+    {
+      "time": 30.8,
+      "label": "チャンネル登録CTA",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/09_30s80_-CTA.jpg"
     }
   ]
 }

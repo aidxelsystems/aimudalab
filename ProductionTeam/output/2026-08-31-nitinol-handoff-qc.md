@@ -1,6 +1,6 @@
 # ai-viral-nitinol-01 最終レンダーQC
 
-生成日時: 2026-08-31T08:36:36.058Z
+生成日時: 2026-08-31T10:01:26.227Z
 
 ## 機械判定
 
@@ -9,12 +9,12 @@
 ## 完成ファイル
 
 - `out/ai-viral-nitinol-01-final.mp4`
-- 31秒
+- 31.8秒
 - h264 / 1080×1920 / 30fps
 - aac / 48000Hz
-- Integrated loudness: -16.04 LUFS
-- True peak: -1.27 dBTP
-- LRA: 4.00 LU
+- Integrated loudness: -15.85 LUFS
+- True peak: -1.26 dBTP
+- LRA: 4.70 LU
 - TypeScript: 合格
 - 全編デコード: 合格
 
@@ -26,16 +26,17 @@
 - 9.50秒: 第二の形状回復 — `out/qc/ai-viral-nitinol-01-handoff/04_9s50_-.jpg`
 - 14.20秒: 結晶構造図解 — `out/qc/ai-viral-nitinol-01-handoff/05_14s20_-.jpg`
 - 19.20秒: 形状記憶と超弾性 — `out/qc/ai-viral-nitinol-01-handoff/06_19s20_-.jpg`
-- 23.80秒: ステント応用 — `out/qc/ai-viral-nitinol-01-handoff/07_23s80_-.jpg`
+- 23.80秒: 血管を広げる用途 — `out/qc/ai-viral-nitinol-01-handoff/07_23s80_-.jpg`
 - 28.60秒: オチ — `out/qc/ai-viral-nitinol-01-handoff/08_28s60_-.jpg`
+- 30.80秒: チャンネル登録CTA — `out/qc/ai-viral-nitinol-01-handoff/09_30s80_-CTA.jpg`
 
 ## 人による最終確認
 
 - [ ] 完成MP4を最初から最後まで視聴した
 - [x] 冒頭フックが無音でも理解できる（代表フレーム確認）
-- [x] 字幕、数値、出典、CTAに切れや衝突がない（代表8フレーム確認）
+- [x] 字幕、数値、出典、CTAに切れや衝突がない（代表9フレーム確認）
 - [ ] ナレーション、BGM、SE、映像のタイミングが合っている
-- [x] オチとCTAを読み切れる（28.60秒フレーム確認）
+- [x] オチとCTAを読み切れる（28.60秒・30.80秒フレーム確認）
 
 代表フレームの目視QCは完了。完成MP4全編の聴感および音声タイミングはユーザー確認待ち。
 

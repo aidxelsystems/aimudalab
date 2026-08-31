@@ -112,7 +112,7 @@ Instrumental only, no vocals, no spoken words. Create a 31-second high-energy sc
 
 0:20–0:27 — widen into a confident but restrained medical-technology lift with clean pulsing percussion and a warm harmonic layer as a compressed stent expands. Scientific and humane, never heroic or dramatic.
 
-0:27–0:31 — abruptly reduce the arrangement. Leave a short near-silent pocket immediately before the final line, then use one dry witty metallic percussion sting and a firm upbeat final button for “金属のほうが、よく覚えとる！” End cleanly with no fade-out.
+0:27–0:31 — abruptly reduce the arrangement. Leave a short near-silent pocket immediately before the punchline, then use one dry witty metallic percussion sting for “金属のほうが、よく覚えとる！”, followed by a light upbeat CTA button for “チャンネル登録もよろしく！”. End cleanly with no fade-out.
 
 Modern viral science-video energy, memorable shape-recovery motif, clean punchy mix, controlled low end, sparse narration-friendly midrange, minimal reverb, no continuous metallic noise.
 ```
@@ -139,7 +139,7 @@ vocals, singing, spoken dialogue, choir, lyrics, ambient-only intro, slow fade-i
 - 上側32%に見出しを置ける負空間があるか。
 - 結晶図に`簡略図`、ステント図に`AIによる仕組み図`と出典があるか。
 - ステントはバルーンで押し広げず、カテーテルの拘束が外れて自己拡張するか。
-- オチ以外のCTAを最終画面に追加していないか。
+- オチを先に読ませ、その後に `チャンネル登録もよろしく！` が明瞭に表示されるか。
 - BGMとSEが掛け合いを覆わず、オチ直前に音のポケットがあるか。
 
 ## 事実表現の境界

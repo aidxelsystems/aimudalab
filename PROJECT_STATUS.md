@@ -54,9 +54,9 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - ウーブレック代表7フレーム: 目視合格。ユーザーによる完成確認済み。
 - ウーブレックYouTube: `https://youtu.be/Qb0PBEMvAd0`（2026-09-03 19:00 JST予約）
 
-- ニチノール完成動画: `out/ai-viral-nitinol-01-final.mp4`（30.95秒、ローカル、Git対象外）
-- ニチノール機械QC: 合格（1080×1920 / 30fps / -16.04 LUFS / True Peak -1.27 dBTP）
-- ニチノール代表8フレーム: 目視合格。左上シリーズバッジの文字欠け修正済み。
+- ニチノール完成動画: `out/ai-viral-nitinol-01-final.mp4`（31.8秒、ローカル、Git対象外）
+- ニチノール機械QC: 合格（1080×1920 / 30fps / -15.85 LUFS / True Peak -1.26 dBTP）
+- ニチノール代表9フレーム: 目視合格。血管を広げる用途説明と登録CTAを反映済み。
 
 ## 共有ストレージ
 

@@ -41,8 +41,9 @@
     {"time": 9.5, "label": "第二の形状回復"},
     {"time": 14.2, "label": "結晶構造図解"},
     {"time": 19.2, "label": "形状記憶と超弾性"},
-    {"time": 23.8, "label": "ステント応用"},
-    {"time": 28.6, "label": "オチ"}
+    {"time": 23.8, "label": "血管を広げる用途"},
+    {"time": 28.6, "label": "オチ"},
+    {"time": 30.8, "label": "チャンネル登録CTA"}
   ],
   "sources": [
     "../../data/episodes/ai-viral-nitinol-01.resolved.json",
@@ -61,5 +62,5 @@
     "../../public/voice/ai-viral-nitinol-01/outro.wav",
     "../../PlanningTeam/handoffs/2026-08-30-nitinol-shape-memory.md"
   ],
-  "notes": "Flow映像2カットとSuno BGMはQC済み。VOICEVOX v0.25.2で青山龍星・ずんだもんの掛け合い8音声を生成し、実測尺をresolved JSONへ反映済み。"
+  "notes": "Flow映像2カットとSuno BGMはQC済み。VOICEVOX v0.25.2で青山龍星・ずんだもんの掛け合い8音声を生成。ステントは血管を内側から広げて血流を保つ用途ベースの説明へ変更し、オチ後にチャンネル登録CTAを追加。実測尺をresolved JSONへ反映済み。"
 }
