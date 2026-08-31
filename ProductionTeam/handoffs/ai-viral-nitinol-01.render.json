@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-nitinol-01",
+  "status": "waiting_voice",
+  "preparedBy": "Codex-PC2",
+  "compositionId": "NitinolShort",
+  "props": "../../data/episodes/ai-viral-nitinol-01.resolved.json",
+  "output": {
+    "render": "../../out/ai-viral-nitinol-01-render.mp4",
+    "final": "../../out/ai-viral-nitinol-01-final.mp4",
+    "qcDir": "../../out/qc/ai-viral-nitinol-01-handoff",
+    "qcReport": "../output/2026-08-31-nitinol-handoff-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {
+      "min": 29,
+      "max": 34
+    }
+  },
+  "render": {
+    "crf": 16,
+    "concurrency": 4,
+    "audioBitrate": "192k"
+  },
+  "audio": {
+    "normalize": true,
+    "targetLufs": -16,
+    "truePeakDb": -1.4,
+    "lra": 7,
+    "sampleRate": 48000
+  },
+  "checkpoints": [
+    {"time": 0.7, "label": "冒頭_お湯で復元"},
+    {"time": 4.0, "label": "形を覚えてる"},
+    {"time": 6.2, "label": "ニチノール名称"},
+    {"time": 9.5, "label": "第二の形状回復"},
+    {"time": 14.2, "label": "結晶構造図解"},
+    {"time": 19.2, "label": "形状記憶と超弾性"},
+    {"time": 23.8, "label": "ステント応用"},
+    {"time": 28.6, "label": "オチ"}
+  ],
+  "sources": [
+    "../../data/episodes/ai-viral-nitinol-01.resolved.json",
+    "../drafts/ai-viral-nitinol-01-production-brief.md",
+    "../drafts/ai-viral-nitinol-01-prompts.md",
+    "../../public/movie/Wire_unfolding_into_star_shape_202608311240.mp4",
+    "../../public/movie/Alloy_wire_shape_recovery_experi…_202608311241.mp4",
+    "../../public/BGM/Metal Memory Switch.mp3",
+    "../../PlanningTeam/handoffs/2026-08-30-nitinol-shape-memory.md"
+  ],
+  "notes": "Flow映像2カットとSuno BGMはQC済み。VOICEVOX音声未生成のためstatusはwaiting_voice。音声生成・実測後にreadyへ変更する。"
+}

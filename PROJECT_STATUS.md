@@ -1,6 +1,6 @@
 # AIMudaLab Project Status
 
-最終更新: 2026-08-30 JST
+最終更新: 2026-08-31 JST
 更新担当: Codex / PC2
 
 ## 同期状態
@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `ai-viral-nitinol-01` |
 | owner | `PC2 / Codex` |
-| production status | `prompt-ready` |
+| production status | `editing` |
 | active render | なし |
-| uncommitted production work | ニチノール制作ブリーフ・プロンプト作成完了（未同期） |
-| next production action | Flow 2カットとBGMを生成し、VOICEVOX実測尺を取得する |
+| uncommitted production work | ニチノールRemotion実装・素材QC完了（未同期） |
+| next production action | VOICEVOX API起動後にナレーションを生成し、実測尺を取得して最終レンダー |
 
 ## 現在の制作環境（PC2）
 

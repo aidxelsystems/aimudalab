@@ -1,0 +1,87 @@
+{
+  "episode": {
+    "id": "ai-viral-nitinol-01",
+    "title": "お湯で元に戻る金属「ニチノール」何がすごい？ #Shorts",
+    "odai": "お湯で元に戻る金属",
+    "odai_reading": "ぐにゃぐにゃの金属が、お湯で元に戻ります。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.24,
+    "odaiVoicePitch": -0.03,
+    "odaiVoiceIntonation": 1.08,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "形を覚えてる？",
+        "reading": "えっ、形を覚えてるのだ？",
+        "tag": "normal",
+        "duration": 2,
+        "speakerId": 3,
+        "voiceSpeed": 1.2,
+        "voicePitch": 0.04,
+        "voiceIntonation": 1.2
+      },
+      {
+        "id": "a2",
+        "text": "形状記憶合金\nニチノール",
+        "reading": "正体は、形状記憶合金ニチノール。",
+        "tag": "normal",
+        "duration": 2.8,
+        "speakerId": 13,
+        "voiceSpeed": 1.2,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.08
+      },
+      {
+        "id": "a3",
+        "text": "大きく曲げても\n復元",
+        "reading": "こんなに曲げても、また戻ったのだ！",
+        "tag": "peak",
+        "duration": 3.5,
+        "speakerId": 3,
+        "voiceSpeed": 1.22,
+        "voicePitch": 0.04,
+        "voiceIntonation": 1.22
+      },
+      {
+        "id": "a4",
+        "text": "温度で内部構造が\n切り替わる",
+        "reading": "温度で内部の結晶構造が切り替わり、設定された形へ回復します。",
+        "tag": "normal",
+        "duration": 6,
+        "speakerId": 13,
+        "voiceSpeed": 1.27,
+        "voicePitch": -0.02,
+        "voiceIntonation": 1.03
+      },
+      {
+        "id": "a5",
+        "text": "形状記憶 ＋ 超弾性",
+        "reading": "つぶしても、戻る力がすごいのだ。",
+        "tag": "normal",
+        "duration": 2.7,
+        "speakerId": 3,
+        "voiceSpeed": 1.22,
+        "voicePitch": 0.03,
+        "voiceIntonation": 1.18
+      },
+      {
+        "id": "a6",
+        "text": "医療用ステントに応用",
+        "reading": "その性質で、細くたたんだ医療用ステントを、血管内で広げる仕組みにも使われます。",
+        "tag": "peak",
+        "duration": 6.9,
+        "speakerId": 13,
+        "voiceSpeed": 1.3,
+        "voicePitch": -0.01,
+        "voiceIntonation": 1.05
+      }
+    ],
+    "outro": "金属のほうが\nよく覚えとる！",
+    "outro_reading": "金属のほうが、よく覚えとる！",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.18,
+    "outroVoicePitch": 0.04,
+    "outroVoiceIntonation": 1.24,
+    "bgm": "BGM/Metal Memory Switch.mp3"
+  }
+}

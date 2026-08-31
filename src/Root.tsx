@@ -27,6 +27,7 @@ import magicSandData from "../data/episodes/ai-viral-magic-sand-01.resolved.json
 import aerogelData from "../data/episodes/ai-viral-aerogel-01.resolved.json";
 import laserCleaningData from "../data/episodes/ai-viral-laser-cleaning-01.resolved.json";
 import oobleckData from "../data/episodes/ai-viral-oobleck-01.resolved.json";
+import nitinolData from "../data/episodes/ai-viral-nitinol-01.resolved.json";
 import {
   AiLieQuizShort,
   getAiLieQuizTimeline,
@@ -182,6 +183,13 @@ import {
   OobleckShort,
   getOobleckTimeline,
 } from "./OobleckShort";
+import {
+  NITINOL_FPS,
+  NITINOL_HEIGHT,
+  NITINOL_WIDTH,
+  NitinolShort,
+  getNitinolTimeline,
+} from "./NitinolShort";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
@@ -250,6 +258,9 @@ const laserCleaningEpisode = (
 ).episode;
 const oobleckEpisode = (
   oobleckData as unknown as {episode: Episode}
+).episode;
+const nitinolEpisode = (
+  nitinolData as unknown as {episode: Episode}
 ).episode;
 
 const resolvedAnswers = new Map(
@@ -706,6 +717,24 @@ export const RemotionRoot: React.FC = () => {
             fps: OOBLECK_FPS,
             width: OOBLECK_WIDTH,
             height: OOBLECK_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="NitinolShort"
+        component={NitinolShort}
+        width={NITINOL_WIDTH}
+        height={NITINOL_HEIGHT}
+        fps={NITINOL_FPS}
+        durationInFrames={getNitinolTimeline(nitinolEpisode).totalFrames}
+        defaultProps={{episode: nitinolEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getNitinolTimeline(ep).totalFrames,
+            fps: NITINOL_FPS,
+            width: NITINOL_WIDTH,
+            height: NITINOL_HEIGHT,
           };
         }}
       />
