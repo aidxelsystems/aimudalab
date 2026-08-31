@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-viral-nitinol-01",
+  "compositionId": "NitinolShort",
+  "completedAt": "2026-08-31T08:36:36.058Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/ai-viral-nitinol-01-final.mp4",
+  "technical": {
+    "durationSeconds": 31,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-16.04",
+      "input_tp": "-1.27",
+      "input_lra": "4.00",
+      "input_thresh": "-26.34",
+      "output_i": "-16.39",
+      "output_tp": "-1.41",
+      "output_lra": "4.00",
+      "output_thresh": "-26.63",
+      "normalization_type": "dynamic",
+      "target_offset": "0.39"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.7,
+      "label": "冒頭_お湯で復元",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/01_0s70_-_-.jpg"
+    },
+    {
+      "time": 4,
+      "label": "形を覚えてる",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/02_4s00_-.jpg"
+    },
+    {
+      "time": 6.2,
+      "label": "ニチノール名称",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/03_6s20_-.jpg"
+    },
+    {
+      "time": 9.5,
+      "label": "第二の形状回復",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/04_9s50_-.jpg"
+    },
+    {
+      "time": 14.2,
+      "label": "結晶構造図解",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/05_14s20_-.jpg"
+    },
+    {
+      "time": 19.2,
+      "label": "形状記憶と超弾性",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/06_19s20_-.jpg"
+    },
+    {
+      "time": 23.8,
+      "label": "ステント応用",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/07_23s80_-.jpg"
+    },
+    {
+      "time": 28.6,
+      "label": "オチ",
+      "file": "out/qc/ai-viral-nitinol-01-handoff/08_28s60_-.jpg"
+    }
+  ]
+}

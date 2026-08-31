@@ -55,7 +55,7 @@ const Background: React.FC<{warm?: boolean}> = ({warm = false}) => (
 );
 
 const SeriesBadge: React.FC = () => (
-  <div style={{position: "absolute", zIndex: 20, top: 42, left: 34, width: 315, boxSizing: "border-box", whiteSpace: "nowrap", textAlign: "center", padding: "11px 12px 14px", border: "3px solid #fff", borderRadius: 999, background: "linear-gradient(135deg,#0b3550,#147a92)", color: "#fff", fontSize: 27, lineHeight: 1, fontWeight: 900, boxShadow: "0 7px 0 #03131d,0 14px 30px #0009"}}>世界のバズ、AIで再現</div>
+  <div style={{position: "absolute", zIndex: 20, top: 42, left: 34, width: 360, boxSizing: "border-box", whiteSpace: "nowrap", overflow: "hidden", textAlign: "center", padding: "11px 10px 14px", border: "3px solid #fff", borderRadius: 999, background: "linear-gradient(135deg,#0b3550,#147a92)", color: "#fff", fontSize: 24, lineHeight: 1, fontWeight: 900, boxShadow: "0 7px 0 #03131d,0 14px 30px #0009"}}>世界のバズ、AIで再現</div>
 );
 
 const AiBadge: React.FC<{diagram?: boolean}> = ({diagram = false}) => (

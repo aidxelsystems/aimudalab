@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "episodeId": "ai-viral-nitinol-01",
-  "status": "waiting_voice",
+  "status": "ready",
   "preparedBy": "Codex-PC2",
   "compositionId": "NitinolShort",
   "props": "../../data/episodes/ai-viral-nitinol-01.resolved.json",
@@ -51,7 +51,15 @@
     "../../public/movie/Wire_unfolding_into_star_shape_202608311240.mp4",
     "../../public/movie/Alloy_wire_shape_recovery_experi…_202608311241.mp4",
     "../../public/BGM/Metal Memory Switch.mp3",
+    "../../public/voice/ai-viral-nitinol-01/odai.wav",
+    "../../public/voice/ai-viral-nitinol-01/a1.wav",
+    "../../public/voice/ai-viral-nitinol-01/a2.wav",
+    "../../public/voice/ai-viral-nitinol-01/a3.wav",
+    "../../public/voice/ai-viral-nitinol-01/a4.wav",
+    "../../public/voice/ai-viral-nitinol-01/a5.wav",
+    "../../public/voice/ai-viral-nitinol-01/a6.wav",
+    "../../public/voice/ai-viral-nitinol-01/outro.wav",
     "../../PlanningTeam/handoffs/2026-08-30-nitinol-shape-memory.md"
   ],
-  "notes": "Flow映像2カットとSuno BGMはQC済み。VOICEVOX音声未生成のためstatusはwaiting_voice。音声生成・実測後にreadyへ変更する。"
+  "notes": "Flow映像2カットとSuno BGMはQC済み。VOICEVOX v0.25.2で青山龍星・ずんだもんの掛け合い8音声を生成し、実測尺をresolved JSONへ反映済み。"
 }

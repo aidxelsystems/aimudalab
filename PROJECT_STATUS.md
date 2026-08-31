@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `ai-viral-nitinol-01` |
 | owner | `PC2 / Codex` |
-| production status | `editing` |
-| active render | なし |
-| uncommitted production work | なし（ローカルcommit `20d64cc`、GitHub未同期） |
-| next production action | VOICEVOX API起動後にナレーションを生成し、実測尺を取得して最終レンダー |
+| production status | `qc-passed` |
+| active render | なし（最終レンダー完了） |
+| uncommitted production work | ニチノール完成QC・制作台帳の更新 |
+| next production action | ユーザー完成確認後、公開日時を決定して投稿準備 |
 
 ## 現在の制作環境（PC2）
 
@@ -42,6 +42,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|---|---|
 | `ai-viral-laser-cleaning-01` | YouTube予約済み | 2026-09-02 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `ai-viral-oobleck-01` | YouTube予約済み | 2026-09-03 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `ai-viral-nitinol-01` | QC合格・未投稿 | 未定 | 完成版の聴感確認後に公開日時を決定 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -52,6 +53,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - ウーブレック機械QC: 合格（1080×1920 / 30fps / -15.98 LUFS / True Peak -1.39 dBTP）
 - ウーブレック代表7フレーム: 目視合格。ユーザーによる完成確認済み。
 - ウーブレックYouTube: `https://youtu.be/Qb0PBEMvAd0`（2026-09-03 19:00 JST予約）
+
+- ニチノール完成動画: `out/ai-viral-nitinol-01-final.mp4`（30.95秒、ローカル、Git対象外）
+- ニチノール機械QC: 合格（1080×1920 / 30fps / -16.04 LUFS / True Peak -1.27 dBTP）
+- ニチノール代表8フレーム: 目視合格。左上シリーズバッジの文字欠け修正済み。
 
 ## 共有ストレージ
 

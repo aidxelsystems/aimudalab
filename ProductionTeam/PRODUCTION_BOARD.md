@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
 | ai-viral-oobleck-01 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | episode専用 `public/movie/`, `public/image/`, `public/BGM/`, `public/voice/` | `out/ai-viral-oobleck-01-final.mp4`（ローカル） | 2026-09-03 19:00 JST |
-| ai-viral-nitinol-01 | PC2 / Codex | main | editing | VOICEVOX API起動後にナレーション生成・実測尺取得・最終レンダー | Flow 2カット・BGM QC済み、音声未生成 | 未レンダー | 未定 |
+| ai-viral-nitinol-01 | PC2 / Codex | main | qc-passed | ユーザー完成確認後、公開日時を決定して投稿準備 | Flow 2カット・BGM・VOICEVOX 8音声 QC済み | `out/ai-viral-nitinol-01-final.mp4`（ローカル） | 未定 |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status
