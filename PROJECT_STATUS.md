@@ -9,8 +9,8 @@
 |---|---|
 | ローカルブランチ | `main` |
 | GitHub remote | `https://github.com/aidxelsystems/aimudalab.git` |
-| GitHub同期 | `synced` |
-| 理由 | `aidxelsystems` で認証済み。`main` は `origin/main` を追跡 |
+| GitHub同期 | `local ahead` |
+| 理由 | ニチノールRemotion実装はローカルcommit済み。外部pushは未実行 |
 | Git追跡 | 資料・JSON・Remotionコード・設定のみ、391ファイル、約2.11MB |
 | Google Drive対象 | 動画・画像・BGM・効果音・音声、330素材、約264.81MB |
 
@@ -24,7 +24,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | owner | `PC2 / Codex` |
 | production status | `editing` |
 | active render | なし |
-| uncommitted production work | ニチノールRemotion実装・素材QC完了（未同期） |
+| uncommitted production work | なし（ローカルcommit `20d64cc`、GitHub未同期） |
 | next production action | VOICEVOX API起動後にナレーションを生成し、実測尺を取得して最終レンダー |
 
 ## 現在の制作環境（PC2）
