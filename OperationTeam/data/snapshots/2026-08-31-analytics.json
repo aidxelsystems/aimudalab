@@ -1,0 +1,903 @@
+{
+  "source": "youtube-analytics-api",
+  "collectedAt": "2026-08-31T13:30:24.330Z",
+  "period": {
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-31"
+  },
+  "warnings": [
+    {
+      "report": "subscribed",
+      "error": "500 Internal Server Error: {\n  \"error\": {\n    \"code\": 500,\n    \"message\": \"An internal error has occurred.\",\n    \"errors\": [\n      {\n        \"message\": \"An internal error has occurred.\",\n        \"domain\": \"global\",\n        \"reason\": \"internalError\"\n      }\n    ]\n  }\n}\n"
+    }
+  ],
+  "reports": {
+    "daily": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "day",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewDuration",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewPercentage",
+          "columnType": "METRIC",
+          "dataType": "FLOAT"
+        },
+        {
+          "name": "likes",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "comments",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "shares",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersGained",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersLost",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "2026-08-03",
+          7,
+          1,
+          19,
+          71.52,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-04",
+          10,
+          1,
+          19,
+          98.96,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          "2026-08-05",
+          5,
+          1,
+          31,
+          108.11999999999999,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-06",
+          9,
+          1,
+          12,
+          63.95000000000001,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-07",
+          8,
+          2,
+          42,
+          117.21999999999998,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-08",
+          4,
+          0,
+          13,
+          32.7,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-09",
+          3,
+          0,
+          10,
+          30.329999999999995,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-10",
+          2,
+          0,
+          18,
+          60.49,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-11",
+          5,
+          0,
+          13,
+          40.93,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-12",
+          4,
+          1,
+          56,
+          164.3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-13",
+          7,
+          1,
+          19,
+          66.5,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-14",
+          7,
+          2,
+          26,
+          81.66,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-15",
+          6,
+          0,
+          8,
+          28.62,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-16",
+          4,
+          1,
+          53,
+          92.91,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-17",
+          9,
+          4,
+          34,
+          79.57,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-18",
+          2,
+          0,
+          9,
+          33,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-19",
+          7,
+          1,
+          18,
+          59.74,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-20",
+          6,
+          2,
+          25,
+          82.7,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-21",
+          5,
+          0,
+          11,
+          42.65,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-22",
+          7,
+          1,
+          23,
+          83.71,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-23",
+          15,
+          3,
+          24,
+          46.68,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-24",
+          7,
+          1,
+          29,
+          95.99,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-25",
+          8,
+          1,
+          19,
+          52,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-26",
+          20,
+          4,
+          24,
+          71.36,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-27",
+          20,
+          2,
+          12,
+          39.32,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "2026-08-28",
+          19,
+          4,
+          43,
+          115.38,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "byVideo": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "video",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewDuration",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "averageViewPercentage",
+          "columnType": "METRIC",
+          "dataType": "FLOAT"
+        },
+        {
+          "name": "likes",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "comments",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "shares",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersGained",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "subscribersLost",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "maLQFo9bxS0",
+          20,
+          5,
+          22,
+          58.51,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "ug56RpQ9ig0",
+          19,
+          3,
+          17,
+          66.31,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "feAgPVbtVfw",
+          17,
+          2,
+          13,
+          46.13,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "Ps8cLd2bHC0",
+          13,
+          2,
+          14,
+          81.51,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "YS0KjBv7sX0",
+          12,
+          2,
+          18,
+          95.06,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "XdNdBBswiBw",
+          9,
+          3,
+          31,
+          49.9,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "wb8SOULGL_M",
+          9,
+          1,
+          15,
+          53.03,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "dT8bRaWJCm8",
+          9,
+          2,
+          32,
+          96.85,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "M7DUNdhLToc",
+          8,
+          1,
+          15,
+          91.91,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "7DND4bTPDD0",
+          8,
+          3,
+          45,
+          158.15,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "Rb4PePjY5R4",
+          8,
+          0,
+          10,
+          36.34,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "cOgqO2Iar4Y",
+          8,
+          1,
+          19,
+          65.87,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "uGDfXopsMKo",
+          7,
+          1,
+          16,
+          52.349999999999994,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "AOphiBWWaQM",
+          7,
+          4,
+          52,
+          80.4,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "jnpV4Ofl9HE",
+          7,
+          0,
+          15,
+          71.83,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "DEvNrthujRk",
+          6,
+          0,
+          18,
+          70.77,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "LwwSIUxJ-ys",
+          5,
+          0,
+          14,
+          50.13000000000001,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "-RrgqLTHzgo",
+          5,
+          0,
+          10,
+          43.38,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "XbGTk_AdmGY",
+          4,
+          1,
+          25,
+          89.46,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "iJpo4OfGZEY",
+          4,
+          0,
+          17,
+          73.83,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "vknvu6na7zg",
+          4,
+          1,
+          16,
+          25.920000000000005,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "TfvqHOm1WGs",
+          3,
+          1,
+          70,
+          195.89,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "6ipzZcFFzrw",
+          3,
+          0,
+          12,
+          51.95000000000001,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "wxOkP7WgjH4",
+          3,
+          2,
+          77,
+          99.73,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "ET9dqC7R1TA",
+          2,
+          1,
+          107,
+          215.74,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "mTXlkEf6LH8",
+          2,
+          0,
+          56,
+          91.77,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "lI5vZuAiteg",
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "GOpJ5hEX9eA",
+          1,
+          0,
+          20,
+          90.91,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "xUQ_-E1OjJE",
+          1,
+          0,
+          27,
+          90,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          "63H76Dt2BaU",
+          1,
+          0,
+          10,
+          16.13,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          "LBUaVfGC_DU",
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "traffic": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "insightTrafficSourceType",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "YT_SEARCH",
+          140,
+          28
+        ],
+        [
+          "EXT_URL",
+          45,
+          15
+        ],
+        [
+          "SHORTS",
+          14,
+          2
+        ],
+        [
+          "YT_CHANNEL",
+          5,
+          2
+        ],
+        [
+          "NO_LINK_OTHER",
+          0,
+          0
+        ]
+      ]
+    },
+    "device": {
+      "kind": "youtubeAnalytics#resultTable",
+      "columnHeaders": [
+        {
+          "name": "deviceType",
+          "columnType": "DIMENSION",
+          "dataType": "STRING"
+        },
+        {
+          "name": "views",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        },
+        {
+          "name": "estimatedMinutesWatched",
+          "columnType": "METRIC",
+          "dataType": "INTEGER"
+        }
+      ],
+      "rows": [
+        [
+          "MOBILE",
+          145,
+          34
+        ],
+        [
+          "TABLET",
+          25,
+          2
+        ],
+        [
+          "TV",
+          24,
+          9
+        ],
+        [
+          "DESKTOP",
+          10,
+          1
+        ]
+      ]
+    }
+  }
+}
