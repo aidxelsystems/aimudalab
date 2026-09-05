@@ -1,0 +1,26 @@
+{
+  "id": "motion-comic-panel-prototype-01",
+  "odai": "エッフェル塔が\n売られた",
+  "odai_reading": "1925年、パリ。この男、エッフェル塔を売りました。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.24,
+  "odaiVoicePitch": -0.02,
+  "odaiVoiceIntonation": 1.06,
+  "answers": [
+    {
+      "id": "a1",
+      "text": "塔って、\n売り物なんですか？",
+      "reading": "塔って、売り物なんですか？",
+      "speakerId": 2,
+      "voiceSpeed": 1.18,
+      "voicePitch": 0.03,
+      "voiceIntonation": 1.18,
+      "duration": 2.2
+    }
+  ],
+  "_notes": {
+    "purpose": "同じAI画像を3つの漫画コマとして切り出し、コマ内ズーム、パン、字幕、複数話者を確認する非公開試作",
+    "source": "https://www.smithsonianmag.com/history/man-who-sold-eiffel-tower-twice-180958370/",
+    "voice_policy": "青山龍星はナレーション、四国めたんは登場人物、ずんだもんは本編最終ツッコミのみ"
+  }
+}

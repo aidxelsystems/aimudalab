@@ -12,7 +12,7 @@
 | ai-viral-oobleck-01 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | episode専用 `public/movie/`, `public/image/`, `public/BGM/`, `public/voice/` | `out/ai-viral-oobleck-01-final.mp4`（ローカル） | 2026-09-03 19:00 JST |
 | ai-viral-nitinol-01 | PC2 / Codex | main | prompt-ready | Flow 2カットとBGMを生成し、VOICEVOX実測尺を取得 | 未生成 | 未レンダー | 未定 |
 | motion-comic-format-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーが字幕位置・青山龍星の速度を確認 | 画像・青山龍星音声（ローカル） | `out/motion-comic-format-prototype-01-final.mp4`（3.648秒、ローカル） | 非公開試作 |
-| motion-comic-panel-prototype-01 | PC1 / Codex | main | editing | 3コマ切替、コマ内ズーム・パン、青山龍星＋四国めたん字幕を制作・QC | 既存エッフェル塔画像（ローカル） | 未レンダー | 非公開試作 |
+| motion-comic-panel-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認 | 既存エッフェル塔画像・VOICEVOX音声（ローカル） | `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル） | 非公開試作 |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status

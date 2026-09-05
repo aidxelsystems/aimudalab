@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-panel-prototype-01` |
 | owner | `PC1 / Codex` |
-| production status | `editing` |
+| production status | `qc-passed` |
 | active render | なし |
-| uncommitted production work | 3.648秒の冒頭試作はQC済み。承認を受け、同画像を使うコマ割り・ズーム移動・複数話者字幕の試作へ移行 |
-| next production action | 青山龍星＋四国めたんによる約7秒の3コマ試作を制作・QCする |
+| uncommitted production work | なし。3コマ切替・ズーム移動・青山龍星＋四国めたん字幕の7.28秒試作を完成し、機械QCと代表フレーム確認済み |
+| next production action | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認する |
 
 ### モーションコミック音声方針
 
@@ -59,6 +59,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - ウーブレック機械QC: 合格（1080×1920 / 30fps / -15.98 LUFS / True Peak -1.39 dBTP）
 - ウーブレック代表7フレーム: 目視合格。ユーザーによる完成確認済み。
 - ウーブレックYouTube: `https://youtu.be/Qb0PBEMvAd0`（2026-09-03 19:00 JST予約）
+
+- モーションコミック3コマ試作: `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル、非公開）
+- 試作QC: 合格（1080×1920 / 30fps / -15.3 LUFS / True Peak -1.5 dBTP）
+- 試作内容: コマ枠付き右・下スライド、各コマ内ズーム・パン、青山龍星＋四国めたんの話者別字幕
 
 ## 共有ストレージ
 
