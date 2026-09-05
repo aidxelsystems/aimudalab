@@ -1,7 +1,7 @@
 # AIMudaLab Project Status
 
-最終更新: 2026-08-30 JST
-更新担当: Codex / PC2
+最終更新: 2026-09-06 JST
+更新担当: Codex / PC1
 
 ## 同期状態
 
@@ -9,8 +9,8 @@
 |---|---|
 | ローカルブランチ | `main` |
 | GitHub remote | `https://github.com/aidxelsystems/aimudalab.git` |
-| GitHub同期 | `synced` |
-| 理由 | `aidxelsystems` で認証済み。`main` は `origin/main` を追跡 |
+| GitHub同期 | `start sync completed` |
+| 理由 | 2026-09-06に`origin/main`をfetchし、開始時点の差分0を確認。`main`は`origin/main`を追跡 |
 | Git追跡 | 資料・JSON・Remotionコード・設定のみ、391ファイル、約2.11MB |
 | Google Drive対象 | 動画・画像・BGM・効果音・音声、330素材、約264.81MB |
 
@@ -20,12 +20,19 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 | 項目 | 内容 |
 |---|---|
-| active episode | `ai-viral-nitinol-01` |
-| owner | `PC2 / Codex` |
-| production status | `prompt-ready` |
+| active episode | `motion-comic-format-prototype-01` |
+| owner | `PC1 / Codex` |
+| production status | `editing` |
 | active render | なし |
-| uncommitted production work | ニチノール制作ブリーフ・プロンプト作成完了（未同期） |
-| next production action | Flow 2カットとBGMを生成し、VOICEVOX実測尺を取得する |
+| uncommitted production work | 承認済み画風サンプルはローカル素材。モーションコミック字幕仕様を作成済み |
+| next production action | 青山龍星のナレーションを使い、約3秒の冒頭モーション試作を制作・QCする |
+
+### モーションコミック音声方針
+
+- 青山龍星: 基本ナレーション。
+- ずんだもん: 最後のツッコミのみ。
+- その他のVOICEVOX話者: 登場人物の会話、感情差、年代・役割の表現に利用する。
+- 1話内で話者を増やしすぎず、基本はナレーター＋登場人物1名＋最後のずんだもんまでとする。
 
 ## 現在の制作環境（PC2）
 
