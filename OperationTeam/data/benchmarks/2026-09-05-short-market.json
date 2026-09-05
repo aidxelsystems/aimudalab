@@ -1,0 +1,4166 @@
+{
+  "source": "youtube-data-api-search-benchmark",
+  "collectedAt": "2026-09-05T14:32:19.210Z",
+  "regionCode": "JP",
+  "relevanceLanguage": "ja",
+  "publishedAfter": "2026-06-07T14:32:13.265Z",
+  "caveats": [
+    "検索APIの結果であり、YouTube Shorts全体の無作為標本ではない",
+    "videoDuration=shortは4分未満を意味するため、保存時に180秒以下へ絞った",
+    "競合のShown in feed、視聴選択率、平均視聴率は取得できない",
+    "再生数はチャンネル規模、外部流入、既存ファン、広告等の影響を含む"
+  ],
+  "queries": [
+    "雑学 #Shorts",
+    "科学 #Shorts",
+    "科学実験 #Shorts",
+    "宇宙 #Shorts",
+    "歴史 #Shorts",
+    "AI動画 #Shorts",
+    "AIアニメ #Shorts",
+    "AI ASMR #Shorts",
+    "もしも #Shorts",
+    "発明 #Shorts"
+  ],
+  "warnings": [],
+  "videos": [
+    {
+      "id": "a_-bxReJNNQ",
+      "url": "https://www.youtube.com/shorts/a_-bxReJNNQ",
+      "title": "Lamine Yamal asmr 😁#asmr",
+      "publishedAt": "2026-08-20T07:01:19Z",
+      "durationSeconds": 21,
+      "viewCount": 48772473,
+      "likeCount": 269357,
+      "commentCount": 2142,
+      "channelId": "UCIPCZhq3QQPnXOhqusk4YyQ",
+      "channelTitle": "Piwe",
+      "channelSubscriberCount": 73900,
+      "viewSubscriberRatio": 659.98,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "xNlEy3hJTaY",
+      "url": "https://www.youtube.com/shorts/xNlEy3hJTaY",
+      "title": "Cooking Rajma Chawal on a Rainy Day 🌧️ | #ghiblistyle #asmr #shorts",
+      "publishedAt": "2026-07-30T03:13:00Z",
+      "durationSeconds": 178,
+      "viewCount": 37488029,
+      "likeCount": 675151,
+      "commentCount": 1760,
+      "channelId": "UC3LiwRzbujN4lhkcCWDc9Zg",
+      "channelTitle": "Rainlit Village",
+      "channelSubscriberCount": 518000,
+      "viewSubscriberRatio": 72.37,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "EunQCvotBk8",
+      "url": "https://www.youtube.com/shorts/EunQCvotBk8",
+      "title": "Saas Ne Daanta 😱 Bahu Ne Bana Diye Crispy #shorts #explore #trend #boost",
+      "publishedAt": "2026-07-09T01:34:42Z",
+      "durationSeconds": 142,
+      "viewCount": 26063769,
+      "likeCount": 859683,
+      "commentCount": 7514,
+      "channelId": "UCgeNzYXS8ZUcS_zA0-XrD4w",
+      "channelTitle": "AI Animation world",
+      "channelSubscriberCount": 430000,
+      "viewSubscriberRatio": 60.61,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "fiVe_pMb4wY",
+      "url": "https://www.youtube.com/shorts/fiVe_pMb4wY",
+      "title": "Physics Experiments That Look Fake #shorts",
+      "publishedAt": "2026-07-17T11:00:32Z",
+      "durationSeconds": 60,
+      "viewCount": 24098814,
+      "likeCount": 402122,
+      "commentCount": 1747,
+      "channelId": "UCKJsLGjak6AGxto9WvXzGBA",
+      "channelTitle": "ThisOneThough",
+      "channelSubscriberCount": 471000,
+      "viewSubscriberRatio": 51.17,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "H93YOXGix1w",
+      "url": "https://www.youtube.com/shorts/H93YOXGix1w",
+      "title": "Teacher Couldn't Answer! 😳 || #physicswallah #gurukulam #ashortaday #shorts #new #pw_motivation",
+      "publishedAt": "2026-07-01T14:54:44Z",
+      "durationSeconds": 37,
+      "viewCount": 16779851,
+      "likeCount": 197305,
+      "commentCount": 1954,
+      "channelId": "UCRmLVkfklZMTS3sEydCMuXQ",
+      "channelTitle": "Gurukulam School",
+      "channelSubscriberCount": 85700,
+      "viewSubscriberRatio": 195.8,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "f6XPTjQuEdI",
+      "url": "https://www.youtube.com/shorts/f6XPTjQuEdI",
+      "title": "Soda Coke Mentos Experiment 😱 #trending #coke #shorts #ytshorts",
+      "publishedAt": "2026-07-13T11:32:30Z",
+      "durationSeconds": 25,
+      "viewCount": 15074159,
+      "likeCount": 84053,
+      "commentCount": 22,
+      "channelId": "UC7UF92GS0GEAf3C5_AKQtjQ",
+      "channelTitle": "BoxToLaugh",
+      "channelSubscriberCount": 5050,
+      "viewSubscriberRatio": 2984.98,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "m61VOQ7PWTc",
+      "url": "https://www.youtube.com/shorts/m61VOQ7PWTc",
+      "title": "Bill Nye And Kai Try A Scientific Experiment😂",
+      "publishedAt": "2026-06-12T17:13:29Z",
+      "durationSeconds": 25,
+      "viewCount": 14683260,
+      "likeCount": 235435,
+      "commentCount": 747,
+      "channelId": "UCFa1-6zDEpsmfWku9VK9j7Q",
+      "channelTitle": "Probably Edited",
+      "channelSubscriberCount": 36600,
+      "viewSubscriberRatio": 401.18,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "srPeUo3u5bY",
+      "url": "https://www.youtube.com/shorts/srPeUo3u5bY",
+      "title": "ASMR Ice 🧊 | Frozen Pear Bursts with Juice! 🍐💦 #Shorts",
+      "publishedAt": "2026-08-08T11:25:49Z",
+      "durationSeconds": 10,
+      "viewCount": 11933163,
+      "likeCount": 83428,
+      "commentCount": 637,
+      "channelId": "UCgGbdY8VKrV2-u59j3Mjpjw",
+      "channelTitle": "IceVibes",
+      "channelSubscriberCount": 159000,
+      "viewSubscriberRatio": 75.05,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "Gsy785ul0Ss",
+      "url": "https://www.youtube.com/shorts/Gsy785ul0Ss",
+      "title": "Speedrunning YT Shorts #288 (I'M BACK)",
+      "publishedAt": "2026-08-11T22:10:32Z",
+      "durationSeconds": 38,
+      "viewCount": 11886195,
+      "likeCount": 294924,
+      "commentCount": 1425,
+      "channelId": "UCHyMNXj5l7eTTQefXzT3MdQ",
+      "channelTitle": "Joe Caine",
+      "channelSubscriberCount": 4040000,
+      "viewSubscriberRatio": 2.94,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "GUPwQiwo_3c",
+      "url": "https://www.youtube.com/shorts/GUPwQiwo_3c",
+      "title": "Car VS Trampoline Springs #shorts #automobile #science",
+      "publishedAt": "2026-07-17T20:27:35Z",
+      "durationSeconds": 47,
+      "viewCount": 11623918,
+      "likeCount": 240874,
+      "commentCount": 2113,
+      "channelId": "UCWPgowY8PMOR4RP7DvM8E0w",
+      "channelTitle": "Miller Thriller Garage ",
+      "channelSubscriberCount": 196000,
+      "viewSubscriberRatio": 59.31,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "BonRQ9gfMuc",
+      "url": "https://www.youtube.com/shorts/BonRQ9gfMuc",
+      "title": "東大生の凄さが分かる瞬間#すごい #歴史 #shorts",
+      "publishedAt": "2026-06-11T10:56:43Z",
+      "durationSeconds": 59,
+      "viewCount": 11082608,
+      "likeCount": 157912,
+      "commentCount": 981,
+      "channelId": "UC3FqX2adoxzuOwrbRt_c_Gw",
+      "channelTitle": "これエエやん",
+      "channelSubscriberCount": 145000,
+      "viewSubscriberRatio": 76.43,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "0_eNv46Dzgo",
+      "url": "https://www.youtube.com/shorts/0_eNv46Dzgo",
+      "title": "Things Japan did not create 🤷 #shorts",
+      "publishedAt": "2026-08-04T13:30:37Z",
+      "durationSeconds": 20,
+      "viewCount": 10291670,
+      "likeCount": 123418,
+      "commentCount": 578,
+      "channelId": "UCmDINMuzUENtdj1lrxnmUPQ",
+      "channelTitle": "Futuristic Japan",
+      "channelSubscriberCount": 44800,
+      "viewSubscriberRatio": 229.72,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "tJujo0eHyMc",
+      "url": "https://www.youtube.com/shorts/tJujo0eHyMc",
+      "title": "【神の子】時を超えて会うメッシたちが... #shorts",
+      "publishedAt": "2026-07-12T07:45:12Z",
+      "durationSeconds": 60,
+      "viewCount": 9892292,
+      "likeCount": 133007,
+      "commentCount": 1284,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 125.06,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "RHz0Ct77XC8",
+      "url": "https://www.youtube.com/shorts/RHz0Ct77XC8",
+      "title": "How small are we in the Universe ☠️☠️  #space #shorts #universe",
+      "publishedAt": "2026-08-11T10:21:47Z",
+      "durationSeconds": 22,
+      "viewCount": 9795013,
+      "likeCount": 59509,
+      "commentCount": 338,
+      "channelId": "UCJfrwHdSXCU1meZg1VX6ZbA",
+      "channelTitle": "Astro Professor ",
+      "channelSubscriberCount": 56800,
+      "viewSubscriberRatio": 172.45,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "Ez-bqGcM3bw",
+      "url": "https://www.youtube.com/shorts/Ez-bqGcM3bw",
+      "title": "RESULTS - I Made the VIRAL CHEESE SQUISHY! 😱😳🧀 *diy satisfying squishy*",
+      "publishedAt": "2026-06-12T19:42:30Z",
+      "durationSeconds": 30,
+      "viewCount": 9611916,
+      "likeCount": 85258,
+      "commentCount": 678,
+      "channelId": "UCNpc6BMk8peBkPMmMZgorQg",
+      "channelTitle": "It’Sarah 💜",
+      "channelSubscriberCount": 3700000,
+      "viewSubscriberRatio": 2.6,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "fxP7ywGaeM4",
+      "url": "https://www.youtube.com/shorts/fxP7ywGaeM4",
+      "title": "Unboxing SATISFYING TIKTOK SQUISHIES! 😱😳",
+      "publishedAt": "2026-08-12T18:55:46Z",
+      "durationSeconds": 31,
+      "viewCount": 9379166,
+      "likeCount": 101339,
+      "commentCount": 935,
+      "channelId": "UCNpc6BMk8peBkPMmMZgorQg",
+      "channelTitle": "It’Sarah 💜",
+      "channelSubscriberCount": 3700000,
+      "viewSubscriberRatio": 2.53,
+      "matchedQueries": [
+        "AI動画 #Shorts",
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "hC-iuj7_ULo",
+      "url": "https://www.youtube.com/shorts/hC-iuj7_ULo",
+      "title": "Keyboard but it's boring! #keycaps #keyboardasmr #shorts",
+      "publishedAt": "2026-08-09T02:52:54Z",
+      "durationSeconds": 50,
+      "viewCount": 8961486,
+      "likeCount": 215955,
+      "commentCount": 2006,
+      "channelId": "UCRSLeYO3BOhRAYz0vLfVSWw",
+      "channelTitle": "SugarStar",
+      "channelSubscriberCount": 9390000,
+      "viewSubscriberRatio": 0.95,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "PVC-HYggtZM",
+      "url": "https://www.youtube.com/shorts/PVC-HYggtZM",
+      "title": "【ゆにばーす】宇宙人#神速49秒 #お笑い #紺野ぶるま #ゆにばーす #はら #最速 #まい賞 #おすすめバラエティ #49秒グランプリ #shorts",
+      "publishedAt": "2026-06-08T22:00:16Z",
+      "durationSeconds": 60,
+      "viewCount": 7808169,
+      "likeCount": 127766,
+      "commentCount": 1098,
+      "channelId": "UCkGCQ4TN-8gvb8QCYIqygHw",
+      "channelTitle": "動画、はじめてみました【テレビ朝日公式】",
+      "channelSubscriberCount": 2160000,
+      "viewSubscriberRatio": 3.61,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "heW9rMj1anc",
+      "url": "https://www.youtube.com/shorts/heW9rMj1anc",
+      "title": "10 Hamster Funny Moment  #hamster #funny  #pets",
+      "publishedAt": "2026-07-27T14:52:31Z",
+      "durationSeconds": 39,
+      "viewCount": 6820890,
+      "likeCount": 53544,
+      "commentCount": 0,
+      "channelId": "UClYSmVjQ6VWQ8LcdSXqrjcw",
+      "channelTitle": "Funny Video moment",
+      "channelSubscriberCount": 22800,
+      "viewSubscriberRatio": 299.16,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "A-uY6orWpdg",
+      "url": "https://www.youtube.com/shorts/A-uY6orWpdg",
+      "title": "Which Crazy Bed Would You Choose? 🦋 | Ultimate Oddly Satisfying AI ASMR #5 #aiasmr",
+      "publishedAt": "2026-06-24T23:59:17Z",
+      "durationSeconds": 143,
+      "viewCount": 6766585,
+      "likeCount": null,
+      "commentCount": 260,
+      "channelId": "UCGxHfEF_LwrnTU1bXM_vDSw",
+      "channelTitle": "AI ASMR Satisfait",
+      "channelSubscriberCount": 72100,
+      "viewSubscriberRatio": 93.85,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "_sMYa86lYOc",
+      "url": "https://www.youtube.com/shorts/_sMYa86lYOc",
+      "title": "The Confidence of AI! 💀💀",
+      "publishedAt": "2026-08-27T18:00:02Z",
+      "durationSeconds": 24,
+      "viewCount": 6412631,
+      "likeCount": 129400,
+      "commentCount": 2107,
+      "channelId": "UCK2WCrRlxqXXKS710sRZHDQ",
+      "channelTitle": "BlobbyClips",
+      "channelSubscriberCount": 1970000,
+      "viewSubscriberRatio": 3.26,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "_ip_vl_GUA0",
+      "url": "https://www.youtube.com/shorts/_ip_vl_GUA0",
+      "title": "カマキリが水に飛び込む本当の理由がヤバすぎる",
+      "publishedAt": "2026-06-17T06:51:08Z",
+      "durationSeconds": 52,
+      "viewCount": 6097836,
+      "likeCount": 38665,
+      "commentCount": 261,
+      "channelId": "UC5M14gmLEkZv8HRE6_xUi5A",
+      "channelTitle": "アニコミ",
+      "channelSubscriberCount": 33600,
+      "viewSubscriberRatio": 181.48,
+      "matchedQueries": [
+        "雑学 #Shorts",
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "cbDcYT7nImw",
+      "url": "https://www.youtube.com/shorts/cbDcYT7nImw",
+      "title": "How Gillette Was Founded 🪒 #shorts #business",
+      "publishedAt": "2026-07-27T22:22:57Z",
+      "durationSeconds": 57,
+      "viewCount": 5798222,
+      "likeCount": 356371,
+      "commentCount": 1056,
+      "channelId": "UCSAhOTWPuy_uSvF_OkrZTDQ",
+      "channelTitle": "PureBusiness",
+      "channelSubscriberCount": 41000,
+      "viewSubscriberRatio": 141.42,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "_mO2oilB3oM",
+      "url": "https://www.youtube.com/shorts/_mO2oilB3oM",
+      "title": "Powerful Magnet vs World's Strongest Glue! 😱 | Trend Decode #shorts",
+      "publishedAt": "2026-08-20T05:15:31Z",
+      "durationSeconds": 112,
+      "viewCount": 5721830,
+      "likeCount": 152367,
+      "commentCount": 84,
+      "channelId": "UCRhYgk5X4kZHeEr8cw6Tkbg",
+      "channelTitle": "Trend Decode",
+      "channelSubscriberCount": 207000,
+      "viewSubscriberRatio": 27.64,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "9LirN4WMqyY",
+      "url": "https://www.youtube.com/shorts/9LirN4WMqyY",
+      "title": "10 Triggers in 10 Seconds #asmr #shorts",
+      "publishedAt": "2026-07-29T00:03:39Z",
+      "durationSeconds": 11,
+      "viewCount": 5520878,
+      "likeCount": 37830,
+      "commentCount": 953,
+      "channelId": "UCxNWEKrYovqiz0k6wgBiLDw",
+      "channelTitle": "Crazy girl ASMR",
+      "channelSubscriberCount": 212000,
+      "viewSubscriberRatio": 26.04,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "Ovz4kr-uDV0",
+      "url": "https://www.youtube.com/shorts/Ovz4kr-uDV0",
+      "title": "A Cozy Indian Family Weekend 🌿 | Ghibli Style ASMR Short #asmr #ghibli #cooking #anime#cartoon #food",
+      "publishedAt": "2026-06-20T14:00:34Z",
+      "durationSeconds": 91,
+      "viewCount": 5491925,
+      "likeCount": 114024,
+      "commentCount": 414,
+      "channelId": "UCqBL3UbjrvFh20ngyPiceog",
+      "channelTitle": "cloud petal studio",
+      "channelSubscriberCount": 110000,
+      "viewSubscriberRatio": 49.93,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "7qjbg1T-0Dc",
+      "url": "https://www.youtube.com/shorts/7qjbg1T-0Dc",
+      "title": "Ranking the BEST VERITY animations pt.2 #verity #minecraft #minecrafthorror #minecraftmods #shorts",
+      "publishedAt": "2026-08-10T19:00:38Z",
+      "durationSeconds": 58,
+      "viewCount": 5360363,
+      "likeCount": 112989,
+      "commentCount": 2732,
+      "channelId": "UCr_IOizXcxzwIinL_z9c6Fw",
+      "channelTitle": "FalseChrono",
+      "channelSubscriberCount": 70500,
+      "viewSubscriberRatio": 76.03,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "6yaNZVm_di8",
+      "url": "https://www.youtube.com/shorts/6yaNZVm_di8",
+      "title": "I literally can’t think of any💀…  #shorts #food #mukbang #eating #sweet #cake #asmr #roblox",
+      "publishedAt": "2026-07-16T17:15:37Z",
+      "durationSeconds": 21,
+      "viewCount": 5280518,
+      "likeCount": 75754,
+      "commentCount": 29182,
+      "channelId": "UCqfcYj5Jrm7TIh85BWzX-yA",
+      "channelTitle": "Toxic Gurl.",
+      "channelSubscriberCount": 185000,
+      "viewSubscriberRatio": 28.54,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "-WExO6dlwYw",
+      "url": "https://www.youtube.com/shorts/-WExO6dlwYw",
+      "title": "3体のaiで一番最初にマイクラをクリアするのは誰？#shorts #マインクラフト #マイクラ",
+      "publishedAt": "2026-07-17T08:00:32Z",
+      "durationSeconds": 107,
+      "viewCount": 5266652,
+      "likeCount": 96480,
+      "commentCount": 531,
+      "channelId": "UC8IKOxnXZjMtgbysa9VLbWg",
+      "channelTitle": "くろてる",
+      "channelSubscriberCount": 53400,
+      "viewSubscriberRatio": 98.63,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "MOHrU-f6pg0",
+      "url": "https://www.youtube.com/shorts/MOHrU-f6pg0",
+      "title": "I Tried Cold Branding Myself… BIG Mistake #shorts #funny #science",
+      "publishedAt": "2026-08-21T20:51:34Z",
+      "durationSeconds": 13,
+      "viewCount": 5201138,
+      "likeCount": 44754,
+      "commentCount": 410,
+      "channelId": "UCNRW1846nhED2nBdOSAKteA",
+      "channelTitle": "Houston Jones",
+      "channelSubscriberCount": 5390000,
+      "viewSubscriberRatio": 0.96,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "NIzpLolRtJo",
+      "url": "https://www.youtube.com/shorts/NIzpLolRtJo",
+      "title": "もしもマイクラの都市伝説モブが優しすぎたら【マイクラ・ゆっくり実況】 #minecraft   #ホラー #最新アップデート",
+      "publishedAt": "2026-07-10T07:00:24Z",
+      "durationSeconds": 60,
+      "viewCount": 5169496,
+      "likeCount": 74055,
+      "commentCount": 1879,
+      "channelId": "UCx5iBYoyMs8_GVTNM0JwxBQ",
+      "channelTitle": "よるめちゃんのマイクラ都市伝説",
+      "channelSubscriberCount": 295000,
+      "viewSubscriberRatio": 17.52,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "RsX4oO12f5M",
+      "url": "https://www.youtube.com/shorts/RsX4oO12f5M",
+      "title": "Astronomical Event in August 2026 💫☄️ #space #astrology #shorts",
+      "publishedAt": "2026-07-24T12:23:03Z",
+      "durationSeconds": 52,
+      "viewCount": 5089721,
+      "likeCount": 114268,
+      "commentCount": 720,
+      "channelId": "UCtmxLq-mESjpmi54OxFlGpw",
+      "channelTitle": "BeyondTellX",
+      "channelSubscriberCount": 58000,
+      "viewSubscriberRatio": 87.75,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "nrceD4iNy9g",
+      "url": "https://www.youtube.com/shorts/nrceD4iNy9g",
+      "title": "🦀 Crab Hunting and Cooking ASMR 🌧️ Cozy Rainy Night Village | Ghibli Style Village Life #shorts",
+      "publishedAt": "2026-06-14T15:05:01Z",
+      "durationSeconds": 55,
+      "viewCount": 4944644,
+      "likeCount": 123527,
+      "commentCount": 303,
+      "channelId": "UCwdQFcubZcavJ9OOUOB3ZLQ",
+      "channelTitle": "Gaon ki Rasoi",
+      "channelSubscriberCount": 220000,
+      "viewSubscriberRatio": 22.48,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "x-jTOfLGEp4",
+      "url": "https://www.youtube.com/shorts/x-jTOfLGEp4",
+      "title": "X Æ A-12に関する雑学。#雑学 #shorts",
+      "publishedAt": "2026-07-11T12:10:01Z",
+      "durationSeconds": 36,
+      "viewCount": 4904200,
+      "likeCount": 67818,
+      "commentCount": 2020,
+      "channelId": "UCJNOHwsXjY28e0MALCdiCGg",
+      "channelTitle": "レアレモン",
+      "channelSubscriberCount": 12000,
+      "viewSubscriberRatio": 408.68,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "E9KCIH8YEQg",
+      "url": "https://www.youtube.com/shorts/E9KCIH8YEQg",
+      "title": "【ショートコント】フリー音源 #あるある #コント #お笑い #shorts",
+      "publishedAt": "2026-08-18T12:22:20Z",
+      "durationSeconds": 7,
+      "viewCount": 4444489,
+      "likeCount": 70167,
+      "commentCount": 466,
+      "channelId": "UCo7iaHAXV0WAUXO9Q67XE6Q",
+      "channelTitle": "ミラクルST計画",
+      "channelSubscriberCount": 271000,
+      "viewSubscriberRatio": 16.4,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "VrMcd_nskMc",
+      "url": "https://www.youtube.com/shorts/VrMcd_nskMc",
+      "title": "ハーランドは裏切り者だった... #shorts",
+      "publishedAt": "2026-07-11T07:50:37Z",
+      "durationSeconds": 53,
+      "viewCount": 4400378,
+      "likeCount": 49092,
+      "commentCount": 936,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 55.63,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "9wFNc5f95LY",
+      "url": "https://www.youtube.com/shorts/9wFNc5f95LY",
+      "title": "メッシとロナウドの秘密の動画w #shorts",
+      "publishedAt": "2026-06-23T07:15:19Z",
+      "durationSeconds": 24,
+      "viewCount": 4361978,
+      "likeCount": 41921,
+      "commentCount": 791,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 55.15,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "M9a3ZVP3cJM",
+      "url": "https://www.youtube.com/shorts/M9a3ZVP3cJM",
+      "title": "ユンは、本当に「役に立てた」のか？ #葬送のフリーレン #frieren #アニメ #名シーン  #ai超解像",
+      "publishedAt": "2026-07-31T09:00:09Z",
+      "durationSeconds": 56,
+      "viewCount": 4305632,
+      "likeCount": 61140,
+      "commentCount": 566,
+      "channelId": "UC23-iEDVYG6sYzSI9dzACjw",
+      "channelTitle": "記憶の旅びと - アニメシーンMAD",
+      "channelSubscriberCount": 29000,
+      "viewSubscriberRatio": 148.47,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "pbIli8RIRWw",
+      "url": "https://www.youtube.com/shorts/pbIli8RIRWw",
+      "title": "This Arrow Got STUCK in My Leg… #shorts #funny #science",
+      "publishedAt": "2026-08-24T21:00:12Z",
+      "durationSeconds": 24,
+      "viewCount": 4211529,
+      "likeCount": 41431,
+      "commentCount": 191,
+      "channelId": "UCNRW1846nhED2nBdOSAKteA",
+      "channelTitle": "Houston Jones",
+      "channelSubscriberCount": 5390000,
+      "viewSubscriberRatio": 0.78,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "IAbdhOnbt60",
+      "url": "https://www.youtube.com/shorts/IAbdhOnbt60",
+      "title": "The baking pan hack nobody talks about #bakingtips #cake #shorts",
+      "publishedAt": "2026-06-17T00:30:13Z",
+      "durationSeconds": 30,
+      "viewCount": 4145422,
+      "likeCount": 121809,
+      "commentCount": 542,
+      "channelId": "UCyAc7YqV5fEigVhpSv0076A",
+      "channelTitle": "HerStoryTime",
+      "channelSubscriberCount": 23200,
+      "viewSubscriberRatio": 178.68,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "gjv6nTGzGfY",
+      "url": "https://www.youtube.com/shorts/gjv6nTGzGfY",
+      "title": "Are these ACTUALLY Japanese Inventions? #gadgets  #japan  #shorts",
+      "publishedAt": "2026-07-25T03:17:10Z",
+      "durationSeconds": 69,
+      "viewCount": 4055811,
+      "likeCount": 83173,
+      "commentCount": 855,
+      "channelId": "UCWHIIbEUAG8d1uYnSdzYsoQ",
+      "channelTitle": "FIH",
+      "channelSubscriberCount": 149000,
+      "viewSubscriberRatio": 27.22,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "PBDd9a_n-Ag",
+      "url": "https://www.youtube.com/shorts/PBDd9a_n-Ag",
+      "title": "もしも100年前にタイムスリップしたら⛰️ #shorts #タイムスリップ",
+      "publishedAt": "2026-06-15T09:00:11Z",
+      "durationSeconds": 66,
+      "viewCount": 3992595,
+      "likeCount": 61713,
+      "commentCount": 422,
+      "channelId": "UCne4Ucg8YAcobwtcjtM12Kw",
+      "channelTitle": "カイログ / Kai6\"",
+      "channelSubscriberCount": 285000,
+      "viewSubscriberRatio": 14.01,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "PEYlGekKQ14",
+      "url": "https://www.youtube.com/shorts/PEYlGekKQ14",
+      "title": "OMG 😱 AI Enhanced Ruby Crystal Geode 💎 #crystals #geode #shorts #asmr #satisfying #ai #rockhounding",
+      "publishedAt": "2026-07-28T09:30:22Z",
+      "durationSeconds": 51,
+      "viewCount": 3858821,
+      "likeCount": 14257,
+      "commentCount": 53,
+      "channelId": "UCcuG3ewV9W_ASCZ_-hI8KZw",
+      "channelTitle": "crystal hunter me",
+      "channelSubscriberCount": 6130,
+      "viewSubscriberRatio": 629.5,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "R3Lo0DRRgdI",
+      "url": "https://www.youtube.com/shorts/R3Lo0DRRgdI",
+      "title": "地球最後の日に経験すること🌏☄️ #shorts #人類最後",
+      "publishedAt": "2026-06-13T09:00:12Z",
+      "durationSeconds": 61,
+      "viewCount": 3819254,
+      "likeCount": 62256,
+      "commentCount": 454,
+      "channelId": "UCne4Ucg8YAcobwtcjtM12Kw",
+      "channelTitle": "カイログ / Kai6\"",
+      "channelSubscriberCount": 285000,
+      "viewSubscriberRatio": 13.4,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "CRo-F3ItE2g",
+      "url": "https://www.youtube.com/shorts/CRo-F3ItE2g",
+      "title": "💕 A 90s Indian Mom's Morning Before Everyone Wake Up | Ghibli ASMR | Daily Routine | #viral  #shorts",
+      "publishedAt": "2026-06-29T13:00:34Z",
+      "durationSeconds": 175,
+      "viewCount": 3778181,
+      "likeCount": 87161,
+      "commentCount": 312,
+      "channelId": "UCoIfwePrPI84acc7ug0j6ag",
+      "channelTitle": "Village Masala Tales",
+      "channelSubscriberCount": 38300,
+      "viewSubscriberRatio": 98.65,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "-I-0HLMNikM",
+      "url": "https://www.youtube.com/shorts/-I-0HLMNikM",
+      "title": "Don't Miss These Sky Events Of September 2026 #shorts",
+      "publishedAt": "2026-09-02T17:30:07Z",
+      "durationSeconds": 24,
+      "viewCount": 3760594,
+      "likeCount": 37998,
+      "commentCount": 541,
+      "channelId": "UCGHwgon63QZdoBF0HBrBqbA",
+      "channelTitle": "AstroTimee",
+      "channelSubscriberCount": 20600,
+      "viewSubscriberRatio": 182.55,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "uxMJiu8_LhA",
+      "url": "https://www.youtube.com/shorts/uxMJiu8_LhA",
+      "title": "羽根を逆向きに付けた理由",
+      "publishedAt": "2026-07-05T12:05:12Z",
+      "durationSeconds": 58,
+      "viewCount": 3609995,
+      "likeCount": 40633,
+      "commentCount": 577,
+      "channelId": "UCaW-Ask9FzKAYd_eHWT2JMw",
+      "channelTitle": "見つけ庭 ",
+      "channelSubscriberCount": 17100,
+      "viewSubscriberRatio": 211.11,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "OC5zg2BoDW8",
+      "url": "https://www.youtube.com/shorts/OC5zg2BoDW8",
+      "title": "もしも親友がケチだったらどうしますか・・・",
+      "publishedAt": "2026-06-20T08:06:00Z",
+      "durationSeconds": 58,
+      "viewCount": 3607514,
+      "likeCount": 22216,
+      "commentCount": 65,
+      "channelId": "UCs9gXl_7Piyl8mLXz1qoCtw",
+      "channelTitle": "おもちとクマ",
+      "channelSubscriberCount": 45400,
+      "viewSubscriberRatio": 79.46,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "ZJNRMdkPxyg",
+      "url": "https://www.youtube.com/shorts/ZJNRMdkPxyg",
+      "title": "Reviewing VIRAL TIKTOK SQUISHIES! 😱😳 *so satisfying*",
+      "publishedAt": "2026-07-18T16:24:07Z",
+      "durationSeconds": 36,
+      "viewCount": 3579268,
+      "likeCount": 50717,
+      "commentCount": 641,
+      "channelId": "UCNpc6BMk8peBkPMmMZgorQg",
+      "channelTitle": "It’Sarah 💜",
+      "channelSubscriberCount": 3700000,
+      "viewSubscriberRatio": 0.97,
+      "matchedQueries": [
+        "AI動画 #Shorts",
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "vhozI2eXGyo",
+      "url": "https://www.youtube.com/shorts/vhozI2eXGyo",
+      "title": "学校では教えてくれない太陽の真実 #shorts #宇宙 #雑学 #科学",
+      "publishedAt": "2026-08-06T12:15:33Z",
+      "durationSeconds": 22,
+      "viewCount": 3515311,
+      "likeCount": 22842,
+      "commentCount": 2147,
+      "channelId": "UCD-wVVfgHpCD3_w4wcrxnMg",
+      "channelTitle": "これ何",
+      "channelSubscriberCount": 35900,
+      "viewSubscriberRatio": 97.92,
+      "matchedQueries": [
+        "雑学 #Shorts",
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "Yrv2aaoZnyQ",
+      "url": "https://www.youtube.com/shorts/Yrv2aaoZnyQ",
+      "title": "サッカー界の次の物語... #shorts",
+      "publishedAt": "2026-07-27T08:25:23Z",
+      "durationSeconds": 54,
+      "viewCount": 3484258,
+      "likeCount": 37404,
+      "commentCount": 470,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 44.05,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "0bUDip0OEHk",
+      "url": "https://www.youtube.com/shorts/0bUDip0OEHk",
+      "title": "ショートスリープで見た目を指摘されキレる堀大輔 ／令和の虎切り抜き #shorts",
+      "publishedAt": "2026-08-10T12:00:04Z",
+      "durationSeconds": 29,
+      "viewCount": 3434559,
+      "likeCount": 21422,
+      "commentCount": 2528,
+      "channelId": "UCJgdJ9oDMqQMk_Ut1k7O57A",
+      "channelTitle": "虎の一撃 【令和の虎切り抜き】",
+      "channelSubscriberCount": 37600,
+      "viewSubscriberRatio": 91.34,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "-9xyaM9xq88",
+      "url": "https://www.youtube.com/shorts/-9xyaM9xq88",
+      "title": "7 triggers 12 seconds #ASMR #shorts",
+      "publishedAt": "2026-08-15T22:30:29Z",
+      "durationSeconds": 13,
+      "viewCount": 3421849,
+      "likeCount": 32691,
+      "commentCount": 958,
+      "channelId": "UCxNWEKrYovqiz0k6wgBiLDw",
+      "channelTitle": "Crazy girl ASMR",
+      "channelSubscriberCount": 212000,
+      "viewSubscriberRatio": 16.14,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "JGhiBl2QCsE",
+      "url": "https://www.youtube.com/shorts/JGhiBl2QCsE",
+      "title": "I BOUGHT VIRAL TIKTOK SQUISHIES! 😱😳🧈 *satisfying squishy asmr*",
+      "publishedAt": "2026-06-20T21:44:40Z",
+      "durationSeconds": 29,
+      "viewCount": 3406249,
+      "likeCount": 31729,
+      "commentCount": 587,
+      "channelId": "UCsUGQ3eJjYOv00609MFs1wQ",
+      "channelTitle": "Chillin' with Rachel 💛",
+      "channelSubscriberCount": 4260000,
+      "viewSubscriberRatio": 0.8,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "z51nUIUs_0E",
+      "url": "https://www.youtube.com/shorts/z51nUIUs_0E",
+      "title": "¿Esta Cuchara Eléctrica da Sabor? #shorts",
+      "publishedAt": "2026-07-13T21:00:18Z",
+      "durationSeconds": 44,
+      "viewCount": 3323196,
+      "likeCount": 59955,
+      "commentCount": 175,
+      "channelId": "UCamANU3elZ8y6v9OFQNVscA",
+      "channelTitle": "Horchata Soto en Español",
+      "channelSubscriberCount": 596000,
+      "viewSubscriberRatio": 5.58,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "H-2Nr16vtQE",
+      "url": "https://www.youtube.com/shorts/H-2Nr16vtQE",
+      "title": "血液型に関する雑学🫵  #創作 #illustration #イラスト #アナログ絵 #short #shorts",
+      "publishedAt": "2026-08-14T09:15:37Z",
+      "durationSeconds": 33,
+      "viewCount": 3261659,
+      "likeCount": 96979,
+      "commentCount": 1697,
+      "channelId": "UCn4vseF_NBS2SZo4pnzK4EQ",
+      "channelTitle": "ララァ⋆͛♥︎",
+      "channelSubscriberCount": 802000,
+      "viewSubscriberRatio": 4.07,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "EpSDLpEoNz8",
+      "url": "https://www.youtube.com/shorts/EpSDLpEoNz8",
+      "title": "もしも我が家にこの蜂がいたら…ゴキブリは全滅するのか？",
+      "publishedAt": "2026-07-06T07:45:10Z",
+      "durationSeconds": 63,
+      "viewCount": 3171133,
+      "likeCount": 21726,
+      "commentCount": 165,
+      "channelId": "UC5M14gmLEkZv8HRE6_xUi5A",
+      "channelTitle": "アニコミ",
+      "channelSubscriberCount": 33600,
+      "viewSubscriberRatio": 94.38,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "QTlSq4SMAAo",
+      "url": "https://www.youtube.com/shorts/QTlSq4SMAAo",
+      "title": "ピース綾部、渡米前なのに通訳付けられるw #お笑い #shorts #雑学",
+      "publishedAt": "2026-06-23T03:00:19Z",
+      "durationSeconds": 24,
+      "viewCount": 3167064,
+      "likeCount": 11930,
+      "commentCount": 82,
+      "channelId": "UC8yKVEqtnxON3z0_wOz0HRA",
+      "channelTitle": "どれ好き?",
+      "channelSubscriberCount": 4010,
+      "viewSubscriberRatio": 789.79,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "pGGwU63SAxI",
+      "url": "https://www.youtube.com/shorts/pGGwU63SAxI",
+      "title": "【神回】ワールドカップの裏側アニメ #shorts",
+      "publishedAt": "2026-06-25T09:40:38Z",
+      "durationSeconds": 46,
+      "viewCount": 2938646,
+      "likeCount": 60463,
+      "commentCount": 802,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 37.15,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "RPFbEAVIvYU",
+      "url": "https://www.youtube.com/shorts/RPFbEAVIvYU",
+      "title": "【〇〇万!?】街中にある物の意外すぎる金額…#shorts #ティアロ疾風伝 #ドラマ #雑学",
+      "publishedAt": "2026-08-09T09:00:06Z",
+      "durationSeconds": 66,
+      "viewCount": 2855042,
+      "likeCount": 22911,
+      "commentCount": 283,
+      "channelId": "UCq_amabHgN8_Y5eXYRQOo1w",
+      "channelTitle": "ティアロ疾風伝",
+      "channelSubscriberCount": 628000,
+      "viewSubscriberRatio": 4.55,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "CfL3KyNxe-o",
+      "url": "https://www.youtube.com/shorts/CfL3KyNxe-o",
+      "title": "Cozy Riverside Camping & Masala Vada ASMR 🌧️⛺| #ghiblistyle #asmr #shorts",
+      "publishedAt": "2026-08-24T12:00:08Z",
+      "durationSeconds": 99,
+      "viewCount": 2795335,
+      "likeCount": 45490,
+      "commentCount": 138,
+      "channelId": "UC3LiwRzbujN4lhkcCWDc9Zg",
+      "channelTitle": "Rainlit Village",
+      "channelSubscriberCount": 518000,
+      "viewSubscriberRatio": 5.4,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "sVIkqTx65Tg",
+      "url": "https://www.youtube.com/shorts/sVIkqTx65Tg",
+      "title": "أواني زهور ديجيتال ومراحيض ذكية في كوكب اليابان! 🤯 #حقائق #shorts",
+      "publishedAt": "2026-06-21T20:00:23Z",
+      "durationSeconds": 48,
+      "viewCount": 2779620,
+      "likeCount": 88290,
+      "commentCount": 888,
+      "channelId": "UCLbpnnYFnuqfqq8iLC1rRTw",
+      "channelTitle": "هل تعلم",
+      "channelSubscriberCount": 234000,
+      "viewSubscriberRatio": 11.88,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "Zgjlr2HxkSg",
+      "url": "https://www.youtube.com/shorts/Zgjlr2HxkSg",
+      "title": "Earth's Shape Is Updating...💀🌍 #Shorts #Space #Astronomy #Geography #Universe #Earth",
+      "publishedAt": "2026-08-13T12:30:17Z",
+      "durationSeconds": 31,
+      "viewCount": 2713088,
+      "likeCount": 60935,
+      "commentCount": 1106,
+      "channelId": "UCKWe3mXbIf4KtETT2mvUBdg",
+      "channelTitle": "Science Of Infinity",
+      "channelSubscriberCount": 1460000,
+      "viewSubscriberRatio": 1.86,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "rxF_tnIQS5E",
+      "url": "https://www.youtube.com/shorts/rxF_tnIQS5E",
+      "title": "Robots Cleaning Masjid al-Haram 🤖🕋 | Satisfying AI ASMR #Shorts",
+      "publishedAt": "2026-08-23T17:53:53Z",
+      "durationSeconds": 11,
+      "viewCount": 2663179,
+      "likeCount": null,
+      "commentCount": 56,
+      "channelId": "UC2sB-WsxRhnUWdrxuMaltuA",
+      "channelTitle": "fun provid",
+      "channelSubscriberCount": 17400,
+      "viewSubscriberRatio": 153.06,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "oDZLSLhD6zY",
+      "url": "https://www.youtube.com/shorts/oDZLSLhD6zY",
+      "title": "kali ini beneran tenang ga di ganggu😭 #shorts #mukbang #asmr",
+      "publishedAt": "2026-06-22T10:00:07Z",
+      "durationSeconds": 84,
+      "viewCount": 2652987,
+      "likeCount": 106481,
+      "commentCount": 986,
+      "channelId": "UC946CKqQNxPYz7bbGPh-kww",
+      "channelTitle": "AiniRaaul (REAL)",
+      "channelSubscriberCount": 647000,
+      "viewSubscriberRatio": 4.1,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "D0G-8leVpU4",
+      "url": "https://www.youtube.com/shorts/D0G-8leVpU4",
+      "title": "太陽ではリンゴ1個すら持ち上がらない衝撃の理由🤯🍎",
+      "publishedAt": "2026-08-27T03:30:37Z",
+      "durationSeconds": 13,
+      "viewCount": 2608227,
+      "likeCount": 18690,
+      "commentCount": 294,
+      "channelId": "UCmqJhu8OY7xqZRNTjo7srFA",
+      "channelTitle": "心の余白",
+      "channelSubscriberCount": 2910,
+      "viewSubscriberRatio": 896.3,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "g_IWVmAEqmY",
+      "url": "https://www.youtube.com/shorts/g_IWVmAEqmY",
+      "title": "AIのふりをするゲームチャットGPTにプレイさせてみた#shorts",
+      "publishedAt": "2026-08-12T06:51:09Z",
+      "durationSeconds": 159,
+      "viewCount": 2587584,
+      "likeCount": 65236,
+      "commentCount": 320,
+      "channelId": "UCfjKtHvlZ53c-Qk0pfsz9cw",
+      "channelTitle": "みちしるべ",
+      "channelSubscriberCount": 7290,
+      "viewSubscriberRatio": 354.95,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "fqICOi9BF28",
+      "url": "https://www.youtube.com/shorts/fqICOi9BF28",
+      "title": "宇宙人にマシンガントークを仕掛ける肝据わり過ぎなおチビ【リズム天国 ミラクルスターズ】 #shorts",
+      "publishedAt": "2026-07-20T11:30:35Z",
+      "durationSeconds": 47,
+      "viewCount": 2536329,
+      "likeCount": 47398,
+      "commentCount": 400,
+      "channelId": "UC7QrPnNchV18QtTrW33x8XQ",
+      "channelTitle": "うさぎのゲーム実況",
+      "channelSubscriberCount": 31200,
+      "viewSubscriberRatio": 81.29,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "8y1j3PwI22U",
+      "url": "https://www.youtube.com/shorts/8y1j3PwI22U",
+      "title": "AVGN DANCE MEME part2           『#jujutsukaisen#呪術廻戦 』#animation #funny #shorts",
+      "publishedAt": "2026-06-15T08:00:07Z",
+      "durationSeconds": 26,
+      "viewCount": 2513596,
+      "likeCount": 53785,
+      "commentCount": 505,
+      "channelId": "UCbVpBAhhdBbuexzQr_FzNBw",
+      "channelTitle": "もやりつの手描きアニメ部屋【FanAnimation MOYARITSU】",
+      "channelSubscriberCount": 967000,
+      "viewSubscriberRatio": 2.6,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "iVo_o6l7BpU",
+      "url": "https://www.youtube.com/shorts/iVo_o6l7BpU",
+      "title": "もしも北朝鮮から核攻撃されたら、どうやって避難すればいいのでしょうか？ #ポーランドボール #shorts",
+      "publishedAt": "2026-06-24T08:30:02Z",
+      "durationSeconds": 32,
+      "viewCount": 2388654,
+      "likeCount": 46016,
+      "commentCount": 830,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 7.37,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "Bf6naXcZX6s",
+      "url": "https://www.youtube.com/shorts/Bf6naXcZX6s",
+      "title": "Restoring the World's Strangest Truck 🤯 #truck #restoration #shorts #asmr #truckrestoration",
+      "publishedAt": "2026-07-30T23:05:39Z",
+      "durationSeconds": 179,
+      "viewCount": 2342478,
+      "likeCount": 42724,
+      "commentCount": 350,
+      "channelId": "UCY5PWkfdmyd6QibKqhh7Ing",
+      "channelTitle": "Elite Restore ",
+      "channelSubscriberCount": 193000,
+      "viewSubscriberRatio": 12.14,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "YqBraE6MNJw",
+      "url": "https://www.youtube.com/shorts/YqBraE6MNJw",
+      "title": "🥥 Cozy Village Bhindi Coconut Curry Cooking | Rainy Day Bhindi Coconut Curry  In Monsoon ⛈️ #shorts",
+      "publishedAt": "2026-08-19T14:09:09Z",
+      "durationSeconds": 164,
+      "viewCount": 2338404,
+      "likeCount": null,
+      "commentCount": 268,
+      "channelId": "UCkul5eYwNYWNk3jYSoENhhQ",
+      "channelTitle": "Hemasagar Ai",
+      "channelSubscriberCount": 135000,
+      "viewSubscriberRatio": 17.32,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "Z8rnZQbWYEU",
+      "url": "https://www.youtube.com/shorts/Z8rnZQbWYEU",
+      "title": "㊗️135万回再生‼️中国で最も嫌われている日本人歌手TOP10part2#芸能人 #歌い手 #雑学 #shorts",
+      "publishedAt": "2026-08-13T11:00:37Z",
+      "durationSeconds": 86,
+      "viewCount": 2337900,
+      "likeCount": 45624,
+      "commentCount": 2678,
+      "channelId": "UCX_wGhXbJT6dXSbiVmGgU2w",
+      "channelTitle": "芸能人スクープ",
+      "channelSubscriberCount": 30900,
+      "viewSubscriberRatio": 75.66,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "bGXToz1qm5o",
+      "url": "https://www.youtube.com/shorts/bGXToz1qm5o",
+      "title": "時間を停止できると経験すること🕰️ #shorts #時間停止",
+      "publishedAt": "2026-08-13T11:00:33Z",
+      "durationSeconds": 64,
+      "viewCount": 2328537,
+      "likeCount": 38985,
+      "commentCount": 267,
+      "channelId": "UCne4Ucg8YAcobwtcjtM12Kw",
+      "channelTitle": "カイログ / Kai6\"",
+      "channelSubscriberCount": 285000,
+      "viewSubscriberRatio": 8.17,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "q5Ylb0MBuS0",
+      "url": "https://www.youtube.com/shorts/q5Ylb0MBuS0",
+      "title": "もしもマイクラの都市伝説モブが優しすぎたら2【マイクラ・ゆっくり実況】 #minecraft   #ホラー #最新アップデート",
+      "publishedAt": "2026-07-14T08:45:40Z",
+      "durationSeconds": 56,
+      "viewCount": 2303956,
+      "likeCount": 40340,
+      "commentCount": 891,
+      "channelId": "UCx5iBYoyMs8_GVTNM0JwxBQ",
+      "channelTitle": "よるめちゃんのマイクラ都市伝説",
+      "channelSubscriberCount": 295000,
+      "viewSubscriberRatio": 7.81,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "uwAZrXLIxV4",
+      "url": "https://www.youtube.com/shorts/uwAZrXLIxV4",
+      "title": "韓国旅行に行く時に気を付ける場所  #shorts",
+      "publishedAt": "2026-08-01T12:00:01Z",
+      "durationSeconds": 39,
+      "viewCount": 2302808,
+      "likeCount": 35173,
+      "commentCount": 269,
+      "channelId": "UCMEI4RcffOJZUuYIVcim8Zw",
+      "channelTitle": "KH / Killin9Hit",
+      "channelSubscriberCount": 455000,
+      "viewSubscriberRatio": 5.06,
+      "matchedQueries": [
+        "雑学 #Shorts",
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "fuHvosVx_uQ",
+      "url": "https://www.youtube.com/shorts/fuHvosVx_uQ",
+      "title": "もしもベリティが優しすぎたら【まいくら・verity・ベリティ】 #minecraft   #ホラー #最新アップデート",
+      "publishedAt": "2026-07-24T02:45:22Z",
+      "durationSeconds": 49,
+      "viewCount": 2266953,
+      "likeCount": 27474,
+      "commentCount": 673,
+      "channelId": "UCx5iBYoyMs8_GVTNM0JwxBQ",
+      "channelTitle": "よるめちゃんのマイクラ都市伝説",
+      "channelSubscriberCount": 295000,
+      "viewSubscriberRatio": 7.68,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "XN8nalTumF4",
+      "url": "https://www.youtube.com/shorts/XN8nalTumF4",
+      "title": "㊗️100万再生🎉進化したコスモなら宇宙編も余裕説【にゃんこ大戦争】#shorts",
+      "publishedAt": "2026-06-16T06:00:55Z",
+      "durationSeconds": 59,
+      "viewCount": 2243477,
+      "likeCount": 16371,
+      "commentCount": 122,
+      "channelId": "UC9jISgnBNY-_SCAxMvdb5eA",
+      "channelTitle": "無茶する自連",
+      "channelSubscriberCount": 14200,
+      "viewSubscriberRatio": 157.99,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "ibfwquFYcG8",
+      "url": "https://www.youtube.com/shorts/ibfwquFYcG8",
+      "title": "ボー・ピープが4で別人になった理由　#トイストーリー #ディズニー #映画 #shorts",
+      "publishedAt": "2026-07-02T09:00:33Z",
+      "durationSeconds": 57,
+      "viewCount": 2242819,
+      "likeCount": 35065,
+      "commentCount": 732,
+      "channelId": "UC7pg24CNOe-y6jsMKS0KNHA",
+      "channelTitle": "ムービー・トリビア",
+      "channelSubscriberCount": 26200,
+      "viewSubscriberRatio": 85.6,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "SoU0TceNUvM",
+      "url": "https://www.youtube.com/shorts/SoU0TceNUvM",
+      "title": "愛情を科学で測った残酷な実験#Shorts",
+      "publishedAt": "2026-08-29T12:00:30Z",
+      "durationSeconds": 61,
+      "viewCount": 2235221,
+      "likeCount": 65119,
+      "commentCount": 537,
+      "channelId": "UC2kbd8gXj5fdfmta-Gp_kFw",
+      "channelTitle": "チェリー東大 /あきぴで",
+      "channelSubscriberCount": 733000,
+      "viewSubscriberRatio": 3.05,
+      "matchedQueries": [
+        "科学 #Shorts",
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "CvVQ_PwGwJc",
+      "url": "https://www.youtube.com/shorts/CvVQ_PwGwJc",
+      "title": "㊗️100万再生突破‼️㊗️乙骨呪言攻め#呪術廻戦 #自作編集 #オリジナル動画 #創作 #shorts",
+      "publishedAt": "2026-06-17T10:00:06Z",
+      "durationSeconds": 49,
+      "viewCount": 2233238,
+      "likeCount": 21376,
+      "commentCount": 43,
+      "channelId": "UCnVdhRdq2qKnC1v-o8oNjAg",
+      "channelTitle": "パラレル世界なのだ",
+      "channelSubscriberCount": 11000,
+      "viewSubscriberRatio": 203.02,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "a0DkbQbu-xo",
+      "url": "https://www.youtube.com/shorts/a0DkbQbu-xo",
+      "title": "【次回予告】2030年のワールドカップは？ #shorts",
+      "publishedAt": "2026-07-21T08:05:37Z",
+      "durationSeconds": 17,
+      "viewCount": 2224235,
+      "likeCount": 24815,
+      "commentCount": 403,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 28.12,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "V2zpKPYiezI",
+      "url": "https://www.youtube.com/shorts/V2zpKPYiezI",
+      "title": "話題になった女性芸能人3選#shorts#芸能人雑学#武田久美子#宮沢りえ #youtubeshorts #芸能",
+      "publishedAt": "2026-08-24T02:00:27Z",
+      "durationSeconds": 51,
+      "viewCount": 2196163,
+      "likeCount": 25568,
+      "commentCount": 79,
+      "channelId": "UCAorFBj-KHohXEARrtVcGcg",
+      "channelTitle": "Josephine",
+      "channelSubscriberCount": 22300,
+      "viewSubscriberRatio": 98.48,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "Ii-LfP1NIck",
+      "url": "https://www.youtube.com/shorts/Ii-LfP1NIck",
+      "title": "後輩からうるさいと言われてしまう胡桃のあｗ【切り抜き/ぶいすぽっ！/Vtuber/雑学】",
+      "publishedAt": "2026-08-07T08:00:16Z",
+      "durationSeconds": 19,
+      "viewCount": 2182155,
+      "likeCount": 35010,
+      "commentCount": 62,
+      "channelId": "UCSDMf7EBkYZ6M2hWTs9DrlQ",
+      "channelTitle": "いいとこ鳥【ぶいすぽ雑学まとめch】",
+      "channelSubscriberCount": 14400,
+      "viewSubscriberRatio": 151.54,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "JSZZNQBgjKk",
+      "url": "https://www.youtube.com/shorts/JSZZNQBgjKk",
+      "title": "奇跡の生還：サバンナに灯る命の光　#shorts  #動物 #雑学",
+      "publishedAt": "2026-07-21T09:00:25Z",
+      "durationSeconds": 180,
+      "viewCount": 2160356,
+      "likeCount": 59475,
+      "commentCount": 615,
+      "channelId": "UCWe6Wu5dkEs0Yc6GuT75DpA",
+      "channelTitle": "セツナノマタタキ",
+      "channelSubscriberCount": 140000,
+      "viewSubscriberRatio": 15.43,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "Nmm9DcWuS5Y",
+      "url": "https://www.youtube.com/shorts/Nmm9DcWuS5Y",
+      "title": "What's the most unique name you've ever come across? #shorts",
+      "publishedAt": "2026-08-16T02:35:59Z",
+      "durationSeconds": 59,
+      "viewCount": 2147791,
+      "likeCount": 67020,
+      "commentCount": 4424,
+      "channelId": "UCh8rBqRCfc-vR8g_TDrOy0g",
+      "channelTitle": "Zoom Reads",
+      "channelSubscriberCount": 31400,
+      "viewSubscriberRatio": 68.4,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "dVS6H_8ZCME",
+      "url": "https://www.youtube.com/shorts/dVS6H_8ZCME",
+      "title": "もしもマイクラのモブが全部やってくれたら？【マイクラ・ゆっくり実況】 #minecraft    #最新アップデート #マイクラ #マインクラフト",
+      "publishedAt": "2026-07-20T05:45:31Z",
+      "durationSeconds": 68,
+      "viewCount": 2147771,
+      "likeCount": 24803,
+      "commentCount": 347,
+      "channelId": "UCx5iBYoyMs8_GVTNM0JwxBQ",
+      "channelTitle": "よるめちゃんのマイクラ都市伝説",
+      "channelSubscriberCount": 295000,
+      "viewSubscriberRatio": 7.28,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "i7b6G33tRjA",
+      "url": "https://www.youtube.com/shorts/i7b6G33tRjA",
+      "title": "発明王エジソンの幼少期が問題児すぎた#Shorts",
+      "publishedAt": "2026-07-29T11:00:34Z",
+      "durationSeconds": 67,
+      "viewCount": 2130778,
+      "likeCount": 49654,
+      "commentCount": 353,
+      "channelId": "UC2kbd8gXj5fdfmta-Gp_kFw",
+      "channelTitle": "チェリー東大 /あきぴで",
+      "channelSubscriberCount": 733000,
+      "viewSubscriberRatio": 2.91,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "7jzhJfTqx_U",
+      "url": "https://www.youtube.com/shorts/7jzhJfTqx_U",
+      "title": "pinjem dulu hp aini ya🤤 #shorts #mukbang #asmr",
+      "publishedAt": "2026-06-26T10:00:17Z",
+      "durationSeconds": 117,
+      "viewCount": 2065316,
+      "likeCount": 74559,
+      "commentCount": 946,
+      "channelId": "UC946CKqQNxPYz7bbGPh-kww",
+      "channelTitle": "AiniRaaul (REAL)",
+      "channelSubscriberCount": 647000,
+      "viewSubscriberRatio": 3.19,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "i-8DeENJQFQ",
+      "url": "https://www.youtube.com/shorts/i-8DeENJQFQ",
+      "title": "ADHDの歴史#adhd #発達障害 #adhdあるある #shorts",
+      "publishedAt": "2026-08-08T09:00:10Z",
+      "durationSeconds": 60,
+      "viewCount": 1983279,
+      "likeCount": 28064,
+      "commentCount": 1139,
+      "channelId": "UCpKKjK2KVrVmqkQhz6or9hA",
+      "channelTitle": "エディお【ADHDあるある】",
+      "channelSubscriberCount": 13200,
+      "viewSubscriberRatio": 150.25,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "6DiQ128KMRw",
+      "url": "https://www.youtube.com/shorts/6DiQ128KMRw",
+      "title": "㊗️190万回再生‼️🎉眩しすぎる美人競泳選手3選 #今井月 #雑学 #shorts",
+      "publishedAt": "2026-07-02T09:45:05Z",
+      "durationSeconds": 50,
+      "viewCount": 1947764,
+      "likeCount": 28549,
+      "commentCount": 47,
+      "channelId": "UCkQYhRm53377oL7xzTejjFQ",
+      "channelTitle": "花より美女",
+      "channelSubscriberCount": 34400,
+      "viewSubscriberRatio": 56.62,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "5KcNU2xN-m8",
+      "url": "https://www.youtube.com/shorts/5KcNU2xN-m8",
+      "title": "もしも日本が三本になったら、一体どうなるのでしょうか？ #ポーランドボール #shorts",
+      "publishedAt": "2026-06-20T08:30:24Z",
+      "durationSeconds": 32,
+      "viewCount": 1863711,
+      "likeCount": 33424,
+      "commentCount": 895,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 5.75,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "rjUQEf6YrmA",
+      "url": "https://www.youtube.com/shorts/rjUQEf6YrmA",
+      "title": "メッシVSカーボベルデ🇨🇻の結果ww #shorts",
+      "publishedAt": "2026-07-05T07:45:22Z",
+      "durationSeconds": 58,
+      "viewCount": 1857983,
+      "likeCount": 38588,
+      "commentCount": 866,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 23.49,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "Wfpx7q-i_xA",
+      "url": "https://www.youtube.com/shorts/Wfpx7q-i_xA",
+      "title": "「少し暴れますか」――メトーデの一手 #葬送のフリーレン #frieren #アニメ #名シーン #ai超解像",
+      "publishedAt": "2026-08-01T09:00:04Z",
+      "durationSeconds": 60,
+      "viewCount": 1847184,
+      "likeCount": 21670,
+      "commentCount": 124,
+      "channelId": "UC23-iEDVYG6sYzSI9dzACjw",
+      "channelTitle": "記憶の旅びと - アニメシーンMAD",
+      "channelSubscriberCount": 29000,
+      "viewSubscriberRatio": 63.7,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "GeUeJ99DrVA",
+      "url": "https://www.youtube.com/shorts/GeUeJ99DrVA",
+      "title": "もしも現代に氷河期が来たら🧊🦣 #shorts #氷河期",
+      "publishedAt": "2026-07-30T09:00:32Z",
+      "durationSeconds": 63,
+      "viewCount": 1813406,
+      "likeCount": 32646,
+      "commentCount": 306,
+      "channelId": "UCne4Ucg8YAcobwtcjtM12Kw",
+      "channelTitle": "カイログ / Kai6\"",
+      "channelSubscriberCount": 285000,
+      "viewSubscriberRatio": 6.36,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "E3zC1plx7t0",
+      "url": "https://www.youtube.com/shorts/E3zC1plx7t0",
+      "title": "90s Indian Family Makes Homemade Vada Pav | Cozy Rainy Day Ghibli ASMR 🍔 #shorts #viral",
+      "publishedAt": "2026-07-17T10:45:01Z",
+      "durationSeconds": 179,
+      "viewCount": 1802530,
+      "likeCount": 89116,
+      "commentCount": 530,
+      "channelId": "UCL33dYG9bsMdLaD6x-vWc2Q",
+      "channelTitle": "S.R CREATORS",
+      "channelSubscriberCount": 94400,
+      "viewSubscriberRatio": 19.09,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "uFi9RooYF5w",
+      "url": "https://www.youtube.com/shorts/uFi9RooYF5w",
+      "title": "【科学が全く使えない石神千空】 #アフレコ #ドクターストーン #drstone #存在しない記憶 #おすすめ #shorts",
+      "publishedAt": "2026-06-13T11:14:48Z",
+      "durationSeconds": 22,
+      "viewCount": 1801028,
+      "likeCount": 23731,
+      "commentCount": 234,
+      "channelId": "UCGAuEvrnsghjKlVe3lxOA1g",
+      "channelTitle": "あなたの暇つぶし",
+      "channelSubscriberCount": 40600,
+      "viewSubscriberRatio": 44.36,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "1jbHrMMJ-lQ",
+      "url": "https://www.youtube.com/shorts/1jbHrMMJ-lQ",
+      "title": "🔥130万 サンモニ　最強の刺客に膳場沈黙　#shorts",
+      "publishedAt": "2026-08-02T08:15:12Z",
+      "durationSeconds": 66,
+      "viewCount": 1766858,
+      "likeCount": 29495,
+      "commentCount": 1099,
+      "channelId": "UCM53H50Da4jftGXtPfmxO9A",
+      "channelTitle": "光と闇の雑学",
+      "channelSubscriberCount": 59900,
+      "viewSubscriberRatio": 29.5,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "IHHgE4C6q-U",
+      "url": "https://www.youtube.com/shorts/IHHgE4C6q-U",
+      "title": "もしも日本列島に光速で安全ピンが落ちてきたらどうなるの？ #ポーランドボール #shorts",
+      "publishedAt": "2026-07-30T08:30:37Z",
+      "durationSeconds": 42,
+      "viewCount": 1759777,
+      "likeCount": 36327,
+      "commentCount": 1468,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 5.43,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "6eOLDtg14yE",
+      "url": "https://www.youtube.com/shorts/6eOLDtg14yE",
+      "title": "自分の娘がもしも殺されたら司法になんか委ねたくないね #ドラマ #shorts #九条の大罪",
+      "publishedAt": "2026-07-05T10:30:34Z",
+      "durationSeconds": 60,
+      "viewCount": 1751389,
+      "likeCount": 11803,
+      "commentCount": 198,
+      "channelId": "UCIGdcFhXSVJ8MzSBSmP2ZcQ",
+      "channelTitle": "NeonNihon",
+      "channelSubscriberCount": 42400,
+      "viewSubscriberRatio": 41.31,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "CtXc2_m7TZY",
+      "url": "https://www.youtube.com/shorts/CtXc2_m7TZY",
+      "title": "世界を荒らす日本の最恐生物 ＃shorts",
+      "publishedAt": "2026-06-26T12:00:13Z",
+      "durationSeconds": 54,
+      "viewCount": 1750339,
+      "likeCount": 25559,
+      "commentCount": 895,
+      "channelId": "UCkkxn2ldlFUMupTlXU8meAw",
+      "channelTitle": "たっくーTVれいでぃお",
+      "channelSubscriberCount": 3260000,
+      "viewSubscriberRatio": 0.54,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "1ldqC4zRZNk",
+      "url": "https://www.youtube.com/shorts/1ldqC4zRZNk",
+      "title": "【感動】ネイマール少年が未来の自分へ... #shorts",
+      "publishedAt": "2026-07-15T02:40:09Z",
+      "durationSeconds": 50,
+      "viewCount": 1744009,
+      "likeCount": 30714,
+      "commentCount": 384,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 22.05,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "2_-42t0QXO8",
+      "url": "https://www.youtube.com/shorts/2_-42t0QXO8",
+      "title": "Sonic Boom Predicted AI and Altered Content at the Same Time 💀🥀 #sonic #shorts #memes",
+      "publishedAt": "2026-08-16T00:20:45Z",
+      "durationSeconds": 67,
+      "viewCount": 1735471,
+      "likeCount": 90001,
+      "commentCount": 885,
+      "channelId": "UC1ccNf0j8XPSULyhGS0Db5g",
+      "channelTitle": "TheBig_Boss64",
+      "channelSubscriberCount": 166000,
+      "viewSubscriberRatio": 10.45,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "hIijt8_9JkI",
+      "url": "https://www.youtube.com/shorts/hIijt8_9JkI",
+      "title": "Making Mac & Cheese with only AI",
+      "publishedAt": "2026-08-01T13:20:27Z",
+      "durationSeconds": 66,
+      "viewCount": 1723369,
+      "likeCount": 67283,
+      "commentCount": 901,
+      "channelId": "UCW0uUK8fvL5-lkiBoNqHk3Q",
+      "channelTitle": "Zane Holmes",
+      "channelSubscriberCount": 3550000,
+      "viewSubscriberRatio": 0.49,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "k46qhq8f2t8",
+      "url": "https://www.youtube.com/shorts/k46qhq8f2t8",
+      "title": "【全面対決！スタンレーVS科学少年団！  】#shorts  # #アニメ   #anime   #animeedit",
+      "publishedAt": "2026-07-12T13:09:17Z",
+      "durationSeconds": 57,
+      "viewCount": 1702935,
+      "likeCount": 26093,
+      "commentCount": 226,
+      "channelId": "UCqoBCR5qumcTSRtSrGClmBQ",
+      "channelTitle": "シャンクス",
+      "channelSubscriberCount": 3600,
+      "viewSubscriberRatio": 473.04,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "8F0wZ0-bm10",
+      "url": "https://www.youtube.com/shorts/8F0wZ0-bm10",
+      "title": "認知症で変わり果てた芸能人4选#芸能人 #芸能界 #雑学 #shorts",
+      "publishedAt": "2026-07-16T09:01:47Z",
+      "durationSeconds": 51,
+      "viewCount": 1667455,
+      "likeCount": 2602,
+      "commentCount": 48,
+      "channelId": "UC22NYwYB7wOj_8SRSnqr8nw",
+      "channelTitle": "芸人事",
+      "channelSubscriberCount": 27400,
+      "viewSubscriberRatio": 60.86,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "VMm5ao9NKaU",
+      "url": "https://www.youtube.com/shorts/VMm5ao9NKaU",
+      "title": "パワー女子VS発明男子 #shorts",
+      "publishedAt": "2026-07-06T08:30:05Z",
+      "durationSeconds": 53,
+      "viewCount": 1649029,
+      "likeCount": 36500,
+      "commentCount": 278,
+      "channelId": "UCshBZ2PxKVeLM-1fr5dwYFg",
+      "channelTitle": "琴葉姉妹の放課後",
+      "channelSubscriberCount": 914000,
+      "viewSubscriberRatio": 1.8,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "hQmH_SYQzyQ",
+      "url": "https://www.youtube.com/shorts/hQmH_SYQzyQ",
+      "title": "Top 10 Gadgets For Your Desk Setup #india #trending #viralvideo #shortvideo #shorts #yt",
+      "publishedAt": "2026-09-02T04:20:33Z",
+      "durationSeconds": 5,
+      "viewCount": 1648266,
+      "likeCount": 4018,
+      "commentCount": 3,
+      "channelId": "UC7jIoUkOJLTu68xV6m05c5g",
+      "channelTitle": "Technical real life",
+      "channelSubscriberCount": 45000,
+      "viewSubscriberRatio": 36.63,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "Cb3apRAj6Jc",
+      "url": "https://www.youtube.com/shorts/Cb3apRAj6Jc",
+      "title": "人類史上最悪の発明を生んだ男「トーマス・ミジリー」",
+      "publishedAt": "2026-07-04T10:30:14Z",
+      "durationSeconds": 70,
+      "viewCount": 1622330,
+      "likeCount": 28194,
+      "commentCount": 527,
+      "channelId": "UCORW3zZTUVdVwlY5Mnk8q9Q",
+      "channelTitle": "ブレイクスルー佐々木",
+      "channelSubscriberCount": 1310000,
+      "viewSubscriberRatio": 1.24,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "FOXp2UrUf_w",
+      "url": "https://www.youtube.com/shorts/FOXp2UrUf_w",
+      "title": "[ 科学少年団、ついに石化装置を解明！！  ] #アニメ   #shorts    #drstone   #anime  #animeedit",
+      "publishedAt": "2026-07-12T13:39:00Z",
+      "durationSeconds": 59,
+      "viewCount": 1586456,
+      "likeCount": 24254,
+      "commentCount": 145,
+      "channelId": "UCh4Rb7s-7ROKwgKlOQ6mADA",
+      "channelTitle": "麦わら通信",
+      "channelSubscriberCount": 2620,
+      "viewSubscriberRatio": 605.52,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "hN6KZ7QMpqg",
+      "url": "https://www.youtube.com/shorts/hN6KZ7QMpqg",
+      "title": "明らかに口パクだった歌手10選(10-8) #雑学#shorts",
+      "publishedAt": "2026-06-30T14:00:39Z",
+      "durationSeconds": 61,
+      "viewCount": 1529265,
+      "likeCount": 3783,
+      "commentCount": 178,
+      "channelId": "UCU9im7oE49IAoAORUvkMgHg",
+      "channelTitle": "雑学",
+      "channelSubscriberCount": 21300,
+      "viewSubscriberRatio": 71.8,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "3r2PF3eP7wU",
+      "url": "https://www.youtube.com/shorts/3r2PF3eP7wU",
+      "title": "もしも開示請求されたら📱 #shorts #sns",
+      "publishedAt": "2026-08-03T09:00:12Z",
+      "durationSeconds": 64,
+      "viewCount": 1509891,
+      "likeCount": 28553,
+      "commentCount": 168,
+      "channelId": "UCne4Ucg8YAcobwtcjtM12Kw",
+      "channelTitle": "カイログ / Kai6\"",
+      "channelSubscriberCount": 285000,
+      "viewSubscriberRatio": 5.3,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "zkpAZgwItB8",
+      "url": "https://www.youtube.com/shorts/zkpAZgwItB8",
+      "title": "サッカーの新たな歴史... #shorts",
+      "publishedAt": "2026-07-20T07:30:07Z",
+      "durationSeconds": 43,
+      "viewCount": 1495481,
+      "likeCount": 33908,
+      "commentCount": 1106,
+      "channelId": "UCAZ1LxHttiiaw-e8XGG6nnA",
+      "channelTitle": "音ハメ軍曹",
+      "channelSubscriberCount": 79100,
+      "viewSubscriberRatio": 18.91,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "niKd1a4PnpI",
+      "url": "https://www.youtube.com/shorts/niKd1a4PnpI",
+      "title": "かつては鋭く対立する敵であったが、今や兄弟のように#真田丸 #歴史 #shorts #テレビドラマのシーン",
+      "publishedAt": "2026-08-27T08:04:21Z",
+      "durationSeconds": 54,
+      "viewCount": 1489499,
+      "likeCount": 10186,
+      "commentCount": 286,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 319.63,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "KXngD-62nuU",
+      "url": "https://www.youtube.com/shorts/KXngD-62nuU",
+      "title": "仲の良かった友達が宇宙人側で絶望する男の子【リズム天国 ミラクルスターズ】#shorts",
+      "publishedAt": "2026-08-09T07:11:23Z",
+      "durationSeconds": 23,
+      "viewCount": 1431993,
+      "likeCount": 11966,
+      "commentCount": 88,
+      "channelId": "UChe0prXfK5eghJS8TuMOZ6Q",
+      "channelTitle": "びりゐ / Biriwi",
+      "channelSubscriberCount": 18000,
+      "viewSubscriberRatio": 79.56,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "J9iAwhTe6V8",
+      "url": "https://www.youtube.com/shorts/J9iAwhTe6V8",
+      "title": "【彼に科学を教えたその恩師、ゼノ！】  #shorts #アニメ #anime #animeedit",
+      "publishedAt": "2026-07-28T08:50:20Z",
+      "durationSeconds": 60,
+      "viewCount": 1425205,
+      "likeCount": 26720,
+      "commentCount": 107,
+      "channelId": "UCqoBCR5qumcTSRtSrGClmBQ",
+      "channelTitle": "シャンクス",
+      "channelSubscriberCount": 3600,
+      "viewSubscriberRatio": 395.89,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "qGPTA4-TAiQ",
+      "url": "https://www.youtube.com/shorts/qGPTA4-TAiQ",
+      "title": "क्या आपके पनीर में भी मिलावट है? 😱 Paneer Iodine Test #shorts #experiment #paneer #viral #trending",
+      "publishedAt": "2026-08-23T15:03:52Z",
+      "durationSeconds": 98,
+      "viewCount": 1407736,
+      "likeCount": null,
+      "commentCount": 97,
+      "channelId": "UCl0mCY2e6rLWAYWwNZWjUDg",
+      "channelTitle": "Miracles Experiment ",
+      "channelSubscriberCount": 169000,
+      "viewSubscriberRatio": 8.33,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "z_sp3_NLAIw",
+      "url": "https://www.youtube.com/shorts/z_sp3_NLAIw",
+      "title": "Just One Spring! This Welding Idea Is Smarter Than It Looks! #shorts #diy #shortvideo",
+      "publishedAt": "2026-08-09T12:30:34Z",
+      "durationSeconds": 178,
+      "viewCount": 1398759,
+      "likeCount": 24249,
+      "commentCount": 95,
+      "channelId": "UCePYD2WSen84UcdmGja6dRA",
+      "channelTitle": "Skill Tips",
+      "channelSubscriberCount": 257000,
+      "viewSubscriberRatio": 5.44,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "gVvLMf-X1zE",
+      "url": "https://www.youtube.com/shorts/gVvLMf-X1zE",
+      "title": "【歴史の改ざん】もしもあの時こう言っておけば.. 本人？が新能力に物申すwww #プロスピa #リアタイ #shorts",
+      "publishedAt": "2026-07-19T12:12:54Z",
+      "durationSeconds": 31,
+      "viewCount": 1382896,
+      "likeCount": 16042,
+      "commentCount": 151,
+      "channelId": "UC-QMyEOqNNNLVXbIljb0bTg",
+      "channelTitle": "キッサキch",
+      "channelSubscriberCount": 90500,
+      "viewSubscriberRatio": 15.28,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "F6OpSzbu1KA",
+      "url": "https://www.youtube.com/shorts/F6OpSzbu1KA",
+      "title": "フェルン、完全にお母さん #葬送のフリーレン #frieren #アニメ #名シーン #ai超解像",
+      "publishedAt": "2026-08-23T09:00:38Z",
+      "durationSeconds": 59,
+      "viewCount": 1357860,
+      "likeCount": 18701,
+      "commentCount": 174,
+      "channelId": "UC23-iEDVYG6sYzSI9dzACjw",
+      "channelTitle": "記憶の旅びと - アニメシーンMAD",
+      "channelSubscriberCount": 29000,
+      "viewSubscriberRatio": 46.82,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "g4JLGhT3LK0",
+      "url": "https://www.youtube.com/shorts/g4JLGhT3LK0",
+      "title": "World's Strongest Tape vs Pressure Washer 🤯| Trend Decode #shorts",
+      "publishedAt": "2026-08-30T05:15:17Z",
+      "durationSeconds": 149,
+      "viewCount": 1294874,
+      "likeCount": 37943,
+      "commentCount": 25,
+      "channelId": "UCRhYgk5X4kZHeEr8cw6Tkbg",
+      "channelTitle": "Trend Decode",
+      "channelSubscriberCount": 207000,
+      "viewSubscriberRatio": 6.26,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "7JtMV5y-nsw",
+      "url": "https://www.youtube.com/shorts/7JtMV5y-nsw",
+      "title": "Animal Hospital FUNNIEST Animation Ever!😂",
+      "publishedAt": "2026-07-14T16:15:39Z",
+      "durationSeconds": 42,
+      "viewCount": 1245413,
+      "likeCount": 17262,
+      "commentCount": 189,
+      "channelId": "UCrZPPGln93tPYu892_bGpUA",
+      "channelTitle": "CoilRanks",
+      "channelSubscriberCount": 47800,
+      "viewSubscriberRatio": 26.05,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "ETCyPCjxbfI",
+      "url": "https://www.youtube.com/shorts/ETCyPCjxbfI",
+      "title": "ブラックホールの大きさがこちらwww #youtube #shorts #youtubeshorts #おすすめ #おもしろ #面白い #宇宙 #ブラックホール #科学 #バズれ #草",
+      "publishedAt": "2026-08-19T10:56:12Z",
+      "durationSeconds": 15,
+      "viewCount": 1244746,
+      "likeCount": 14303,
+      "commentCount": 467,
+      "channelId": "UCzbKsN5c0-ZN-GEPUdHDbXw",
+      "channelTitle": "パラダイス速報",
+      "channelSubscriberCount": 99400,
+      "viewSubscriberRatio": 12.52,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "UCK--7I6SXY",
+      "url": "https://www.youtube.com/shorts/UCK--7I6SXY",
+      "title": "ノイミー、綺麗すぎるラスサビ「愛くださいませ」【FIRST TAKE Ver】#ノイミー #ノットイコールミー #谷崎早耶 ##櫻井もも #冨田菜々風 #鈴木瞳美 #アイドル #shorts",
+      "publishedAt": "2026-08-03T11:31:31Z",
+      "durationSeconds": 37,
+      "viewCount": 1210415,
+      "likeCount": 22290,
+      "commentCount": 188,
+      "channelId": "UCyjaI_9IOvGBeTL9QTRD_cA",
+      "channelTitle": "アイドル紹介チャンネル",
+      "channelSubscriberCount": 2190,
+      "viewSubscriberRatio": 552.7,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "ygvOVrlHEiw",
+      "url": "https://www.youtube.com/shorts/ygvOVrlHEiw",
+      "title": "【閲覧注意】名前が黒歴史すぎる【ちぐさの黒歴史雑学】 #shorts #ちぐさくん",
+      "publishedAt": "2026-08-09T03:00:19Z",
+      "durationSeconds": 29,
+      "viewCount": 1196166,
+      "likeCount": 37995,
+      "commentCount": 468,
+      "channelId": "UC2j1I4dzlC5M7EkFiDmv88g",
+      "channelTitle": "ちぐさくん【AMPTAK】",
+      "channelSubscriberCount": 1320000,
+      "viewSubscriberRatio": 0.91,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "HY_YqVdEJNE",
+      "url": "https://www.youtube.com/shorts/HY_YqVdEJNE",
+      "title": "Humans vs The Universe 🤯 | Kuldeep Singhaniaa #shorts",
+      "publishedAt": "2026-09-05T04:47:32Z",
+      "durationSeconds": 78,
+      "viewCount": 1176153,
+      "likeCount": 74960,
+      "commentCount": 1926,
+      "channelId": "UCnYKRFQRndE3Wq1eLRQLfWw",
+      "channelTitle": "Kuldeep Singhania Shorts",
+      "channelSubscriberCount": 16800000,
+      "viewSubscriberRatio": 0.07,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "RsGHcI6CZsc",
+      "url": "https://www.youtube.com/shorts/RsGHcI6CZsc",
+      "title": "もしもマイクラの都市伝説モブが優しすぎたら4【まいくら・マインクラフト】 #minecraft   #ホラー #最新アップデート #マインクラフト #マイクラ",
+      "publishedAt": "2026-07-29T22:00:05Z",
+      "durationSeconds": 47,
+      "viewCount": 1163241,
+      "likeCount": 14682,
+      "commentCount": 198,
+      "channelId": "UCx5iBYoyMs8_GVTNM0JwxBQ",
+      "channelTitle": "よるめちゃんのマイクラ都市伝説",
+      "channelSubscriberCount": 295000,
+      "viewSubscriberRatio": 3.94,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "dEe_IVaBSlo",
+      "url": "https://www.youtube.com/shorts/dEe_IVaBSlo",
+      "title": "誰も知らない天皇陛下の裏の顔 #shorts",
+      "publishedAt": "2026-07-17T07:47:14Z",
+      "durationSeconds": 60,
+      "viewCount": 1153558,
+      "likeCount": 45549,
+      "commentCount": 823,
+      "channelId": "UC2vi2elY5r_NiMMar423Xwg",
+      "channelTitle": "おみそちゃんねる【世界どん深闇ニュース】",
+      "channelSubscriberCount": 713000,
+      "viewSubscriberRatio": 1.62,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "4U_K8x7NoxE",
+      "url": "https://www.youtube.com/shorts/4U_K8x7NoxE",
+      "title": "【トイストーリー×AI】#shorts #体操",
+      "publishedAt": "2026-07-17T07:00:15Z",
+      "durationSeconds": 60,
+      "viewCount": 1137503,
+      "likeCount": 28055,
+      "commentCount": 81,
+      "channelId": "UCLOl-BrCoVqzSnBsjemMkeQ",
+      "channelTitle": "【現役体操選手】シダックス shidaks",
+      "channelSubscriberCount": 1270000,
+      "viewSubscriberRatio": 0.9,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "O6wNXOhrIiI",
+      "url": "https://www.youtube.com/shorts/O6wNXOhrIiI",
+      "title": "緊急時の対処法まとめがヤバすぎる!! #防災 #シミュレーション #雑学 #shorts",
+      "publishedAt": "2026-06-26T11:00:33Z",
+      "durationSeconds": 68,
+      "viewCount": 1134862,
+      "likeCount": 21947,
+      "commentCount": 406,
+      "channelId": "UCTxWofgDM1zIFNHZFxbwgPw",
+      "channelTitle": "骸骨先生",
+      "channelSubscriberCount": 44600,
+      "viewSubscriberRatio": 25.45,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "Gju9t57rnxc",
+      "url": "https://www.youtube.com/shorts/Gju9t57rnxc",
+      "title": "The World’s LONGEST Scab! #shorts #funny #science",
+      "publishedAt": "2026-07-03T20:00:29Z",
+      "durationSeconds": 26,
+      "viewCount": 1132277,
+      "likeCount": 33105,
+      "commentCount": 1002,
+      "channelId": "UCNRW1846nhED2nBdOSAKteA",
+      "channelTitle": "Houston Jones",
+      "channelSubscriberCount": 5390000,
+      "viewSubscriberRatio": 0.21,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "Iw3Q1DQqze0",
+      "url": "https://www.youtube.com/shorts/Iw3Q1DQqze0",
+      "title": "kyon hate Hai science se 😂 #physicswallah #alakhsir #motivation #trending #shorts #viral",
+      "publishedAt": "2026-08-30T11:32:23Z",
+      "durationSeconds": 40,
+      "viewCount": 1122345,
+      "likeCount": 16450,
+      "commentCount": 67,
+      "channelId": "UC5OGZ2TNMn-YtvJT47n8_hw",
+      "channelTitle": "Victory secrets ",
+      "channelSubscriberCount": 78200,
+      "viewSubscriberRatio": 14.35,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "16hNJCOZNbM",
+      "url": "https://www.youtube.com/shorts/16hNJCOZNbM",
+      "title": "How to Make Mini Power Bank for Smartwatch at Home #shorts #youtubeshorts #scienceexperiment",
+      "publishedAt": "2026-07-22T03:42:23Z",
+      "durationSeconds": 19,
+      "viewCount": 1088270,
+      "likeCount": null,
+      "commentCount": 35,
+      "channelId": "UC-KdpkAKeXZvWzhgeHCiAHA",
+      "channelTitle": "Mr.Project Dj",
+      "channelSubscriberCount": 170000,
+      "viewSubscriberRatio": 6.4,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "6BlyKternLs",
+      "url": "https://www.youtube.com/shorts/6BlyKternLs",
+      "title": "各国の不味い料理 #ポーランドボール #shorts",
+      "publishedAt": "2026-08-10T09:00:32Z",
+      "durationSeconds": 35,
+      "viewCount": 1070237,
+      "likeCount": 27614,
+      "commentCount": 649,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 3.3,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "aKKO-CbLEVg",
+      "url": "https://www.youtube.com/shorts/aKKO-CbLEVg",
+      "title": "宇宙人な隠れ方【めっちゃカメレオン】 #shorts #めっちゃカメレオン #かくれんぼ  #mecchachameleon",
+      "publishedAt": "2026-08-05T12:49:56Z",
+      "durationSeconds": 62,
+      "viewCount": 1066876,
+      "likeCount": 9396,
+      "commentCount": 47,
+      "channelId": "UCr2q670gi7tQogXMgHXwGMg",
+      "channelTitle": "プン",
+      "channelSubscriberCount": 336000,
+      "viewSubscriberRatio": 3.18,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "0CuDty-eiJM",
+      "url": "https://www.youtube.com/shorts/0CuDty-eiJM",
+      "title": "A Day Without the Moon...💀🌕 #Shorts #Space #Astronomy #Moon #Universe #Earth",
+      "publishedAt": "2026-08-19T12:30:07Z",
+      "durationSeconds": 31,
+      "viewCount": 1060333,
+      "likeCount": 19844,
+      "commentCount": 480,
+      "channelId": "UCKWe3mXbIf4KtETT2mvUBdg",
+      "channelTitle": "Science Of Infinity",
+      "channelSubscriberCount": 1460000,
+      "viewSubscriberRatio": 0.73,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "FGj_ttMJ4Dg",
+      "url": "https://www.youtube.com/shorts/FGj_ttMJ4Dg",
+      "title": "log₂9973は無理数か？ #QuizKnockと学ぼう #Shorts",
+      "publishedAt": "2026-07-29T10:15:29Z",
+      "durationSeconds": 88,
+      "viewCount": 1056627,
+      "likeCount": 18888,
+      "commentCount": 150,
+      "channelId": "UCuG5vlhQYE5VE-pTTxINi3g",
+      "channelTitle": "QuizKnockと学ぼう",
+      "channelSubscriberCount": 559000,
+      "viewSubscriberRatio": 1.89,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "i-JWx-uhhC0",
+      "url": "https://www.youtube.com/shorts/i-JWx-uhhC0",
+      "title": "木村拓哉の妻工藤静香（56）に批判殺到#木村拓哉 #工藤静香 #雑学 #shorts",
+      "publishedAt": "2026-08-20T07:56:54Z",
+      "durationSeconds": 62,
+      "viewCount": 1046651,
+      "likeCount": 5334,
+      "commentCount": 1416,
+      "channelId": "UC22NYwYB7wOj_8SRSnqr8nw",
+      "channelTitle": "芸人事",
+      "channelSubscriberCount": 27400,
+      "viewSubscriberRatio": 38.2,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "0lNKBmtWsno",
+      "url": "https://www.youtube.com/shorts/0lNKBmtWsno",
+      "title": "[「科学こそが全て」——唯物論の科学者、千空とゼノ！  ] #shorts  #アニメ #anime",
+      "publishedAt": "2026-08-27T09:26:55Z",
+      "durationSeconds": 60,
+      "viewCount": 1042673,
+      "likeCount": 16628,
+      "commentCount": 102,
+      "channelId": "UCh4Rb7s-7ROKwgKlOQ6mADA",
+      "channelTitle": "麦わら通信",
+      "channelSubscriberCount": 2620,
+      "viewSubscriberRatio": 397.97,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "qOIyJzrLsJo",
+      "url": "https://www.youtube.com/shorts/qOIyJzrLsJo",
+      "title": "もしも突然日本の人口が15億人になったら、一体どうなるのでしょうか？ #ポーランドボール #shorts",
+      "publishedAt": "2026-06-13T08:30:28Z",
+      "durationSeconds": 40,
+      "viewCount": 1037932,
+      "likeCount": 25590,
+      "commentCount": 557,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 3.2,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "mvZqmsXFVGU",
+      "url": "https://www.youtube.com/shorts/mvZqmsXFVGU",
+      "title": "Apophis 2029: Asteroide #fisica #scienza #apophis2029 #universo #asteroide #news #shorts #astronomia",
+      "publishedAt": "2026-08-11T10:38:48Z",
+      "durationSeconds": 60,
+      "viewCount": 1037205,
+      "likeCount": 41464,
+      "commentCount": 808,
+      "channelId": "UCIQlV45ttzU6M6YRC1iuZrA",
+      "channelTitle": "Filosofiascienza",
+      "channelSubscriberCount": 498000,
+      "viewSubscriberRatio": 2.08,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "pyYXVEVB6D4",
+      "url": "https://www.youtube.com/shorts/pyYXVEVB6D4",
+      "title": "ブラックホールを鏡で囲むと宇宙最大級の爆発が起こるってガチ？",
+      "publishedAt": "2026-06-22T10:30:27Z",
+      "durationSeconds": 63,
+      "viewCount": 1024727,
+      "likeCount": 23842,
+      "commentCount": 519,
+      "channelId": "UCORW3zZTUVdVwlY5Mnk8q9Q",
+      "channelTitle": "ブレイクスルー佐々木",
+      "channelSubscriberCount": 1310000,
+      "viewSubscriberRatio": 0.78,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "nXmyUIHOtME",
+      "url": "https://www.youtube.com/shorts/nXmyUIHOtME",
+      "title": "もしも日本のGDPが100倍になったら、一体どうなるのでしょうか？ #ポーランドボール #shorts",
+      "publishedAt": "2026-06-17T08:30:24Z",
+      "durationSeconds": 38,
+      "viewCount": 1024465,
+      "likeCount": 21863,
+      "commentCount": 326,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 3.16,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "k1XOV17oR-w",
+      "url": "https://www.youtube.com/shorts/k1XOV17oR-w",
+      "title": "AIじゃない！人力の神動画 #shorts",
+      "publishedAt": "2026-08-18T08:15:20Z",
+      "durationSeconds": 16,
+      "viewCount": 1008261,
+      "likeCount": 12689,
+      "commentCount": 184,
+      "channelId": "UCMNwZ822DRpbdNA5HiOh-SQ",
+      "channelTitle": "バカ軍曹",
+      "channelSubscriberCount": 156000,
+      "viewSubscriberRatio": 6.46,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "bRvVkWa8pl8",
+      "url": "https://www.youtube.com/shorts/bRvVkWa8pl8",
+      "title": "田中みな実、結婚後の激変ぶり #雑学 #田中みな実 #亀梨和也 #shorts #芸能人",
+      "publishedAt": "2026-07-24T09:54:23Z",
+      "durationSeconds": 61,
+      "viewCount": 1003311,
+      "likeCount": 5536,
+      "commentCount": 190,
+      "channelId": "UC22NYwYB7wOj_8SRSnqr8nw",
+      "channelTitle": "芸人事",
+      "channelSubscriberCount": 27400,
+      "viewSubscriberRatio": 36.62,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "smkgirel-rU",
+      "url": "https://www.youtube.com/shorts/smkgirel-rU",
+      "title": "暗殺の計略が暴かれ、生き残る道を与えられたものの、欲せず、一意に行動し、最後に命を失いました。 #真田丸 #歴史 #テレビドラマのシーン #shorts",
+      "publishedAt": "2026-08-12T09:39:22Z",
+      "durationSeconds": 60,
+      "viewCount": 997795,
+      "likeCount": 6329,
+      "commentCount": 85,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 214.12,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "aLmM14k9OiU",
+      "url": "https://www.youtube.com/shorts/aLmM14k9OiU",
+      "title": "もしも日本人の平均IQが200になったら、一体どうなるのでしょうか？ #ポーランドボール #shorts",
+      "publishedAt": "2026-08-04T08:30:38Z",
+      "durationSeconds": 32,
+      "viewCount": 980127,
+      "likeCount": 25844,
+      "commentCount": 515,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 3.03,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "qDnjzce3-gU",
+      "url": "https://www.youtube.com/shorts/qDnjzce3-gU",
+      "title": "アメリカの戦争の歴史　#ポーランドボール #shorts",
+      "publishedAt": "2026-07-15T07:00:13Z",
+      "durationSeconds": 28,
+      "viewCount": 976864,
+      "likeCount": 16716,
+      "commentCount": 379,
+      "channelId": "UCkjdTrE4hiJ4qNOV7NPGSSw",
+      "channelTitle": "Æž!フヒフム",
+      "channelSubscriberCount": 395000,
+      "viewSubscriberRatio": 2.47,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "FQ-2xFi94Dg",
+      "url": "https://www.youtube.com/shorts/FQ-2xFi94Dg",
+      "title": "悪用禁止の心理学 Part2　＃shorts",
+      "publishedAt": "2026-08-07T12:00:15Z",
+      "durationSeconds": 47,
+      "viewCount": 974025,
+      "likeCount": 19312,
+      "commentCount": 239,
+      "channelId": "UCkkxn2ldlFUMupTlXU8meAw",
+      "channelTitle": "たっくーTVれいでぃお",
+      "channelSubscriberCount": 3260000,
+      "viewSubscriberRatio": 0.3,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "3-w2sS9BUTc",
+      "url": "https://www.youtube.com/shorts/3-w2sS9BUTc",
+      "title": "もしも巡音ルカが鬼畜ゲーのキャラだったら #shorts",
+      "publishedAt": "2026-06-11T08:30:01Z",
+      "durationSeconds": 44,
+      "viewCount": 964976,
+      "likeCount": 5782,
+      "commentCount": 92,
+      "channelId": "UC4qDZfgOzboZRpRw1cxO_EQ",
+      "channelTitle": "けい",
+      "channelSubscriberCount": 133000,
+      "viewSubscriberRatio": 7.26,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "zrD8RdoZFlM",
+      "url": "https://www.youtube.com/shorts/zrD8RdoZFlM",
+      "title": "単純だけど一番ありがたい発明 #おすすめ #おもしろ #バズれ #すごい #おもしろ動画 #服 #shorts #海外",
+      "publishedAt": "2026-08-11T09:27:20Z",
+      "durationSeconds": 16,
+      "viewCount": 958573,
+      "likeCount": 4394,
+      "commentCount": 20,
+      "channelId": "UCW4RMucgscCmrJAO4ybAbLg",
+      "channelTitle": "ペニー【アニメ同人】",
+      "channelSubscriberCount": 11000,
+      "viewSubscriberRatio": 87.14,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "mvxIxbFxfE0",
+      "url": "https://www.youtube.com/shorts/mvxIxbFxfE0",
+      "title": "Chicken farming #shorts #science",
+      "publishedAt": "2026-08-09T02:15:14Z",
+      "durationSeconds": 30,
+      "viewCount": 956779,
+      "likeCount": 8565,
+      "commentCount": 68,
+      "channelId": "UCJuNCvWdTm3up3Y-AmZ_idg",
+      "channelTitle": "Grossplus",
+      "channelSubscriberCount": 724000,
+      "viewSubscriberRatio": 1.32,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "q_ULFHu4O48",
+      "url": "https://www.youtube.com/shorts/q_ULFHu4O48",
+      "title": "英国の歴史を変えてしまった天皇陛下の言葉 #shorts",
+      "publishedAt": "2026-07-25T08:29:56Z",
+      "durationSeconds": 60,
+      "viewCount": 954164,
+      "likeCount": 29376,
+      "commentCount": 430,
+      "channelId": "UC2vi2elY5r_NiMMar423Xwg",
+      "channelTitle": "おみそちゃんねる【世界どん深闇ニュース】",
+      "channelSubscriberCount": 713000,
+      "viewSubscriberRatio": 1.34,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "SEGyWAGlEV0",
+      "url": "https://www.youtube.com/shorts/SEGyWAGlEV0",
+      "title": "地震の時に役立つ知識まとめがヤバすぎる!! #地震 #防災 #雑学 #shorts",
+      "publishedAt": "2026-06-29T11:00:20Z",
+      "durationSeconds": 97,
+      "viewCount": 947507,
+      "likeCount": 18919,
+      "commentCount": 586,
+      "channelId": "UCTxWofgDM1zIFNHZFxbwgPw",
+      "channelTitle": "骸骨先生",
+      "channelSubscriberCount": 44600,
+      "viewSubscriberRatio": 21.24,
+      "matchedQueries": [
+        "雑学 #Shorts"
+      ]
+    },
+    {
+      "id": "5p0sKtIBeRo",
+      "url": "https://www.youtube.com/shorts/5p0sKtIBeRo",
+      "title": "撃った瞬間、銃口が迎えに来ます w |  #shorts",
+      "publishedAt": "2026-08-22T03:30:22Z",
+      "durationSeconds": 74,
+      "viewCount": 937803,
+      "likeCount": 10247,
+      "commentCount": 581,
+      "channelId": "UCTK4edRT26Rw7t0k7POT7hg",
+      "channelTitle": "知っトク3D",
+      "channelSubscriberCount": 13900,
+      "viewSubscriberRatio": 67.47,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "nHH8NMDw3XU",
+      "url": "https://www.youtube.com/shorts/nHH8NMDw3XU",
+      "title": "極左VS広島県民 • 広島平和記念式典 #広島 #移民 #歴史 #shorts",
+      "publishedAt": "2026-08-08T07:00:19Z",
+      "durationSeconds": 60,
+      "viewCount": 929199,
+      "likeCount": 19774,
+      "commentCount": 1726,
+      "channelId": "UCQzNVd1ca5jNyp4TH7YDntw",
+      "channelTitle": "世界の豆知識チャンネル",
+      "channelSubscriberCount": 44700,
+      "viewSubscriberRatio": 20.79,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "c1QiCrumoNc",
+      "url": "https://www.youtube.com/shorts/c1QiCrumoNc",
+      "title": "たった一人の勘違いで動いた歴史 ＃shorts",
+      "publishedAt": "2026-07-18T12:00:18Z",
+      "durationSeconds": 58,
+      "viewCount": 927089,
+      "likeCount": 16404,
+      "commentCount": 175,
+      "channelId": "UCkkxn2ldlFUMupTlXU8meAw",
+      "channelTitle": "たっくーTVれいでぃお",
+      "channelSubscriberCount": 3260000,
+      "viewSubscriberRatio": 0.28,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "4QevjcNX6KA",
+      "url": "https://www.youtube.com/shorts/4QevjcNX6KA",
+      "title": "【 科学で山を越えろ！— 手作りロープウェー大作戦 】  #shorts   #アニメ   #anime   #animeedit",
+      "publishedAt": "2026-07-06T08:35:31Z",
+      "durationSeconds": 53,
+      "viewCount": 923737,
+      "likeCount": 10779,
+      "commentCount": 117,
+      "channelId": "UCqoBCR5qumcTSRtSrGClmBQ",
+      "channelTitle": "シャンクス",
+      "channelSubscriberCount": 3600,
+      "viewSubscriberRatio": 256.59,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "3jOSUErOYLw",
+      "url": "https://www.youtube.com/shorts/3jOSUErOYLw",
+      "title": "日本の歴史",
+      "publishedAt": "2026-08-29T14:23:54Z",
+      "durationSeconds": 13,
+      "viewCount": 922129,
+      "likeCount": 13572,
+      "commentCount": 267,
+      "channelId": "UC23oit0zMtFaTbueLaS4r3Q",
+      "channelTitle": "ラディカルなたくろう",
+      "channelSubscriberCount": 64800,
+      "viewSubscriberRatio": 14.23,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "L7HgRAso9J8",
+      "url": "https://www.youtube.com/shorts/L7HgRAso9J8",
+      "title": "Poor anomaly 😂 || Animal Hospital #animalhospital #animation #shorts",
+      "publishedAt": "2026-07-18T14:42:23Z",
+      "durationSeconds": 10,
+      "viewCount": 921417,
+      "likeCount": 31802,
+      "commentCount": 350,
+      "channelId": "UCWLURxDFCcrFec75uZ8wqOA",
+      "channelTitle": "Jamine-Aki_ Artz",
+      "channelSubscriberCount": 3650000,
+      "viewSubscriberRatio": 0.25,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "sFusVCcWrUM",
+      "url": "https://www.youtube.com/shorts/sFusVCcWrUM",
+      "title": "宇宙で雑巾絞ると…結構危険！🚀 #shorts",
+      "publishedAt": "2026-06-28T08:30:21Z",
+      "durationSeconds": 121,
+      "viewCount": 894576,
+      "likeCount": 14427,
+      "commentCount": 377,
+      "channelId": "UCFhuNF4mHqIo5z7v9AT6IWA",
+      "channelTitle": "リチャードの自由研究",
+      "channelSubscriberCount": 81500,
+      "viewSubscriberRatio": 10.98,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "Yej3k9KhurA",
+      "url": "https://www.youtube.com/shorts/Yej3k9KhurA",
+      "title": "大日本帝国戦争の歴史　 #ポーランドボール　#shorts",
+      "publishedAt": "2026-07-18T08:08:01Z",
+      "durationSeconds": 28,
+      "viewCount": 880352,
+      "likeCount": 17145,
+      "commentCount": 375,
+      "channelId": "UCkjdTrE4hiJ4qNOV7NPGSSw",
+      "channelTitle": "Æž!フヒフム",
+      "channelSubscriberCount": 395000,
+      "viewSubscriberRatio": 2.23,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "gXZ_TYbbQas",
+      "url": "https://www.youtube.com/shorts/gXZ_TYbbQas",
+      "title": "もしもSnow Manが鬼滅の刃の柱だったら【AI実写】#snowman #鬼滅の刃 #柱 #AI実写 #もしもシリーズ  #shorts",
+      "publishedAt": "2026-08-05T11:00:28Z",
+      "durationSeconds": 57,
+      "viewCount": 877237,
+      "likeCount": 21226,
+      "commentCount": 629,
+      "channelId": "UCenvJ-1ucEFpkxvT0XlF2dg",
+      "channelTitle": "IF Vision",
+      "channelSubscriberCount": 1870,
+      "viewSubscriberRatio": 469.11,
+      "matchedQueries": [
+        "AIアニメ #Shorts",
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "qsUiTEJcOro",
+      "url": "https://www.youtube.com/shorts/qsUiTEJcOro",
+      "title": "真田安守房の戦略は本当に突拍子もないが、家族の方向性にも順応している。 #真田丸 #歴史 #テレビドラマのシーン #shorts",
+      "publishedAt": "2026-08-09T00:00:15Z",
+      "durationSeconds": 61,
+      "viewCount": 851248,
+      "likeCount": 5049,
+      "commentCount": 98,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 182.67,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "nRlkCQkAGJU",
+      "url": "https://www.youtube.com/shorts/nRlkCQkAGJU",
+      "title": "サッカーアニメの迷言3選 #Shorts #アニメ #漫画",
+      "publishedAt": "2026-07-07T09:30:36Z",
+      "durationSeconds": 57,
+      "viewCount": 848442,
+      "likeCount": 20562,
+      "commentCount": 307,
+      "channelId": "UCEM_8QFGzPgM3Euq8hj4NuQ",
+      "channelTitle": "みみっく",
+      "channelSubscriberCount": 19400,
+      "viewSubscriberRatio": 43.73,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "m19Z4EqsT5g",
+      "url": "https://www.youtube.com/shorts/m19Z4EqsT5g",
+      "title": "もしも日本が太平洋戦争で勝利していた場合、一体日本の領土はどのくらいになっていたのでしょうか？ #ポーランドボール #shorts",
+      "publishedAt": "2026-07-20T08:30:15Z",
+      "durationSeconds": 35,
+      "viewCount": 837606,
+      "likeCount": 24891,
+      "commentCount": 309,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 2.59,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "O6uCJCJvS9g",
+      "url": "https://www.youtube.com/shorts/O6uCJCJvS9g",
+      "title": "Astronomical Event in 13 August 2026 ☄️☠️ #space #astrology #shorts",
+      "publishedAt": "2026-08-06T14:04:16Z",
+      "durationSeconds": 40,
+      "viewCount": 825917,
+      "likeCount": null,
+      "commentCount": 58,
+      "channelId": "UCtmxLq-mESjpmi54OxFlGpw",
+      "channelTitle": "BeyondTellX",
+      "channelSubscriberCount": 58000,
+      "viewSubscriberRatio": 14.24,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "QlSWWrEShl4",
+      "url": "https://www.youtube.com/shorts/QlSWWrEShl4",
+      "title": "Essa Vara Parece Uma Arma! #curiosidades #shorts",
+      "publishedAt": "2026-08-18T14:45:11Z",
+      "durationSeconds": 21,
+      "viewCount": 803820,
+      "likeCount": 4529,
+      "commentCount": 22,
+      "channelId": "UCwZ6LDrfDeiZ-lRb_qWl1VA",
+      "channelTitle": "Curiozófalo",
+      "channelSubscriberCount": 13900,
+      "viewSubscriberRatio": 57.83,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "xWnGsk0zTSo",
+      "url": "https://www.youtube.com/shorts/xWnGsk0zTSo",
+      "title": "#妖怪ウォッチ 宇宙服を脱いだUSAピョン #shorts #おもしろかったらいいね👍 #ジバニャン #アニメ #yokaiwatch",
+      "publishedAt": "2026-06-30T09:00:06Z",
+      "durationSeconds": 36,
+      "viewCount": 797242,
+      "likeCount": 13838,
+      "commentCount": 190,
+      "channelId": "UCvudj1z5SLEkOw-Jiu63IYg",
+      "channelTitle": "妖怪ウォッチ 公式チャンネル 妖Tube",
+      "channelSubscriberCount": 428000,
+      "viewSubscriberRatio": 1.86,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "WlVDbpCuyY4",
+      "url": "https://www.youtube.com/shorts/WlVDbpCuyY4",
+      "title": "女友達が夏のカップヌードルアレンジを発明して美味しすぎたw#shorts",
+      "publishedAt": "2026-08-10T12:19:10Z",
+      "durationSeconds": 87,
+      "viewCount": 790337,
+      "likeCount": 12009,
+      "commentCount": 136,
+      "channelId": "UCJmToVyvq5MHwdpkhhvm1vw",
+      "channelTitle": "タオタオチャンネル",
+      "channelSubscriberCount": 337000,
+      "viewSubscriberRatio": 2.35,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "yLwjOasLK5o",
+      "url": "https://www.youtube.com/shorts/yLwjOasLK5o",
+      "title": "宇宙のデカさを感じる #すごい #おもしろ #バズれ #おすすめ #おもしろ動画 #宇宙 #shorts #海外",
+      "publishedAt": "2026-08-07T08:51:28Z",
+      "durationSeconds": 14,
+      "viewCount": 782755,
+      "likeCount": 9066,
+      "commentCount": 343,
+      "channelId": "UCbzRJw1EptMb96qCsMUB76A",
+      "channelTitle": "バズ紹介",
+      "channelSubscriberCount": 46700,
+      "viewSubscriberRatio": 16.76,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "snz9kxPCoG4",
+      "url": "https://www.youtube.com/shorts/snz9kxPCoG4",
+      "title": "【天才】もしも錦織圭が部長だったらこうなる【テニス】#Shorts #テニス部員",
+      "publishedAt": "2026-07-26T10:00:10Z",
+      "durationSeconds": 50,
+      "viewCount": 776446,
+      "likeCount": 18906,
+      "commentCount": 207,
+      "channelId": "UCJbwnRbhbwFdBsaB1DNoFZw",
+      "channelTitle": "Nepa / ねぱーる",
+      "channelSubscriberCount": 849000,
+      "viewSubscriberRatio": 0.91,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "YJx52WoX0Tw",
+      "url": "https://www.youtube.com/shorts/YJx52WoX0Tw",
+      "title": "彼のある決定が、北条を滅亡へと導いた。 #真田丸 #歴史 #shorts #テレビドラマのシーン",
+      "publishedAt": "2026-08-26T08:07:20Z",
+      "durationSeconds": 59,
+      "viewCount": 751017,
+      "likeCount": 4464,
+      "commentCount": 199,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 161.16,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "lqLm4cDxA1c",
+      "url": "https://www.youtube.com/shorts/lqLm4cDxA1c",
+      "title": "上水流宇宙さん🈁@KamizuruCosmo とDeepDive【轟はじめ】#shorts  #vtuber",
+      "publishedAt": "2026-08-05T08:00:09Z",
+      "durationSeconds": 34,
+      "viewCount": 749999,
+      "likeCount": 37498,
+      "commentCount": 370,
+      "channelId": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "channelTitle": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "channelSubscriberCount": 1250000,
+      "viewSubscriberRatio": 0.6,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "S8Mdwp5R3tE",
+      "url": "https://www.youtube.com/shorts/S8Mdwp5R3tE",
+      "title": "壁に吊るすだけ？中国発の天才的すぎる足場がヤバいｗ #shorts #DIY #発明 #アイデア",
+      "publishedAt": "2026-09-03T08:15:23Z",
+      "durationSeconds": 20,
+      "viewCount": 735133,
+      "likeCount": 1720,
+      "commentCount": 269,
+      "channelId": "UCD-wVVfgHpCD3_w4wcrxnMg",
+      "channelTitle": "これ何",
+      "channelSubscriberCount": 35900,
+      "viewSubscriberRatio": 20.48,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "T1oUqkoEfck",
+      "url": "https://www.youtube.com/shorts/T1oUqkoEfck",
+      "title": "もしも日本とロシアが入れ替わったら、一体どうなるのでしょうか？#shorts #ポーランドボール",
+      "publishedAt": "2026-08-16T08:30:34Z",
+      "durationSeconds": 30,
+      "viewCount": 727189,
+      "likeCount": 17568,
+      "commentCount": 289,
+      "channelId": "UCRCQ3G1d0DM2krO-Fx5LOuQ",
+      "channelTitle": "Æž!みかんぼーる🍊",
+      "channelSubscriberCount": 324000,
+      "viewSubscriberRatio": 2.24,
+      "matchedQueries": [
+        "もしも #Shorts"
+      ]
+    },
+    {
+      "id": "DRrc-qccrUk",
+      "url": "https://www.youtube.com/shorts/DRrc-qccrUk",
+      "title": "Don't Miss These Incredible Astronomical Events Before 2090 #shorts",
+      "publishedAt": "2026-08-05T18:30:05Z",
+      "durationSeconds": 33,
+      "viewCount": 715865,
+      "likeCount": 5367,
+      "commentCount": 75,
+      "channelId": "UCX8v4cCDokZK8-cr-07nwlA",
+      "channelTitle": "Astro Boom",
+      "channelSubscriberCount": 44100,
+      "viewSubscriberRatio": 16.23,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "YwHpYR3RNOM",
+      "url": "https://www.youtube.com/shorts/YwHpYR3RNOM",
+      "title": "〇〇な人に回します！ #shorts #キズナアイ　#犬山たまき",
+      "publishedAt": "2026-08-14T09:00:04Z",
+      "durationSeconds": 36,
+      "viewCount": 713628,
+      "likeCount": 28950,
+      "commentCount": 290,
+      "channelId": "UC4YaOt1yT-ZeyB0OmxHgolA",
+      "channelTitle": "Kizuna AI - A.I.Channel",
+      "channelSubscriberCount": 3130000,
+      "viewSubscriberRatio": 0.23,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "Wav9d2I3n4E",
+      "url": "https://www.youtube.com/shorts/Wav9d2I3n4E",
+      "title": "Baby's Reaction to Kisses Will Melt Your Heart! 🥹❤️ |  #viral #memes #cute #shorts",
+      "publishedAt": "2026-08-29T13:00:37Z",
+      "durationSeconds": 14,
+      "viewCount": 699189,
+      "likeCount": 11324,
+      "commentCount": 48,
+      "channelId": "UCN0nxyp9cSlBDULNKLtdpBw",
+      "channelTitle": "Motivationist_Santhosh",
+      "channelSubscriberCount": 298000,
+      "viewSubscriberRatio": 2.35,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "Mj5PfSYap_0",
+      "url": "https://www.youtube.com/shorts/Mj5PfSYap_0",
+      "title": "宇宙人かと思ったら、、#shorts",
+      "publishedAt": "2026-08-08T10:55:37Z",
+      "durationSeconds": 24,
+      "viewCount": 697550,
+      "likeCount": 8419,
+      "commentCount": 138,
+      "channelId": "UC1AOeXMBZ5buZOjSNMDQZEQ",
+      "channelTitle": "1分エンジョイ",
+      "channelSubscriberCount": 37400,
+      "viewSubscriberRatio": 18.65,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "o0gGrO1Z1Zo",
+      "url": "https://www.youtube.com/shorts/o0gGrO1Z1Zo",
+      "title": "家族の生死は他人の一言に左右されます。 #真田丸 #歴史 #shorts #テレビドラマのシーン",
+      "publishedAt": "2026-08-18T01:42:52Z",
+      "durationSeconds": 61,
+      "viewCount": 693972,
+      "likeCount": 4977,
+      "commentCount": 145,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 148.92,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "u3Smisn9MPs",
+      "url": "https://www.youtube.com/shorts/u3Smisn9MPs",
+      "title": "🤯 7 Insane Maths Facts You Won’t Believe! 🔥 #Shorts",
+      "publishedAt": "2026-08-19T12:35:21Z",
+      "durationSeconds": 52,
+      "viewCount": 691972,
+      "likeCount": 15673,
+      "commentCount": 689,
+      "channelId": "UCzGODBRse_5zr581pSp4rSg",
+      "channelTitle": "Idhu Factu",
+      "channelSubscriberCount": 123000,
+      "viewSubscriberRatio": 5.63,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "kuqaOoGrDxQ",
+      "url": "https://www.youtube.com/shorts/kuqaOoGrDxQ",
+      "title": "Something Left The Sun On Friday. It Arrives Tonight. ⚡ #shorts",
+      "publishedAt": "2026-08-17T15:15:33Z",
+      "durationSeconds": 155,
+      "viewCount": 683813,
+      "likeCount": 19049,
+      "commentCount": 1031,
+      "channelId": "UCXT_0ODUtKyzAsODNzu6qGQ",
+      "channelTitle": "Universe Explained",
+      "channelSubscriberCount": 7000,
+      "viewSubscriberRatio": 97.69,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "dknKwp5i_OI",
+      "url": "https://www.youtube.com/shorts/dknKwp5i_OI",
+      "title": "5-Meter Egg Drop Challenge! 🥚💥 Can Newspaper Protect It? 📰🤯 #ScienceExperiment #Physics #Shorts",
+      "publishedAt": "2026-07-25T10:30:25Z",
+      "durationSeconds": 106,
+      "viewCount": 683314,
+      "likeCount": 33324,
+      "commentCount": 420,
+      "channelId": "UCERpfFL1aRqsrJhmKkGAEPA",
+      "channelTitle": "Miwu Science",
+      "channelSubscriberCount": 5980000,
+      "viewSubscriberRatio": 0.11,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "yqHRPhh2WEY",
+      "url": "https://www.youtube.com/shorts/yqHRPhh2WEY",
+      "title": "Alien Spaceship😂 1vs1 funny real life gameplay #shorts #freefire #pubg #fortnite",
+      "publishedAt": "2026-08-30T12:30:22Z",
+      "durationSeconds": 96,
+      "viewCount": 667473,
+      "likeCount": 11854,
+      "commentCount": 6,
+      "channelId": "UCfPxGAUhOrnlELaXyiEcGJg",
+      "channelTitle": "Veenu Plays ",
+      "channelSubscriberCount": 129000,
+      "viewSubscriberRatio": 5.17,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "hWWWUTeRfUk",
+      "url": "https://www.youtube.com/shorts/hWWWUTeRfUk",
+      "title": "家康、小早川秀秋をかばう。 #徳川家康 #石田三成 #映画 #関ヶ原 #shorts",
+      "publishedAt": "2026-08-14T00:00:32Z",
+      "durationSeconds": 58,
+      "viewCount": 665391,
+      "likeCount": 4032,
+      "commentCount": 188,
+      "channelId": "UC09UlYHqfpuk9Cx93OJKoMA",
+      "channelTitle": "刀と時代",
+      "channelSubscriberCount": 950,
+      "viewSubscriberRatio": 700.41,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "v4oGtk2ZWIk",
+      "url": "https://www.youtube.com/shorts/v4oGtk2ZWIk",
+      "title": "メタルがストレスに効くことは科学的に立証済みです #Shorts",
+      "publishedAt": "2026-06-25T10:17:36Z",
+      "durationSeconds": 27,
+      "viewCount": 642444,
+      "likeCount": 10890,
+      "commentCount": 270,
+      "channelId": "UCPSwotdUs5vI2MUU1N5PGJQ",
+      "channelTitle": "フカミマコト / Makoto Fukami",
+      "channelSubscriberCount": 490000,
+      "viewSubscriberRatio": 1.31,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "s9UQd4zbCFQ",
+      "url": "https://www.youtube.com/shorts/s9UQd4zbCFQ",
+      "title": "【大パニック】妹を守るために宇宙へ！？過保護すぎるお兄ちゃんの末路… #roblox #ロブロックス #マイクラ  #shorts",
+      "publishedAt": "2026-07-23T09:00:30Z",
+      "durationSeconds": 71,
+      "viewCount": 626837,
+      "likeCount": 16196,
+      "commentCount": 159,
+      "channelId": "UCiyDVbo88aDeW_fJAQyQF7A",
+      "channelTitle": "ハルトのおもしろ家族【ロブロックス】",
+      "channelSubscriberCount": 708000,
+      "viewSubscriberRatio": 0.89,
+      "matchedQueries": [
+        "宇宙 #Shorts"
+      ]
+    },
+    {
+      "id": "pQ5hjfBOj-8",
+      "url": "https://www.youtube.com/shorts/pQ5hjfBOj-8",
+      "title": "Dumbest inventions in history #shorts",
+      "publishedAt": "2026-08-27T19:40:07Z",
+      "durationSeconds": 21,
+      "viewCount": 621570,
+      "likeCount": 10369,
+      "commentCount": 86,
+      "channelId": "UCXdNzYZQxIb40-wH0lv65Tg",
+      "channelTitle": "VITMI",
+      "channelSubscriberCount": 7300000,
+      "viewSubscriberRatio": 0.09,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "mbq8HiA6XDg",
+      "url": "https://www.youtube.com/shorts/mbq8HiA6XDg",
+      "title": "【にゃんこ大戦争】歴史が変わる。最強戦法誕生でシステム変更【にゃんこ大戦争ゆっくり解説】#shorts",
+      "publishedAt": "2026-07-20T10:12:57Z",
+      "durationSeconds": 59,
+      "viewCount": 621064,
+      "likeCount": 9142,
+      "commentCount": 51,
+      "channelId": "UCTBDSEaKoLjRS7H944f9dvQ",
+      "channelTitle": "ゆっくり達のにゃんこ学校",
+      "channelSubscriberCount": 145000,
+      "viewSubscriberRatio": 4.28,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "6AKDm68ue64",
+      "url": "https://www.youtube.com/shorts/6AKDm68ue64",
+      "title": "彼の誠実な説得は、やはり彼の心変わりを促すことができませんでした。 #真田丸 #歴史 #shorts #テレビドラマのシーン",
+      "publishedAt": "2026-08-21T08:44:06Z",
+      "durationSeconds": 59,
+      "viewCount": 611538,
+      "likeCount": 4088,
+      "commentCount": 152,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 131.23,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "dOsIaKox_iQ",
+      "url": "https://www.youtube.com/shorts/dOsIaKox_iQ",
+      "title": "オタクのカラオケで黒歴史曲7選　#shorts",
+      "publishedAt": "2026-07-16T11:00:31Z",
+      "durationSeconds": 81,
+      "viewCount": 601123,
+      "likeCount": 27374,
+      "commentCount": 430,
+      "channelId": "UCISFw0-qszcCyMRntHtDe2g",
+      "channelTitle": "ナナオは立派なユーチューバー",
+      "channelSubscriberCount": 995000,
+      "viewSubscriberRatio": 0.6,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "2VxPXd2McXo",
+      "url": "https://www.youtube.com/shorts/2VxPXd2McXo",
+      "title": "1900年のドパガキ　#youtube #shorts #youtubeshorts #おすすめ #おもしろ #面白い #雑学 #歴史 #昔話 #バズれ #草",
+      "publishedAt": "2026-08-29T09:13:27Z",
+      "durationSeconds": 21,
+      "viewCount": 589799,
+      "likeCount": 9544,
+      "commentCount": 330,
+      "channelId": "UCzbKsN5c0-ZN-GEPUdHDbXw",
+      "channelTitle": "パラダイス速報",
+      "channelSubscriberCount": 99400,
+      "viewSubscriberRatio": 5.93,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "zKZHTqHC_6g",
+      "url": "https://www.youtube.com/shorts/zKZHTqHC_6g",
+      "title": "Why Are Airplane Bodies So Thin. #shorts",
+      "publishedAt": "2026-08-29T10:39:19Z",
+      "durationSeconds": 34,
+      "viewCount": 585533,
+      "likeCount": null,
+      "commentCount": 6,
+      "channelId": "UCgXVIJqIA3A5t0MTSgRzg7g",
+      "channelTitle": "SCYRA FACT",
+      "channelSubscriberCount": 39000,
+      "viewSubscriberRatio": 15.01,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "XJxN1xsRFlM",
+      "url": "https://www.youtube.com/shorts/XJxN1xsRFlM",
+      "title": "北条は勝利した後、北条に加入することを決め、父親の視野は確かに息子よりも広いです。 #真田丸 #歴史 #shorts",
+      "publishedAt": "2026-08-05T09:55:30Z",
+      "durationSeconds": 61,
+      "viewCount": 581873,
+      "likeCount": 3719,
+      "commentCount": 50,
+      "channelId": "UCvlQ15OXynoWegGRQp8mVYQ",
+      "channelTitle": "安藤 灯里",
+      "channelSubscriberCount": 4660,
+      "viewSubscriberRatio": 124.87,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "AAFJOHM153I",
+      "url": "https://www.youtube.com/shorts/AAFJOHM153I",
+      "title": "当初は大戦だと思っていましたが、結果は全く予想できませんでした。#おすすめ #短編動画 #shorts",
+      "publishedAt": "2026-08-28T11:27:51Z",
+      "durationSeconds": 59,
+      "viewCount": 573254,
+      "likeCount": 4625,
+      "commentCount": 38,
+      "channelId": "UCIwbRTwETFsWaUH6saj8kHw",
+      "channelTitle": "Troy",
+      "channelSubscriberCount": 2840,
+      "viewSubscriberRatio": 201.85,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "uR2v7lsWvcw",
+      "url": "https://www.youtube.com/shorts/uR2v7lsWvcw",
+      "title": "もしクレヨンしんちゃんのキャラクターが現実にいたら？ | What If Crayon Shin-chan Characters Were Real? Part 4 #shorts",
+      "publishedAt": "2026-08-12T06:01:43Z",
+      "durationSeconds": 16,
+      "viewCount": 567092,
+      "likeCount": 7008,
+      "commentCount": 32,
+      "channelId": "UC5ia5ejjyG5EJazHu239uYw",
+      "channelTitle": "AniLab | あにらぼ",
+      "channelSubscriberCount": 8660,
+      "viewSubscriberRatio": 65.48,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "3IrlQ6JumQU",
+      "url": "https://www.youtube.com/shorts/3IrlQ6JumQU",
+      "title": "江戸の携帯食3選 #江戸時代 #歴史 #防災 #雑学 #shorts",
+      "publishedAt": "2026-07-19T10:30:34Z",
+      "durationSeconds": 47,
+      "viewCount": 533383,
+      "likeCount": 5784,
+      "commentCount": 81,
+      "channelId": "UCk_DFKtlsAkuI6TPmnU7GMg",
+      "channelTitle": "いろはにお江戸",
+      "channelSubscriberCount": 1480,
+      "viewSubscriberRatio": 360.39,
+      "matchedQueries": [
+        "歴史 #Shorts"
+      ]
+    },
+    {
+      "id": "ji9Qeer42DY",
+      "url": "https://www.youtube.com/shorts/ji9Qeer42DY",
+      "title": "జపాన్ వాళ్ళ మైండ్ మామూలుగా లేదుగా! 🤯 🇯🇵 క్రేజీ గ్యాడ్జెట్స్ #shorts #telugutrending",
+      "publishedAt": "2026-08-30T12:34:38Z",
+      "durationSeconds": 42,
+      "viewCount": 512672,
+      "likeCount": 10244,
+      "commentCount": 936,
+      "channelId": "UCiqg9Qa4OXLAaEgfBEO-r3w",
+      "channelTitle": "Brain Vault Telugu",
+      "channelSubscriberCount": 302000,
+      "viewSubscriberRatio": 1.7,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "jsgvK3ORLz0",
+      "url": "https://www.youtube.com/shorts/jsgvK3ORLz0",
+      "title": "The Future of Laundry! 😱 Automatic Ironing Machine 🚀 #SmartGadgets #Shorts #Tech #HomeAppliances",
+      "publishedAt": "2026-08-23T11:09:21Z",
+      "durationSeconds": 57,
+      "viewCount": 498315,
+      "likeCount": 5712,
+      "commentCount": 196,
+      "channelId": "UCORfP8v3h5ZOVnSlwSBjBSw",
+      "channelTitle": "Nitin Tatiri",
+      "channelSubscriberCount": 486000,
+      "viewSubscriberRatio": 1.03,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "tuCa-UCzJmE",
+      "url": "https://www.youtube.com/shorts/tuCa-UCzJmE",
+      "title": "呪術廻戦のAI疑惑が出た学会ポスターがヤバすぎる",
+      "publishedAt": "2026-08-26T09:00:26Z",
+      "durationSeconds": 46,
+      "viewCount": 463398,
+      "likeCount": null,
+      "commentCount": 238,
+      "channelId": "UCkB5DtmW7N-jmHG7C3PE0Jg",
+      "channelTitle": "バズ漫画太郎",
+      "channelSubscriberCount": 53500,
+      "viewSubscriberRatio": 8.66,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "c4Lni1rKSCM",
+      "url": "https://www.youtube.com/shorts/c4Lni1rKSCM",
+      "title": "コスさんが理科の実験始めてるねんけどwww #shorts",
+      "publishedAt": "2026-07-25T11:00:07Z",
+      "durationSeconds": 108,
+      "viewCount": 457928,
+      "likeCount": 6491,
+      "commentCount": 96,
+      "channelId": "UCe1dNVG_nTXAbi7q7arBcUw",
+      "channelTitle": "カモミールチャンネル",
+      "channelSubscriberCount": 499000,
+      "viewSubscriberRatio": 0.92,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "qTvGvbbpBpI",
+      "url": "https://www.youtube.com/shorts/qTvGvbbpBpI",
+      "title": "【物理崩壊】表面張力が数十倍に！？水が空中に浮く衝撃実験 #Shorts",
+      "publishedAt": "2026-08-25T21:00:15Z",
+      "durationSeconds": 24,
+      "viewCount": 410781,
+      "likeCount": 3260,
+      "commentCount": 135,
+      "channelId": "UCPaM-UuH_h-gdNEvQYELeqA",
+      "channelTitle": "デイズワンダー",
+      "channelSubscriberCount": 2740,
+      "viewSubscriberRatio": 149.92,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "gDuwOi8_YaY",
+      "url": "https://www.youtube.com/shorts/gDuwOi8_YaY",
+      "title": "Not the student loan program I signed up for…#standupcomedy  #shorts #science",
+      "publishedAt": "2026-06-09T18:13:24Z",
+      "durationSeconds": 180,
+      "viewCount": 409158,
+      "likeCount": 38561,
+      "commentCount": 835,
+      "channelId": "UCVM1uxDwYNhIu3qQ0ejZtzQ",
+      "channelTitle": "Sammy Obeid",
+      "channelSubscriberCount": 806000,
+      "viewSubscriberRatio": 0.51,
+      "matchedQueries": [
+        "科学 #Shorts"
+      ]
+    },
+    {
+      "id": "qyFhzfP3SLY",
+      "url": "https://www.youtube.com/shorts/qyFhzfP3SLY",
+      "title": "㊗️30万回再生！歓迎会の罠 #shorts #ドラマ #ショートドラマ #感動",
+      "publishedAt": "2026-07-13T09:00:32Z",
+      "durationSeconds": 180,
+      "viewCount": 392934,
+      "likeCount": 6423,
+      "commentCount": 99,
+      "channelId": "UC81rQ1ufYOiPansQmxhPyHg",
+      "channelTitle": "21時のAI",
+      "channelSubscriberCount": 108000,
+      "viewSubscriberRatio": 3.64,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "vZtOH7niKcg",
+      "url": "https://www.youtube.com/shorts/vZtOH7niKcg",
+      "title": "Mini handpump scienceproject with purple concrete ,mixer diytractor cowfarm short #.570 #shorts #yt",
+      "publishedAt": "2026-06-22T05:00:22Z",
+      "durationSeconds": 31,
+      "viewCount": 368308,
+      "likeCount": 3400,
+      "commentCount": 19,
+      "channelId": "UCr5_51qry1VWqRBslqmRabQ",
+      "channelTitle": "DIY Super Tractor",
+      "channelSubscriberCount": 1700000,
+      "viewSubscriberRatio": 0.22,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "SfKZVqjg4V0",
+      "url": "https://www.youtube.com/shorts/SfKZVqjg4V0",
+      "title": "仕事から帰ったら、黒猫が茶漬け作ってた話【和菓子職人レンと黒猫】",
+      "publishedAt": "2026-08-24T11:00:24Z",
+      "durationSeconds": 45,
+      "viewCount": 362465,
+      "likeCount": 5137,
+      "commentCount": 129,
+      "channelId": "UCOQ-RMsVadqdjuRHlF_KEUw",
+      "channelTitle": "うちの黒猫、和菓子職人より器用なんですが",
+      "channelSubscriberCount": 18200,
+      "viewSubscriberRatio": 19.92,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "A3wDganjD0I",
+      "url": "https://www.youtube.com/shorts/A3wDganjD0I",
+      "title": "With just this tool, you could save millions of dollars. #shorts #diy #shortvideo",
+      "publishedAt": "2026-08-21T12:30:27Z",
+      "durationSeconds": 177,
+      "viewCount": 346616,
+      "likeCount": 6665,
+      "commentCount": 90,
+      "channelId": "UCePYD2WSen84UcdmGja6dRA",
+      "channelTitle": "Skill Tips",
+      "channelSubscriberCount": 257000,
+      "viewSubscriberRatio": 1.35,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "gZvVONoZn7I",
+      "url": "https://www.youtube.com/shorts/gZvVONoZn7I",
+      "title": "マジで？！借金多すぎて300年炭鉱で働く！？#葬送のフリーレン #frieren  #アニメ  #名シーン #ai超解像",
+      "publishedAt": "2026-06-20T09:00:05Z",
+      "durationSeconds": 48,
+      "viewCount": 345782,
+      "likeCount": 2985,
+      "commentCount": 47,
+      "channelId": "UC23-iEDVYG6sYzSI9dzACjw",
+      "channelTitle": "記憶の旅びと - アニメシーンMAD",
+      "channelSubscriberCount": 29000,
+      "viewSubscriberRatio": 11.92,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "nVZyLvpj62o",
+      "url": "https://www.youtube.com/shorts/nVZyLvpj62o",
+      "title": "こんな時、どう結ぶ？🪢普通の結び方じゃダメ!?😱 こんな時に使える意外な結び方！✨#ライフハック #科学 #Shorts「再投稿」",
+      "publishedAt": "2026-08-12T12:15:31Z",
+      "durationSeconds": 79,
+      "viewCount": 318642,
+      "likeCount": 6292,
+      "commentCount": 42,
+      "channelId": "UC7_PqAbrajzCAGcP0xkiL8Q",
+      "channelTitle": "Miwuさんの科学 にほん",
+      "channelSubscriberCount": 606000,
+      "viewSubscriberRatio": 0.53,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "a9x2j_MtHEc",
+      "url": "https://www.youtube.com/shorts/a9x2j_MtHEc",
+      "title": "身近なもので！浮き沈み実験3選 #shorts",
+      "publishedAt": "2026-08-23T03:26:38Z",
+      "durationSeconds": 16,
+      "viewCount": 311901,
+      "likeCount": 1338,
+      "commentCount": 32,
+      "channelId": "UCZ6MBZ3Q9qsQ8pPKruMHzww",
+      "channelTitle": "るるママ♢五感を磨くおうち遊び",
+      "channelSubscriberCount": 6210,
+      "viewSubscriberRatio": 50.23,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "_kbC4ucTLnQ",
+      "url": "https://www.youtube.com/shorts/_kbC4ucTLnQ",
+      "title": "ネットの有名人しかいないBLEACH#shorts #アニメ #bleach",
+      "publishedAt": "2026-07-18T10:03:12Z",
+      "durationSeconds": 118,
+      "viewCount": 305855,
+      "likeCount": 3059,
+      "commentCount": 176,
+      "channelId": "UCS4zz2k_1eRjJpUHAn07vUA",
+      "channelTitle": "マサ内藤",
+      "channelSubscriberCount": 182000,
+      "viewSubscriberRatio": 1.68,
+      "matchedQueries": [
+        "AIアニメ #Shorts"
+      ]
+    },
+    {
+      "id": "Gur1kQsHe14",
+      "url": "https://www.youtube.com/shorts/Gur1kQsHe14",
+      "title": "💥 Is This Genius or Just Crazy?! 🤯 195 #adamrose  #shorts #ideas  #lifehacks #smarttips #smartwork",
+      "publishedAt": "2026-07-20T10:58:34Z",
+      "durationSeconds": 179,
+      "viewCount": 289020,
+      "likeCount": 9228,
+      "commentCount": 73,
+      "channelId": "UCxy_OttjrG7gQXHLg7aFcsg",
+      "channelTitle": "Fan Adam Rose number1",
+      "channelSubscriberCount": 217000,
+      "viewSubscriberRatio": 1.33,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "Av97MQvniIw",
+      "url": "https://www.youtube.com/shorts/Av97MQvniIw",
+      "title": "どーやって寝ればいいの😳⁉️ #ai #エフェクト #shorts",
+      "publishedAt": "2026-08-16T12:19:02Z",
+      "durationSeconds": 11,
+      "viewCount": 265298,
+      "likeCount": 1285,
+      "commentCount": 20,
+      "channelId": "UC6fG-wjPoz110Sywvq4reOA",
+      "channelTitle": "まさきちファミリー",
+      "channelSubscriberCount": 699000,
+      "viewSubscriberRatio": 0.38,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "l8HEdL3YxiM",
+      "url": "https://www.youtube.com/shorts/l8HEdL3YxiM",
+      "title": "😱紙でココナッツが切れる!?🥥📄 紙の意外な切れ味を実験してみた！🔬#ライフハック #科学 #Shorts「再投稿」",
+      "publishedAt": "2026-08-16T10:30:33Z",
+      "durationSeconds": 79,
+      "viewCount": 245533,
+      "likeCount": 3679,
+      "commentCount": 43,
+      "channelId": "UC7_PqAbrajzCAGcP0xkiL8Q",
+      "channelTitle": "Miwuさんの科学 にほん",
+      "channelSubscriberCount": 606000,
+      "viewSubscriberRatio": 0.41,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "6UkVJgkP2BQ",
+      "url": "https://www.youtube.com/shorts/6UkVJgkP2BQ",
+      "title": "Building a Noselander #shorts",
+      "publishedAt": "2026-08-20T21:14:36Z",
+      "durationSeconds": 94,
+      "viewCount": 243736,
+      "likeCount": 5248,
+      "commentCount": 215,
+      "channelId": "UClqCcLlJ2TSLH97N-Yz8k5g",
+      "channelTitle": "Mosevic",
+      "channelSubscriberCount": 347000,
+      "viewSubscriberRatio": 0.7,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "fEP-WfjnfOU",
+      "url": "https://www.youtube.com/shorts/fEP-WfjnfOU",
+      "title": "天才の発明 #shorts #tiktok #Twitter #おもしろ #お笑い#おすすめ #面白い #おもしろ動画 #爆笑 #バズれ #すごい #ライフハック",
+      "publishedAt": "2026-07-04T08:00:34Z",
+      "durationSeconds": 9,
+      "viewCount": 233565,
+      "likeCount": 1931,
+      "commentCount": 37,
+      "channelId": "UCu4bY0-iYiFE9XlHHY0fPag",
+      "channelTitle": "バズサーチ【面白動画まとめ】",
+      "channelSubscriberCount": 5370,
+      "viewSubscriberRatio": 43.49,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "yWdqq3l80rg",
+      "url": "https://www.youtube.com/shorts/yWdqq3l80rg",
+      "title": "Which Bed Would You Sleep In? | Crazy AI ASMR #12 #aiasmr",
+      "publishedAt": "2026-07-14T14:03:26Z",
+      "durationSeconds": 127,
+      "viewCount": 209736,
+      "likeCount": null,
+      "commentCount": 14,
+      "channelId": "UCGxHfEF_LwrnTU1bXM_vDSw",
+      "channelTitle": "AI ASMR Satisfait",
+      "channelSubscriberCount": 72100,
+      "viewSubscriberRatio": 2.91,
+      "matchedQueries": [
+        "AI ASMR #Shorts"
+      ]
+    },
+    {
+      "id": "dll1Qi8Q2gw",
+      "url": "https://www.youtube.com/shorts/dll1Qi8Q2gw",
+      "title": "AIの動画であってほしかったもの #shorts #ジョジョの奇妙な冒険",
+      "publishedAt": "2026-08-24T12:19:05Z",
+      "durationSeconds": 79,
+      "viewCount": 194386,
+      "likeCount": 7055,
+      "commentCount": 359,
+      "channelId": "UCtWEp6ZBNSX87SPYsMNoQUw",
+      "channelTitle": "てっつー",
+      "channelSubscriberCount": 24900,
+      "viewSubscriberRatio": 7.81,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "jQ2ADGmhyIs",
+      "url": "https://www.youtube.com/shorts/jQ2ADGmhyIs",
+      "title": "😳包丁なしでスイカを切る!?🍉🪢 ロープだけで本当に切れた！🤯 #科学 #実験 #Shorts「再投稿」",
+      "publishedAt": "2026-08-30T10:00:34Z",
+      "durationSeconds": 37,
+      "viewCount": 185304,
+      "likeCount": 2720,
+      "commentCount": 41,
+      "channelId": "UC7_PqAbrajzCAGcP0xkiL8Q",
+      "channelTitle": "Miwuさんの科学 にほん",
+      "channelSubscriberCount": 606000,
+      "viewSubscriberRatio": 0.31,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "hnjQbUQWA_I",
+      "url": "https://www.youtube.com/shorts/hnjQbUQWA_I",
+      "title": "Time Period & LCM Live Science Experiment 🔥#jeenityofficial  #shorts #physics",
+      "publishedAt": "2026-06-29T14:45:25Z",
+      "durationSeconds": 30,
+      "viewCount": 181298,
+      "likeCount": 3562,
+      "commentCount": 84,
+      "channelId": "UCaFvMeKet_IRoAgnrNahYXw",
+      "channelTitle": "JeeNity Official",
+      "channelSubscriberCount": 84600,
+      "viewSubscriberRatio": 2.14,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "NqunSAcgaFI",
+      "url": "https://www.youtube.com/shorts/NqunSAcgaFI",
+      "title": "【AI】動画コンテンツ変わるかも....? #shorts",
+      "publishedAt": "2026-08-21T10:00:04Z",
+      "durationSeconds": 62,
+      "viewCount": 169790,
+      "likeCount": 3290,
+      "commentCount": 31,
+      "channelId": "UCcGSTI830YkwaocFV31Q7MA",
+      "channelTitle": "スタンミ",
+      "channelSubscriberCount": 827000,
+      "viewSubscriberRatio": 0.21,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "AaEDoBtARog",
+      "url": "https://www.youtube.com/shorts/AaEDoBtARog",
+      "title": "Samsung vs Apple against USB Killer  #tech #technology #shorts",
+      "publishedAt": "2026-08-30T11:11:42Z",
+      "durationSeconds": 44,
+      "viewCount": 169672,
+      "likeCount": null,
+      "commentCount": 17,
+      "channelId": "UCejs-rXRR0Qnj8L-X28CDRA",
+      "channelTitle": "MSquare Tech",
+      "channelSubscriberCount": 54200,
+      "viewSubscriberRatio": 3.13,
+      "matchedQueries": [
+        "発明 #Shorts"
+      ]
+    },
+    {
+      "id": "WSX6w0qZ68I",
+      "url": "https://www.youtube.com/shorts/WSX6w0qZ68I",
+      "title": "中道いさ議員、自身の\"AI動画拡散\"が掘り起こされてしまう...",
+      "publishedAt": "2026-06-10T03:00:21Z",
+      "durationSeconds": 48,
+      "viewCount": 157477,
+      "likeCount": 3933,
+      "commentCount": 163,
+      "channelId": "UCpLdOOktFqe7BGXPvISfzPw",
+      "channelTitle": "コウTV【時事ニュース】",
+      "channelSubscriberCount": 9660,
+      "viewSubscriberRatio": 16.3,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "zpkOFzXUtcc",
+      "url": "https://www.youtube.com/shorts/zpkOFzXUtcc",
+      "title": "【AI動画】承太郎と吉良の対面シーン #アニメ #shorts",
+      "publishedAt": "2026-07-28T11:30:10Z",
+      "durationSeconds": 48,
+      "viewCount": 149757,
+      "likeCount": 786,
+      "commentCount": 25,
+      "channelId": "UCMGkhWb9mnklMfGzZUUypkg",
+      "channelTitle": "アイマイ",
+      "channelSubscriberCount": 10800,
+      "viewSubscriberRatio": 13.87,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "in-VvGU2PHk",
+      "url": "https://www.youtube.com/shorts/in-VvGU2PHk",
+      "title": "easy simple science experiment #ytshorts #shorts",
+      "publishedAt": "2026-06-13T14:00:16Z",
+      "durationSeconds": 49,
+      "viewCount": 144520,
+      "likeCount": 1923,
+      "commentCount": 27,
+      "channelId": "UCo4ANoR7ZLagn6xL3iGxevw",
+      "channelTitle": "Re Lolll",
+      "channelSubscriberCount": 45600,
+      "viewSubscriberRatio": 3.17,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "g3TMFygZfjc",
+      "url": "https://www.youtube.com/shorts/g3TMFygZfjc",
+      "title": "本物のライトセーバーを現実の科学で作る方法 #海外 #shorts",
+      "publishedAt": "2026-07-19T10:22:07Z",
+      "durationSeconds": 28,
+      "viewCount": 142247,
+      "likeCount": null,
+      "commentCount": 64,
+      "channelId": "UCt7xiPE9O26HDc7II0HGBqA",
+      "channelTitle": "話題のショート",
+      "channelSubscriberCount": 29600,
+      "viewSubscriberRatio": 4.81,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "Q9gmQuYH2OQ",
+      "url": "https://www.youtube.com/shorts/Q9gmQuYH2OQ",
+      "title": "最強の爆薬：オクタニトロキュバン #organicchemistry #chemistry #有機化学 #化学 #shorts #科学 #雑学",
+      "publishedAt": "2026-07-22T10:00:08Z",
+      "durationSeconds": 53,
+      "viewCount": 131803,
+      "likeCount": 1561,
+      "commentCount": 113,
+      "channelId": "UCVdqfcGIhXFEe4JDV97X1ig",
+      "channelTitle": "もろぴー有機化学・研究ちゃんねる",
+      "channelSubscriberCount": 64100,
+      "viewSubscriberRatio": 2.06,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "RCNPX3qtFL4",
+      "url": "https://www.youtube.com/shorts/RCNPX3qtFL4",
+      "title": "伊佐議員、\"AI動画拡散\"はネガキャンじゃない発言...",
+      "publishedAt": "2026-06-11T03:00:40Z",
+      "durationSeconds": 44,
+      "viewCount": 116559,
+      "likeCount": 2240,
+      "commentCount": 116,
+      "channelId": "UCpLdOOktFqe7BGXPvISfzPw",
+      "channelTitle": "コウTV【時事ニュース】",
+      "channelSubscriberCount": 9660,
+      "viewSubscriberRatio": 12.07,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "rjV6iJMUyHo",
+      "url": "https://www.youtube.com/shorts/rjV6iJMUyHo",
+      "title": "REAL or AI Plane Videos😂 #aviation #shorts #viral #reaction #planes",
+      "publishedAt": "2026-09-04T23:14:04Z",
+      "durationSeconds": 52,
+      "viewCount": 115258,
+      "likeCount": 2517,
+      "commentCount": 82,
+      "channelId": "UC--FMtKhja-6WfxLHE7b6eQ",
+      "channelTitle": "Billy’s Aviation",
+      "channelSubscriberCount": 319000,
+      "viewSubscriberRatio": 0.36,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "XpcT99x94t4",
+      "url": "https://www.youtube.com/shorts/XpcT99x94t4",
+      "title": "I Tested REAL Mouse vs Redbull!! 😱 #shorts #redbull #mouse #science #experiment #redbullmouse",
+      "publishedAt": "2026-08-19T01:30:45Z",
+      "durationSeconds": 66,
+      "viewCount": 114897,
+      "likeCount": 1460,
+      "commentCount": 33,
+      "channelId": "UCbB_v-6MgkFaVJr5gSO2DeQ",
+      "channelTitle": "David Rosenberg",
+      "channelSubscriberCount": 153000,
+      "viewSubscriberRatio": 0.75,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "PvxYHJGAHjA",
+      "url": "https://www.youtube.com/shorts/PvxYHJGAHjA",
+      "title": "【爆音注意】ヴェリティからの愛の叫び【海外マイクラ/切り抜き動画/LookOut3D】【日本語字幕】#ショート #shorts",
+      "publishedAt": "2026-07-08T10:00:13Z",
+      "durationSeconds": 48,
+      "viewCount": 109356,
+      "likeCount": 3200,
+      "commentCount": 52,
+      "channelId": "UCpe6Yq2ryXjJVbYbQyaJnow",
+      "channelTitle": "ねねこ(翻訳)チャンネル",
+      "channelSubscriberCount": 2670,
+      "viewSubscriberRatio": 40.96,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "t1Ztzu1ZDNQ",
+      "url": "https://www.youtube.com/shorts/t1Ztzu1ZDNQ",
+      "title": "TRY TO GUESS HOW MANT TISSUE PAPER IT TAKE TO FLOAT?  #asmr #experiment #satisfying #oddlysatisfying",
+      "publishedAt": "2026-06-10T18:00:11Z",
+      "durationSeconds": 79,
+      "viewCount": 101350,
+      "likeCount": 1460,
+      "commentCount": 10,
+      "channelId": "UCqexVDrLe2SCiw5rXGcI26A",
+      "channelTitle": "Satisfying 2X",
+      "channelSubscriberCount": 677000,
+      "viewSubscriberRatio": 0.15,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "ZgjkOwzD7tM",
+      "url": "https://www.youtube.com/shorts/ZgjkOwzD7tM",
+      "title": "↑本編はリンクから↑科学の庭園 #Shorts #でんじろう先生 #実験 #science #はぴエネ #科学",
+      "publishedAt": "2026-08-04T03:00:33Z",
+      "durationSeconds": 20,
+      "viewCount": 97866,
+      "likeCount": 2082,
+      "commentCount": 41,
+      "channelId": "UCk5qA4dVD1vipi6veZ9hewQ",
+      "channelTitle": "でんじろう先生のはぴエネ!【公式】Mr. Denjiro's Happy Energy!",
+      "channelSubscriberCount": 694000,
+      "viewSubscriberRatio": 0.14,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "MpbajnJMzhE",
+      "url": "https://www.youtube.com/shorts/MpbajnJMzhE",
+      "title": "仕掛けはおうちにあるアレ！簡単実験3選 #shorts",
+      "publishedAt": "2026-08-25T09:00:37Z",
+      "durationSeconds": 21,
+      "viewCount": 88274,
+      "likeCount": 561,
+      "commentCount": 10,
+      "channelId": "UCZ6MBZ3Q9qsQ8pPKruMHzww",
+      "channelTitle": "るるママ♢五感を磨くおうち遊び",
+      "channelSubscriberCount": 6210,
+      "viewSubscriberRatio": 14.21,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "z6gF96-L8Ak",
+      "url": "https://www.youtube.com/shorts/z6gF96-L8Ak",
+      "title": "🎈 Can Water Hold a Balloon? 💧 Magic Science Experiment #shorts #kids",
+      "publishedAt": "2026-08-16T00:00:36Z",
+      "durationSeconds": 21,
+      "viewCount": 84955,
+      "likeCount": 590,
+      "commentCount": 0,
+      "channelId": "UCucZuBX5eSDEb68U7Xp1Weg",
+      "channelTitle": "Tots Parade",
+      "channelSubscriberCount": 834000,
+      "viewSubscriberRatio": 0.1,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "J3EQ9dpaqdc",
+      "url": "https://www.youtube.com/shorts/J3EQ9dpaqdc",
+      "title": "easy simple science experiment #ytshorts #shorts",
+      "publishedAt": "2026-06-14T16:30:26Z",
+      "durationSeconds": 46,
+      "viewCount": 73618,
+      "likeCount": 1002,
+      "commentCount": 18,
+      "channelId": "UCo4ANoR7ZLagn6xL3iGxevw",
+      "channelTitle": "Re Lolll",
+      "channelSubscriberCount": 45600,
+      "viewSubscriberRatio": 1.61,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "S73m9uTNpMU",
+      "url": "https://www.youtube.com/shorts/S73m9uTNpMU",
+      "title": "Ranking Science Experiment In School #shorts #ranking #funny",
+      "publishedAt": "2026-07-10T13:30:21Z",
+      "durationSeconds": 45,
+      "viewCount": 71219,
+      "likeCount": null,
+      "commentCount": 8,
+      "channelId": "UCL0J2MvPtelBHi2rvUvJHKA",
+      "channelTitle": "Rare Rankz",
+      "channelSubscriberCount": 105000,
+      "viewSubscriberRatio": 0.68,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "Wx4FjeNO3_s",
+      "url": "https://www.youtube.com/shorts/Wx4FjeNO3_s",
+      "title": "I Extracted my DNA at HOME!! 😱 #shorts #dna #extractdna #zackdfilms #experiment",
+      "publishedAt": "2026-09-02T00:05:21Z",
+      "durationSeconds": 49,
+      "viewCount": 61602,
+      "likeCount": 843,
+      "commentCount": 13,
+      "channelId": "UCbB_v-6MgkFaVJr5gSO2DeQ",
+      "channelTitle": "David Rosenberg",
+      "channelSubscriberCount": 153000,
+      "viewSubscriberRatio": 0.4,
+      "matchedQueries": [
+        "科学実験 #Shorts"
+      ]
+    },
+    {
+      "id": "gbWFI-n1gqQ",
+      "url": "https://www.youtube.com/shorts/gbWFI-n1gqQ",
+      "title": "【Twitter】翼を授ける　　　　#レッドブル #redbull #redbullracing #トラック #track #ai #aivideo #ai動画 #翼 #shorts #twitter",
+      "publishedAt": "2026-09-01T10:01:41Z",
+      "durationSeconds": 18,
+      "viewCount": 49796,
+      "likeCount": 1104,
+      "commentCount": 80,
+      "channelId": "UCdmAMNVZM3bo_lTLe9OKR_Q",
+      "channelTitle": "あー",
+      "channelSubscriberCount": 1830,
+      "viewSubscriberRatio": 27.21,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "Xz5oRogQS58",
+      "url": "https://www.youtube.com/shorts/Xz5oRogQS58",
+      "title": "【悲報】エレベーターのボタンが全部「下」😂 #shorts",
+      "publishedAt": "2026-09-05T09:00:01Z",
+      "durationSeconds": 11,
+      "viewCount": 42974,
+      "likeCount": 152,
+      "commentCount": 2,
+      "channelId": "UCTEqEJzslzHQXE3MT146rjA",
+      "channelTitle": "かんたんスタート",
+      "channelSubscriberCount": 3300,
+      "viewSubscriberRatio": 13.02,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "TBvCnVtUqxY",
+      "url": "https://www.youtube.com/shorts/TBvCnVtUqxY",
+      "title": "AI動画編集 vs 障がい者雇用。いま何もしない大人たちへ送るメッセージ #shorts",
+      "publishedAt": "2026-06-27T06:49:12Z",
+      "durationSeconds": 53,
+      "viewCount": 23832,
+      "likeCount": 84,
+      "commentCount": 11,
+      "channelId": "UCoxh7UN6B_xkIO1dSOSZqLw",
+      "channelTitle": "リアルバリュー名場面",
+      "channelSubscriberCount": 29500,
+      "viewSubscriberRatio": 0.81,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    },
+    {
+      "id": "Docmel_evu4",
+      "url": "https://www.youtube.com/shorts/Docmel_evu4",
+      "title": "【AI動画失敗集】 AI動画むずすぎる！！！ #shorts #asmr",
+      "publishedAt": "2026-08-20T02:53:06Z",
+      "durationSeconds": 38,
+      "viewCount": 18406,
+      "likeCount": 281,
+      "commentCount": 7,
+      "channelId": "UCYu-xL-1C-5q-2GfbZzluHA",
+      "channelTitle": "マミー",
+      "channelSubscriberCount": 63,
+      "viewSubscriberRatio": 292.16,
+      "matchedQueries": [
+        "AI動画 #Shorts"
+      ]
+    }
+  ]
+}
