@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-wrong-use-escalator-brush-01",
+  "status": "ready",
+  "preparedBy": "Codex",
+  "compositionId": "EscalatorBrushShort",
+  "props": "../../data/episodes/ai-wrong-use-escalator-brush-01.resolved.json",
+  "output": {
+    "render": "../../out/ai-wrong-use-escalator-brush-01-render.mp4",
+    "final": "../../out/ai-wrong-use-escalator-brush-01-final.mp4",
+    "qcDir": "../../out/qc/ai-wrong-use-escalator-brush-01-handoff",
+    "qcReport": "../output/2026-09-03-escalator-brush-handoff-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {
+      "min": 29,
+      "max": 32
+    }
+  },
+  "render": {
+    "crf": 16,
+    "concurrency": 4,
+    "audioBitrate": "192k"
+  },
+  "audio": {
+    "normalize": true,
+    "targetLufs": -16,
+    "truePeakDb": -1.4,
+    "lra": 7,
+    "sampleRate": 48000
+  },
+  "checkpoints": [
+    {"time": 0.7, "label": "冒頭_今すぐ中央へ"},
+    {"time": 2.8, "label": "端へ寄りすぎ"},
+    {"time": 5.2, "label": "靴磨きじゃない"},
+    {"time": 8.0, "label": "安全用ガード"},
+    {"time": 12.5, "label": "隙間への接近防止"},
+    {"time": 17.1, "label": "離れるためのブラシ"},
+    {"time": 21.0, "label": "ステップ中央へ"},
+    {"time": 25.5, "label": "質問CTA"},
+    {"time": 28.5, "label": "オチと登録CTA"}
+  ],
+  "sources": [
+    "../../data/episodes/ai-wrong-use-escalator-brush-01.resolved.json",
+    "../drafts/ai-wrong-use-escalator-brush-01-production-brief.md",
+    "../drafts/ai-wrong-use-escalator-brush-01-prompts.md",
+    "../../src/EscalatorBrushShort.tsx",
+    "../../public/movie/Passenger_adjusting_foot_on_esca…_202609031302.mp4",
+    "../../public/movie/Escalator_safety_public-safety_r…_1080p_202609031300.mp4",
+    "../../public/BGM/Cleanline Scan.mp3",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/odai.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a1.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a2.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a3.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a4.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a5.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a6.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/a7.wav",
+    "../../public/voice/ai-wrong-use-escalator-brush-01/outro.wav"
+  ],
+  "notes": "再生成Flow素材2本を採用。上部白領域は解消済み。既存BGM Cleanline Scanを再利用し、Flow内音声はミュート。VOICEVOXで青山龍星とずんだもんの掛け合い9音声を生成。"
+}

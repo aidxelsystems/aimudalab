@@ -1,0 +1,30 @@
+{
+  "id": "space-walk-guide-mars-03",
+  "title": "火星に着陸すると人はどうなる？足元は春、頭は冬 #Shorts",
+  "odai": "まもなく火星に着陸します",
+  "odai_reading": "まもなく、火星に着陸します。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.32,
+  "odaiVoicePitch": -0.05,
+  "odaiVoiceIntonation": 1.1,
+  "answers": [
+    {"id":"a1","text":"赤道付近の昼 足元 約24℃","reading":"赤道付近の昼。足元は、約24度。","duration":2.2,"speakerId":13,"voiceSpeed":1.4,"voicePitch":-0.04,"voiceIntonation":1.07},
+    {"id":"a2","text":"意外と散歩日和","reading":"意外と散歩日和なのだ！","duration":1.8,"speakerId":3,"voiceSpeed":1.32,"voicePitch":0.05,"voiceIntonation":1.25},
+    {"id":"a3","text":"頭の高さ 約0℃","reading":"でも、頭の高さは約0度です。","duration":2.1,"speakerId":13,"voiceSpeed":1.38,"voicePitch":-0.04,"voiceIntonation":1.08},
+    {"id":"a4","text":"足元は春 頭は冬","reading":"体の中で季節が違うのだ！？","duration":2.0,"speakerId":3,"voiceSpeed":1.3,"voicePitch":0.05,"voiceIntonation":1.3},
+    {"id":"a5","text":"宇宙の歩き方 第3回・火星","reading":"宇宙の歩き方。第3回、火星。","duration":2.2,"speakerId":13,"voiceSpeed":1.34,"voicePitch":-0.04,"voiceIntonation":1.08},
+    {"id":"a6","text":"大気が非常に薄い","reading":"火星は、大気がとても薄い惑星。","duration":3.4,"speakerId":13,"voiceSpeed":1.28,"voicePitch":-0.04,"voiceIntonation":1.05},
+    {"id":"a7","text":"地表気圧 地球の1/100未満","reading":"地表の気圧は、地球の100分の1未満。","duration":3.0,"speakerId":13,"voiceSpeed":1.32,"voicePitch":-0.04,"voiceIntonation":1.07},
+    {"id":"a8","text":"主成分 二酸化炭素 CO₂","reading":"しかも、大気の主成分は二酸化炭素です。","duration":2.9,"speakerId":13,"voiceSpeed":1.34,"voicePitch":-0.04,"voiceIntonation":1.06},
+    {"id":"a9","text":"そのまま呼吸できない","reading":"宇宙服なしでは呼吸できないのだ！","duration":2.2,"speakerId":3,"voiceSpeed":1.32,"voicePitch":0.05,"voiceIntonation":1.28},
+    {"id":"a10","text":"では、散歩しますか？","reading":"では、散歩しますか？","duration":2.0,"speakerId":13,"voiceSpeed":1.3,"voicePitch":-0.04,"voiceIntonation":1.12},
+    {"id":"a11","text":"カプセルへ戻ります","reading":"カプセルへ戻るのだ。","duration":1.6,"speakerId":3,"voiceSpeed":1.34,"voicePitch":0.05,"voiceIntonation":1.2}
+  ],
+  "outro": "散歩日和 足元だけなんかい！",
+  "outro_reading": "散歩日和、足元だけなんかい！ チャンネル登録もよろしく！",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.48,
+  "outroVoicePitch": 0.04,
+  "outroVoiceIntonation": 1.24,
+  "bgm": "BGM/Lab Rocket Switch.mp3"
+}

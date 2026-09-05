@@ -1,0 +1,135 @@
+{
+  "episode": {
+    "id": "space-walk-guide-venus-02",
+    "title": "金星に着陸すると人はどうなる？約467℃・気圧93倍 #Shorts",
+    "odai": "まもなく金星に到着します",
+    "odai_reading": "まもなく、きんせいに到着します。",
+    "odaiSpeakerId": 13,
+    "odaiVoiceSpeed": 1.32,
+    "odaiVoicePitch": -0.05,
+    "odaiVoiceIntonation": 1.1,
+    "answers": [
+      {
+        "id": "a1",
+        "text": "外 約467℃",
+        "reading": "待って！ 外、約467度です！",
+        "duration": 2.62,
+        "speakerId": 3,
+        "voiceSpeed": 1.56,
+        "voicePitch": 0.05,
+        "voiceIntonation": 1.28,
+        "audioFile": "voice/space-walk-guide-venus-02/a1.wav"
+      },
+      {
+        "id": "a2",
+        "text": "宇宙の歩き方 第2回・金星",
+        "reading": "宇宙の歩き方。第2回、きんせい。",
+        "duration": 2.3,
+        "speakerId": 13,
+        "voiceSpeed": 1.34,
+        "voicePitch": -0.04,
+        "voiceIntonation": 1.08,
+        "audioFile": "voice/space-walk-guide-venus-02/a2.wav"
+      },
+      {
+        "id": "a3",
+        "text": "大きさはほぼ同じ",
+        "reading": "きんせいは、地球とほぼ同じ大きさの姉妹惑星。",
+        "duration": 3.3,
+        "speakerId": 13,
+        "voiceSpeed": 1.48,
+        "voicePitch": -0.03,
+        "voiceIntonation": 1.05,
+        "audioFile": "voice/space-walk-guide-venus-02/a3.wav"
+      },
+      {
+        "id": "a4",
+        "text": "旅行しやすそう",
+        "reading": "旅行しやすそうなのだ。",
+        "duration": 1.7,
+        "speakerId": 3,
+        "voiceSpeed": 1.3,
+        "voicePitch": 0.05,
+        "voiceIntonation": 1.2,
+        "audioFile": "voice/space-walk-guide-venus-02/a4.wav"
+      },
+      {
+        "id": "a5",
+        "text": "地表 約467℃",
+        "reading": "ですが、地表は約467度。",
+        "duration": 3.4,
+        "speakerId": 13,
+        "voiceSpeed": 1.3,
+        "voicePitch": -0.04,
+        "voiceIntonation": 1.08,
+        "audioFile": "voice/space-walk-guide-venus-02/a5.wav"
+      },
+      {
+        "id": "a6",
+        "text": "オーブンより本気",
+        "reading": "オーブンより本気なのだ！",
+        "duration": 2.1,
+        "speakerId": 3,
+        "voiceSpeed": 1.31,
+        "voicePitch": 0.05,
+        "voiceIntonation": 1.28,
+        "audioFile": "voice/space-walk-guide-venus-02/a6.wav"
+      },
+      {
+        "id": "a7",
+        "text": "気圧 約93倍",
+        "reading": "気圧は、地球の約93倍。",
+        "duration": 3.3,
+        "speakerId": 13,
+        "voiceSpeed": 1.27,
+        "voicePitch": -0.04,
+        "voiceIntonation": 1.06,
+        "audioFile": "voice/space-walk-guide-venus-02/a7.wav"
+      },
+      {
+        "id": "a8",
+        "text": "焼く＋潰す",
+        "reading": "焼くのと潰すの、同時なのだ！？",
+        "duration": 2.5,
+        "speakerId": 3,
+        "voiceSpeed": 1.28,
+        "voicePitch": 0.05,
+        "voiceIntonation": 1.3,
+        "audioFile": "voice/space-walk-guide-venus-02/a8.wav"
+      },
+      {
+        "id": "a9",
+        "text": "硫酸の雲",
+        "reading": "さらに上空には、硫酸の雲。",
+        "duration": 2.4,
+        "speakerId": 13,
+        "voiceSpeed": 1.3,
+        "voicePitch": -0.04,
+        "voiceIntonation": 1.06,
+        "audioFile": "voice/space-walk-guide-venus-02/a9.wav"
+      },
+      {
+        "id": "a10",
+        "text": "傘の問題じゃない",
+        "reading": "傘の問題じゃないのだ！",
+        "duration": 1.9,
+        "speakerId": 3,
+        "voiceSpeed": 1.3,
+        "voicePitch": 0.05,
+        "voiceIntonation": 1.28,
+        "audioFile": "voice/space-walk-guide-venus-02/a10.wav"
+      }
+    ],
+    "outro": "姉妹惑星 圧が強すぎるんかい！",
+    "outro_reading": "姉妹惑星、圧が強すぎるんかい！ チャンネル登録もよろしく！",
+    "outroSpeakerId": 3,
+    "outroVoiceSpeed": 1.48,
+    "outroVoicePitch": 0.04,
+    "outroVoiceIntonation": 1.24,
+    "bgm": "BGM/Lab Rocket Switch.mp3",
+    "odaiAudioFile": "voice/space-walk-guide-venus-02/odai.wav",
+    "odaiDuration": 2.19,
+    "outroAudioFile": "voice/space-walk-guide-venus-02/outro.wav",
+    "outroDuration": 3.78
+  }
+}

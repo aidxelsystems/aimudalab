@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "space-walk-guide-jupiter-01",
+  "status": "ready",
+  "preparedBy": "Codex",
+  "compositionId": "JupiterWalkGuideShort",
+  "props": "../../data/episodes/space-walk-guide-jupiter-01.resolved.json",
+  "output": {
+    "render": "../../out/space-walk-guide-jupiter-01-render.mp4",
+    "final": "../../out/space-walk-guide-jupiter-01-final.mp4",
+    "qcDir": "../../out/qc/space-walk-guide-jupiter-01-handoff",
+    "qcReport": "../output/2026-09-03-jupiter-walk-guide-handoff-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {"min": 30, "max": 32}
+  },
+  "render": {"crf": 16, "concurrency": 4, "audioBitrate": "192k"},
+  "audio": {"normalize": true, "targetLufs": -16, "truePeakDb": -1.4, "lra": 7, "sampleRate": 48000},
+  "checkpoints": [
+    {"time":0.8,"label":"冒頭_木星に着陸"},
+    {"time":2.9,"label":"地面がない"},
+    {"time":5.4,"label":"シリーズ名"},
+    {"time":8.9,"label":"着陸地点検索"},
+    {"time":12.5,"label":"地表なし"},
+    {"time":16.3,"label":"圧力温度上昇"},
+    {"time":20.0,"label":"圧壊溶解蒸発"},
+    {"time":24.2,"label":"どこに降りる"},
+    {"time":26.8,"label":"帰還"},
+    {"time":29.3,"label":"オチとCTA"}
+  ],
+  "sources": [
+    "../../data/episodes/space-walk-guide-jupiter-01.resolved.json",
+    "../drafts/space-walk-guide-jupiter-01-production-brief.md",
+    "../drafts/space-walk-guide-jupiter-01-prompts.md",
+    "../../src/JupiterWalkGuideShort.tsx",
+    "../../public/movie/Spacecraft_descending_toward_Jup…_1080p_202609032302.mp4",
+    "../../public/movie/Capsule_descending_into_Jupiter'…_1080p_202609032303.mp4",
+    "../../public/BGM/Lab Rocket Switch.mp3",
+    "../../public/voice/space-walk-guide-jupiter-01/odai.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a1.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a2.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a3.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a4.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a5.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a6.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a7.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/a8.wav",
+    "../../public/voice/space-walk-guide-jupiter-01/outro.wav"
+  ],
+  "notes": "Flow 2カットはいずれも格納時点で1080×1920のため再アップスケールせず採用。Flow音声はミュート。着陸検索、地表なし、圧力・温度、帰還、終端画面をRemotionで実装。"
+}

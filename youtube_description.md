@@ -1201,3 +1201,72 @@ BGM：Cleanline Scan（Suno AI生成）
 ## YouTubeタグ候補
 
 レーザー洗浄機, レーザー洗浄, レーザークリーニング, レーザーサビ取り, レーザー錆除去, サビ取り, サビ落とし, 錆除去, laser cleaning, laser rust removal, rust removal, アブレーション, レーザーの仕組み, なぜ金属は削れない, 科学実験, 科学雑学, satisfying, AI再現, YouTube Shorts, ショート動画
+
+---
+
+# 「ai-wrong-use-microwave-mesh-01-final.mp4」YouTube投稿情報
+
+## タイトル
+
+電子レンジの黒い網、なぜ中が見えるのにマイクロ波を止められる？ #Shorts
+
+## 概要欄
+
+電子レンジの扉にある黒い網は、なぜ中が見えるのにマイクロ波を止められるのでしょうか？
+黒い部分は扉に組み込まれた金属製スクリーン。小さな穴から庫内の光景は見えますが、波長がずっと長いマイクロ波に対しては金属面が反射・遮蔽の役割を果たします。
+
+この網の役割、知ってた？ コメントで教えてください。
+見せるけど、ださんのかい！
+チャンネル登録もよろしく！
+
+※AIによる再現映像・概念図を含みます。安全性はスクリーンだけでなく、扉、シール、停止装置などを含む設計全体で確保されています。扉が閉まりにくい、曲がっている、著しく傷んでいる場合は使用せず、メーカー等へ相談してください。
+
+【参考資料】
+U.S. Food and Drug Administration「Microwave Ovens」
+https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens
+
+映像：Flow AI生成／Remotion編集
+音声：VOICEVOX 青山龍星、VOICEVOX ずんだもん
+BGM：Space Eyeglasses（Suno AI生成・既存曲を再利用）
+
+#電子レンジ #科学雑学 #Shorts
+
+## YouTubeタグ候補
+
+電子レンジ, 電子レンジ 黒い網, 電子レンジ 網 役割, 電子レンジ 仕組み, マイクロ波, 金属スクリーン, 電磁波, 身近な科学, 科学雑学, 生活雑学, なぜ, AI再現, VOICEVOX, microwave oven mesh, YouTube Shorts, ショート動画
+
+---
+
+# 「space-walk-guide-jupiter-01-final.mp4」YouTube投稿情報
+
+## タイトル
+
+木星に着陸すると人はどうなる？地面がない惑星 #Shorts
+
+## 概要欄
+
+木星に着陸しようとすると、人はどうなるのでしょうか？
+実は木星には、本当の意味で着陸できる固体の地表がありません。さらに深く進むほど圧力と温度が上がり、NASAは侵入する宇宙船が押し潰され、溶け、蒸発すると説明しています。
+
+宇宙の歩き方なのに、歩く場所ないんかい！
+木星、降りてみたい？ コメントで教えてください。
+チャンネル登録もよろしく！
+
+※AIによる架空の宇宙旅行再現・概念図を含みます。実際の有人飛行記録ではありません。
+
+【参考資料】
+NASA Science「Jupiter Facts」
+https://science.nasa.gov/jupiter/jupiter-facts/
+
+NASA Science「Galileo Science」
+https://science.nasa.gov/mission/galileo/galileo-science/
+
+映像：Flow AI生成／Remotion編集
+音声：VOICEVOX 青山龍星、VOICEVOX ずんだもん
+BGM：Lab Rocket Switch（Suno AI生成・既存曲を再利用）
+
+#木星 #宇宙 #Shorts
+
+## YouTubeタグ候補
+
+木星, 木星 着陸, 木星 地面, 木星 地表, 木星に落ちる, 木星 仕組み, Jupiter, Jupiter surface, 宇宙, 宇宙旅行, 太陽系, ガス惑星, NASA, 科学雑学, 宇宙雑学, AI再現, VOICEVOX, YouTube Shorts, ショート動画

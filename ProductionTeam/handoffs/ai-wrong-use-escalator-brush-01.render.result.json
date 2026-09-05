@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-wrong-use-escalator-brush-01",
+  "compositionId": "EscalatorBrushShort",
+  "completedAt": "2026-09-03T04:18:00.691Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/ai-wrong-use-escalator-brush-01-final.mp4",
+  "technical": {
+    "durationSeconds": 30.3,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.74",
+      "input_tp": "-1.36",
+      "input_lra": "3.50",
+      "input_thresh": "-26.09",
+      "output_i": "-15.80",
+      "output_tp": "-1.40",
+      "output_lra": "3.40",
+      "output_thresh": "-25.99",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.20"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.7,
+      "label": "冒頭_今すぐ中央へ",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/01_0s70_-_-.jpg"
+    },
+    {
+      "time": 2.8,
+      "label": "端へ寄りすぎ",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/02_2s80_-.jpg"
+    },
+    {
+      "time": 5.2,
+      "label": "靴磨きじゃない",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/03_5s20_-.jpg"
+    },
+    {
+      "time": 8,
+      "label": "安全用ガード",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/04_8s00_-.jpg"
+    },
+    {
+      "time": 12.5,
+      "label": "隙間への接近防止",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/05_12s50_-.jpg"
+    },
+    {
+      "time": 17.1,
+      "label": "離れるためのブラシ",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/06_17s10_-.jpg"
+    },
+    {
+      "time": 21,
+      "label": "ステップ中央へ",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/07_21s00_-.jpg"
+    },
+    {
+      "time": 25.5,
+      "label": "質問CTA",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/08_25s50_-CTA.jpg"
+    },
+    {
+      "time": 28.5,
+      "label": "オチと登録CTA",
+      "file": "out/qc/ai-wrong-use-escalator-brush-01-handoff/09_28s50_-CTA.jpg"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "space-walk-guide-venus-02",
+  "compositionId": "VenusWalkGuideShort",
+  "completedAt": "2026-09-04T13:51:26.353Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/space-walk-guide-venus-02-final.mp4",
+  "technical": {
+    "durationSeconds": 31.8,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.97",
+      "input_tp": "-1.36",
+      "input_lra": "2.30",
+      "input_thresh": "-26.57",
+      "output_i": "-15.81",
+      "output_tp": "-1.40",
+      "output_lra": "2.70",
+      "output_thresh": "-26.38",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.19"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.8,
+      "label": "冒頭_金星へ到着",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/01_0s80_-_-.jpg"
+    },
+    {
+      "time": 3,
+      "label": "温度警告467度",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/02_3s00_-467-.jpg"
+    },
+    {
+      "time": 5.6,
+      "label": "シリーズ第2回",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/03_5s60_-2-.jpg"
+    },
+    {
+      "time": 8.8,
+      "label": "地球との大きさ比較",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/04_8s80_-.jpg"
+    },
+    {
+      "time": 12.4,
+      "label": "旅行しやすそう反転",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/05_12s40_-.jpg"
+    },
+    {
+      "time": 15,
+      "label": "最高温度",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/06_15s00_-.jpg"
+    },
+    {
+      "time": 20,
+      "label": "気圧93倍",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/07_20s00_-93-.jpg"
+    },
+    {
+      "time": 24.2,
+      "label": "熱と圧力の同時攻撃",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/08_24s20_-.jpg"
+    },
+    {
+      "time": 27,
+      "label": "硫酸の雲",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/09_27s00_-.jpg"
+    },
+    {
+      "time": 29.7,
+      "label": "姉妹惑星オチとCTA",
+      "file": "out/qc/space-walk-guide-venus-02-handoff/10_29s70_-CTA.jpg"
+    }
+  ]
+}

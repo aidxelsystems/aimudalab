@@ -1,7 +1,7 @@
 # AIMudaLab Project Status
 
-最終更新: 2026-08-31 JST
-更新担当: Codex / PC2
+最終更新: 2026-09-06 JST
+更新担当: Codex
 
 ## 同期状態
 
@@ -20,12 +20,12 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 | 項目 | 内容 |
 |---|---|
-| active episode | `ai-viral-nitinol-01` |
-| owner | `PC2 / Codex` |
+| active episode | なし（直近完了: `space-walk-guide-venus-02`） |
+| owner | なし |
 | production status | `scheduled` |
 | active render | なし（最終レンダー完了） |
-| uncommitted production work | ニチノール完成QC・制作台帳の更新 |
-| next production action | 2026-09-04 19:00 JST公開後、24時間・72時間でOperationTeam分析 |
+| uncommitted production work | 9月3日〜5日に完了した4作品のコード・資料・投稿記録、および火星回の企画ドラフトを整理中 |
+| next production action | 完了済み作業を同期後、`space-walk-guide-mars-03`を正式に確保して制作開始 |
 
 ## 現在の制作環境（PC2）
 
@@ -43,6 +43,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `ai-viral-laser-cleaning-01` | YouTube予約済み | 2026-09-02 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `ai-viral-oobleck-01` | YouTube予約済み | 2026-09-03 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `ai-viral-nitinol-01` | YouTube予約済み | 2026-09-04 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `ai-wrong-use-escalator-brush-01` | YouTube予約済み | 2026-09-05 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `ai-wrong-use-microwave-mesh-01` | YouTube予約済み | 2026-09-06 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -58,6 +62,11 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - ニチノール機械QC: 合格（1080×1920 / 30fps / -15.85 LUFS / True Peak -1.26 dBTP）
 - ニチノール代表9フレーム: 目視合格。血管を広げる用途説明と登録CTAを反映済み。
 - ニチノールYouTube: `https://youtu.be/kfpdexDp9Sk`（2026-09-04 19:00 JST予約）
+
+- エスカレーターブラシ完成動画: `out/ai-wrong-use-escalator-brush-01-final.mp4`（30.3秒、ローカル、Git対象外）
+- エスカレーターブラシ機械QC: 合格（1080×1920 / 30fps / -15.74 LUFS / True Peak -1.36 dBTP）
+- エスカレーターブラシ代表9フレーム: 目視合格。既存BGM `Cleanline Scan.mp3` を再利用。
+- エスカレーターブラシYouTube: `https://youtu.be/vVYjBrEnZTM`（2026-09-05 19:00 JST予約）
 
 ## 共有ストレージ
 

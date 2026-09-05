@@ -28,6 +28,10 @@ import aerogelData from "../data/episodes/ai-viral-aerogel-01.resolved.json";
 import laserCleaningData from "../data/episodes/ai-viral-laser-cleaning-01.resolved.json";
 import oobleckData from "../data/episodes/ai-viral-oobleck-01.resolved.json";
 import nitinolData from "../data/episodes/ai-viral-nitinol-01.resolved.json";
+import escalatorBrushData from "../data/episodes/ai-wrong-use-escalator-brush-01.resolved.json";
+import microwaveMeshData from "../data/episodes/ai-wrong-use-microwave-mesh-01.resolved.json";
+import jupiterWalkData from "../data/episodes/space-walk-guide-jupiter-01.resolved.json";
+import venusWalkData from "../data/episodes/space-walk-guide-venus-02.resolved.json";
 import {
   AiLieQuizShort,
   getAiLieQuizTimeline,
@@ -190,6 +194,34 @@ import {
   NitinolShort,
   getNitinolTimeline,
 } from "./NitinolShort";
+import {
+  ESCALATOR_BRUSH_FPS,
+  ESCALATOR_BRUSH_HEIGHT,
+  ESCALATOR_BRUSH_WIDTH,
+  EscalatorBrushShort,
+  getEscalatorBrushTimeline,
+} from "./EscalatorBrushShort";
+import {
+  MICROWAVE_MESH_FPS,
+  MICROWAVE_MESH_HEIGHT,
+  MICROWAVE_MESH_WIDTH,
+  MicrowaveMeshShort,
+  getMicrowaveMeshTimeline,
+} from "./MicrowaveMeshShort";
+import {
+  JUPITER_WALK_FPS,
+  JUPITER_WALK_HEIGHT,
+  JUPITER_WALK_WIDTH,
+  JupiterWalkGuideShort,
+  getJupiterWalkTimeline,
+} from "./JupiterWalkGuideShort";
+import {
+  VENUS_WALK_FPS,
+  VENUS_WALK_HEIGHT,
+  VENUS_WALK_WIDTH,
+  VenusWalkGuideShort,
+  getVenusWalkTimeline,
+} from "./VenusWalkGuideShort";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
@@ -261,6 +293,18 @@ const oobleckEpisode = (
 ).episode;
 const nitinolEpisode = (
   nitinolData as unknown as {episode: Episode}
+).episode;
+const escalatorBrushEpisode = (
+  escalatorBrushData as unknown as {episode: Episode}
+).episode;
+const microwaveMeshEpisode = (
+  microwaveMeshData as unknown as {episode: Episode}
+).episode;
+const jupiterWalkEpisode = (
+  jupiterWalkData as unknown as {episode: Episode}
+).episode;
+const venusWalkEpisode = (
+  venusWalkData as unknown as {episode: Episode}
 ).episode;
 
 const resolvedAnswers = new Map(
@@ -735,6 +779,78 @@ export const RemotionRoot: React.FC = () => {
             fps: NITINOL_FPS,
             width: NITINOL_WIDTH,
             height: NITINOL_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="EscalatorBrushShort"
+        component={EscalatorBrushShort}
+        width={ESCALATOR_BRUSH_WIDTH}
+        height={ESCALATOR_BRUSH_HEIGHT}
+        fps={ESCALATOR_BRUSH_FPS}
+        durationInFrames={getEscalatorBrushTimeline(escalatorBrushEpisode).totalFrames}
+        defaultProps={{episode: escalatorBrushEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getEscalatorBrushTimeline(ep).totalFrames,
+            fps: ESCALATOR_BRUSH_FPS,
+            width: ESCALATOR_BRUSH_WIDTH,
+            height: ESCALATOR_BRUSH_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="MicrowaveMeshShort"
+        component={MicrowaveMeshShort}
+        width={MICROWAVE_MESH_WIDTH}
+        height={MICROWAVE_MESH_HEIGHT}
+        fps={MICROWAVE_MESH_FPS}
+        durationInFrames={getMicrowaveMeshTimeline(microwaveMeshEpisode).totalFrames}
+        defaultProps={{episode: microwaveMeshEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getMicrowaveMeshTimeline(ep).totalFrames,
+            fps: MICROWAVE_MESH_FPS,
+            width: MICROWAVE_MESH_WIDTH,
+            height: MICROWAVE_MESH_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="JupiterWalkGuideShort"
+        component={JupiterWalkGuideShort}
+        width={JUPITER_WALK_WIDTH}
+        height={JUPITER_WALK_HEIGHT}
+        fps={JUPITER_WALK_FPS}
+        durationInFrames={getJupiterWalkTimeline(jupiterWalkEpisode).totalFrames}
+        defaultProps={{episode: jupiterWalkEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getJupiterWalkTimeline(ep).totalFrames,
+            fps: JUPITER_WALK_FPS,
+            width: JUPITER_WALK_WIDTH,
+            height: JUPITER_WALK_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="VenusWalkGuideShort"
+        component={VenusWalkGuideShort}
+        width={VENUS_WALK_WIDTH}
+        height={VENUS_WALK_HEIGHT}
+        fps={VENUS_WALK_FPS}
+        durationInFrames={getVenusWalkTimeline(venusWalkEpisode).totalFrames}
+        defaultProps={{episode: venusWalkEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getVenusWalkTimeline(ep).totalFrames,
+            fps: VENUS_WALK_FPS,
+            width: VENUS_WALK_WIDTH,
+            height: VENUS_WALK_HEIGHT,
           };
         }}
       />

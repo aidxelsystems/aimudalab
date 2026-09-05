@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "ai-wrong-use-microwave-mesh-01",
+  "compositionId": "MicrowaveMeshShort",
+  "completedAt": "2026-09-03T13:31:59.440Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/ai-wrong-use-microwave-mesh-01-final.mp4",
+  "technical": {
+    "durationSeconds": 29.7,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.95",
+      "input_tp": "-1.36",
+      "input_lra": "3.60",
+      "input_thresh": "-26.47",
+      "output_i": "-15.80",
+      "output_tp": "-1.40",
+      "output_lra": "3.30",
+      "output_thresh": "-26.31",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.20"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.7,
+      "label": "冒頭_消したらダメ",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/01_0s70_-_-.jpg"
+    },
+    {
+      "time": 2.8,
+      "label": "模様じゃない",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/02_2s80_-.jpg"
+    },
+    {
+      "time": 5.4,
+      "label": "金属製スクリーン",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/03_5s40_-.jpg"
+    },
+    {
+      "time": 8.7,
+      "label": "光は通る",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/04_8s70_-.jpg"
+    },
+    {
+      "time": 12.8,
+      "label": "マイクロ波は反射",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/05_12s80_-.jpg"
+    },
+    {
+      "time": 17,
+      "label": "見える波は戻す",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/06_17s00_-.jpg"
+    },
+    {
+      "time": 21.5,
+      "label": "扉破損時の注意",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/07_21s50_-.jpg"
+    },
+    {
+      "time": 25.2,
+      "label": "質問CTA",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/08_25s20_-CTA.jpg"
+    },
+    {
+      "time": 28.4,
+      "label": "オチと登録CTA",
+      "file": "out/qc/ai-wrong-use-microwave-mesh-01-handoff/09_28s40_-CTA.jpg"
+    }
+  ]
+}

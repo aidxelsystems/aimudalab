@@ -11,6 +11,10 @@
 | ai-viral-laser-cleaning-01 | PC1 | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | `public/movie/`, `public/BGM/`, `public/voice/` | `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル） | 2026-09-02 19:00 JST |
 | ai-viral-oobleck-01 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | episode専用 `public/movie/`, `public/image/`, `public/BGM/`, `public/voice/` | `out/ai-viral-oobleck-01-final.mp4`（ローカル） | 2026-09-03 19:00 JST |
 | ai-viral-nitinol-01 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 2カット・BGM・VOICEVOX 8音声 QC済み | `out/ai-viral-nitinol-01-final.mp4`（ローカル） | 2026-09-04 19:00 JST |
+| ai-wrong-use-escalator-brush-01 | Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 2カット・既存BGM `Cleanline Scan.mp3`・VOICEVOX 9音声 | `out/ai-wrong-use-escalator-brush-01-final.mp4`（ローカル） | 2026-09-05 19:00 JST |
+| ai-wrong-use-microwave-mesh-01 | Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 4カットから安全区間を採用・既存BGM `Space Eyeglasses.mp3`・VOICEVOX 9音声 | `out/ai-wrong-use-microwave-mesh-01-final.mp4`（ローカル） | 2026-09-06 19:00 JST |
+| space-walk-guide-jupiter-01 | Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析。第2回は掛け合い比率を増やす | Flow 2カット・既存BGM `Lab Rocket Switch.mp3`・VOICEVOX 10音声 | `out/space-walk-guide-jupiter-01-final.mp4`（ローカル） | 2026-09-07 19:00 JST |
+| space-walk-guide-venus-02 | Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 2カット・既存BGM `Lab Rocket Switch.mp3`・VOICEVOX 12音声 | `out/space-walk-guide-venus-02-final.mp4`（ローカル） | 2026-09-08 19:00 JST |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status

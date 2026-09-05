@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "space-walk-guide-jupiter-01",
+  "compositionId": "JupiterWalkGuideShort",
+  "completedAt": "2026-09-03T14:16:05.248Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/space-walk-guide-jupiter-01-final.mp4",
+  "technical": {
+    "durationSeconds": 30.7,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.87",
+      "input_tp": "-1.31",
+      "input_lra": "3.60",
+      "input_thresh": "-26.26",
+      "output_i": "-16.08",
+      "output_tp": "-1.40",
+      "output_lra": "2.90",
+      "output_thresh": "-26.46",
+      "normalization_type": "dynamic",
+      "target_offset": "0.08"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.8,
+      "label": "冒頭_木星に着陸",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/01_0s80_-_-.jpg"
+    },
+    {
+      "time": 2.9,
+      "label": "地面がない",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/02_2s90_-.jpg"
+    },
+    {
+      "time": 5.4,
+      "label": "シリーズ名",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/03_5s40_-.jpg"
+    },
+    {
+      "time": 8.9,
+      "label": "着陸地点検索",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/04_8s90_-.jpg"
+    },
+    {
+      "time": 12.5,
+      "label": "地表なし",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/05_12s50_-.jpg"
+    },
+    {
+      "time": 16.3,
+      "label": "圧力温度上昇",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/06_16s30_-.jpg"
+    },
+    {
+      "time": 20,
+      "label": "圧壊溶解蒸発",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/07_20s00_-.jpg"
+    },
+    {
+      "time": 24.2,
+      "label": "どこに降りる",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/08_24s20_-.jpg"
+    },
+    {
+      "time": 26.8,
+      "label": "帰還",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/09_26s80_-.jpg"
+    },
+    {
+      "time": 29.3,
+      "label": "オチとCTA",
+      "file": "out/qc/space-walk-guide-jupiter-01-handoff/10_29s30_-CTA.jpg"
+    }
+  ]
+}
