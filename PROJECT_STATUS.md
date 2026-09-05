@@ -22,10 +22,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-format-prototype-01` |
 | owner | `PC1 / Codex` |
-| production status | `editing` |
+| production status | `qc-passed` |
 | active render | なし |
-| uncommitted production work | 承認済み画風サンプルはローカル素材。モーションコミック字幕仕様を作成済み |
-| next production action | 青山龍星のナレーションを使い、約3秒の冒頭モーション試作を制作・QCする |
+| uncommitted production work | 約3秒の冒頭試作をレンダー・QC済み。完成MP4と画像・音声素材はローカル |
+| next production action | ユーザーが字幕位置・青山龍星の速度を確認し、合格後に5コマ本編を設計する |
 
 ### モーションコミック音声方針
 

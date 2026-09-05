@@ -1,0 +1,15 @@
+{
+  "id": "motion-comic-format-prototype-01",
+  "odai": "エッフェル塔が\n売られた",
+  "odai_reading": "この男、エッフェル塔を売りました。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.18,
+  "odaiVoicePitch": -0.02,
+  "odaiVoiceIntonation": 1.08,
+  "answers": [],
+  "_notes": {
+    "purpose": "約3秒の冒頭モーション、上部フック、下部字幕、青山龍星ナレーションの非公開試作",
+    "source": "https://www.smithsonianmag.com/history/man-who-sold-eiffel-tower-twice-180958370/",
+    "voice_policy": "青山龍星はナレーション、ずんだもんは本編最終ツッコミのみ"
+  }
+}

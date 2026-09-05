@@ -182,6 +182,13 @@ import {
   OobleckShort,
   getOobleckTimeline,
 } from "./OobleckShort";
+import {
+  MOTION_COMIC_HOOK_DURATION,
+  MOTION_COMIC_HOOK_FPS,
+  MOTION_COMIC_HOOK_HEIGHT,
+  MOTION_COMIC_HOOK_WIDTH,
+  MotionComicHookPrototype,
+} from "./MotionComicHookPrototype";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
@@ -708,6 +715,14 @@ export const RemotionRoot: React.FC = () => {
             height: OOBLECK_HEIGHT,
           };
         }}
+      />
+      <Composition
+        id="MotionComicHookPrototype"
+        component={MotionComicHookPrototype}
+        width={MOTION_COMIC_HOOK_WIDTH}
+        height={MOTION_COMIC_HOOK_HEIGHT}
+        fps={MOTION_COMIC_HOOK_FPS}
+        durationInFrames={MOTION_COMIC_HOOK_DURATION}
       />
     </>
   );
