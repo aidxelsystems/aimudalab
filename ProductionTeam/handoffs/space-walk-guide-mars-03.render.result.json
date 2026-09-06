@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "episodeId": "space-walk-guide-mars-03",
   "compositionId": "MarsWalkGuideShort",
-  "completedAt": "2026-09-06T01:04:03.331Z",
-  "status": "machine_qc_passed_human_review_required",
+  "completedAt": "2026-09-06T04:20:20.972Z",
+  "status": "qc_passed",
   "finalOutput": "out/space-walk-guide-mars-03-final.mp4",
   "technical": {
     "durationSeconds": 29.8,
@@ -14,16 +14,16 @@
     "audioCodec": "aac",
     "audioSampleRate": 48000,
     "loudness": {
-      "input_i": "-15.86",
-      "input_tp": "-1.39",
-      "input_lra": "2.90",
-      "input_thresh": "-25.99",
-      "output_i": "-15.75",
+      "input_i": "-15.88",
+      "input_tp": "-1.31",
+      "input_lra": "3.00",
+      "input_thresh": "-26.00",
+      "output_i": "-15.70",
       "output_tp": "-1.40",
-      "output_lra": "2.90",
-      "output_thresh": "-25.85",
+      "output_lra": "2.80",
+      "output_thresh": "-25.80",
       "normalization_type": "dynamic",
-      "target_offset": "-0.25"
+      "target_offset": "-0.30"
     }
   },
   "checkpoints": [
