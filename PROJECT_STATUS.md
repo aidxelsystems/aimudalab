@@ -18,6 +18,16 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 ## 現在の作業
 
+### 全Team連携タスク
+
+| 項目 | 内容 |
+|---|---|
+| task | `2026-09-06-channel-strategy-handoff` |
+| owner | `PC1 / Codex` |
+| status | `council-in-progress` |
+| purpose | 漫画型への転換に関する現状数値、ペルソナ、競合、フィード仮説、エッフェル塔第1作、検証基準を別PC向けに統合する |
+| next action | 全Teamの独立評価を集め、議事録・LATEST・INDEX・引継ぎ状態をGitHubへ登録する |
+
 | 項目 | 内容 |
 |---|---|
 | active episode | `motion-comic-panel-prototype-01` |
