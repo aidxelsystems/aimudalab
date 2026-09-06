@@ -13,6 +13,7 @@
 | ai-viral-nitinol-01 | PC2 / Codex | main | prompt-ready | Flow 2カットとBGMを生成し、VOICEVOX実測尺を取得 | 未生成 | 未レンダー | 未定 |
 | motion-comic-format-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーが字幕位置・青山龍星の速度を確認 | 画像・青山龍星音声（ローカル） | `out/motion-comic-format-prototype-01-final.mp4`（3.648秒、ローカル） | 非公開試作 |
 | motion-comic-panel-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認 | 既存エッフェル塔画像・VOICEVOX音声（ローカル） | `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル） | 非公開試作 |
+| motion-comic-eiffel-scam-01 | 未割当 | - | researched | ユーザー承認後、作業PCがownerを確保し、5枚の独立画像と15〜18秒本編を制作 | 未生成。`PlanningTeam/handoffs/2026-09-06-eiffel-scam-motion-comic.md`参照 | 未レンダー | 未定 |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status
