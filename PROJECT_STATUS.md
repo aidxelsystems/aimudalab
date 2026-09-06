@@ -1,7 +1,7 @@
 # AIMudaLab Project Status
 
 最終更新: 2026-09-06 JST
-更新担当: Codex
+更新担当: Codex / PC1・PC2
 
 ## 同期状態
 
@@ -9,8 +9,8 @@
 |---|---|
 | ローカルブランチ | `main` |
 | GitHub remote | `https://github.com/aidxelsystems/aimudalab.git` |
-| GitHub同期 | `local ahead` |
-| 理由 | ニチノールRemotion実装はローカルcommit済み。外部pushは未実行 |
+| GitHub同期 | `merge in progress` |
+| 理由 | PC1の新しい戦略・漫画試作10コミットを取得し、PC2の完成済み作品6コミットと通常mergeで統合中。強制更新は未使用 |
 | Git追跡 | 資料・JSON・Remotionコード・設定のみ、391ファイル、約2.11MB |
 | Google Drive対象 | 動画・画像・BGM・効果音・音声、330素材、約264.81MB |
 
@@ -18,14 +18,55 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 ## 現在の作業
 
+### 2台PCの役割再設計
+
 | 項目 | 内容 |
 |---|---|
-| active episode | なし（直近完了: `space-walk-guide-venus-02`） |
-| owner | なし |
-| production status | `scheduled` |
-| active render | なし（最終レンダー完了） |
-| uncommitted production work | 9月3日〜5日に完了した4作品のコード・資料・投稿記録、および火星回の企画ドラフトを整理中 |
-| next production action | 完了済み作業を同期後、`space-walk-guide-mars-03`を正式に確保して制作開始 |
+| task | `2026-09-06-two-pc-team-role-design` |
+| owner | `PC1 / Codex` |
+| status | `completed` |
+| purpose | PC1を企画・分析中心、PC2を高負荷制作中心に分け、GitHub経由の受け渡しを標準化する |
+| next action | PC1は次の企画・出典・制作ブリーフを作成し、PC2はユーザー承認後に`motion-comic-eiffel-scam-01`をclaimして制作する |
+
+標準分担は`MULTI_PC_TEAM_OPERATIONS.md`を正とする。PC1はOperationTeam・PlanningTeam・BusinessTeamとProductionTeamの制作設計、PC2は素材処理・VOICEVOX・Remotion・レンダリング・QCを担当する。
+
+### 全Team連携タスク
+
+| 項目 | 内容 |
+|---|---|
+| task | `2026-09-06-channel-strategy-handoff` |
+| owner | `PC1 / Codex` |
+| status | `council-completed` |
+| purpose | 漫画型への転換に関する現状数値、ペルソナ、競合、フィード仮説、エッフェル塔第1作、検証基準を別PC向けに統合する |
+| next action | PC2で`npm run sync:start`を実行し、全Team議事録とエッフェル塔制作引継ぎを読む。ユーザー承認後に本編episodeのownerを確保する |
+
+| 項目 | 内容 |
+|---|---|
+| active episode | `motion-comic-panel-prototype-01` |
+| owner | `PC1 / Codex` |
+| production status | `qc-passed` |
+| active render | なし |
+| uncommitted production work | なし。3コマ切替・ズーム移動・青山龍星＋四国めたん字幕の7.28秒試作を完成し、機械QCと代表フレーム確認済み |
+| next production action | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認する |
+
+### モーションコミック音声方針
+
+- 青山龍星: 基本ナレーション。
+- ずんだもん: 最後のツッコミのみ。
+- その他のVOICEVOX話者: 登場人物の会話、感情差、年代・役割の表現に利用する。
+- 1話内で話者を増やしすぎず、基本はナレーター＋登場人物1名＋最後のずんだもんまでとする。
+
+### PC2 火星回制作
+
+| 項目 | 内容 |
+|---|---|
+| active episode | `space-walk-guide-mars-03` |
+| owner | 未割当（merge・同期後に`PC2 / Codex`が確保） |
+| production status | `assets-ready` |
+| active render | なし |
+| available assets | Flow 8秒×2本、制作ブリーフ、生成プロンプト、episode JSON |
+| next production action | mergeをpushして開始同期後、ownerを確保しVOICEVOX音声を生成する |
+| user direction | 本作をFlow方式の最後の作品として完成させ、その後は新しい漫画検証方針へ移行する |
 
 ## 現在の制作環境（PC2）
 
@@ -67,6 +108,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - エスカレーターブラシ機械QC: 合格（1080×1920 / 30fps / -15.74 LUFS / True Peak -1.36 dBTP）
 - エスカレーターブラシ代表9フレーム: 目視合格。既存BGM `Cleanline Scan.mp3` を再利用。
 - エスカレーターブラシYouTube: `https://youtu.be/vVYjBrEnZTM`（2026-09-05 19:00 JST予約）
+
+- モーションコミック3コマ試作: `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル、非公開）
+- 試作QC: 合格（1080×1920 / 30fps / -15.3 LUFS / True Peak -1.5 dBTP）
+- 試作内容: コマ枠付き右・下スライド、各コマ内ズーム・パン、青山龍星＋四国めたんの話者別字幕
 
 ## 共有ストレージ
 

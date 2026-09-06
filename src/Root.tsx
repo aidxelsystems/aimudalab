@@ -222,6 +222,20 @@ import {
   VenusWalkGuideShort,
   getVenusWalkTimeline,
 } from "./VenusWalkGuideShort";
+import {
+  MOTION_COMIC_HOOK_DURATION,
+  MOTION_COMIC_HOOK_FPS,
+  MOTION_COMIC_HOOK_HEIGHT,
+  MOTION_COMIC_HOOK_WIDTH,
+  MotionComicHookPrototype,
+} from "./MotionComicHookPrototype";
+import {
+  MOTION_COMIC_PANEL_DURATION,
+  MOTION_COMIC_PANEL_FPS,
+  MOTION_COMIC_PANEL_HEIGHT,
+  MOTION_COMIC_PANEL_WIDTH,
+  MotionComicPanelPrototype,
+} from "./MotionComicPanelPrototype";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
@@ -853,6 +867,22 @@ export const RemotionRoot: React.FC = () => {
             height: VENUS_WALK_HEIGHT,
           };
         }}
+      />
+      <Composition
+        id="MotionComicHookPrototype"
+        component={MotionComicHookPrototype}
+        width={MOTION_COMIC_HOOK_WIDTH}
+        height={MOTION_COMIC_HOOK_HEIGHT}
+        fps={MOTION_COMIC_HOOK_FPS}
+        durationInFrames={MOTION_COMIC_HOOK_DURATION}
+      />
+      <Composition
+        id="MotionComicPanelPrototype"
+        component={MotionComicPanelPrototype}
+        width={MOTION_COMIC_PANEL_WIDTH}
+        height={MOTION_COMIC_PANEL_HEIGHT}
+        fps={MOTION_COMIC_PANEL_FPS}
+        durationInFrames={MOTION_COMIC_PANEL_DURATION}
       />
     </>
   );
