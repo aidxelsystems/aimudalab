@@ -18,6 +18,16 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 ## 現在の作業
 
+### 2台PCの役割再設計
+
+| 項目 | 内容 |
+|---|---|
+| task | `2026-09-06-two-pc-team-role-design` |
+| owner | `PC1 / Codex` |
+| status | `documentation-in-progress` |
+| purpose | PC1を企画・分析中心、PC2を高負荷制作中心に分け、GitHub経由の受け渡しを標準化する |
+| next action | 役割分担、引継ぎ条件、例外ルールを文書化し、Project StatusとProduction Boardへ反映する |
+
 ### 全Team連携タスク
 
 | 項目 | 内容 |
