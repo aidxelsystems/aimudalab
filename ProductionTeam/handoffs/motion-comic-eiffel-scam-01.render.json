@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "motion-comic-eiffel-scam-01",
+  "status": "ready",
+  "preparedBy": "PC2 / Codex",
+  "compositionId": "MotionComicEiffelScamShort",
+  "props": "../../data/episodes/motion-comic-eiffel-scam-01.resolved.json",
+  "output": {
+    "render": "../../out/motion-comic-eiffel-scam-01-render.mp4",
+    "final": "../../out/motion-comic-eiffel-scam-01-final.mp4",
+    "qcDir": "../../out/qc/motion-comic-eiffel-scam-01-handoff",
+    "qcReport": "../output/2026-09-06-motion-comic-eiffel-scam-01-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {
+      "min": 15,
+      "max": 18
+    }
+  },
+  "render": {
+    "crf": 16,
+    "concurrency": 4,
+    "audioBitrate": "192k"
+  },
+  "audio": {
+    "normalize": true,
+    "targetLufs": -16,
+    "truePeakDb": -1.4,
+    "lra": 7,
+    "sampleRate": 48000
+  },
+  "checkpoints": [
+    {"time": 0.7, "label": "コマ1_売りますフック"},
+    {"time": 3.5, "label": "コマ2_秘密会合"},
+    {"time": 6.8, "label": "コマ3_再現台詞と署名"},
+    {"time": 8.4, "label": "コマ4_国外逃走"},
+    {"time": 10.4, "label": "コマ4_詐欺発覚"},
+    {"time": 11.8, "label": "コマ5_別の買い手"},
+    {"time": 14.2, "label": "二周目オチとCTA"}
+  ],
+  "sources": [
+    "../../data/episodes/motion-comic-eiffel-scam-01.resolved.json",
+    "../drafts/motion-comic-eiffel-scam-01-production-brief.md",
+    "../drafts/motion-comic-eiffel-scam-01-prompts.md",
+    "../../src/MotionComicEiffelScamShort.tsx",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-01-sale-hook.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-02-secret-meeting.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-03-contract-payment.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-04-scam-discovered.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-05-second-buyer.png",
+    "../../public/BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "../../public/voice/motion-comic-eiffel-scam-01/odai.wav",
+    "../../public/voice/motion-comic-eiffel-scam-01/a1.wav",
+    "../../public/voice/motion-comic-eiffel-scam-01/a2.wav",
+    "../../public/voice/motion-comic-eiffel-scam-01/a3.wav",
+    "../../public/voice/motion-comic-eiffel-scam-01/a4.wav",
+    "../../public/voice/motion-comic-eiffel-scam-01/outro.wav"
+  ],
+  "notes": "人物アンカーから5枚を独立生成。史実上の売却詐欺として表現し、所有権移転とは扱わない。VOICEVOXは青山龍星、玄野武宏、ずんだもん。公開投稿は別承認。"
+}

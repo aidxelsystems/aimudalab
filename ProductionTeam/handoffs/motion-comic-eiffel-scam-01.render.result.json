@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "motion-comic-eiffel-scam-01",
+  "compositionId": "MotionComicEiffelScamShort",
+  "completedAt": "2026-09-06T14:45:33.397Z",
+  "status": "qc_passed",
+  "finalOutput": "out/motion-comic-eiffel-scam-01-final.mp4",
+  "technical": {
+    "durationSeconds": 15.8,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-16.20",
+      "input_tp": "-1.39",
+      "input_lra": "2.60",
+      "input_thresh": "-26.71",
+      "output_i": "-16.16",
+      "output_tp": "-1.40",
+      "output_lra": "1.50",
+      "output_thresh": "-26.61",
+      "normalization_type": "dynamic",
+      "target_offset": "0.16"
+    }
+  },
+  "review": {
+    "visual": "代表7フレームと全編1秒間隔16フレームを確認。4コマ目の顔かぶりを修正後に再レンダー済み。",
+    "audio": "VOICEVOX実尺と配置を確認。-45dB・0.35秒条件の無音区間なし。主観的な音声バランスは公開前のユーザー試聴でも確認する。",
+    "publishing": "未投稿。別途ユーザー承認後にYouTube Studioから手動投稿する。"
+  },
+  "checkpoints": [
+    {
+      "time": 0.7,
+      "label": "コマ1_売りますフック",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/01_0s70_-1_-.jpg"
+    },
+    {
+      "time": 3.5,
+      "label": "コマ2_秘密会合",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/02_3s50_-2_-.jpg"
+    },
+    {
+      "time": 6.8,
+      "label": "コマ3_再現台詞と署名",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/03_6s80_-3_-.jpg"
+    },
+    {
+      "time": 8.4,
+      "label": "コマ4_国外逃走",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/04_8s40_-4_-.jpg"
+    },
+    {
+      "time": 10.4,
+      "label": "コマ4_詐欺発覚",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/05_10s40_-4_-.jpg"
+    },
+    {
+      "time": 11.8,
+      "label": "コマ5_別の買い手",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/06_11s80_-5_-.jpg"
+    },
+    {
+      "time": 14.2,
+      "label": "二周目オチとCTA",
+      "file": "out/qc/motion-comic-eiffel-scam-01-handoff/07_14s20_-CTA.jpg"
+    }
+  ]
+}

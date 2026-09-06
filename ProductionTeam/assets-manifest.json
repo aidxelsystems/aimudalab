@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "storage": "google-drive",
-  "assetCount": 339,
-  "totalBytes": 284823196,
+  "assetCount": 414,
+  "totalBytes": 315515364,
   "assets": [
     {
       "path": "charactor/ai-no-mudazukai-youtube-banner-2560x1440.png",
@@ -185,6 +185,11 @@
       "sha256": "be0a048d5d1b297e889ff590c1ff5200f7d879f70e3efed30690ee5321326b23"
     },
     {
+      "path": "ProductionTeam/output/motion-comic-eiffel-scam-01/panel-contact-sheet.png",
+      "bytes": 1355513,
+      "sha256": "24313b4a67f9c89c7224477e9b2a4883f9572c641bebb10758d5914bb832a1e2"
+    },
+    {
       "path": "public/BGM/Cleanline Scan.mp3",
       "bytes": 6708722,
       "sha256": "6e73b67cc027fe95005fc890f51ec5c81efe3dcc268819288be27ed539c27a17"
@@ -223,6 +228,11 @@
       "path": "public/BGM/Lab Rocket Switch.mp3",
       "bytes": 4480085,
       "sha256": "4bcc19c5efcd0da336788cfb6053f648a2b8cf7c3393f5fd3baecd67d18ff0e2"
+    },
+    {
+      "path": "public/BGM/Metal Memory Switch.mp3",
+      "bytes": 2519988,
+      "sha256": "954be8c58ac19839a56a5f9f99858960540c03cc9557eb9266fa56575a61156d"
     },
     {
       "path": "public/BGM/Oogiri Parade.mp3",
@@ -515,6 +525,36 @@
       "sha256": "fb690acd639f83da23ee7c9408584efd972a7171ebb7cdde2217d934733575a2"
     },
     {
+      "path": "public/image/motion-comic-eiffel-scam-01/character-anchor.png",
+      "bytes": 2228645,
+      "sha256": "9792c6227541904ea1d6b008b9d94d64516d6dfc2a1147c48f85750ec1c1a179"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-01-sale-hook.png",
+      "bytes": 2240167,
+      "sha256": "dce22c0ef5b513b41599297e869073601d24b1971f5357538854887204bbb895"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-02-secret-meeting.png",
+      "bytes": 1947814,
+      "sha256": "07eed3e2ea51a8d10fd314444b0f932ffd7aee24fc012861d212dc2508bd54d5"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-03-contract-payment.png",
+      "bytes": 2086872,
+      "sha256": "0e20d55368d4733d28887f288bed9755d1525d79747785259f605d4865c5c1cb"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-04-scam-discovered.png",
+      "bytes": 2485283,
+      "sha256": "8d921b71e4c61145ceec0837b7003bdd696bd0bfc4502d53a330ef08ffd49cd9"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-05-second-buyer.png",
+      "bytes": 2419946,
+      "sha256": "f0e6480033b7f1d3cdd728107412eb06a2ff92ea985479a23a90ded62c7e5fc3"
+    },
+    {
       "path": "public/image/prince-rupert-micrographia-1665.png",
       "bytes": 137698,
       "sha256": "b61eeb10e22f1509aa751149c2fc3cd03f0d07dccc70c18e0e6040f6a8c41354"
@@ -615,14 +655,14 @@
       "sha256": "09f0088118133ee9de28c376e22145015b2a2e4c428a51b1de60887e38265a76"
     },
     {
-      "path": "public/movie/Gloved_fist_striking_purple_oobleck_202608290804.mp4",
-      "bytes": 3293057,
-      "sha256": "c6946c84fa4f95fe6304fb5598a35d648b8d653e11bbd79d034eed649b30e9bc"
+      "path": "public/movie/Capsule_landing_on_Mars_surface_202609060045.mp4",
+      "bytes": 6743167,
+      "sha256": "cdfc8cdf22e270015420468fcb271bc9269413ccaa61514d69c57c4fae4e2b90"
     },
     {
-      "path": "public/movie/Hand_pressing_into_purple_oobleck_202608290803.mp4",
-      "bytes": 3565872,
-      "sha256": "1e44323e2ce9f2e78eb051c10f8cb617ee2adb45d6002d08dc174964dfa6cbbb"
+      "path": "public/movie/Traveler_exploring_Mars_rocky_plain_202609060047.mp4",
+      "bytes": 5673842,
+      "sha256": "24bb855a33b173886d8a3afa5d870340ca933c5baf5a54d51b378c4852556617"
     },
     {
       "path": "public/quiz/ai-lie-animals-01/a.png",
@@ -1180,6 +1220,46 @@
       "sha256": "b3724e101ae3b50fb765706fe14b1417dc35decdaa14af329c5f90f29339a910"
     },
     {
+      "path": "public/voice/ai-viral-nitinol-01/a1.wav",
+      "bytes": 108588,
+      "sha256": "599b97d20d7a5dbe93afa02bac3113d886e8531aba47c0a86d53ce27a921c905"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/a2.wav",
+      "bytes": 122924,
+      "sha256": "ebe4fedb165203920ee9ea1bca7d07257d9129423306487b3c8b33b9fed361e8"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/a3.wav",
+      "bytes": 110124,
+      "sha256": "ef50de444f265b055649439cf5d2291232aacd4925f3ce299c24668c0115146f"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/a4.wav",
+      "bytes": 191532,
+      "sha256": "49d61a3341b1db6b8703b2221227dc876050d382f615bc434379390fe91cbccf"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/a5.wav",
+      "bytes": 114220,
+      "sha256": "07670d9a9fe20fc8304652f3c31f2b82408b21bc4452b62a633661ca5983ad8a"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/a6.wav",
+      "bytes": 253996,
+      "sha256": "5ca49dba1a00f8c5642a04cf47539ec65817fa64119ffa1ed51cb6df5a66959d"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/odai.wav",
+      "bytes": 121900,
+      "sha256": "447079e9879c41bf327629f3c1b794656e129ea21534d85691ec830847ad8dfb"
+    },
+    {
+      "path": "public/voice/ai-viral-nitinol-01/outro.wav",
+      "bytes": 193580,
+      "sha256": "610f05cd65c58e14483b792f02fbc97b4ad7ed444fec8be37e014e679be17f8f"
+    },
+    {
       "path": "public/voice/ai-viral-oobleck-01/a1.wav",
       "bytes": 147500,
       "sha256": "2879275c1fbed7c4e3b6d6027a01cfb6b6f8d50bd6ec6eb5608925f3c572b137"
@@ -1293,6 +1373,96 @@
       "path": "public/voice/ai-viral-supercooled-water-01/outro.wav",
       "bytes": 180780,
       "sha256": "27b338f72428b8a3cc974cfd9aeabe4167893f54b3844aaacda3d418c68880d9"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a1.wav",
+      "bytes": 111660,
+      "sha256": "417c775ec4cb7c3a6176b8d2f40a8aa979a6713d9bd1779044e1a6978e116f62"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a2.wav",
+      "bytes": 100396,
+      "sha256": "daba1cf9ed0f7f1f619239aaf205ae0970fc4a101cb5f2b93bb11813fba45341"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a3.wav",
+      "bytes": 134188,
+      "sha256": "39fbf8b00b618c21ae6c5c1a01adb564433dedf07b242db2a78855cffd64867a"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a4.wav",
+      "bytes": 151084,
+      "sha256": "0b76c0a22a4d8c7c49bf7fdf8d10d79b06b3018e61989fb34eb3905c535ec0f4"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a5.wav",
+      "bytes": 132140,
+      "sha256": "50d713a93533beafc92243ca92d7ac0d2a424bd3eb329d9292c82c23de22f36d"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a6.wav",
+      "bytes": 114732,
+      "sha256": "ef349c116c19dc9df318cca7d83834c92428d09e77c0a5877eb7f823c357511a"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/a7.wav",
+      "bytes": 160300,
+      "sha256": "af6c92bdc2f1c2ef4a95c5f7a9923bcd8957fbd0364e132204adfc66d24233b2"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/odai.wav",
+      "bytes": 86060,
+      "sha256": "4287a12638e5a2eeca4c9199cbbc712bf3620c6755e8564b332643e52d652a5c"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-escalator-brush-01/outro.wav",
+      "bytes": 161324,
+      "sha256": "36f19069504265699f9e043dcf88e2a6219fa6f568de7d932110ec8737c4d6b0"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a1.wav",
+      "bytes": 126508,
+      "sha256": "efba8fec8b804564faebc0f31f569e141a227dc90db7e68a3bf328ed345b3d9c"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a2.wav",
+      "bytes": 117804,
+      "sha256": "aa9887a5b504d04e8d80767ec6ebaf23fc937180ef0197557eae123527ae5d6d"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a3.wav",
+      "bytes": 113196,
+      "sha256": "e67a12ac80f32bb6e2715d218f70a98bf95e66752718f3b59d7dbed2a3746cca"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a4.wav",
+      "bytes": 147500,
+      "sha256": "c3423d2eaffb84351085dd838e1fbbb5fbcf499957fb1be2a6289d1f5bcba3ae"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a5.wav",
+      "bytes": 145964,
+      "sha256": "ce19600a8c3fe8048240967318740824a68741c27120ff501145d022000cb676"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a6.wav",
+      "bytes": 125484,
+      "sha256": "14cd08a3258ab7815202bfb5b5f5f81ed4e45121f11dcaf8e18768b6eb0d4012"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/a7.wav",
+      "bytes": 148012,
+      "sha256": "7e425110e0a7e7d38d8b42181a981dae8c50e2760babc42a491b4c2b8fa44862"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/odai.wav",
+      "bytes": 79404,
+      "sha256": "f0d8065ba623d1894db3ad6a48235f81b555b745b59962f187710076d925760a"
+    },
+    {
+      "path": "public/voice/ai-wrong-use-microwave-mesh-01/outro.wav",
+      "bytes": 162348,
+      "sha256": "119520f35e292c089dd2c2870e19f7669b061a1534e4f5ff4166083b668b2672"
     },
     {
       "path": "public/voice/ai-xray-penguin-01/a1.wav",
@@ -1698,6 +1868,211 @@
       "path": "public/voice/konna-onsen-ryokan-short/outro.wav",
       "bytes": 159276,
       "sha256": "91139842bbfba50b464aaa4e502d3cb6fe047738a3ee0e136c843d220a6dd7fc"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01/a1.wav",
+      "bytes": 136236,
+      "sha256": "354ffc15106ca13b3b7e44f48ef6aaddfe930573dff95f877198582b4149c101"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01/a2.wav",
+      "bytes": 45100,
+      "sha256": "f63cdd856172e9b138ce8485c1c239fa86af1948100508b5124a4786c57cf6f6"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01/a3.wav",
+      "bytes": 126508,
+      "sha256": "051e899a6cd50a691c01f6f68018a82a8833204ff8658e71296c4c2b2188694e"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01/a4.wav",
+      "bytes": 94764,
+      "sha256": "ec947d6455aae85276d2cf39e9ce385c2d3de56668677c9ee6264026bf5a87af"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01/odai.wav",
+      "bytes": 139820,
+      "sha256": "630e508582bbe7da8faacc3c06cbd40e1628a616750fd34544f531b79f1509f6"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01/outro.wav",
+      "bytes": 91180,
+      "sha256": "373760b32be0e18bab52c581f4bccd3ac7120b851e5748e87b2058c5ba68592a"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a1.wav",
+      "bytes": 86572,
+      "sha256": "0b7e0fb62657aadc1944107e5d969217e4a4744e057ab5edb4d81c5e94924b56"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a2.wav",
+      "bytes": 134188,
+      "sha256": "51ac9fe337b56ed2b880e0b7cb5a67bda52b72fd729127f01c612fa399442905"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a3.wav",
+      "bytes": 138284,
+      "sha256": "3eccd69d8df8abe9a21c7d5948952bcd0b3e717faeaa820c54bbb873c78f5f30"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a4.wav",
+      "bytes": 115244,
+      "sha256": "05ccbc26babf91cb96bb9f199880d0691a87cea2b208267ccf8f584b90b36b66"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a5.wav",
+      "bytes": 115244,
+      "sha256": "644e734ada0349464f8d05895fba64199c014b3b0613b11321db8c2d2903cb38"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a6.wav",
+      "bytes": 142380,
+      "sha256": "bc6c4c6f2ec1481d703a95e84b4596072aa3e16796284f70f13b2425c2265bd5"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a7.wav",
+      "bytes": 70700,
+      "sha256": "3b66428eb6e7835075d31019ec5a984b05881a638c41456c183c907c9580f982"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/a8.wav",
+      "bytes": 66604,
+      "sha256": "ed89a7b4686f7823496acfad3fa6521dc63c99a981ab14c4d34508be33d2502e"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/odai.wav",
+      "bytes": 94252,
+      "sha256": "0f46df2b5ed58ab4028eb16cadfc27196607102308318f212e5761be127b4105"
+    },
+    {
+      "path": "public/voice/space-walk-guide-jupiter-01/outro.wav",
+      "bytes": 196652,
+      "sha256": "1c908a6184d08b5bd11328acf7b43a9c2bd316e58ff418d0e70a319ea0683fe6"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a1.wav",
+      "bytes": 130604,
+      "sha256": "c8df0449f73a2267d6b8991d9ab1b8e8e93c378cae72c97ced48b73626694d87"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a10.wav",
+      "bytes": 71724,
+      "sha256": "c07a6046c315677dfbfa8a5fd2e49ab5f523b585873b31a38879deb7c0dfdcb0"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a11.wav",
+      "bytes": 57900,
+      "sha256": "64f8823de8752c045c2fa07f5b34e02fe89c19c7fca24622c4e89ad43c9cd9f3"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a2.wav",
+      "bytes": 71212,
+      "sha256": "c1f6e1361be419d2ea1ae09aa76d6ae8c7904173f6bfce0bafe044c9d61b8e73"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a3.wav",
+      "bytes": 89644,
+      "sha256": "4c27a0a6cd71a9dc6b51cb8d372b8b63d83bc4c29786405677cb85669b74593a"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a4.wav",
+      "bytes": 90156,
+      "sha256": "f680eede959a3a5e4e76943a3a322c126e5aef855c3b8179578e388bd68943c9"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a5.wav",
+      "bytes": 114732,
+      "sha256": "b9686cf969b057f6b1202e663d57efeab79c6832a63183823d03379fed569572"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a6.wav",
+      "bytes": 101420,
+      "sha256": "d3234bfa1a5999c6cacabf07315b94dd0e240f03aaf192d935a7c12a15f392bd"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a7.wav",
+      "bytes": 114732,
+      "sha256": "3d2a20cd48f278ee15926c7d458bd53fbd50b543d0c3efb8341f8406da3e6d83"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a8.wav",
+      "bytes": 114220,
+      "sha256": "9b8f1be4d219b8eaf6f156bde348124672db0097501e637667be47d1b6eefe87"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/a9.wav",
+      "bytes": 96812,
+      "sha256": "9ff4362ac6f1e5dc3076d85b7b68c8ccc897090cdc57f96795f9c5e1b246ad19"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/odai.wav",
+      "bytes": 89132,
+      "sha256": "8c00380a30f4b5d033dad949381ef5a5b1a272ad5df14722070d086d425fe377"
+    },
+    {
+      "path": "public/voice/space-walk-guide-mars-03/outro.wav",
+      "bytes": 167468,
+      "sha256": "cc06528edce1936298fc011089860cff30e035f7a45e9749010a05bbffa7d038"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a1.wav",
+      "bytes": 119852,
+      "sha256": "bf01bccac204006f692974c35fb644202f2c580e550567121856bd5c3cb99078"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a10.wav",
+      "bytes": 68652,
+      "sha256": "5c3566b48d4a5694917e757fd6c8fce49203596d715a5bea36d551fa1c3874a1"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a2.wav",
+      "bytes": 104492,
+      "sha256": "c5ae1f5159890e1cf42fa42549dca85bddd26a0f978727fe82028e0d82f406a8"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a3.wav",
+      "bytes": 117292,
+      "sha256": "8ce5a1862c78f99df720aa37980abe55d59a5aeaba3fd4fa6fd72cf8ba51880e"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a4.wav",
+      "bytes": 65068,
+      "sha256": "3cfcaa82226c0ff18d86f0d0c95d26de160ea70b3b768fcb90743e1fc331d15f"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a5.wav",
+      "bytes": 110124,
+      "sha256": "f1cae8604b3d5f3a4b7155d20fb2471cdbc16218ad914e2851a56648c0aa6e86"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a6.wav",
+      "bytes": 66092,
+      "sha256": "e3e98228c95bed8614085927f35bdaaa3f16578ca3c004cb0dd31c39b3403879"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a7.wav",
+      "bytes": 102444,
+      "sha256": "ff53705c6bcc4d1259a9d42e20e0409533161dd9c585ede37de04df259b27116"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a8.wav",
+      "bytes": 100908,
+      "sha256": "acbe4dc12dcd304657c160b8779e32be1736078901c50afdaafe3148c6a258a1"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/a9.wav",
+      "bytes": 90156,
+      "sha256": "332c74f7c1fb85b8a562a1e5d9a9d96a5de948222914fe1baaf3a84b636b033d"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/odai.wav",
+      "bytes": 90668,
+      "sha256": "4311aac24e593f9a416302044b94c01e0bf190c81c37bbbc726229583b37e6b4"
+    },
+    {
+      "path": "public/voice/space-walk-guide-venus-02/outro.wav",
+      "bytes": 175660,
+      "sha256": "de7d6ddb3744d66085c917c1afaf0d9a7e54781aa582ea3801872e3be940334e"
     }
   ]
 }

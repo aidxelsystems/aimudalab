@@ -1,0 +1,76 @@
+{
+  "id": "motion-comic-eiffel-scam-01",
+  "odai": "エッフェル塔、\n売ります",
+  "odai_reading": "1925年。エッフェル塔、売ります。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.3,
+  "odaiVoicePitch": -0.02,
+  "odaiVoiceIntonation": 1.06,
+  "theme": "1925年のエッフェル塔売却詐欺",
+  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+  "hook_style": "overlay_first_image",
+  "hook_headline": "エッフェル塔、売ります",
+  "outro_style": "image_loop",
+  "answers": [
+    {
+      "id": "a1",
+      "text": "政府の役人を装い\n秘密の会合へ",
+      "reading": "政府の役人を装い、業者を秘密会合へ。",
+      "tag": "normal",
+      "duration": 3.0,
+      "speakerId": 13,
+      "voiceSpeed": 1.3,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.04
+    },
+    {
+      "id": "a2",
+      "text": "「私が\n買いましょう」",
+      "reading": "私が買いましょう。",
+      "tag": "normal",
+      "duration": 2.1,
+      "speakerId": 11,
+      "voiceSpeed": 1.17,
+      "voicePitch": -0.01,
+      "voiceIntonation": 1.14
+    },
+    {
+      "id": "a3",
+      "text": "でも全部ウソ\n代金を持って逃走",
+      "reading": "だが全部ウソ。代金を持って国外へ逃走。",
+      "tag": "recovery",
+      "duration": 3.0,
+      "speakerId": 13,
+      "voiceSpeed": 1.32,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.08
+    },
+    {
+      "id": "a4",
+      "text": "ところが後日\nまた同じ手口",
+      "reading": "後日、また同じ手口に挑戦。",
+      "tag": "tendon",
+      "duration": 2.6,
+      "speakerId": 13,
+      "voiceSpeed": 1.3,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.08
+    }
+  ],
+  "outro": "詐欺、二周目\nあるんかい！",
+  "outro_reading": "詐欺、二周目あるんかい！",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.18,
+  "outroVoicePitch": 0.02,
+  "outroVoiceIntonation": 1.25,
+  "_notes": {
+    "format": "5枚の独立画像を使う15〜18秒モーションコミック",
+    "dialogue_disclosure": "買い手の台詞は演出上の再現であり、史料からの直接引用ではない",
+    "fact_scope": "塔の所有権が実際に移転したとは表現せず、スクラップ売却を装った詐欺として扱う",
+    "sources": [
+      "https://www.smithsonianmag.com/history/man-who-sold-eiffel-tower-twice-180958370/",
+      "https://www.toureiffel.paris/en/news/history-and-culture/who-sold-eiffel-tower"
+    ],
+    "voice_policy": "青山龍星が事実説明、玄野武宏が再現台詞1つ、ずんだもんが最後のツッコミのみ"
+  }
+}

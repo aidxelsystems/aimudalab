@@ -33,6 +33,7 @@ import microwaveMeshData from "../data/episodes/ai-wrong-use-microwave-mesh-01.r
 import jupiterWalkData from "../data/episodes/space-walk-guide-jupiter-01.resolved.json";
 import venusWalkData from "../data/episodes/space-walk-guide-venus-02.resolved.json";
 import marsWalkData from "../data/episodes/space-walk-guide-mars-03.resolved.json";
+import eiffelScamData from "../data/episodes/motion-comic-eiffel-scam-01.resolved.json";
 import {
   AiLieQuizShort,
   getAiLieQuizTimeline,
@@ -244,6 +245,13 @@ import {
   MOTION_COMIC_PANEL_WIDTH,
   MotionComicPanelPrototype,
 } from "./MotionComicPanelPrototype";
+import {
+  EIFFEL_SCAM_DURATION,
+  EIFFEL_SCAM_FPS,
+  EIFFEL_SCAM_HEIGHT,
+  EIFFEL_SCAM_WIDTH,
+  MotionComicEiffelScamShort,
+} from "./MotionComicEiffelScamShort";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
@@ -330,6 +338,9 @@ const venusWalkEpisode = (
 ).episode;
 const marsWalkEpisode = (
   marsWalkData as unknown as {episode: Episode}
+).episode;
+const eiffelScamEpisode = (
+  eiffelScamData as unknown as {episode: Episode}
 ).episode;
 
 const resolvedAnswers = new Map(
@@ -912,6 +923,15 @@ export const RemotionRoot: React.FC = () => {
         height={MOTION_COMIC_PANEL_HEIGHT}
         fps={MOTION_COMIC_PANEL_FPS}
         durationInFrames={MOTION_COMIC_PANEL_DURATION}
+      />
+      <Composition
+        id="MotionComicEiffelScamShort"
+        component={MotionComicEiffelScamShort}
+        width={EIFFEL_SCAM_WIDTH}
+        height={EIFFEL_SCAM_HEIGHT}
+        fps={EIFFEL_SCAM_FPS}
+        durationInFrames={EIFFEL_SCAM_DURATION}
+        defaultProps={{episode: eiffelScamEpisode}}
       />
     </>
   );

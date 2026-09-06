@@ -74,10 +74,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-eiffel-scam-01` |
 | owner | `PC2 / Codex` |
-| production status | `editing` |
+| production status | `qc-passed` |
 | active render | なし |
-| available assets | 制作引継ぎ、画面仕様、エッフェル塔フック／3コマ試作、VOICEVOX・Remotion制作基盤 |
-| next production action | 人物アンカーを作り、場所・行動・表情が変わる独立画像5枚を生成する |
+| available assets | 人物アンカー、独立画像5枚、VOICEVOX 6音声、既存BGM、episode JSON、Remotion実装、制作ブリーフ、生成プロンプト、レンダー契約・QC |
+| next production action | ユーザーが完成版を確認し、別途明示承認後にYouTube Studioから手動投稿する |
 
 ## 現在の制作環境（PC2）
 
@@ -100,6 +100,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-mars-03` | YouTube予約済み | 2026-09-09 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `motion-comic-eiffel-scam-01` | QC合格・未投稿 | 未定 | ユーザー確認後、別途投稿承認を受ける |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -129,6 +130,11 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - 火星回機械QC: 合格（1080×1920 / 30fps / -15.86 LUFS / True Peak -1.39 dBTP）
 - 火星回代表12フレーム: 目視合格。「地表付近の環境温度」と明示し、オチ・登録CTAまで表示確認済み。
 - 火星回YouTube: `https://youtu.be/5O8pGAc5A2k`（2026-09-09 19:00 JST予約）
+
+- エッフェル塔モーションコミック完成動画: `out/motion-comic-eiffel-scam-01-final.mp4`（15.8秒、ローカル、未投稿）
+- 機械QC: 合格（1080×1920 / 30fps / -16.20 LUFS / True Peak -1.39 dBTP）
+- 代表7フレーム＋1秒間隔16フレーム: 目視合格。5枚の人物連続性、字幕、出典、二周目オチ、CTAを確認済み。
+- 投稿状態: 未投稿。公開操作は別途ユーザー承認後にYouTube Studioで行う。
 
 ## 共有ストレージ
 
