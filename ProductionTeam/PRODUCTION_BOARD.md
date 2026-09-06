@@ -18,7 +18,7 @@
 | motion-comic-format-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーが字幕位置・青山龍星の速度を確認 | 画像・青山龍星音声（ローカル） | `out/motion-comic-format-prototype-01-final.mp4`（3.648秒、ローカル） | 非公開試作 |
 | motion-comic-panel-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認 | 既存エッフェル塔画像・VOICEVOX音声（ローカル） | `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル） | 非公開試作 |
 | motion-comic-eiffel-scam-01 | 未割当 | - | researched | ユーザー承認後、PC2がownerを確保し、5枚の独立画像と15〜18秒本編を制作 | 未生成。`PlanningTeam/handoffs/2026-09-06-eiffel-scam-motion-comic.md`参照 | 未レンダー | 未定 |
-| space-walk-guide-mars-03 | PC2 / Codex | main | qc-passed | ユーザーが完成MP4を通し視聴し、投稿日時を決める | Flow 8秒×2本・VOICEVOX 13音声・Remotion実装 | `out/space-walk-guide-mars-03-final.mp4`（29.8秒、ローカル） | 未定 |
+| space-walk-guide-mars-03 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 8秒×2本・VOICEVOX 13音声・Remotion実装 | `out/space-walk-guide-mars-03-final.mp4`（29.8秒、ローカル） | 2026-09-09 19:00 JST |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status
