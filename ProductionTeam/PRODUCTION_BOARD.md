@@ -4,7 +4,7 @@
 
 全体の同期状態と現在作業は `../PROJECT_STATUS.md` を正とする。GitHub同期と作業クレームをpushする前に制作へ入らない。
 
-最終同期確認: 2026-09-06 / PC1 / `main` → `origin/main` 開始同期完了
+最終同期確認: 2026-09-06 / PC2 / `main` → `origin/main` 開始同期完了
 
 | episode | owner | branch | status | next action | assets | final | scheduled |
 |---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | motion-comic-format-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーが字幕位置・青山龍星の速度を確認 | 画像・青山龍星音声（ローカル） | `out/motion-comic-format-prototype-01-final.mp4`（3.648秒、ローカル） | 非公開試作 |
 | motion-comic-panel-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認 | 既存エッフェル塔画像・VOICEVOX音声（ローカル） | `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル） | 非公開試作 |
 | motion-comic-eiffel-scam-01 | 未割当 | - | researched | ユーザー承認後、PC2がownerを確保し、5枚の独立画像と15〜18秒本編を制作 | 未生成。`PlanningTeam/handoffs/2026-09-06-eiffel-scam-motion-comic.md`参照 | 未レンダー | 未定 |
-| space-walk-guide-mars-03 | 未割当 | main | assets-ready | PC2が同期後にownerを確保し、VOICEVOX音声を生成 | Flow 8秒×2本・制作ブリーフ・episode JSON | 未レンダー | 未定 |
+| space-walk-guide-mars-03 | PC2 / Codex | main | editing | VOICEVOX音声を生成・計測し、Remotion本編を実装 | Flow 8秒×2本・制作ブリーフ・episode JSON | 未レンダー | 未定 |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 
 ## Status

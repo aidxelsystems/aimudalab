@@ -9,8 +9,8 @@
 |---|---|
 | ローカルブランチ | `main` |
 | GitHub remote | `https://github.com/aidxelsystems/aimudalab.git` |
-| GitHub同期 | `merge in progress` |
-| 理由 | PC1の新しい戦略・漫画試作10コミットを取得し、PC2の完成済み作品6コミットと通常mergeで統合中。強制更新は未使用 |
+| GitHub同期 | `main` と `origin/main` の開始同期完了 |
+| 理由 | PC1の新しい戦略・漫画試作とPC2の完成済み作品を通常mergeで統合し、強制更新を使わずpush済み |
 | Git追跡 | 資料・JSON・Remotionコード・設定のみ、391ファイル、約2.11MB |
 | Google Drive対象 | 動画・画像・BGM・効果音・音声、330素材、約264.81MB |
 
@@ -61,11 +61,11 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | 項目 | 内容 |
 |---|---|
 | active episode | `space-walk-guide-mars-03` |
-| owner | 未割当（merge・同期後に`PC2 / Codex`が確保） |
-| production status | `assets-ready` |
+| owner | `PC2 / Codex` |
+| production status | `editing` |
 | active render | なし |
 | available assets | Flow 8秒×2本、制作ブリーフ、生成プロンプト、episode JSON |
-| next production action | mergeをpushして開始同期後、ownerを確保しVOICEVOX音声を生成する |
+| next production action | VOICEVOX音声を生成・計測し、Remotion本編を実装する |
 | user direction | 本作をFlow方式の最後の作品として完成させ、その後は新しい漫画検証方針へ移行する |
 
 ## 現在の制作環境（PC2）
