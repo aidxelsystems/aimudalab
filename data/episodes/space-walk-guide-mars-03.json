@@ -11,7 +11,7 @@
     {"id":"a1","text":"赤道付近の昼 足元 約24℃","reading":"赤道付近の昼。足元は、約24度。","duration":2.2,"speakerId":13,"voiceSpeed":1.4,"voicePitch":-0.04,"voiceIntonation":1.07},
     {"id":"a2","text":"意外と散歩日和","reading":"意外と散歩日和なのだ！","duration":1.8,"speakerId":3,"voiceSpeed":1.32,"voicePitch":0.05,"voiceIntonation":1.25},
     {"id":"a3","text":"頭の高さ 約0℃","reading":"でも、頭の高さは約0度です。","duration":2.1,"speakerId":13,"voiceSpeed":1.38,"voicePitch":-0.04,"voiceIntonation":1.08},
-    {"id":"a4","text":"足元は春 頭は冬","reading":"体の中で季節が違うのだ！？","duration":2.0,"speakerId":3,"voiceSpeed":1.3,"voicePitch":0.05,"voiceIntonation":1.3},
+    {"id":"a4","text":"足元は春 頭は冬","reading":"同じ場所で季節が違うのだ！？","duration":2.1,"speakerId":3,"voiceSpeed":1.3,"voicePitch":0.05,"voiceIntonation":1.3},
     {"id":"a5","text":"宇宙の歩き方 第3回・火星","reading":"宇宙の歩き方。第3回、火星。","duration":2.2,"speakerId":13,"voiceSpeed":1.34,"voicePitch":-0.04,"voiceIntonation":1.08},
     {"id":"a6","text":"大気が非常に薄い","reading":"火星は、大気がとても薄い惑星。","duration":2.24,"speakerId":13,"voiceSpeed":1.28,"voicePitch":-0.04,"voiceIntonation":1.05},
     {"id":"a7","text":"地表気圧 地球の1/100未満","reading":"地表の気圧は、地球の100分の1未満。","duration":2.51,"speakerId":13,"voiceSpeed":1.32,"voicePitch":-0.04,"voiceIntonation":1.07},

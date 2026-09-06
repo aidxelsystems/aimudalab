@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "space-walk-guide-mars-03",
+  "compositionId": "MarsWalkGuideShort",
+  "completedAt": "2026-09-06T01:04:03.331Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/space-walk-guide-mars-03-final.mp4",
+  "technical": {
+    "durationSeconds": 29.8,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.86",
+      "input_tp": "-1.39",
+      "input_lra": "2.90",
+      "input_thresh": "-25.99",
+      "output_i": "-15.75",
+      "output_tp": "-1.40",
+      "output_lra": "2.90",
+      "output_thresh": "-25.85",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.25"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 0.8,
+      "label": "冒頭_火星へ着陸",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/01_0s80_-_-.jpg"
+    },
+    {
+      "time": 3.5,
+      "label": "足元24度",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/02_3s50_-24-.jpg"
+    },
+    {
+      "time": 5.8,
+      "label": "散歩日和",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/03_5s80_-.jpg"
+    },
+    {
+      "time": 7.8,
+      "label": "頭の高さ0度",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/04_7s80_-0-.jpg"
+    },
+    {
+      "time": 10,
+      "label": "足元は春_頭は冬",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/05_10s00_-_-.jpg"
+    },
+    {
+      "time": 12.2,
+      "label": "シリーズ第3回",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/06_12s20_-3-.jpg"
+    },
+    {
+      "time": 14.6,
+      "label": "薄い大気",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/07_14s60_-.jpg"
+    },
+    {
+      "time": 17,
+      "label": "地表気圧比較",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/08_17s00_-.jpg"
+    },
+    {
+      "time": 19.5,
+      "label": "二酸化炭素",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/09_19s50_-.jpg"
+    },
+    {
+      "time": 22,
+      "label": "密閉宇宙服が必要",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/10_22s00_-.jpg"
+    },
+    {
+      "time": 24,
+      "label": "散歩の質問",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/11_24s00_-.jpg"
+    },
+    {
+      "time": 28.6,
+      "label": "火星オチとCTA",
+      "file": "out/qc/space-walk-guide-mars-03-handoff/12_28s60_-CTA.jpg"
+    }
+  ]
+}

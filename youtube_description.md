@@ -1270,3 +1270,39 @@ BGM：Lab Rocket Switch（Suno AI生成・既存曲を再利用）
 ## YouTubeタグ候補
 
 木星, 木星 着陸, 木星 地面, 木星 地表, 木星に落ちる, 木星 仕組み, Jupiter, Jupiter surface, 宇宙, 宇宙旅行, 太陽系, ガス惑星, NASA, 科学雑学, 宇宙雑学, AI再現, VOICEVOX, YouTube Shorts, ショート動画
+
+---
+
+# 「space-walk-guide-mars-03-final.mp4」YouTube投稿情報
+
+## タイトル
+
+火星を歩くと足元24℃、頭0℃!? 大気は地球の1/100未満 #Shorts
+
+## 概要欄
+
+火星の赤道付近を昼に歩いたら、足元は約24℃なのに頭の高さは約0℃――そんな大きな温度差が生じる場合があります。
+これは人の体温ではなく、地表付近の環境温度の一例です。火星は大気が非常に薄く、地表気圧は地球の1/100未満。主成分も二酸化炭素なので、散歩には密閉宇宙服が欠かせません。
+
+散歩日和、足元だけなんかい！
+火星、歩いてみたい？ コメントで教えてください。
+チャンネル登録もよろしく！
+
+※AIによる架空の宇宙旅行再現・概念図を含みます。実際の有人火星飛行の記録ではありません。温度は場所・時刻・季節などで変化します。
+
+【参考資料】
+NASA Science「Mars Facts」
+https://science.nasa.gov/mars/facts/
+
+NASA「InSight Landing Press Kit」
+https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/m/mars_insight_landing_presskit.pdf
+
+映像：Flow AI生成／Remotion編集
+音声：VOICEVOX 青山龍星、VOICEVOX ずんだもん
+BGM：Lab Rocket Switch（Suno AI生成・既存曲を再利用）
+
+#火星 #宇宙 #Shorts
+
+## YouTubeタグ候補
+
+火星, 火星 着陸, 火星 温度, 火星 大気, 火星 気圧, 火星 宇宙服, Mars, Mars temperature, Mars atmosphere, 宇宙, 宇宙旅行, 太陽系, NASA, 科学雑学, 宇宙雑学, AI再現, VOICEVOX, YouTube Shorts, ショート動画

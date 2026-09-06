@@ -62,10 +62,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `space-walk-guide-mars-03` |
 | owner | `PC2 / Codex` |
-| production status | `editing` |
-| active render | `npm run finalize:handoff -- ProductionTeam/handoffs/space-walk-guide-mars-03.render.json` |
-| available assets | Flow 8秒×2本、制作ブリーフ、生成プロンプト、episode JSON |
-| next production action | 29.61秒のRemotion本編をレンダーし、機械QCと代表フレーム確認を完了する |
+| production status | `qc-passed` |
+| active render | なし |
+| available assets | Flow 8秒×2本、VOICEVOX 13音声、制作ブリーフ、生成プロンプト、episode JSON、Remotion実装 |
+| next production action | ユーザーが完成MP4を通し視聴し、投稿日時を決める |
 | user direction | 本作をFlow方式の最後の作品として完成させ、その後は新しい漫画検証方針へ移行する |
 
 ## 現在の制作環境（PC2）
@@ -88,6 +88,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `ai-wrong-use-microwave-mesh-01` | YouTube予約済み | 2026-09-06 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
+| `space-walk-guide-mars-03` | QC合格・未投稿 | 未定 | ユーザーが完成MP4を通し視聴し、投稿日時を決める |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -112,6 +113,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - モーションコミック3コマ試作: `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル、非公開）
 - 試作QC: 合格（1080×1920 / 30fps / -15.3 LUFS / True Peak -1.5 dBTP）
 - 試作内容: コマ枠付き右・下スライド、各コマ内ズーム・パン、青山龍星＋四国めたんの話者別字幕
+
+- 火星回完成動画: `out/space-walk-guide-mars-03-final.mp4`（29.8秒、ローカル、未投稿）
+- 火星回機械QC: 合格（1080×1920 / 30fps / -15.86 LUFS / True Peak -1.39 dBTP）
+- 火星回代表12フレーム: 目視合格。「地表付近の環境温度」と明示し、オチ・登録CTAまで表示確認済み。
 
 ## 共有ストレージ
 

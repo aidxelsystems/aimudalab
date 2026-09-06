@@ -269,7 +269,7 @@ const Seasons = () => (
     </div>
     <div style={{position: "absolute", zIndex: 50, top: 1050, left: 100, right: 100, color: "#fff", fontSize: 62, fontWeight: 900, textAlign: "center", WebkitTextStroke: "5px #170704", paintOrder: "stroke fill"}}>足元は春／頭は冬</div>
     <Footer />
-    <Caption accent={C.cyan}>体の中で季節が違うのだ！？</Caption>
+    <Caption accent={C.cyan}>同じ場所で季節が違うのだ！？</Caption>
   </AbsoluteFill>
 );
 
