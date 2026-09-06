@@ -44,7 +44,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-panel-prototype-01` |
 | owner | `PC1 / Codex` |
-| production status | `scheduled` |
+| production status | `qc-passed` |
 | active render | なし |
 | uncommitted production work | なし。3コマ切替・ズーム移動・青山龍星＋四国めたん字幕の7.28秒試作を完成し、機械QCと代表フレーム確認済み |
 | next production action | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認する |
@@ -62,11 +62,22 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `space-walk-guide-mars-03` |
 | owner | `PC2 / Codex` |
-| production status | `qc-passed` |
+| production status | `scheduled` |
 | active render | なし |
 | available assets | Flow 8秒×2本、VOICEVOX 13音声、制作ブリーフ、生成プロンプト、episode JSON、Remotion実装 |
 | next production action | 2026-09-09 19:00 JSTの公開後、24時間・72時間指標を確認する |
 | user direction | 本作をFlow方式の最後の作品として完成させ、その後は新しい漫画検証方針へ移行する |
+
+### PC2 モーションコミック第1作制作
+
+| 項目 | 内容 |
+|---|---|
+| active episode | `motion-comic-eiffel-scam-01` |
+| owner | `PC2 / Codex` |
+| production status | `editing` |
+| active render | なし |
+| available assets | 制作引継ぎ、画面仕様、エッフェル塔フック／3コマ試作、VOICEVOX・Remotion制作基盤 |
+| next production action | 人物アンカーを作り、場所・行動・表情が変わる独立画像5枚を生成する |
 
 ## 現在の制作環境（PC2）
 
