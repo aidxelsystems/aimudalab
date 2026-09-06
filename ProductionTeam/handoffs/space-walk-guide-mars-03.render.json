@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "space-walk-guide-mars-03",
+  "status": "ready",
+  "preparedBy": "PC2 / Codex",
+  "compositionId": "MarsWalkGuideShort",
+  "props": "../../data/episodes/space-walk-guide-mars-03.resolved.json",
+  "output": {
+    "render": "../../out/space-walk-guide-mars-03-render.mp4",
+    "final": "../../out/space-walk-guide-mars-03-final.mp4",
+    "qcDir": "../../out/qc/space-walk-guide-mars-03-handoff",
+    "qcReport": "../output/2026-09-06-mars-walk-guide-handoff-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {"min": 29, "max": 32}
+  },
+  "render": {"crf": 16, "concurrency": 4, "audioBitrate": "192k"},
+  "audio": {"normalize": true, "targetLufs": -16, "truePeakDb": -1.4, "lra": 7, "sampleRate": 48000},
+  "checkpoints": [
+    {"time": 0.8, "label": "冒頭_火星へ着陸"},
+    {"time": 3.5, "label": "足元24度"},
+    {"time": 5.8, "label": "散歩日和"},
+    {"time": 7.8, "label": "頭の高さ0度"},
+    {"time": 10.0, "label": "足元は春_頭は冬"},
+    {"time": 12.2, "label": "シリーズ第3回"},
+    {"time": 14.6, "label": "薄い大気"},
+    {"time": 17.0, "label": "地表気圧比較"},
+    {"time": 19.5, "label": "二酸化炭素"},
+    {"time": 22.0, "label": "密閉宇宙服が必要"},
+    {"time": 24.0, "label": "散歩の質問"},
+    {"time": 26.8, "label": "火星オチとCTA"}
+  ],
+  "sources": [
+    "../../data/episodes/space-walk-guide-mars-03.resolved.json",
+    "../drafts/space-walk-guide-mars-03-production-brief.md",
+    "../drafts/space-walk-guide-mars-03-prompts.md",
+    "../../src/MarsWalkGuideShort.tsx",
+    "../../public/movie/Capsule_landing_on_Mars_surface_202609060045.mp4",
+    "../../public/movie/Traveler_exploring_Mars_rocky_plain_202609060047.mp4",
+    "../../public/BGM/Lab Rocket Switch.mp3",
+    "../../public/voice/space-walk-guide-mars-03/odai.wav",
+    "../../public/voice/space-walk-guide-mars-03/a1.wav",
+    "../../public/voice/space-walk-guide-mars-03/a2.wav",
+    "../../public/voice/space-walk-guide-mars-03/a3.wav",
+    "../../public/voice/space-walk-guide-mars-03/a4.wav",
+    "../../public/voice/space-walk-guide-mars-03/a5.wav",
+    "../../public/voice/space-walk-guide-mars-03/a6.wav",
+    "../../public/voice/space-walk-guide-mars-03/a7.wav",
+    "../../public/voice/space-walk-guide-mars-03/a8.wav",
+    "../../public/voice/space-walk-guide-mars-03/a9.wav",
+    "../../public/voice/space-walk-guide-mars-03/a10.wav",
+    "../../public/voice/space-walk-guide-mars-03/a11.wav",
+    "../../public/voice/space-walk-guide-mars-03/outro.wav"
+  ],
+  "notes": "Flow 2カットは1080×1920・各8秒。Flow音声はミュート。足元24℃と頭の高さ0℃、薄い大気、気圧比較、CO₂、密閉宇宙服、終端CTAをRemotionネイティブ実装。"
+}

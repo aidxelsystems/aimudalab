@@ -32,6 +32,7 @@ import escalatorBrushData from "../data/episodes/ai-wrong-use-escalator-brush-01
 import microwaveMeshData from "../data/episodes/ai-wrong-use-microwave-mesh-01.resolved.json";
 import jupiterWalkData from "../data/episodes/space-walk-guide-jupiter-01.resolved.json";
 import venusWalkData from "../data/episodes/space-walk-guide-venus-02.resolved.json";
+import marsWalkData from "../data/episodes/space-walk-guide-mars-03.resolved.json";
 import {
   AiLieQuizShort,
   getAiLieQuizTimeline,
@@ -223,6 +224,13 @@ import {
   getVenusWalkTimeline,
 } from "./VenusWalkGuideShort";
 import {
+  MARS_WALK_FPS,
+  MARS_WALK_HEIGHT,
+  MARS_WALK_WIDTH,
+  MarsWalkGuideShort,
+  getMarsWalkTimeline,
+} from "./MarsWalkGuideShort";
+import {
   MOTION_COMIC_HOOK_DURATION,
   MOTION_COMIC_HOOK_FPS,
   MOTION_COMIC_HOOK_HEIGHT,
@@ -319,6 +327,9 @@ const jupiterWalkEpisode = (
 ).episode;
 const venusWalkEpisode = (
   venusWalkData as unknown as {episode: Episode}
+).episode;
+const marsWalkEpisode = (
+  marsWalkData as unknown as {episode: Episode}
 ).episode;
 
 const resolvedAnswers = new Map(
@@ -865,6 +876,24 @@ export const RemotionRoot: React.FC = () => {
             fps: VENUS_WALK_FPS,
             width: VENUS_WALK_WIDTH,
             height: VENUS_WALK_HEIGHT,
+          };
+        }}
+      />
+      <Composition
+        id="MarsWalkGuideShort"
+        component={MarsWalkGuideShort}
+        width={MARS_WALK_WIDTH}
+        height={MARS_WALK_HEIGHT}
+        fps={MARS_WALK_FPS}
+        durationInFrames={getMarsWalkTimeline(marsWalkEpisode).totalFrames}
+        defaultProps={{episode: marsWalkEpisode}}
+        calculateMetadata={({props}) => {
+          const ep = (props as {episode: Episode}).episode;
+          return {
+            durationInFrames: getMarsWalkTimeline(ep).totalFrames,
+            fps: MARS_WALK_FPS,
+            width: MARS_WALK_WIDTH,
+            height: MARS_WALK_HEIGHT,
           };
         }}
       />

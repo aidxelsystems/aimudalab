@@ -63,9 +63,9 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | active episode | `space-walk-guide-mars-03` |
 | owner | `PC2 / Codex` |
 | production status | `editing` |
-| active render | なし |
+| active render | `npm run finalize:handoff -- ProductionTeam/handoffs/space-walk-guide-mars-03.render.json` |
 | available assets | Flow 8秒×2本、制作ブリーフ、生成プロンプト、episode JSON |
-| next production action | VOICEVOX音声を生成・計測し、Remotion本編を実装する |
+| next production action | 29.61秒のRemotion本編をレンダーし、機械QCと代表フレーム確認を完了する |
 | user direction | 本作をFlow方式の最後の作品として完成させ、その後は新しい漫画検証方針へ移行する |
 
 ## 現在の制作環境（PC2）
