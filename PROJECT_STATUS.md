@@ -24,9 +24,11 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | task | `2026-09-06-two-pc-team-role-design` |
 | owner | `PC1 / Codex` |
-| status | `documentation-in-progress` |
+| status | `completed` |
 | purpose | PC1を企画・分析中心、PC2を高負荷制作中心に分け、GitHub経由の受け渡しを標準化する |
-| next action | 役割分担、引継ぎ条件、例外ルールを文書化し、Project StatusとProduction Boardへ反映する |
+| next action | PC1は次の企画・出典・制作ブリーフを作成し、PC2はユーザー承認後に`motion-comic-eiffel-scam-01`をclaimして制作する |
+
+標準分担は`MULTI_PC_TEAM_OPERATIONS.md`を正とする。PC1はOperationTeam・PlanningTeam・BusinessTeamとProductionTeamの制作設計、PC2は素材処理・VOICEVOX・Remotion・レンダリング・QCを担当する。
 
 ### 全Team連携タスク
 
