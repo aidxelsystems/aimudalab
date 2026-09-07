@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "motion-comic-eiffel-scam-01-v3",
+  "status": "ready",
+  "preparedBy": "PC2 / Codex",
+  "compositionId": "MotionComicEiffelScamV2Short",
+  "props": "../../data/episodes/motion-comic-eiffel-scam-01-v2.resolved.json",
+  "output": {
+    "render": "../../out/motion-comic-eiffel-scam-01-render-v3.mp4",
+    "final": "../../out/motion-comic-eiffel-scam-01-final-v3.mp4",
+    "qcDir": "../../out/qc/motion-comic-eiffel-scam-01-v3-handoff",
+    "qcReport": "../output/2026-09-08-motion-comic-eiffel-scam-01-v3-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {"min": 41.0, "max": 41.4}
+  },
+  "render": {"crf": 16, "concurrency": 4, "audioBitrate": "192k"},
+  "audio": {"normalize": true, "targetLufs": -16, "truePeakDb": -1.4, "lra": 7, "sampleRate": 48000},
+  "checkpoints": [
+    {"time": 1.0, "label": "2回売った男フック"},
+    {"time": 6.9, "label": "普通ならと思うところを"},
+    {"time": 9.2, "label": "これ売れるな"},
+    {"time": 12.5, "label": "そこで偽文書"},
+    {"time": 18.8, "label": "秘密会合の語尾"},
+    {"time": 20.7, "label": "会合後の間と購入宣言"},
+    {"time": 22.4, "label": "購入宣言後の間と支払い"},
+    {"time": 26.0, "label": "そして男は逃亡"},
+    {"time": 29.3, "label": "追っ手は来ない"},
+    {"time": 31.7, "label": "なぜなら被害者は"},
+    {"time": 35.4, "label": "ならもう一度"},
+    {"time": 38.2, "label": "2回目ツッコミ"},
+    {"time": 39.5, "label": "別件逮捕注記"}
+  ],
+  "sources": [
+    "../../data/episodes/motion-comic-eiffel-scam-01-v2.resolved.json",
+    "../drafts/motion-comic-eiffel-scam-01-v2-revision-brief.md",
+    "../../src/MotionComicEiffelScamV2Short.tsx",
+    "../../public/BGM/The Tower Again.mp3"
+  ],
+  "notes": "v2の映像演出を維持し、タイトル・語尾・接続詞・音声抜け・間を修正。秘密会合と購入宣言の間は音声を重ねない。公開投稿は別承認。"
+}

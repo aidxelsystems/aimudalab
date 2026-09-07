@@ -6,10 +6,10 @@
   "odaiVoiceSpeed": 1.2,
   "odaiVoicePitch": -0.03,
   "odaiVoiceIntonation": 1.03,
-  "theme": "エッフェル塔を売った詐欺師の異常な思考",
+  "theme": "エッフェル塔を2回売った男の異常な思考",
     "bgm": "BGM/The Tower Again.mp3",
   "hook_style": "overlay_first_image",
-  "hook_headline": "エッフェル塔を売った男",
+  "hook_headline": "エッフェル塔を2回売った男",
   "outro_style": "image_loop",
   "answers": [
     {
@@ -26,7 +26,7 @@
     {
       "id": "a2",
       "text": "普通なら\n維持、大変だな",
-      "reading": "普通なら、維持が大変だ。",
+      "reading": "普通なら、維持が大変だな、と思うところを。",
       "tag": "normal",
       "duration": 1.5,
       "speakerId": 13,
@@ -48,7 +48,7 @@
     {
       "id": "a4",
       "text": "偽の政府文書を用意",
-      "reading": "ところが男は、偽の政府文書を用意。",
+      "reading": "そこで男は、偽の政府文書を用意。",
       "tag": "normal",
       "duration": 2.5,
       "speakerId": 13,
@@ -92,7 +92,7 @@
     {
       "id": "a8",
       "text": "本当に売れた",
-      "reading": "そして買い手は、本当に代金を支払った。",
+      "reading": "買い手は、代金を支払った。",
       "tag": "peak",
       "duration": 2.2,
       "speakerId": 13,
@@ -103,7 +103,7 @@
     {
       "id": "a9",
       "text": "代金を持って\n国外へ逃亡",
-      "reading": "代金を持って、国外へ逃亡。",
+      "reading": "そして男は、代金を持って、国外へ逃亡。",
       "tag": "recovery",
       "duration": 2.1,
       "speakerId": 13,
@@ -114,7 +114,7 @@
     {
       "id": "a10",
       "text": "恥ずかしくて\n通報しなかった",
-      "reading": "被害者は、恥ずかしくて通報しなかった。",
+      "reading": "なぜなら、被害者は恥ずかしくて、通報しなかった。",
       "tag": "normal",
       "duration": 2.5,
       "speakerId": 13,
@@ -152,8 +152,8 @@
   "outroVoicePitch": 0.02,
   "outroVoiceIntonation": 1.26,
   "_notes": {
-    "target_duration": "34.0秒 / 1020フレーム",
-    "fact_scope": "1回目の詐欺成功と、同じ塔を再び売ろうとした判断を描く。2回目の成功とは断定しない。",
+    "target_duration": "41.2秒 / 1235フレーム",
+    "fact_scope": "広く知られる呼称に合わせてタイトルは『エッフェル塔を2回売った男』。本編では1回目の成功と、2回目への再挑戦を描く。",
     "arrest_note": "※この男、約10年後に別件で逮捕 / 良い子はマネしないでね",
     "sources": [
       "https://www.toureiffel.paris/en/news/history-and-culture/who-sold-eiffel-tower",

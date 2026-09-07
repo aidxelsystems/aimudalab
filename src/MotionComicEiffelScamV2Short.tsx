@@ -17,7 +17,7 @@ const {fontFamily} = loadFont("normal", {weights: ["700", "900"]});
 export const EIFFEL_SCAM_V2_FPS = 30;
 export const EIFFEL_SCAM_V2_WIDTH = 1080;
 export const EIFFEL_SCAM_V2_HEIGHT = 1920;
-export const EIFFEL_SCAM_V2_DURATION = 1020;
+export const EIFFEL_SCAM_V2_DURATION = 1235;
 
 const clamp = {extrapolateLeft: "clamp", extrapolateRight: "clamp"} as const;
 const base = "image/motion-comic-eiffel-scam-01";
@@ -102,7 +102,7 @@ const Hook = () => {
     <ImageScene src={images.hook} duration={75} origin="40% 58%" fromScale={1.03} toScale={1.12} />
     <div style={{position: "absolute", top: 115, left: 70, right: 165, fontFamily, fontWeight: 900, textAlign: "center", opacity: p, transform: `scale(${interpolate(p, [0, 1], [.78, 1], clamp)})`}}>
       <div style={{display: "inline-block", padding: "10px 27px", color: "white", background: "#c92732", border: "5px solid #fff4d8", borderRadius: 999, fontSize: 46}}>実際にあった話</div>
-      <div style={{marginTop: 18, color: "#fff8df", fontSize: 91, lineHeight: 1.02, WebkitTextStroke: "14px #09090c", paintOrder: "stroke fill"}}>エッフェル塔を<br/><span style={{color: "#ffd13c", fontSize: 116}}>売った男</span></div>
+      <div style={{marginTop: 18, color: "#fff8df", fontSize: 84, lineHeight: 1.02, WebkitTextStroke: "14px #09090c", paintOrder: "stroke fill"}}>エッフェル塔を<br/><span style={{color: "#ffd13c", fontSize: 108}}>2回売った男</span></div>
     </div>
   </>;
 };
@@ -122,7 +122,7 @@ const Newspaper = () => {
 const ThoughtGap = () => <>
   <ImageScene src={images.gap} duration={90} origin="50% 47%" fromScale={1.01} toScale={1.065} />
   <Sequence from={0} durationInFrames={54}><Label top={1300} color="#9aa6ad" size={57}>普通なら「維持、大変だな」</Label></Sequence>
-  <Sequence from={54}><Impact top={1090} size={116}>これ、売れるな</Impact></Sequence>
+  <Sequence from={93}><Impact top={1090} size={116}>これ、売れるな</Impact></Sequence>
 </>;
 
 const Forgery = () => {
@@ -142,14 +142,14 @@ const Meeting = () => <>
 </>;
 
 const Sale = () => <>
-  <ImageScene src={images.payment} duration={120} origin="44% 65%" fromScale={1.02} toScale={1.12} />
+  <ImageScene src={images.payment} duration={150} origin="44% 65%" fromScale={1.02} toScale={1.12} />
   <Speech top={195}>私が買います</Speech>
-  <Sequence from={60}><Impact top={1080} size={120}>本当に売れた</Impact></Sequence>
+  <Sequence from={70}><Impact top={1080} size={120}>本当に売れた</Impact></Sequence>
 </>;
 
 const Escape = () => {
   const frame = useCurrentFrame();
-  const relief = frame >= 60;
+  const relief = frame >= 90;
   return <>
     <ImageScene src={relief ? images.silence : images.escape} duration={120} origin={relief ? "51% 45%" : "43% 29%"} fromScale={relief ? 1.11 : 1.12} toScale={relief ? 1.03 : 1.2} filter={relief ? "contrast(1.03) saturate(.88) sepia(.12)" : "contrast(1.15) saturate(.72) hue-rotate(175deg)"} shake={relief ? 0 : 5} />
     <Label top={1320} color={relief ? "#e5b957" : "#ef3945"} size={60}>{relief ? "……追っ手は来ない" : "代金を持って、国外へ逃亡"}</Label>
@@ -158,7 +158,7 @@ const Escape = () => {
 
 const Silence = () => {
   const frame = useCurrentFrame();
-  const realize = frame >= 60;
+  const realize = frame >= 105;
   return <>
     <ImageScene src={realize ? images.silence : images.escape} duration={90} origin={realize ? "51% 38%" : "48% 78%"} fromScale={realize ? 1.15 : 1.14} toScale={realize ? 1.21 : 1.2} filter="contrast(1.08) saturate(.45) brightness(.72)" />
     {!realize && <Label top={1270} color="#a9b0b4" size={56}>被害者は、恥ずかしくて<br/>通報しなかった</Label>}
@@ -188,17 +188,17 @@ const Finale = () => <>
 const Disclosure = () => <div style={{position:"absolute",bottom:62,left:55,right:165,color:"rgba(255,255,255,.88)",fontFamily,fontSize:23,fontWeight:700,textAlign:"center",textShadow:"0 2px 5px #000"}}>AI生成画像による再現・台詞は演出</div>;
 
 const Voice: React.FC<{episode: Episode}> = ({episode}) => {
-  const starts = [79,180,234,274,394,458,520,553,634,754,823,880];
+  const starts = [79,180,273,319,439,505,620,665,754,924,861,1050];
   return <>
     {episode.odaiAudioFile && <Sequence from={4}><Audio src={staticFile(episode.odaiAudioFile)} /></Sequence>}
     {episode.answers.map((a, i) => a.audioFile ? <Sequence key={a.id} from={starts[i]}><Audio src={staticFile(a.audioFile)} /></Sequence> : null)}
-    {episode.outroAudioFile && <Sequence from={930}><Audio src={staticFile(episode.outroAudioFile)} /></Sequence>}
+    {episode.outroAudioFile && <Sequence from={1135}><Audio src={staticFile(episode.outroAudioFile)} /></Sequence>}
   </>;
 };
 
 export const MotionComicEiffelScamV2Short: React.FC<{episode: Episode}> = ({episode}) => {
   const frame = useCurrentFrame();
-  const globalShake = [234,570,930].reduce((sum, hit) => {
+  const globalShake = [273,670,1135].reduce((sum, hit) => {
     const d = frame - hit;
     return sum + (d >= 0 && d < 15 ? Math.sin(d * 3.1) * (15 - d) * .7 : 0);
   }, 0);
@@ -206,34 +206,34 @@ export const MotionComicEiffelScamV2Short: React.FC<{episode: Episode}> = ({epis
     <AbsoluteFill style={{transform:`translateX(${globalShake}px)`}}>
       <Sequence from={0} durationInFrames={75}><Hook/></Sequence>
       <Sequence from={75} durationInFrames={105}><Newspaper/></Sequence>
-      <Sequence from={180} durationInFrames={90}><ThoughtGap/></Sequence>
-      <Sequence from={270} durationInFrames={120}><Forgery/></Sequence>
-      <Sequence from={390} durationInFrames={120}><Meeting/></Sequence>
-      <Sequence from={510} durationInFrames={120}><Sale/></Sequence>
-      <Sequence from={630} durationInFrames={120}><Escape/></Sequence>
-      <Sequence from={750} durationInFrames={90}><Silence/></Sequence>
-      <Sequence from={840} durationInFrames={45}><ImageScene src={images.silence} duration={45} origin="51% 38%" fromScale={1.19} toScale={1.23}/><Sequence from={28}><Speech top={230}>なら、もう一度</Speech></Sequence></Sequence>
-      <Sequence from={885} durationInFrames={20}><Rewind/></Sequence>
-      <Sequence from={905} durationInFrames={115}><Finale/></Sequence>
+      <Sequence from={180} durationInFrames={135}><ThoughtGap/></Sequence>
+      <Sequence from={315} durationInFrames={120}><Forgery/></Sequence>
+      <Sequence from={435} durationInFrames={165}><Meeting/></Sequence>
+      <Sequence from={600} durationInFrames={150}><Sale/></Sequence>
+      <Sequence from={750} durationInFrames={170}><Escape/></Sequence>
+      <Sequence from={920} durationInFrames={115}><Silence/></Sequence>
+      <Sequence from={1035} durationInFrames={55}><ImageScene src={images.silence} duration={55} origin="51% 38%" fromScale={1.19} toScale={1.23}/><Sequence from={15}><Speech top={230}>なら、もう一度</Speech></Sequence></Sequence>
+      <Sequence from={1090} durationInFrames={20}><Rewind/></Sequence>
+      <Sequence from={1110} durationInFrames={125}><Finale/></Sequence>
     </AbsoluteFill>
     <Disclosure/>
     <Voice episode={episode}/>
     {episode.bgm && (
       <Audio src={staticFile(episode.bgm)} volume={(f) => {
       if (f < 12) return interpolate(f,[0,12],[0,.058],clamp);
-      if (f >= 218 && f < 250) return interpolate(f,[218,226,240,250],[.058,.009,.009,.058],clamp);
-      if (f >= 550 && f < 610) return interpolate(f,[550,570,590,610],[.052,.078,.064,.052],clamp);
-      if (f >= 630 && f < 750) return interpolate(f,[630,690,735,750],[.052,.035,.027,.016],clamp);
-      if (f >= 750 && f < 885) return .009;
-      if (f >= 885 && f < 945) return interpolate(f,[885,905,930,945],[.012,.05,.075,.055],clamp);
-      if (f >= 990) return interpolate(f,[990,1019],[.05,0],clamp);
+      if (f >= 255 && f < 290) return interpolate(f,[255,263,280,290],[.058,.009,.009,.058],clamp);
+      if (f >= 645 && f < 715) return interpolate(f,[645,670,690,715],[.052,.078,.064,.052],clamp);
+      if (f >= 750 && f < 920) return interpolate(f,[750,810,885,920],[.052,.035,.024,.014],clamp);
+      if (f >= 920 && f < 1090) return .009;
+      if (f >= 1090 && f < 1150) return interpolate(f,[1090,1110,1135,1150],[.012,.05,.075,.055],clamp);
+      if (f >= 1200) return interpolate(f,[1200,1234],[.05,0],clamp);
       return .052;
       }}/>
     )}
-    <Sequence from={234}><Audio src={staticFile("Effect/文字表示の衝撃音3.mp3")} volume={.19}/></Sequence>
-    <Sequence from={330}><Audio src={staticFile("Effect/決定ボタンを押す3.mp3")} volume={.13}/></Sequence>
-    <Sequence from={570}><Audio src={staticFile("Effect/シャキーン1.mp3")} volume={.16}/></Sequence>
-    <Sequence from={885}><Audio src={staticFile("Effect/ショック2.mp3")} volume={.12}/></Sequence>
-    <Sequence from={930}><Audio src={staticFile("Effect/ビシッとツッコミ1.mp3")} volume={.2}/></Sequence>
+    <Sequence from={273}><Audio src={staticFile("Effect/文字表示の衝撃音3.mp3")} volume={.19}/></Sequence>
+    <Sequence from={375}><Audio src={staticFile("Effect/決定ボタンを押す3.mp3")} volume={.13}/></Sequence>
+    <Sequence from={670}><Audio src={staticFile("Effect/シャキーン1.mp3")} volume={.16}/></Sequence>
+    <Sequence from={1090}><Audio src={staticFile("Effect/ショック2.mp3")} volume={.12}/></Sequence>
+    <Sequence from={1135}><Audio src={staticFile("Effect/ビシッとツッコミ1.mp3")} volume={.2}/></Sequence>
   </AbsoluteFill>;
 };

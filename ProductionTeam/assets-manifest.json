@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "storage": "google-drive",
   "assetCount": 434,
-  "totalBytes": 331183530,
+  "totalBytes": 331287978,
   "assets": [
     {
       "path": "charactor/ai-no-mudazukai-youtube-banner-2560x1440.png",
@@ -1906,8 +1906,8 @@
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a10.wav",
-      "bytes": 106540,
-      "sha256": "d526e848e5879d014e1fd3d5e392bdf90a5c5f85344c341930bfea3b1f748525"
+      "bytes": 141356,
+      "sha256": "344a06f9828297185c6cbf3f1e3c579e97db536dbcf4cb462247e1eb9102646d"
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a11.wav",
@@ -1921,8 +1921,8 @@
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a2.wav",
-      "bytes": 81452,
-      "sha256": "356d56c194c9e909cd0e23ecbe21242832d935fd6b00fc5a43e96d721ea50ef7"
+      "bytes": 133164,
+      "sha256": "2b29c48dc99549d97e3ae2e02615fba42cc413b0c2f5a5d7eeb0fd89dc018a3b"
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a3.wav",
@@ -1931,8 +1931,8 @@
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a4.wav",
-      "bytes": 113708,
-      "sha256": "829df5cacbaeeb7e976cbe83675f5782e7f9146bc6a0a8690e900022668af47b"
+      "bytes": 112172,
+      "sha256": "05996f55eede1eb660d029eebc4a3ec19689d38632af2b91b3d2bd320dd076d1"
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a5.wav",
@@ -1951,13 +1951,13 @@
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a8.wav",
-      "bytes": 114732,
-      "sha256": "d59f0f79abcdd91ebddcb7f4daae51e425ed4cf2a53ee58ea41d0c4426d28489"
+      "bytes": 84524,
+      "sha256": "507b60efbc74da6f377df52d153e31811e0a1cc91192443c0c3d6181686d3b57"
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/a9.wav",
-      "bytes": 98348,
-      "sha256": "b375a49660022d3424190e315b5626ec320d8bda7a9abdd3f29a368178e9c9eb"
+      "bytes": 148012,
+      "sha256": "a623b60914fefe7279588d6b54a43367f1fc5511612a64c69aa34c779b7bb75f"
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01-v2/odai.wav",

@@ -44,7 +44,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-panel-prototype-01` |
 | owner | `PC1 / Codex` |
-| production status | `editing` |
+| production status | `qc-passed` |
 | active render | なし |
 | uncommitted production work | なし。3コマ切替・ズーム移動・青山龍星＋四国めたん字幕の7.28秒試作を完成し、機械QCと代表フレーム確認済み |
 | next production action | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認する |
@@ -76,8 +76,8 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | owner | `PC2 / Codex` |
 | production status | `qc-passed` |
 | active render | なし |
-| available assets | v1に加え、v2追加画像4枚、VOICEVOX 14音声、Suno専用BGM `The Tower Again.mp3`、34秒Remotion実装、完成MP4、レンダー契約・QC |
-| next production action | ユーザー指示のナレーション語尾・音声抜け・間を修正し、v3をレンダーする |
+| available assets | v3完成MP4（41.3秒）、v2追加画像4枚、修正VOICEVOX 14音声、Suno専用BGM `The Tower Again.mp3`、Remotion実装、レンダー契約・QC |
+| next production action | ユーザーがv3の音声と間を最終視聴する |
 
 ## 現在の制作環境（PC2）
 
@@ -100,7 +100,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-mars-03` | YouTube予約済み | 2026-09-09 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
-| `motion-comic-eiffel-scam-01` | v2専用BGM版34.1秒のQC合格・未投稿 | 未定 | ユーザーが完成視聴する |
+| `motion-comic-eiffel-scam-01` | v3音声・間修正版41.3秒のQC合格・未投稿 | 未定 | ユーザーが完成視聴する |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -133,6 +133,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 - エッフェル塔モーションコミック完成動画: `out/motion-comic-eiffel-scam-01-final.mp4`（15.8秒、ローカル、未投稿）
 - エッフェル塔v2専用BGM版: `out/motion-comic-eiffel-scam-01-final-v2.mp4`（34.1秒、1080×1920 / 30fps / -15.93 LUFS、QC合格、ローカル、未投稿）
+- エッフェル塔v3音声・間修正版: `out/motion-comic-eiffel-scam-01-final-v3.mp4`（41.3秒、1080×1920 / 30fps / -15.99 LUFS、QC合格、ローカル、未投稿）
 - 機械QC: 合格（1080×1920 / 30fps / -16.20 LUFS / True Peak -1.39 dBTP）
 - 代表7フレーム＋1秒間隔16フレーム: 目視合格。5枚の人物連続性、字幕、出典、二周目オチ、CTAを確認済み。
 - 投稿状態: 未投稿。公開操作は別途ユーザー承認後にYouTube Studioで行う。
