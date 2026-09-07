@@ -17,7 +17,7 @@
 | space-walk-guide-venus-02 | Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 2カット・既存BGM `Lab Rocket Switch.mp3`・VOICEVOX 12音声 | `out/space-walk-guide-venus-02-final.mp4`（ローカル） | 2026-09-08 19:00 JST |
 | motion-comic-format-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーが字幕位置・青山龍星の速度を確認 | 画像・青山龍星音声（ローカル） | `out/motion-comic-format-prototype-01-final.mp4`（3.648秒、ローカル） | 非公開試作 |
 | motion-comic-panel-prototype-01 | PC1 / Codex | main | qc-passed | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認 | 既存エッフェル塔画像・VOICEVOX音声（ローカル） | `out/motion-comic-panel-prototype-01-final.mp4`（7.28秒、ローカル） | 非公開試作 |
-| motion-comic-eiffel-scam-01 | PC2 / Codex | main | revision-planned | v2修正ブリーフに従い、約34秒で緊張・売り抜けた安堵・再挑戦・逮捕注記を反映した別ファイルを制作 | v1素材＋新聞場面・偽装準備・気づき顔の追加画像が必要 | v1: `out/motion-comic-eiffel-scam-01-final.mp4`（15.8秒、ローカル） | 未定 |
+| motion-comic-eiffel-scam-01 | PC2 / Codex | main | editing | 新規4場面を生成し、34秒v2のVOICEVOX・Remotion演出へ進む | v1素材＋v2修正ブリーフ | v1: `out/motion-comic-eiffel-scam-01-final.mp4`（15.8秒、ローカル） | 未定 |
 | space-walk-guide-mars-03 | PC2 / Codex | main | scheduled | 公開24時間後・72時間後にOperationTeam分析 | Flow 8秒×2本・VOICEVOX 13音声・Remotion実装 | `out/space-walk-guide-mars-03-final.mp4`（29.8秒、ローカル） | 2026-09-09 19:00 JST |
 | `<episode-id>` | `<PC1/PC2>` | `<branch>` | idea | `<次に行う1工程>` | `<素材パス>` | `<完成パス>` | `<日時/未定>` |
 

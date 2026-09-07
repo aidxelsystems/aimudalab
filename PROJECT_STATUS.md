@@ -74,10 +74,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-eiffel-scam-01` |
 | owner | `PC2 / Codex` |
-| production status | `revision-planned` |
+| production status | `editing` |
 | active render | なし |
 | available assets | 人物アンカー、独立画像5枚、VOICEVOX 6音声、既存BGM、episode JSON、Remotion実装、制作ブリーフ、生成プロンプト、レンダー契約・QC |
-| next production action | PC2がv2修正ブリーフを同期し、約34秒で思考過程・緊張・売り抜けた安堵・再挑戦・逮捕注記を反映した別ファイルを制作する |
+| next production action | v1人物アンカーを基準に、新聞・常識との対比・偽装準備・追手が来ない気づきの新規4場面を生成する |
 
 ## 現在の制作環境（PC2）
 
