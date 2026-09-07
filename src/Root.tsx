@@ -34,6 +34,7 @@ import jupiterWalkData from "../data/episodes/space-walk-guide-jupiter-01.resolv
 import venusWalkData from "../data/episodes/space-walk-guide-venus-02.resolved.json";
 import marsWalkData from "../data/episodes/space-walk-guide-mars-03.resolved.json";
 import eiffelScamData from "../data/episodes/motion-comic-eiffel-scam-01.resolved.json";
+import eiffelScamV2Data from "../data/episodes/motion-comic-eiffel-scam-01-v2.resolved.json";
 import {
   AiLieQuizShort,
   getAiLieQuizTimeline,
@@ -252,9 +253,17 @@ import {
   EIFFEL_SCAM_WIDTH,
   MotionComicEiffelScamShort,
 } from "./MotionComicEiffelScamShort";
+import {
+  EIFFEL_SCAM_V2_DURATION,
+  EIFFEL_SCAM_V2_FPS,
+  EIFFEL_SCAM_V2_HEIGHT,
+  EIFFEL_SCAM_V2_WIDTH,
+  MotionComicEiffelScamV2Short,
+} from "./MotionComicEiffelScamV2Short";
 
 const storyEpisode = storyData as unknown as Episode;
 const resolvedEpisode = (resolvedData as unknown as { episode: Episode }).episode;
+const eiffelScamV2Episode = (eiffelScamV2Data as unknown as {episode: Episode}).episode;
 const aiLieAnimalsEpisode = (
   aiLieAnimalsData as unknown as { episode: Episode }
 ).episode;
@@ -932,6 +941,15 @@ export const RemotionRoot: React.FC = () => {
         fps={EIFFEL_SCAM_FPS}
         durationInFrames={EIFFEL_SCAM_DURATION}
         defaultProps={{episode: eiffelScamEpisode}}
+      />
+      <Composition
+        id="MotionComicEiffelScamV2Short"
+        component={MotionComicEiffelScamV2Short}
+        width={EIFFEL_SCAM_V2_WIDTH}
+        height={EIFFEL_SCAM_V2_HEIGHT}
+        fps={EIFFEL_SCAM_V2_FPS}
+        durationInFrames={EIFFEL_SCAM_V2_DURATION}
+        defaultProps={{episode: eiffelScamV2Episode}}
       />
     </>
   );

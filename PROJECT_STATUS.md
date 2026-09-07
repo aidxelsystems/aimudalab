@@ -76,8 +76,8 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | owner | `PC2 / Codex` |
 | production status | `editing` |
 | active render | なし |
-| available assets | 人物アンカー、独立画像5枚、VOICEVOX 6音声、既存BGM、episode JSON、Remotion実装、制作ブリーフ、生成プロンプト、レンダー契約・QC |
-| next production action | v1人物アンカーを基準に、新聞・常識との対比・偽装準備・追手が来ない気づきの新規4場面を生成する |
+| available assets | v1に加え、v2追加画像4枚、VOICEVOX 14音声、34秒Remotion実装、仮BGM版MP4、レンダー契約・機械QC |
+| next production action | ユーザー生成のSuno専用BGMを受領後、34秒の感情転換点へ同期させ、再レンダー・最終視聴する |
 
 ## 現在の制作環境（PC2）
 
@@ -100,7 +100,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-mars-03` | YouTube予約済み | 2026-09-09 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
-| `motion-comic-eiffel-scam-01` | v1 QC後、v2修正待ち・未投稿 | 未定 | PC2がv2を制作し、ユーザーが完成確認する |
+| `motion-comic-eiffel-scam-01` | v2仮BGM版34.1秒の機械QC合格・専用BGM待ち・未投稿 | 未定 | Suno専用BGMを受領後、再レンダーと最終視聴 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -132,6 +132,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 - 火星回YouTube: `https://youtu.be/5O8pGAc5A2k`（2026-09-09 19:00 JST予約）
 
 - エッフェル塔モーションコミック完成動画: `out/motion-comic-eiffel-scam-01-final.mp4`（15.8秒、ローカル、未投稿）
+- エッフェル塔v2仮BGM版: `out/motion-comic-eiffel-scam-01-final-v2.mp4`（34.1秒、1080×1920 / 30fps / -15.93 LUFS、機械QC合格、ローカル、未投稿）
 - 機械QC: 合格（1080×1920 / 30fps / -16.20 LUFS / True Peak -1.39 dBTP）
 - 代表7フレーム＋1秒間隔16フレーム: 目視合格。5枚の人物連続性、字幕、出典、二周目オチ、CTAを確認済み。
 - 投稿状態: 未投稿。公開操作は別途ユーザー承認後にYouTube Studioで行う。

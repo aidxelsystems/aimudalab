@@ -1,0 +1,163 @@
+{
+  "id": "motion-comic-eiffel-scam-01-v2",
+  "odai": "実際にあった話",
+  "odai_reading": "これは、実際にあった話です。",
+  "odaiSpeakerId": 13,
+  "odaiVoiceSpeed": 1.2,
+  "odaiVoicePitch": -0.03,
+  "odaiVoiceIntonation": 1.03,
+  "theme": "エッフェル塔を売った詐欺師の異常な思考",
+  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+  "hook_style": "overlay_first_image",
+  "hook_headline": "エッフェル塔を売った男",
+  "outro_style": "image_loop",
+  "answers": [
+    {
+      "id": "a1",
+      "text": "維持費が高すぎる",
+      "reading": "男は、エッフェル塔の高すぎる維持費を新聞で知った。",
+      "tag": "normal",
+      "duration": 3.3,
+      "speakerId": 13,
+      "voiceSpeed": 1.25,
+      "voicePitch": -0.03,
+      "voiceIntonation": 1.04
+    },
+    {
+      "id": "a2",
+      "text": "普通なら\n維持、大変だな",
+      "reading": "普通なら、維持が大変だ。",
+      "tag": "normal",
+      "duration": 1.5,
+      "speakerId": 13,
+      "voiceSpeed": 1.3,
+      "voicePitch": -0.03,
+      "voiceIntonation": 1.02
+    },
+    {
+      "id": "a3",
+      "text": "これ、売れるな",
+      "reading": "これ、売れるな。",
+      "tag": "peak",
+      "duration": 1.3,
+      "speakerId": 11,
+      "voiceSpeed": 1.08,
+      "voicePitch": -0.04,
+      "voiceIntonation": 1.16
+    },
+    {
+      "id": "a4",
+      "text": "偽の政府文書を用意",
+      "reading": "ところが男は、偽の政府文書を用意。",
+      "tag": "normal",
+      "duration": 2.5,
+      "speakerId": 13,
+      "voiceSpeed": 1.25,
+      "voicePitch": -0.03,
+      "voiceIntonation": 1.05
+    },
+    {
+      "id": "a5",
+      "text": "政府による\n極秘の解体です",
+      "reading": "政府による、極秘の解体です。",
+      "tag": "normal",
+      "duration": 2.0,
+      "speakerId": 11,
+      "voiceSpeed": 1.11,
+      "voicePitch": -0.04,
+      "voiceIntonation": 1.08
+    },
+    {
+      "id": "a6",
+      "text": "役人を装い\n秘密会合へ",
+      "reading": "政府の役人を装い、業者を秘密会合へ。",
+      "tag": "normal",
+      "duration": 2.6,
+      "speakerId": 13,
+      "voiceSpeed": 1.3,
+      "voicePitch": -0.03,
+      "voiceIntonation": 1.04
+    },
+    {
+      "id": "a7",
+      "text": "私が買います",
+      "reading": "私が買います。",
+      "tag": "normal",
+      "duration": 1.2,
+      "speakerId": 11,
+      "voiceSpeed": 1.17,
+      "voicePitch": 0.04,
+      "voiceIntonation": 1.13
+    },
+    {
+      "id": "a8",
+      "text": "本当に売れた",
+      "reading": "そして買い手は、本当に代金を支払った。",
+      "tag": "peak",
+      "duration": 2.2,
+      "speakerId": 13,
+      "voiceSpeed": 1.28,
+      "voicePitch": -0.02,
+      "voiceIntonation": 1.12
+    },
+    {
+      "id": "a9",
+      "text": "代金を持って\n国外へ逃亡",
+      "reading": "代金を持って、国外へ逃亡。",
+      "tag": "recovery",
+      "duration": 2.1,
+      "speakerId": 13,
+      "voiceSpeed": 1.25,
+      "voicePitch": -0.03,
+      "voiceIntonation": 1.05
+    },
+    {
+      "id": "a10",
+      "text": "恥ずかしくて\n通報しなかった",
+      "reading": "被害者は、恥ずかしくて通報しなかった。",
+      "tag": "normal",
+      "duration": 2.5,
+      "speakerId": 13,
+      "voiceSpeed": 1.28,
+      "voicePitch": -0.04,
+      "voiceIntonation": 1.0
+    },
+    {
+      "id": "a11",
+      "text": "誰も追ってこない……",
+      "reading": "誰も、追ってこない。",
+      "tag": "tendon",
+      "duration": 1.7,
+      "speakerId": 11,
+      "voiceSpeed": 0.98,
+      "voicePitch": -0.05,
+      "voiceIntonation": 0.98
+    },
+    {
+      "id": "a12",
+      "text": "なら、もう一度",
+      "reading": "なら、もう一度。",
+      "tag": "tendon",
+      "duration": 1.3,
+      "speakerId": 11,
+      "voiceSpeed": 1.02,
+      "voicePitch": -0.05,
+      "voiceIntonation": 1.08
+    }
+  ],
+  "outro": "エッフェル塔、\n2回目も売るんかい！",
+  "outro_reading": "エッフェル塔、二回目も売るんかい！",
+  "outroSpeakerId": 3,
+  "outroVoiceSpeed": 1.15,
+  "outroVoicePitch": 0.02,
+  "outroVoiceIntonation": 1.26,
+  "_notes": {
+    "target_duration": "34.0秒 / 1020フレーム",
+    "fact_scope": "1回目の詐欺成功と、同じ塔を再び売ろうとした判断を描く。2回目の成功とは断定しない。",
+    "arrest_note": "※この男、約10年後に別件で逮捕 / 良い子はマネしないでね",
+    "sources": [
+      "https://www.toureiffel.paris/en/news/history-and-culture/who-sold-eiffel-tower",
+      "https://www.smithsonianmag.com/history/man-who-sold-eiffel-tower-twice-180958370/"
+    ]
+  }
+}

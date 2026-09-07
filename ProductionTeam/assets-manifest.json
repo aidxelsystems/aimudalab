@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "storage": "google-drive",
-  "assetCount": 414,
-  "totalBytes": 315515364,
+  "assetCount": 433,
+  "totalBytes": 327071550,
   "assets": [
     {
       "path": "charactor/ai-no-mudazukai-youtube-banner-2560x1440.png",
@@ -188,6 +188,11 @@
       "path": "ProductionTeam/output/motion-comic-eiffel-scam-01/panel-contact-sheet.png",
       "bytes": 1355513,
       "sha256": "24313b4a67f9c89c7224477e9b2a4883f9572c641bebb10758d5914bb832a1e2"
+    },
+    {
+      "path": "ProductionTeam/output/motion-comic-eiffel-scam-01/v2-new-assets-contact-sheet.png",
+      "bytes": 1069913,
+      "sha256": "20a32a94457ba0e937e429d39d5195e128dea9169a0c238394d45fb10e7cd85f"
     },
     {
       "path": "public/BGM/Cleanline Scan.mp3",
@@ -553,6 +558,26 @@
       "path": "public/image/motion-comic-eiffel-scam-01/panel-05-second-buyer.png",
       "bytes": 2419946,
       "sha256": "f0e6480033b7f1d3cdd728107412eb06a2ff92ea985479a23a90ded62c7e5fc3"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-v2-02-newspaper.png",
+      "bytes": 2330229,
+      "sha256": "76f1b0c589f29a126996e4ad61cbe9e2fd7c3bc6647c3301e3ea3d9f8d846257"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-v2-03-thought-gap.png",
+      "bytes": 2247757,
+      "sha256": "e040a275edf2607d34acd297a472b10d48e89615d6f3b4826171780bc9febcbe"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-v2-04-forgery.png",
+      "bytes": 2421373,
+      "sha256": "35c916a0d90fd0add143e7cc9e85f78dc69e3352b87a771693d83566b6425356"
+    },
+    {
+      "path": "public/image/motion-comic-eiffel-scam-01/panel-v2-08-no-pursuit.png",
+      "bytes": 2136154,
+      "sha256": "311ad15acdfb7addfc4ae2c689154144281f0c26f3907d9025057cc2754cb639"
     },
     {
       "path": "public/image/prince-rupert-micrographia-1665.png",
@@ -1868,6 +1893,76 @@
       "path": "public/voice/konna-onsen-ryokan-short/outro.wav",
       "bytes": 159276,
       "sha256": "91139842bbfba50b464aaa4e502d3cb6fe047738a3ee0e136c843d220a6dd7fc"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a1.wav",
+      "bytes": 148524,
+      "sha256": "5d5e2cec70456fa5333bfb13dda88dec5bc191ad610d15fc07b51cfee3222b46"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a10.wav",
+      "bytes": 106540,
+      "sha256": "d526e848e5879d014e1fd3d5e392bdf90a5c5f85344c341930bfea3b1f748525"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a11.wav",
+      "bytes": 81964,
+      "sha256": "ebef895d521921e9180402e8befc45bc4134b60ed1eda5941de58814549d1786"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a12.wav",
+      "bytes": 62508,
+      "sha256": "ad2e2154fd44fd58d145ee538301f79e026ed60db0f4f113b410c8370fea18d3"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a2.wav",
+      "bytes": 81452,
+      "sha256": "356d56c194c9e909cd0e23ecbe21242832d935fd6b00fc5a43e96d721ea50ef7"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a3.wav",
+      "bytes": 55852,
+      "sha256": "417c8ec29c2bf2bc7874b4d1eeab0d312aeb2ee3b3c20d9c7c85bdf27a8252bf"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a4.wav",
+      "bytes": 113708,
+      "sha256": "829df5cacbaeeb7e976cbe83675f5782e7f9146bc6a0a8690e900022668af47b"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a5.wav",
+      "bytes": 97324,
+      "sha256": "43d9af15da58536da4490c7d40a98a868ef69cb1edd519d471300ba63a2a2ee7"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a6.wav",
+      "bytes": 136236,
+      "sha256": "2446d4fd9ff09e7e9c595f059fb24eefb57fee59fd71b290e6940bc68a32e3e3"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a7.wav",
+      "bytes": 39980,
+      "sha256": "ae0b46db0cccdc58ed44cf9795201d2b51b2eb965e4e429d6fb0a25ba2a6e029"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a8.wav",
+      "bytes": 114732,
+      "sha256": "d59f0f79abcdd91ebddcb7f4daae51e425ed4cf2a53ee58ea41d0c4426d28489"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/a9.wav",
+      "bytes": 98348,
+      "sha256": "b375a49660022d3424190e315b5626ec320d8bda7a9abdd3f29a368178e9c9eb"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/odai.wav",
+      "bytes": 98348,
+      "sha256": "9e2a051652695372a2d5de9cbe4a07550b5aa1d1e4744780ae92069951cddecf"
+    },
+    {
+      "path": "public/voice/motion-comic-eiffel-scam-01-v2/outro.wav",
+      "bytes": 115244,
+      "sha256": "02250dbf1307c21b90ab8d6b8a3efb4777e4b7f6813f713b2d9c3b75eeeee4f3"
     },
     {
       "path": "public/voice/motion-comic-eiffel-scam-01/a1.wav",

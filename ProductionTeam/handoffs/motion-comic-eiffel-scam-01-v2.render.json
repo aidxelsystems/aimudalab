@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "motion-comic-eiffel-scam-01-v2",
+  "status": "ready",
+  "preparedBy": "PC2 / Codex",
+  "compositionId": "MotionComicEiffelScamV2Short",
+  "props": "../../data/episodes/motion-comic-eiffel-scam-01-v2.resolved.json",
+  "output": {
+    "render": "../../out/motion-comic-eiffel-scam-01-render-v2.mp4",
+    "final": "../../out/motion-comic-eiffel-scam-01-final-v2.mp4",
+    "qcDir": "../../out/qc/motion-comic-eiffel-scam-01-v2-handoff",
+    "qcReport": "../output/2026-09-07-motion-comic-eiffel-scam-01-v2-qc.md"
+  },
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "durationSeconds": {"min": 33.8, "max": 34.2}
+  },
+  "render": {"crf": 16, "concurrency": 4, "audioBitrate": "192k"},
+  "audio": {"normalize": true, "targetLufs": -16, "truePeakDb": -1.4, "lra": 7, "sampleRate": 48000},
+  "checkpoints": [
+    {"time": 1.0, "label": "実話フック"},
+    {"time": 4.5, "label": "維持費の新聞"},
+    {"time": 7.9, "label": "これ売れるな"},
+    {"time": 11.0, "label": "偽文書の押印"},
+    {"time": 14.8, "label": "秘密会合"},
+    {"time": 19.0, "label": "本当に売れた"},
+    {"time": 23.1, "label": "逃亡後の安堵"},
+    {"time": 27.7, "label": "誰も追ってこない"},
+    {"time": 29.4, "label": "ならもう一度"},
+    {"time": 31.2, "label": "2回目も売るんかい"},
+    {"time": 32.7, "label": "別件逮捕注記"}
+  ],
+  "sources": [
+    "../../data/episodes/motion-comic-eiffel-scam-01-v2.resolved.json",
+    "../drafts/motion-comic-eiffel-scam-01-v2-revision-brief.md",
+    "../drafts/motion-comic-eiffel-scam-01-v2-prompts.md",
+    "../../src/MotionComicEiffelScamV2Short.tsx",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-v2-02-newspaper.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-v2-03-thought-gap.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-v2-04-forgery.png",
+    "../../public/image/motion-comic-eiffel-scam-01/panel-v2-08-no-pursuit.png",
+    "../../public/BGM/Glass Shatter Protocol.mp3",
+    "../../public/BGM/If I Had a Chicken - Kevin MacLeod.mp3"
+  ],
+  "notes": "v1は保存。詐欺中の緊張、成功後の安堵、再犯発想の意外性をRemotionの色・画角・振動・間・BGM切替で表現。2回目の成功は断定しない。公開投稿は別承認。"
+}

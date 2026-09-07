@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "motion-comic-eiffel-scam-01-v2",
+  "compositionId": "MotionComicEiffelScamV2Short",
+  "completedAt": "2026-09-07T14:38:34.690Z",
+  "status": "machine_qc_passed_human_review_required",
+  "finalOutput": "out/motion-comic-eiffel-scam-01-final-v2.mp4",
+  "technical": {
+    "durationSeconds": 34.1,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "loudness": {
+      "input_i": "-15.93",
+      "input_tp": "-1.24",
+      "input_lra": "5.00",
+      "input_thresh": "-26.81",
+      "output_i": "-16.15",
+      "output_tp": "-1.40",
+      "output_lra": "4.70",
+      "output_thresh": "-26.99",
+      "normalization_type": "dynamic",
+      "target_offset": "0.15"
+    }
+  },
+  "checkpoints": [
+    {
+      "time": 1,
+      "label": "実話フック",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/01_1s00_-.jpg"
+    },
+    {
+      "time": 4.5,
+      "label": "維持費の新聞",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/02_4s50_-.jpg"
+    },
+    {
+      "time": 7.9,
+      "label": "これ売れるな",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/03_7s90_-.jpg"
+    },
+    {
+      "time": 11,
+      "label": "偽文書の押印",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/04_11s00_-.jpg"
+    },
+    {
+      "time": 14.8,
+      "label": "秘密会合",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/05_14s80_-.jpg"
+    },
+    {
+      "time": 19,
+      "label": "本当に売れた",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/06_19s00_-.jpg"
+    },
+    {
+      "time": 23.1,
+      "label": "逃亡後の安堵",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/07_23s10_-.jpg"
+    },
+    {
+      "time": 27.7,
+      "label": "誰も追ってこない",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/08_27s70_-.jpg"
+    },
+    {
+      "time": 29.4,
+      "label": "ならもう一度",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/09_29s40_-.jpg"
+    },
+    {
+      "time": 31.2,
+      "label": "2回目も売るんかい",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/10_31s20_2-.jpg"
+    },
+    {
+      "time": 32.7,
+      "label": "別件逮捕注記",
+      "file": "out/qc/motion-comic-eiffel-scam-01-v2-handoff/11_32s70_-.jpg"
+    }
+  ]
+}
