@@ -1,6 +1,6 @@
 # AIMudaLab Project Status
 
-最終更新: 2026-09-06 JST
+最終更新: 2026-09-08 JST
 更新担当: Codex / PC1・PC2
 
 ## 同期状態
@@ -74,10 +74,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-eiffel-scam-01` |
 | owner | `PC2 / Codex` |
-| production status | `qc-passed` |
+| production status | `scheduled` |
 | active render | なし |
 | available assets | v3完成MP4（41.3秒）、v2追加画像4枚、修正VOICEVOX 14音声、Suno専用BGM `The Tower Again.mp3`、Remotion実装、レンダー契約・QC |
-| next production action | ユーザーがv3の音声と間を最終視聴する |
+| next production action | 2026-09-10 19:00 JSTの公開後、24時間・72時間指標を確認する |
 
 ## 現在の制作環境（PC2）
 
@@ -100,7 +100,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-mars-03` | YouTube予約済み | 2026-09-09 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
-| `motion-comic-eiffel-scam-01` | v3音声・間修正版41.3秒のQC合格・未投稿 | 未定 | ユーザーが完成視聴する |
+| `motion-comic-eiffel-scam-01` | YouTube予約済み | 2026-09-10 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
@@ -133,10 +133,11 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 
 - エッフェル塔モーションコミック完成動画: `out/motion-comic-eiffel-scam-01-final.mp4`（15.8秒、ローカル、未投稿）
 - エッフェル塔v2専用BGM版: `out/motion-comic-eiffel-scam-01-final-v2.mp4`（34.1秒、1080×1920 / 30fps / -15.93 LUFS、QC合格、ローカル、未投稿）
-- エッフェル塔v3音声・間修正版: `out/motion-comic-eiffel-scam-01-final-v3.mp4`（41.3秒、1080×1920 / 30fps / -15.99 LUFS、QC合格、ローカル、未投稿）
+- エッフェル塔v3音声・間修正版: `out/motion-comic-eiffel-scam-01-final-v3.mp4`（41.3秒、1080×1920 / 30fps / -15.99 LUFS、QC合格、YouTube予約済み）
 - 機械QC: 合格（1080×1920 / 30fps / -16.20 LUFS / True Peak -1.39 dBTP）
 - 代表7フレーム＋1秒間隔16フレーム: 目視合格。5枚の人物連続性、字幕、出典、二周目オチ、CTAを確認済み。
-- 投稿状態: 未投稿。公開操作は別途ユーザー承認後にYouTube Studioで行う。
+- YouTube: `https://youtu.be/uACHzxHjTNo`（2026-09-10 19:00 JST予約）
+- 投稿状態: 非公開・公開予約済み。合成コンテンツ表示を有効化。
 
 ## 共有ストレージ
 

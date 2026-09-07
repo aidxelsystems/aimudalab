@@ -4,7 +4,7 @@
 
 チャンネルの長期方針は `../CHANNEL_VISION.md` を正とし、現在はPhase 1「Shortsで認知と勝ち筋を探索」を最優先する。採用中の企画形式に対応する制作スキルと仕様を使用する。
 
-大喜利制作では `skills/write-visual-ogiri-scripts/SKILL.md` を読み、担当作業に対応する参照資料を読む。別形式では、その形式に対応するスキルと制作仕様を使用する。
+大喜利制作では `skills/write-visual-ogiri-scripts/SKILL.md` を読み、担当作業に対応する参照資料を読む。史実モーションコミックや「本当にあったムダ漫画」では `skills/build-emotional-motion-comic-short/SKILL.md` を読み、緊張・安堵・再転換の感情曲線と音声の間を設計する。別形式では、その形式に対応するスキルと制作仕様を使用する。
 
 ## 起動方法
 

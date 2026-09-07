@@ -1306,3 +1306,40 @@ BGM：Lab Rocket Switch（Suno AI生成・既存曲を再利用）
 ## YouTubeタグ候補
 
 火星, 火星 着陸, 火星 温度, 火星 大気, 火星 気圧, 火星 宇宙服, Mars, Mars temperature, Mars atmosphere, 宇宙, 宇宙旅行, 太陽系, NASA, 科学雑学, 宇宙雑学, AI再現, VOICEVOX, YouTube Shorts, ショート動画
+
+---
+
+# 「motion-comic-eiffel-scam-01-final-v3.mp4」YouTube投稿情報
+
+## タイトル
+
+実話：エッフェル塔を2回売った男、その発想がヤバい #Shorts
+
+## 概要欄
+
+「エッフェル塔を2回売った男」として知られる詐欺師、ヴィクトル・ラスティグ。
+1925年、維持費の問題を知った彼は、普通なら「大変だ」と思うところで「これ、売れるな」と発想します。政府の役人を装い、鉄くず業者を秘密会合へ集め、買い手から代金を受け取って国外へ逃亡しました。
+
+被害者は恥ずかしさから通報せず、それを知った男は同じ詐欺をもう一度試みます。
+エッフェル塔、2回目も売るんかい！
+チャンネル登録もよろしく！
+
+※史実をもとにした演出です。AI生成画像による再現と演出上の台詞を含みます。
+※ラスティグは約10年後、別件の偽札事件で逮捕されました。
+
+【参考資料】
+Eiffel Tower公式「Who sold the Eiffel Tower?」
+https://www.toureiffel.paris/en/news/history-and-culture/who-sold-eiffel-tower
+
+Smithsonian Magazine「The Man Who Sold the Eiffel Tower. Twice.」
+https://www.smithsonianmag.com/history/man-who-sold-eiffel-tower-twice-180958370/
+
+映像：AI生成画像／Remotion編集
+音声：VOICEVOX 青山龍星、VOICEVOX 玄野武宏、VOICEVOX ずんだもん
+BGM：The Tower Again（Suno AI生成）
+
+#エッフェル塔 #実話 #Shorts
+
+## YouTubeタグ候補
+
+エッフェル塔, エッフェル塔を売った男, ヴィクトル・ラスティグ, Victor Lustig, エッフェル塔 詐欺, 実話, 歴史, 歴史雑学, 詐欺師, 1925年, パリ, Eiffel Tower, Eiffel Tower scam, 本当にあった話, 本当にあったムダ漫画, モーションコミック, AI漫画, AI再現, VOICEVOX, YouTube Shorts, ショート動画
