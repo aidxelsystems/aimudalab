@@ -74,10 +74,10 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-eiffel-scam-01` |
 | owner | `PC2 / Codex` |
-| production status | `qc-passed` |
+| production status | `revision-planned` |
 | active render | なし |
 | available assets | 人物アンカー、独立画像5枚、VOICEVOX 6音声、既存BGM、episode JSON、Remotion実装、制作ブリーフ、生成プロンプト、レンダー契約・QC |
-| next production action | ユーザーが完成版を確認し、別途明示承認後にYouTube Studioから手動投稿する |
+| next production action | PC2がv2修正ブリーフを同期し、思考過程・感情曲線・Remotion演出・逮捕注記を反映した別ファイルを制作する |
 
 ## 現在の制作環境（PC2）
 
@@ -100,7 +100,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | `space-walk-guide-jupiter-01` | YouTube予約済み | 2026-09-07 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-venus-02` | YouTube予約済み | 2026-09-08 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
 | `space-walk-guide-mars-03` | YouTube予約済み | 2026-09-09 19:00 JST | 公開24時間後・72時間後にOperationTeam分析 |
-| `motion-comic-eiffel-scam-01` | QC合格・未投稿 | 未定 | ユーザー確認後、別途投稿承認を受ける |
+| `motion-comic-eiffel-scam-01` | v1 QC後、v2修正待ち・未投稿 | 未定 | PC2がv2を制作し、ユーザーが完成確認する |
 
 - 完成動画: `out/ai-viral-laser-cleaning-01-final-v4.mp4`（ローカル、Git対象外）
 - YouTube: `https://youtu.be/AiCwHh641Vc`
