@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "episodeId": "motion-comic-eiffel-scam-01-v2",
   "compositionId": "MotionComicEiffelScamV2Short",
-  "completedAt": "2026-09-07T14:38:34.690Z",
+  "completedAt": "2026-09-07T14:46:01.001Z",
   "status": "machine_qc_passed_human_review_required",
   "finalOutput": "out/motion-comic-eiffel-scam-01-final-v2.mp4",
   "technical": {
@@ -14,14 +14,14 @@
     "audioCodec": "aac",
     "audioSampleRate": 48000,
     "loudness": {
-      "input_i": "-15.93",
-      "input_tp": "-1.24",
-      "input_lra": "5.00",
-      "input_thresh": "-26.81",
+      "input_i": "-15.96",
+      "input_tp": "-1.29",
+      "input_lra": "5.10",
+      "input_thresh": "-26.83",
       "output_i": "-16.15",
       "output_tp": "-1.40",
-      "output_lra": "4.70",
-      "output_thresh": "-26.99",
+      "output_lra": "4.80",
+      "output_thresh": "-26.98",
       "normalization_type": "dynamic",
       "target_offset": "0.15"
     }

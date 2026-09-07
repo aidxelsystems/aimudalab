@@ -1,6 +1,6 @@
 # motion-comic-eiffel-scam-01-v2 最終レンダーQC
 
-生成日時: 2026-09-07T14:38:34.690Z
+生成日時: 2026-09-07T14:46:01.001Z
 
 ## 機械判定
 
@@ -12,11 +12,13 @@
 - 34.1秒
 - h264 / 1080×1920 / 30fps
 - aac / 48000Hz
-- Integrated loudness: -15.93 LUFS
-- True peak: -1.24 dBTP
-- LRA: 5.00 LU
+- Integrated loudness: -15.96 LUFS
+- True peak: -1.29 dBTP
+- LRA: 5.10 LU
 - TypeScript: 合格
 - 全編デコード: 合格
+- BGM: Suno専用曲 `The Tower Again.mp3`
+- Remotion音量演出: 詐欺中の緊張 → 成功アクセント → 逃亡後の静寂 → 再犯で再上昇
 
 ## 代表フレーム
 

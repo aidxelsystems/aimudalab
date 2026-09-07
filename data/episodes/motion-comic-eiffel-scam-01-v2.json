@@ -7,7 +7,7 @@
   "odaiVoicePitch": -0.03,
   "odaiVoiceIntonation": 1.03,
   "theme": "エッフェル塔を売った詐欺師の異常な思考",
-  "bgm": "BGM/If I Had a Chicken - Kevin MacLeod.mp3",
+    "bgm": "BGM/The Tower Again.mp3",
   "hook_style": "overlay_first_image",
   "hook_headline": "エッフェル塔を売った男",
   "outro_style": "image_loop",

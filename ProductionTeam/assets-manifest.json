@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "storage": "google-drive",
-  "assetCount": 433,
-  "totalBytes": 327071550,
+  "assetCount": 434,
+  "totalBytes": 331183530,
   "assets": [
     {
       "path": "charactor/ai-no-mudazukai-youtube-banner-2560x1440.png",
@@ -273,6 +273,11 @@
       "path": "public/BGM/The Dry-Sand Reveal.mp3",
       "bytes": 3123536,
       "sha256": "45cbefa5a3247ff928dd8ebc23ed9c1195dfd39807176927c5968dacefcbc6d6"
+    },
+    {
+      "path": "public/BGM/The Tower Again.mp3",
+      "bytes": 4111980,
+      "sha256": "dede95f6678ffe296d9e78f9a03185a7b89a30add928ce34d49d380808c1b38b"
     },
     {
       "path": "public/BGM/Udonswitch.mp3",

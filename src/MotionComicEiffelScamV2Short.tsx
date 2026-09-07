@@ -218,14 +218,18 @@ export const MotionComicEiffelScamV2Short: React.FC<{episode: Episode}> = ({epis
     </AbsoluteFill>
     <Disclosure/>
     <Voice episode={episode}/>
-    <Sequence from={0} durationInFrames={905}><Audio src={staticFile("BGM/Glass Shatter Protocol.mp3")} volume={(f) => {
-      if (f < 12) return interpolate(f,[0,12],[0,.07],clamp);
-      if (f >= 215 && f < 255) return .012;
-      if (f >= 690 && f < 750) return .045;
+    {episode.bgm && (
+      <Audio src={staticFile(episode.bgm)} volume={(f) => {
+      if (f < 12) return interpolate(f,[0,12],[0,.058],clamp);
+      if (f >= 218 && f < 250) return interpolate(f,[218,226,240,250],[.058,.009,.009,.058],clamp);
+      if (f >= 550 && f < 610) return interpolate(f,[550,570,590,610],[.052,.078,.064,.052],clamp);
+      if (f >= 630 && f < 750) return interpolate(f,[630,690,735,750],[.052,.035,.027,.016],clamp);
       if (f >= 750 && f < 885) return .009;
-      return f > 888 ? interpolate(f,[888,904],[.06,0],clamp) : .06;
-    }}/></Sequence>
-    <Sequence from={905}><Audio src={staticFile("BGM/If I Had a Chicken - Kevin MacLeod.mp3")} volume={(f)=>interpolate(f,[0,10,100,114],[0,.075,.075,0],clamp)}/></Sequence>
+      if (f >= 885 && f < 945) return interpolate(f,[885,905,930,945],[.012,.05,.075,.055],clamp);
+      if (f >= 990) return interpolate(f,[990,1019],[.05,0],clamp);
+      return .052;
+      }}/>
+    )}
     <Sequence from={234}><Audio src={staticFile("Effect/文字表示の衝撃音3.mp3")} volume={.19}/></Sequence>
     <Sequence from={330}><Audio src={staticFile("Effect/決定ボタンを押す3.mp3")} volume={.13}/></Sequence>
     <Sequence from={570}><Audio src={staticFile("Effect/シャキーン1.mp3")} volume={.16}/></Sequence>
