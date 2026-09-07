@@ -77,7 +77,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | production status | `revision-planned` |
 | active render | なし |
 | available assets | 人物アンカー、独立画像5枚、VOICEVOX 6音声、既存BGM、episode JSON、Remotion実装、制作ブリーフ、生成プロンプト、レンダー契約・QC |
-| next production action | PC2がv2修正ブリーフを同期し、思考過程・感情曲線・Remotion演出・逮捕注記を反映した別ファイルを制作する |
+| next production action | PC2がv2修正ブリーフを同期し、約34秒で思考過程・緊張・売り抜けた安堵・再挑戦・逮捕注記を反映した別ファイルを制作する |
 
 ## 現在の制作環境（PC2）
 
