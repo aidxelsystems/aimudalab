@@ -44,7 +44,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 |---|---|
 | active episode | `motion-comic-panel-prototype-01` |
 | owner | `PC1 / Codex` |
-| production status | `qc-passed` |
+| production status | `editing` |
 | active render | なし |
 | uncommitted production work | なし。3コマ切替・ズーム移動・青山龍星＋四国めたん字幕の7.28秒試作を完成し、機械QCと代表フレーム確認済み |
 | next production action | ユーザーがコマ切替速度、ズーム量、字幕、掛け合いを確認する |
@@ -77,7 +77,7 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | production status | `qc-passed` |
 | active render | なし |
 | available assets | v1に加え、v2追加画像4枚、VOICEVOX 14音声、Suno専用BGM `The Tower Again.mp3`、34秒Remotion実装、完成MP4、レンダー契約・QC |
-| next production action | ユーザーが完成MP4の感情曲線・セリフ・BGMを最終視聴する |
+| next production action | ユーザー指示のナレーション語尾・音声抜け・間を修正し、v3をレンダーする |
 
 ## 現在の制作環境（PC2）
 
