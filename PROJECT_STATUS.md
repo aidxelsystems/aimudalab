@@ -84,12 +84,12 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | 項目 | 内容 |
 |---|---|
 | active episode | `motion-comic-cottingley-fairies-02` |
-| owner | `PlanningTeam / Codex` |
-| planning status | `researched` |
+| owner | `PC2 / Codex` |
+| planning status | `editing` |
 | approved topic | コティングリー妖精写真とアーサー・コナン・ドイル |
 | primary persona | 人に話せる奇妙な実話をShortsで見る34歳会社員 |
 | forecast | 24時間 6回 / 72時間12回 / 7日20回（基準予測） |
-| next action | ProductionTeamが企画引継ぎを基に台本・画像・音声・Remotion制作仕様を作成する |
+| next action | コナン・ドイル本人の判断過程を軸に、画像、VOICEVOX、Remotion本編を制作しQCする |
 
 ## 現在の制作環境（PC2）
 
