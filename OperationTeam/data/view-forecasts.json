@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-08T00:00:00+09:00",
+  "method": "PlanningTeam/FORECASTING.md",
+  "forecasts": [
+    {
+      "episodeId": "motion-comic-cottingley-fairies-02",
+      "fixedAt": "2026-09-08T00:00:00+09:00",
+      "status": "planned",
+      "basis": {
+        "snapshotDate": "2026-09-06",
+        "publishedFormatSampleAvailable": false,
+        "channel24h": {
+          "sampleSize": 22,
+          "medianViews": 3,
+          "upperQuartileViews": 5.75,
+          "upperDecileViews": 8.9,
+          "maxViews": 11
+        },
+        "channel72h": {
+          "sampleSize": 21,
+          "medianViews": 4,
+          "upperQuartileViews": 8,
+          "upperDecileViews": 15,
+          "maxViews": 21
+        }
+      },
+      "forecast": {
+        "24h": {"low": 2, "base": 6, "high": 15},
+        "72h": {"low": 4, "base": 12, "high": 35},
+        "7d": {"low": 6, "base": 20, "high": 60}
+      },
+      "successTargets": {
+        "24hViews": 10,
+        "7dViews": 100,
+        "strongSuccess7dViews": 500
+      },
+      "actuals": {
+        "24h": null,
+        "72h": null,
+        "7d": null
+      },
+      "review": null
+    }
+  ]
+}

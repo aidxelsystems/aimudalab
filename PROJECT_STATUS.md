@@ -79,6 +79,18 @@ GitHubへの初回pushとupstream設定は完了。別PCでは、制作開始前
 | available assets | v3完成MP4（41.3秒）、v2追加画像4枚、修正VOICEVOX 14音声、Suno専用BGM `The Tower Again.mp3`、Remotion実装、レンダー契約・QC |
 | next production action | 2026-09-10 19:00 JSTの公開後、24時間・72時間指標を確認する |
 
+### モーションコミック第2作企画
+
+| 項目 | 内容 |
+|---|---|
+| active episode | `motion-comic-cottingley-fairies-02` |
+| owner | `PlanningTeam / Codex` |
+| planning status | `researched` |
+| approved topic | コティングリー妖精写真とアーサー・コナン・ドイル |
+| primary persona | 人に話せる奇妙な実話をShortsで見る34歳会社員 |
+| forecast | 24時間 6回 / 72時間12回 / 7日20回（基準予測） |
+| next action | ProductionTeamが企画引継ぎを基に台本・画像・音声・Remotion制作仕様を作成する |
+
 ## 現在の制作環境（PC2）
 
 - OS: Linux
